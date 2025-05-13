@@ -1,47 +1,34 @@
 <script>
-  import svelteLogo from './assets/svelte.svg'
-  import viteLogo from '/vite.svg'
-  import Counter from './lib/Counter.svelte'
+  import Navbar from './Navbar.svelte';
+  import Home from './pages/Home.svelte';
+  import People from './pages/People.svelte';
+  import History from './pages/History.svelte';
+  import Charts from './pages/Charts.svelte';
+
+  let currentPage = 'home';
+
+  function goTo(page) {
+    currentPage = page;
+  }
 </script>
 
-<main>
-  <div>
-    <a href="https://vite.dev" target="_blank" rel="noreferrer">
-      <img src={viteLogo} class="logo" alt="Vite Logo" />
-    </a>
-    <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-      <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
-    </a>
-  </div>
-  <h1>Vite + Svelte</h1>
+<Navbar on:navigate={(e) => goTo(e.detail)} />
 
-  <div class="card">
-    <Counter />
-  </div>
-
-  <p>
-    Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
-  </p>
-
-  <p class="read-the-docs">
-    Click on the Vite and Svelte logos to learn more
-  </p>
-</main>
+<div class="content">
+  {#if currentPage === 'home'}
+    <Home />
+  {:else if currentPage === 'people'}
+    <People />
+  {:else if currentPage === 'history'}
+    <History />
+  {:else if currentPage === 'charts'}
+    <Charts />
+  {/if}
+</div>
 
 <style>
-  .logo {
-    height: 6em;
-    padding: 1.5em;
-    will-change: filter;
-    transition: filter 300ms;
-  }
-  .logo:hover {
-    filter: drop-shadow(0 0 2em #646cffaa);
-  }
-  .logo.svelte:hover {
-    filter: drop-shadow(0 0 2em #ff3e00aa);
-  }
-  .read-the-docs {
-    color: #888;
+  .content {
+    margin-top: 60px; /* igual à altura da navbar */
+    padding: 2rem;
   }
 </style>
