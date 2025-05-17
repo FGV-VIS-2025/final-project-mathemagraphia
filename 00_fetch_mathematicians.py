@@ -38,10 +38,8 @@ def extract_bio_urls(soup: BeautifulSoup) -> list[str]:
 
     for a in soup.select("li a[href]"):        # qualquer link dentro de <li>
         href = a["href"]
-
         if href.startswith("#") or href.startswith("http"):
             continue
-
         # os links das biografias começam com "../" ou, muito raramente, "./"
         if not href.startswith(("../", "./")):
             continue
@@ -65,14 +63,14 @@ def save_urls(urls: list[str],
 
     out_path = out_dir / filename
 
-    
     out_path.write_text("\n".join(urls), encoding="utf-8")
     return out_path
 
 
 
-soup = scrape_biographies_raw_soup()
-bio_urls = extract_bio_urls(soup)
+if __name__ == '__main__':
+    soup = scrape_biographies_raw_soup()
+    bio_urls = extract_bio_urls(soup)
 
-txt_path = save_urls(bio_urls)      
-print(f"{len(bio_urls)} links gravados em {txt_path}")
+    txt_path = save_urls(bio_urls)      
+    print(f"{len(bio_urls)} links gravados em {txt_path}")
