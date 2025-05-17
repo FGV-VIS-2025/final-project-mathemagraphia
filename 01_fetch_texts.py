@@ -94,17 +94,19 @@ def scrape_bio(url: str) -> dict:
 
 with ARQ_URLS.open(encoding="utf-8") as f:
     urls = [u.strip() for u in f if u.strip()]
-c=0
-for url in urls:
-    c +=1
+
+for i, url in enumerate(urls, start=1):
     try:
         registro = scrape_bio(url)
 
         
-        slug = re.sub(r"\W+", "_", registro["name"].lower())
-        arq  = DIR_SAIDA / f"{slug}.json"
-        fp = os.path.join("data",f"{c}_biography.json")
-        json.dump(registro, fp, ensure_ascii=False, indent=2)
+        nome   = registro.get("name") or f"bio_{i}"
+        slug   = re.sub(r"\W+", "_", nome.lower()).strip("_")
+        arq    = DIR_SAIDA / f"{slug}.json"
+
+        
+        with arq.open("w", encoding="utf-8") as fh:
+            json.dump(registro, fh, ensure_ascii=False, indent=2)
 
         print(f"✅ salvo → {arq}")
     except Exception as e:
