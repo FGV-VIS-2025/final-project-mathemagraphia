@@ -6,10 +6,9 @@ from bs4 import BeautifulSoup
 
 
 
-
 BASE_URL   = "https://mathshistory.st-andrews.ac.uk/"
 ARQ_URLS   = Path("data") / "bios_urls.txt"   
-DIR_SAIDA  = Path("dados")                    
+DIR_SAIDA  = Path("data")                    
 DIR_SAIDA.mkdir(parents=True, exist_ok=True)
 
 
@@ -102,7 +101,7 @@ for i, url in enumerate(urls, start=1):
         
         nome   = registro.get("name") or f"bio_{i}"
         slug   = re.sub(r"\W+", "_", nome.lower()).strip("_")
-        arq    = DIR_SAIDA / f"{slug}.json"
+        arq    = DIR_SAIDA / f"{str.lower(url.split("/")[-2])}.json"
 
         
         with arq.open("w", encoding="utf-8") as fh:
