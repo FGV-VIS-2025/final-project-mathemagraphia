@@ -107,6 +107,6 @@ for i, url in enumerate(urls, start=1):
         with arq.open("w", encoding="utf-8") as fh:
             json.dump(registro, fh, ensure_ascii=False, indent=2)
 
-        print(f"✅ salvo → {arq}")
+        print(f"OK: Saved → {arq}")
     except Exception as e:
-        print(f"❌ erro em {url}: {e}")
+        print(f"NOK ERROR: {url}: {e}")

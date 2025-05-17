@@ -1,0 +1,9 @@
+{
+  "source": "https://mathshistory.st-andrews.ac.uk/Biographies/Thymaridas/",
+  "name": "MacTutor",
+  "born": "about 400 BC Paros, Greece",
+  "died": null,
+  "summary": null,
+  "biography": "We are told a little about Thymaridas' life. He was apparently a rich man but, for some reason we are not told about, he fell into poverty. Thestor of Poseidonia sailed to Paros to help him with money specially collected for his benefit.\nThymaridas was a Pythagorean and a number theorist who wrote on prime numbers . Iamblichus tells us that Thymaridas called a prime number rectilinear since it can only be represented one-dimensionally. Non-primes such as 6 are represented by rectangles of sides 2 and 3 . We are also told that he called 'one' a 'limiting quantity' or a 'limit of fewness'.\nThymaridas also gave methods for solving simultaneous linear equations which became known as the 'flower of Thymaridas'. For the n n n equations in n n n unknowns x + x 1 + x 2 + . . . + x n â 1 = S x + x_{1} + x_{2} + ... + x_{n-1} = S x + x 1 â + x 2 â + . . . + x n â 1 â = S x + x 1 = a 1 x + x_{1} = a_{1} x + x 1 â = a 1 â x + x 2 = a 2 x + x_{2} = a_{2} x + x 2 â = a 2 â .\n.\n. x + x n â 1 = a n â 1 x + x_{n-1} = a_{n-1} x + x n â 1 â = a n â 1 â then Thymaridas gives the solution x = a 1 + a 2 + . . . . + a n â 1 â S n â 2 x = \\Large\\frac {a_{1} + a_{2} + .... + a_{n-1} - S}{n - 2} x = n â 2 a 1 â + a 2 â + . . . . + a n â 1 â â S â . He also shows how certain other types of equations can be put into this form.",
+  "last_updated": "April 1999"
+}
