@@ -7,6 +7,7 @@
   ];
 </script>
 
+
 <style>
   :global(body) {
     margin: 0;
@@ -15,21 +16,11 @@
 
   .page {
     display: flex;
-  }
-
-  .navbar {
-    width: 200px;
-    background-color: #f0f0f0;
-    padding: 1rem;
-    height: 100vh;
-    position: fixed;
-    right: 0;
-    top: 0;
+    justify-content: center;
+    padding: 2rem;
   }
 
   .content {
-    margin-right: 200px;
-    padding: 2rem;
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
@@ -46,6 +37,15 @@
     text-align: center;
     border-radius: 8px;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .card:hover,
+  .card:focus {
+    transform: scale(1.05);
+    background-color: #dcdcdc;
   }
 
   .card img {
@@ -54,21 +54,8 @@
     object-fit: cover;
     margin-bottom: 0.5rem;
   }
-
-  .navbar ul {
-    padding: 0;
-    list-style: none;
-  }
-
-  .navbar li {
-    margin-bottom: 1rem;
-  }
-
-  .navbar a {
-    text-decoration: none;
-    color: #333;
-  }
 </style>
+
 
 <div class="page">
   <div class="content">
