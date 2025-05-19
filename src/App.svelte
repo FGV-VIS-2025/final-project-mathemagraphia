@@ -4,12 +4,15 @@
   import People from './pages/People.svelte';
   import History from './pages/History.svelte';
   import Charts from './pages/Charts.svelte';
-
+  import DataMap from './pages/DataGraphsVis/DataMap.svelte';
+  import GrafMaths from './pages/DataGraphsVis/GrafMaths.svelte';
   let currentPage = 'home';
 
-  function goTo(page) {
-    currentPage = page;
-  }
+function goTo(page) {
+  console.log("Navegando para:", page);
+  currentPage = page;
+}
+
 </script>
 
 <Navbar on:navigate={(e) => goTo(e.detail)} />
@@ -22,7 +25,11 @@
   {:else if currentPage === 'history'}
     <History />
   {:else if currentPage === 'charts'}
-    <Charts />
+    <Charts on:navigate={(e) => goTo(e.detail)} />
+  {:else if currentPage === 'datamap'}
+    <DataMap />
+  {:else if currentPage === 'grafmaths'}
+    <GrafMaths />
   {/if}
 </div>
 
