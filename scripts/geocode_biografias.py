@@ -7,7 +7,7 @@ from tqdm import tqdm
 # Caminhos relativos ao script
 ROOT = Path(__file__).resolve().parent.parent
 BIO_DIR = ROOT / "biografias_json"
-DATA_DIR = ROOT / "data"
+DATA_DIR = ROOT / "public" / "data"
 OUTPUT = DATA_DIR / "biografias_com_coords.json"
 CACHE_FILE = DATA_DIR / "cache_coords.json"
 
