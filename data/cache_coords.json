@@ -1,0 +1,7522 @@
+{
+  "Mysore, India": {
+    "lat": 12.3051828,
+    "lon": 76.6553609
+  },
+  "Chicago, Illinois, USA": {
+    "lat": 41.8755616,
+    "lon": -87.6244212
+  },
+  "Manhattan, New York, USA": {
+    "lat": 40.7896239,
+    "lon": -73.9598939
+  },
+  "Dublin, Ireland": {
+    "lat": 53.3493795,
+    "lon": -6.2605593
+  },
+  "Bessemer, Alabama, USA": {
+    "lat": 33.4017766,
+    "lon": -86.954437
+  },
+  "Grambling, Louisiana, USA": {
+    "lat": 32.5276503,
+    "lon": -92.7140403
+  },
+  "Norwalk, Connecticut, USA": {
+    "lat": 41.1175966,
+    "lon": -73.4078968
+  },
+  "Provence, France": {
+    "lat": 44.0580563,
+    "lon": 6.0638506
+  },
+  "London, England": {
+    "lat": 51.4893335,
+    "lon": -0.1440551
+  },
+  "Munich, Germany": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "Jerusalem, Israel": {
+    "lat": 31.7788242,
+    "lon": 35.2257626
+  },
+  "Paterson, New Jersey, USA": {
+    "lat": 40.9167654,
+    "lon": -74.171811
+  },
+  "Leipzig, Germany": {
+    "lat": 51.3406321,
+    "lon": 12.3747329
+  },
+  "Moscow, USSR": {
+    "lat": 55.8051354,
+    "lon": 37.5107086
+  },
+  "New Haven, Connecticut, USA": {
+    "lat": 41.3082138,
+    "lon": -72.9250518
+  },
+  "Washington, D.C., USA": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+  },
+  "Milan, Italy": {
+    "lat": 45.4641943,
+    "lon": 9.1896346
+  },
+  "Travancore, India": {
+    "lat": 8.8750297,
+    "lon": 76.6448586
+  },
+  "Cambridge, England": {
+    "lat": 52.2055314,
+    "lon": 0.1186637
+  },
+  "Paris, France": {
+    "lat": 48.8534951,
+    "lon": 2.3483915
+  },
+  "Millhurst, New Jersey, USA": {
+    "lat": 40.2537219,
+    "lon": -74.3415369
+  },
+  "Poughkeepsie, New York, USA": {
+    "lat": 41.7065539,
+    "lon": -73.9283672
+  },
+  "Marylebone, London, England": {
+    "lat": 51.5232789,
+    "lon": -0.155596
+  },
+  "Nuremberg, Germany": {
+    "lat": 49.453872,
+    "lon": 11.077298
+  },
+  "Bath, England": {
+    "lat": 51.3813864,
+    "lon": -2.3596963
+  },
+  "Santiago de Chile, Chile": {
+    "lat": -33.4377756,
+    "lon": -70.6504502
+  },
+  "Ijebu-Ode, Ogun State, Nigeria": {
+    "lat": 6.8140077,
+    "lon": 3.9151668
+  },
+  "Hildesheim, Lower Saxony, Germany": {
+    "lat": 52.1527188,
+    "lon": 9.9518083
+  },
+  "GrÃ¼ssow, Mecklenburg, Germany": {
+    "lat": 54.3203281,
+    "lon": 13.0552275
+  },
+  "Rostock, Germany": {
+    "lat": 54.0886707,
+    "lon": 12.1400211
+  },
+  "Berlin, Germany": {
+    "lat": 52.510885,
+    "lon": 13.3989367
+  },
+  "Odessa, Ukraine": {
+    "lat": 46.4843023,
+    "lon": 30.7322878
+  },
+  "Moscow, Russia": {
+    "lat": 55.625578,
+    "lon": 37.6063916
+  },
+  "Brussels, Belgium": {
+    "lat": 50.8465573,
+    "lon": 4.351697
+  },
+  "Stavelot, Belgium": {
+    "lat": 50.3942409,
+    "lon": 5.9310335
+  },
+  "Korbeek-Lo, Belgium": {
+    "lat": 50.8596758,
+    "lon": 4.7627977
+  },
+  "Toulouse, France": {
+    "lat": 43.6044622,
+    "lon": 1.4442469
+  },
+  "Lanzac, Lot, France": {
+    "lat": 44.8744335,
+    "lon": 1.4828127
+  },
+  "Amiens, France": {
+    "lat": 49.8941708,
+    "lon": 2.2956951
+  },
+  "Rotterdam, The Netherlands": {
+    "lat": 51.9244424,
+    "lon": 4.47775
+  },
+  "Wassenaar, The Netherlands": {
+    "lat": 52.1436114,
+    "lon": 4.3709668
+  },
+  "Mainz, Germany": {
+    "lat": 49.9995205,
+    "lon": 8.2736253
+  },
+  "Gouda, Netherlands": {
+    "lat": 52.0114922,
+    "lon": 4.7106094
+  },
+  "The Hague, Netherlands": {
+    "lat": 52.0749456,
+    "lon": 4.2696802
+  },
+  "Rouen, France": {
+    "lat": 49.4404591,
+    "lon": 1.0939658
+  },
+  "Copenhagen, Denmark": {
+    "lat": 55.6867243,
+    "lon": 12.5700724
+  },
+  "Halifax, Nova Scotia, Canada": {
+    "lat": 44.648618,
+    "lon": -63.5859487
+  },
+  "Columbia, Missouri, USA": {
+    "lat": 38.951883,
+    "lon": -92.3337366
+  },
+  "Skibbereen, Co. Cork, Ireland": {
+    "lat": 51.55,
+    "lon": -9.2666753
+  },
+  "Jersey": {
+    "lat": 49.2214561,
+    "lon": -2.1358386
+  },
+  "Saginaw, Michigan, USA": {
+    "lat": 43.4200387,
+    "lon": -83.9490365
+  },
+  "Baghdad, Iraq": {
+    "lat": 33.3061701,
+    "lon": 44.3872213
+  },
+  "Cairo, Egypt": {
+    "lat": 30.0443879,
+    "lon": 31.2357257
+  },
+  "Egypt": {
+    "lat": 26.2540493,
+    "lon": 29.2675469
+  },
+  "Yamagata, Japan": {
+    "lat": 38.4746705,
+    "lon": 140.083237
+  },
+  "Budapest, Hungary": {
+    "lat": 47.4813896,
+    "lon": 19.1460941
+  },
+  "Columbus, Ohio, USA": {
+    "lat": 39.9622601,
+    "lon": -83.0007065
+  },
+  "Tabriz, Iran": {
+    "lat": 38.0738612,
+    "lon": 46.2978789
+  },
+  "Kashan, Iran": {
+    "lat": 33.9876533,
+    "lon": 51.4428856
+  },
+  "Khujand, Tajikistan": {
+    "lat": 40.2844189,
+    "lon": 69.6191669
+  },
+  "Kufa, Iraq": {
+    "lat": 32.03444,
+    "lon": 44.4031125
+  },
+  "BÃ©ja, Tunisia": {
+    "lat": 9.0611462,
+    "lon": 38.7358098
+  },
+  "Maragha, Iran": {
+    "lat": 37.3913128,
+    "lon": 46.2435751
+  },
+  "Draguignan, Var, France": {
+    "lat": 43.5374662,
+    "lon": 6.4627333
+  },
+  "Consett, County Durham, England": {
+    "lat": 54.8518781,
+    "lon": -1.8333741
+  },
+  "Greenwich, England": {
+    "lat": 51.4820845,
+    "lon": -0.0045417
+  },
+  "Sault Ste Marie, Ontario, Canada": {
+    "lat": 46.5126554,
+    "lon": -84.3330301
+  },
+  "Thunder Bay, Ontario, Canada": {
+    "lat": 48.406414,
+    "lon": -89.259796
+  },
+  "Stocksbridge, Yorkshire, England": {
+    "lat": 53.4824835,
+    "lon": -1.5901625
+  },
+  "Lancaster, England": {
+    "lat": 54.0484068,
+    "lon": -2.7990345
+  },
+  "Wilmslow, Cheshire, England": {
+    "lat": 53.3261292,
+    "lon": -2.2327511
+  },
+  "Hampton, Virginia, USA": {
+    "lat": 37.0264414,
+    "lon": -76.3442846
+  },
+  "Atlanta, Georgia, USA": {
+    "lat": 33.7489924,
+    "lon": -84.3902644
+  },
+  "Valhuon, Pas-de-Calais, France": {
+    "lat": 50.4354194,
+    "lon": 2.3754446
+  },
+  "Princeton, New Jersey, USA": {
+    "lat": 40.3496953,
+    "lon": -74.6597376
+  },
+  "St Mihiel, France": {
+    "lat": 48.891207,
+    "lon": 5.5423046
+  },
+  "Leiden, Netherlands": {
+    "lat": 52.1594747,
+    "lon": 4.4908843
+  },
+  "Northampton, England": {
+    "lat": 52.2343367,
+    "lon": -0.9028073
+  },
+  "Chamonix, France": {
+    "lat": 45.9246705,
+    "lon": 6.8727506
+  },
+  "Eindhoven, The Netherlands": {
+    "lat": 51.4392648,
+    "lon": 5.478633
+  },
+  "Seattle, Washington, USA": {
+    "lat": 47.6038321,
+    "lon": -122.330062
+  },
+  "Oshawa, Ontario, Canada": {
+    "lat": 43.8975558,
+    "lon": -78.8635324
+  },
+  "Hightstown, New Jersey, USA": {
+    "lat": 40.269559,
+    "lon": -74.5232454
+  },
+  "Halle, Germany": {
+    "lat": 51.4824354,
+    "lon": 11.9712985
+  },
+  "Mexico City, Mexico": {
+    "lat": 19.3207722,
+    "lon": -99.1514678
+  },
+  "Mendoza, Argentina": {
+    "lat": -34.787093,
+    "lon": -68.4381868
+  },
+  "Chicago, USA": {
+    "lat": 41.8755616,
+    "lon": -87.6244212
+  },
+  "Olot, Spain": {
+    "lat": 42.1822177,
+    "lon": 2.4890211
+  },
+  "Mammern, Switzerland": {
+    "lat": 47.6461848,
+    "lon": 8.9157018
+  },
+  "York, Yorkshire, England": {
+    "lat": 53.9590555,
+    "lon": -1.0815361
+  },
+  "Tours, France": {
+    "lat": 47.3900474,
+    "lon": 0.6889268
+  },
+  "Florence, Italy": {
+    "lat": 43.7697955,
+    "lon": 11.2556404
+  },
+  "Pisa, Italy": {
+    "lat": 43.4714722,
+    "lon": 10.6797912
+  },
+  "Turin, Italy": {
+    "lat": 45.0677551,
+    "lon": 7.6824892
+  },
+  "Dunedin, New Zealand": {
+    "lat": -45.8740984,
+    "lon": 170.5035755
+  },
+  "Edinburgh, Scotland": {
+    "lat": 55.9533456,
+    "lon": -3.1883749
+  },
+  "Volyn, Ryazan, Russia": {
+    "lat": 54.7767678,
+    "lon": 39.6263678
+  },
+  "St Petersburg, Russia": {
+    "lat": 59.938732,
+    "lon": 30.316229
+  },
+  "Yaroslavl, Russia": {
+    "lat": 57.6508432,
+    "lon": 39.8718634
+  },
+  "Odessa, Russia": {
+    "lat": 55.7544455,
+    "lon": 37.6156865
+  },
+  "Kazan, Russia": {
+    "lat": 55.7823547,
+    "lon": 49.1242266
+  },
+  "Poltava, Ukraine": {
+    "lat": 49.8607809,
+    "lon": 33.7498787
+  },
+  "Chiampo, Vicenza, Italy": {
+    "lat": 45.5445732,
+    "lon": 11.2808956
+  },
+  "Venice, Italy": {
+    "lat": 45.4371908,
+    "lon": 12.3345898
+  },
+  "Genoa, Italy": {
+    "lat": 44.40726,
+    "lon": 8.9338624
+  },
+  "Turin, Piedmont, Italy": {
+    "lat": 45.0677551,
+    "lon": 7.6824892
+  },
+  "Brechin, Angus, Scotland": {
+    "lat": 56.7315193,
+    "lon": -2.6600193
+  },
+  "St Andrews, Fife, Scotland": {
+    "lat": 56.3403902,
+    "lon": -2.7955844
+  },
+  "Amvrosiivka, Donetsk, Ukraine": {
+    "lat": 47.7952806,
+    "lon": 38.4798317
+  },
+  "Aberfeldy, Scotland": {
+    "lat": 56.6193213,
+    "lon": -3.86509
+  },
+  "Stonehouse, Lanark, Scotland": {
+    "lat": 55.6982283,
+    "lon": -3.9813873
+  },
+  "Cape Town, South Africa": {
+    "lat": -33.9288301,
+    "lon": 18.4172197
+  },
+  "Wishaw, Lanarkshire, Scotland": {
+    "lat": 55.7743458,
+    "lon": -3.9184134
+  },
+  "Rothesay, Bute, Scotland": {
+    "lat": 55.8373085,
+    "lon": -5.0522439
+  },
+  "New Orleans, USA": {
+    "lat": 29.9759983,
+    "lon": -90.0782127
+  },
+  "Glasgow, Scotland": {
+    "lat": 55.861155,
+    "lon": -4.2501687
+  },
+  "Saint-Girons, France": {
+    "lat": 42.9841865,
+    "lon": 1.1464455
+  },
+  "Blairgowrie, Scotland": {
+    "lat": 56.5901824,
+    "lon": -3.3352996
+  },
+  "Chatham, Ontario, Canada": {
+    "lat": 42.4057219,
+    "lon": -82.1853837
+  },
+  "North Berwick, Scotland": {
+    "lat": 56.0581178,
+    "lon": -2.7209129
+  },
+  "Anstruther, Fife, Scotland": {
+    "lat": 56.2227638,
+    "lon": -2.7005643
+  },
+  "Leith, Edinburgh, Scotland": {
+    "lat": 55.9725499,
+    "lon": -3.1709492
+  },
+  "Salford, Lancashire, England": {
+    "lat": 53.7486232,
+    "lon": -2.478544
+  },
+  "Henley-on-Thames, England": {
+    "lat": 51.5375786,
+    "lon": -0.9050287
+  },
+  "Montagnola, Lugano, Switzerland": {
+    "lat": 45.9829744,
+    "lon": 8.9184373
+  },
+  "Bryn Mawr, USA": {
+    "lat": 40.0238245,
+    "lon": -75.3173407
+  },
+  "Darmstadt, Germany": {
+    "lat": 49.8851869,
+    "lon": 8.6736295
+  },
+  "TÃ¼bingen, Germany": {
+    "lat": 48.2414112,
+    "lon": 8.7239539
+  },
+  "Saratov, Russia": {
+    "lat": 51.530018,
+    "lon": 46.034683
+  },
+  "Washington DC, USA": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+  },
+  "St Andrews, Scotland": {
+    "lat": 56.3403902,
+    "lon": -2.7955844
+  },
+  "Arad, Romania": {
+    "lat": 46.1753793,
+    "lon": 21.3196342
+  },
+  "Sibiu, Romania": {
+    "lat": 45.7973912,
+    "lon": 24.1519202
+  },
+  "Contamines, Haute-Savoie, France": {
+    "lat": 45.8210905,
+    "lon": 6.72751
+  },
+  "Sorrento, Italy": {
+    "lat": 40.624906,
+    "lon": 14.374836
+  },
+  "Cuernavaca, Morelos, Mexico": {
+    "lat": 18.9331321,
+    "lon": -99.2599579
+  },
+  "Szeged, Hungary": {
+    "lat": 46.2546312,
+    "lon": 20.1486016
+  },
+  "Chapel Hill, North Carolina, USA": {
+    "lat": 35.9131542,
+    "lon": -79.05578
+  },
+  "Northallerton, Yorkshire, England": {
+    "lat": 54.3404812,
+    "lon": -1.4344936
+  },
+  "New York City, New York, USA": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "Berkeley, California, USA": {
+    "lat": 37.8708393,
+    "lon": -122.272863
+  },
+  "St Louis, Missouri, USA": {
+    "lat": 38.6280278,
+    "lon": -90.1910154
+  },
+  "New Orleans, Louisiana, USA": {
+    "lat": 29.9759983,
+    "lon": -90.0782127
+  },
+  "Kensington, London, England": {
+    "lat": 51.4989948,
+    "lon": -0.1991229
+  },
+  "Freiburg im Breisgau, Germany": {
+    "lat": 47.9960901,
+    "lon": 7.8494005
+  },
+  "Cambridge, Massachusetts, USA": {
+    "lat": 42.3656347,
+    "lon": -71.1040018
+  },
+  "Lima, Peru": {
+    "lat": -12.0621065,
+    "lon": -77.0365256
+  },
+  "Birdbrook, Essex, England": {
+    "lat": 52.0413171,
+    "lon": 0.4951819
+  },
+  "Naples, Italy": {
+    "lat": 40.8358846,
+    "lon": 14.2487679
+  },
+  "Riga, Latvia": {
+    "lat": 56.9493977,
+    "lon": 24.1051846
+  },
+  "Damietta, Egypt": {
+    "lat": 31.4167427,
+    "lon": 31.8213657
+  },
+  "Simancas, Spain": {
+    "lat": 41.5902895,
+    "lon": -4.8268115
+  },
+  "Dedham, Essex, England": {
+    "lat": 51.9582605,
+    "lon": 0.9945379
+  },
+  "Rustington, Sussex, England": {
+    "lat": 50.8110774,
+    "lon": -0.5101687
+  },
+  "Richmond, Virginia, USA": {
+    "lat": 37.5385087,
+    "lon": -77.43428
+  },
+  "Lexington, Massachusetts, USA": {
+    "lat": 42.4473175,
+    "lon": -71.2245003
+  },
+  "Cork, Ireland": {
+    "lat": 51.8985136,
+    "lon": -8.4726423
+  },
+  "Newington, Edinburgh, Scotland": {
+    "lat": 55.9328287,
+    "lon": -3.1732062
+  },
+  "Wembley, London, England": {
+    "lat": 51.5560695,
+    "lon": -0.2796034
+  },
+  "New York City, USA": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "Ann Arbor, Michigan, USA": {
+    "lat": 42.2813722,
+    "lon": -83.7484616
+  },
+  "Runcorn, Cheshire, England": {
+    "lat": 53.3425642,
+    "lon": -2.7080627
+  },
+  "Hudson, Ohio, USA": {
+    "lat": 41.240056,
+    "lon": -81.440667
+  },
+  "Rockford, Illinois, USA": {
+    "lat": 42.2713945,
+    "lon": -89.093966
+  },
+  "Malibu, California, USA": {
+    "lat": 34.035591,
+    "lon": -118.689423
+  },
+  "Basel, Switzerland": {
+    "lat": 47.5581077,
+    "lon": 7.5878261
+  },
+  "Aarau, Switzerland": {
+    "lat": 47.3927146,
+    "lon": 8.0444448
+  },
+  "Islington, London, England": {
+    "lat": 51.5384287,
+    "lon": -0.0999051
+  },
+  "Boston, Massachusetts, USA": {
+    "lat": 42.3554334,
+    "lon": -71.060511
+  },
+  "Lagrange-aux-Bois, France": {
+    "lat": 48.6152289,
+    "lon": 6.630646
+  },
+  "Metz, France": {
+    "lat": 49.1196964,
+    "lon": 6.1763552
+  },
+  "Nancy, France": {
+    "lat": 48.6937223,
+    "lon": 6.1834097
+  },
+  "LunÃ©ville, France": {
+    "lat": 44.662292,
+    "lon": -1.1848938
+  },
+  "Wellingborough, Northampton, England": {
+    "lat": 52.2436826,
+    "lon": -0.8723092
+  },
+  "Westcliff-on-Sea, Essex, England": {
+    "lat": 51.5428858,
+    "lon": 0.6859213
+  },
+  "Lisbon, Portugal": {
+    "lat": 38.7077507,
+    "lon": -9.1365919
+  },
+  "Netanya, Israel": {
+    "lat": 32.3040272,
+    "lon": 34.8620134
+  },
+  "Lansing, Michigan, USA": {
+    "lat": 42.7338254,
+    "lon": -84.5546295
+  },
+  "Kyiv, Ukraine": {
+    "lat": 50.4500336,
+    "lon": 30.5241361
+  },
+  "Uppsala, Sweden": {
+    "lat": 59.8586126,
+    "lon": 17.6387436
+  },
+  "Lund, Sweden": {
+    "lat": 55.7029296,
+    "lon": 13.1929449
+  },
+  "Speyside, Scotland": {
+    "lat": 57.1935592,
+    "lon": -3.8262262
+  },
+  "Gyula, Hungary": {
+    "lat": 46.6438656,
+    "lon": 21.2747575
+  },
+  "Bourbon-l'Archambault, Allier, France": {
+    "lat": 46.5857669,
+    "lon": 3.05804
+  },
+  "Lyon, France": {
+    "lat": 45.7578137,
+    "lon": 4.8320114
+  },
+  "Marseilles, France": {
+    "lat": 47.0706778,
+    "lon": 3.0029271
+  },
+  "Saint Martin de Curton, Lot-et-Garonne, Aquitaine, France": {
+    "lat": 44.3304649,
+    "lon": 0.0097616
+  },
+  "Debrecen, Hungary": {
+    "lat": 47.531399,
+    "lon": 21.6259782
+  },
+  "Montguyon, Charentes Maritime, France": {
+    "lat": 45.2158078,
+    "lon": -0.18603
+  },
+  "North France": {
+    "lat": 48.8218014,
+    "lon": 2.364219
+  },
+  "Duisburg, Germany": {
+    "lat": 51.434999,
+    "lon": 6.759562
+  },
+  "Bochum, Germany": {
+    "lat": 51.4818111,
+    "lon": 7.2196635
+  },
+  "Ryazan, Russia": {
+    "lat": 54.6295687,
+    "lon": 39.7425039
+  },
+  "Fresno, California, USA": {
+    "lat": 36.7394421,
+    "lon": -119.78483
+  },
+  "Lochgelly, Fife, Scotland": {
+    "lat": 56.1348998,
+    "lon": -3.3134751
+  },
+  "Limerick, Ireland": {
+    "lat": 52.661252,
+    "lon": -8.6301239
+  },
+  "Kilderry, County Donegal, Ireland": {
+    "lat": 55.0843453,
+    "lon": -7.293862
+  },
+  "Vancouver, Canada": {
+    "lat": 49.2608724,
+    "lon": -123.113952
+  },
+  "Renmark, South Australia, Australia": {
+    "lat": -34.1743516,
+    "lon": 140.7468863
+  },
+  "Peterborough, Ontario, Canada": {
+    "lat": 44.3048009,
+    "lon": -78.3199496
+  },
+  "Zaragoza, Spain": {
+    "lat": 41.6521342,
+    "lon": -0.8809428
+  },
+  "Madrid, Spain": {
+    "lat": 40.4167047,
+    "lon": -3.7035825
+  },
+  "Baileys Crossroads, Virginia, USA": {
+    "lat": 38.8476125,
+    "lon": -77.1263682
+  },
+  "Bryn Mawr, Pennsylvania, USA": {
+    "lat": 40.0238245,
+    "lon": -75.3173407
+  },
+  "Baltimore, Maryland, USA": {
+    "lat": 39.2908816,
+    "lon": -76.610759
+  },
+  "Philadelphia, USA": {
+    "lat": 39.9527237,
+    "lon": -75.1635262
+  },
+  "Woonsocket, Rhode Island, USA": {
+    "lat": 42.0028761,
+    "lon": -71.5147839
+  },
+  "Cleveland, Ohio, USA": {
+    "lat": 41.4996574,
+    "lon": -81.6936772
+  },
+  "Oxford, England": {
+    "lat": 51.7520131,
+    "lon": -1.2578499
+  },
+  "Katowice, Poland": {
+    "lat": 50.2137321,
+    "lon": 19.0058878
+  },
+  "Padua, Italy": {
+    "lat": 45.4077172,
+    "lon": 11.8734455
+  },
+  "Troyes, France": {
+    "lat": 48.2971626,
+    "lon": 4.0746257
+  },
+  "Hanford, California, USA": {
+    "lat": 36.3277959,
+    "lon": -119.6461565
+  },
+  "Woodstock, Ontario, Canada": {
+    "lat": 43.1301111,
+    "lon": -80.7562977
+  },
+  "Kirkland, Oneida County, New York, USA": {
+    "lat": 43.077916,
+    "lon": -75.383377
+  },
+  "High Wycombe, England": {
+    "lat": 51.6317449,
+    "lon": -0.75596
+  },
+  "Dover, Delaware, USA": {
+    "lat": 39.158168,
+    "lon": -75.5243682
+  },
+  "Strabane, County Tyrone, Ireland": {
+    "lat": 54.826115,
+    "lon": -7.4627993
+  },
+  "Wandsworth, London, England": {
+    "lat": 51.4570271,
+    "lon": -0.1932607
+  },
+  "Birmingham, England": {
+    "lat": 52.4796992,
+    "lon": -1.9026911
+  },
+  "Nottingham, England": {
+    "lat": 52.9534193,
+    "lon": -1.1496461
+  },
+  "Athens, Greece": {
+    "lat": 37.9755648,
+    "lon": 23.7348324
+  },
+  "Luxembourg City, Luxembourg": {
+    "lat": 49.5999681,
+    "lon": 6.1342493
+  },
+  "Bucharest, Romania": {
+    "lat": 44.4361414,
+    "lon": 26.1027202
+  },
+  "Borisoglebsk, Russia": {
+    "lat": 51.368015,
+    "lon": 42.075169
+  },
+  "Kharkov, Ukraine": {
+    "lat": 49.9923181,
+    "lon": 36.2310146
+  },
+  "Pavia, Italy": {
+    "lat": 45.0368546,
+    "lon": 9.1378251
+  },
+  "India": {
+    "lat": 22.3511148,
+    "lon": 78.6677428
+  },
+  "Alexandria, Egypt": {
+    "lat": 31.1991806,
+    "lon": 29.8951716
+  },
+  "Armadale, West Lothian, Scotland": {
+    "lat": 55.898767,
+    "lon": -3.7001955
+  },
+  "Sheffield, Yorkshire, England": {
+    "lat": 53.3806626,
+    "lon": -1.4702278
+  },
+  "Ohio, USA": {
+    "lat": 40.2253569,
+    "lon": -82.6881395
+  },
+  "Ottumwa, Iowa, USA": {
+    "lat": 41.0195659,
+    "lon": -92.4116886
+  },
+  "Des Moines, Iowa, USA": {
+    "lat": 41.5868654,
+    "lon": -93.6249494
+  },
+  "Tsipa, Georgia": {
+    "lat": 42.0463041,
+    "lon": 42.9494167
+  },
+  "Amsterdam, Netherlands": {
+    "lat": 52.3730796,
+    "lon": 4.8924534
+  },
+  "Lugano, Switzerland": {
+    "lat": 46.0050102,
+    "lon": 8.9520281
+  },
+  "Geneva, Switzerland": {
+    "lat": 46.2017559,
+    "lon": 6.1466014
+  },
+  "Havana, Cuba": {
+    "lat": 23.135305,
+    "lon": -82.3589631
+  },
+  "Samos, Greece": {
+    "lat": 37.7246162,
+    "lon": 26.8192919
+  },
+  "Greece": {
+    "lat": 38.9953683,
+    "lon": 21.9877132
+  },
+  "Chalcis, Euboea, Greece": {
+    "lat": 38.4623664,
+    "lon": 23.5946877
+  },
+  "La Chaux-de-Fonds, Switzerland": {
+    "lat": 47.1031321,
+    "lon": 6.8325778
+  },
+  "Auch, Gers, France": {
+    "lat": 43.6463558,
+    "lon": 0.5850507
+  },
+  "Gothenburg, Sweden": {
+    "lat": 57.7072326,
+    "lon": 11.9670171
+  },
+  "Baerum, Norway": {
+    "lat": 59.9289639,
+    "lon": 10.4997108
+  },
+  "Trondheim, Norway": {
+    "lat": 63.4304475,
+    "lon": 10.3952118
+  },
+  "Porrentruy, Switzerland": {
+    "lat": 47.4171297,
+    "lon": 7.0761342
+  },
+  "Charlottenburg, Berlin, Germany": {
+    "lat": 52.5050484,
+    "lon": 13.3045162
+  },
+  "Flensburg, Germany": {
+    "lat": 54.7833021,
+    "lon": 9.4333264
+  },
+  "Tbilisi, Georgia": {
+    "lat": 41.6934591,
+    "lon": 44.8014495
+  },
+  "Steuben County, New York, USA": {
+    "lat": 42.2359045,
+    "lon": -77.3750862
+  },
+  "Bristol, England": {
+    "lat": 51.4538022,
+    "lon": -2.5972985
+  },
+  "Fernhurst, Surrey, England": {
+    "lat": 51.2777717,
+    "lon": -0.1187136
+  },
+  "Williamstown, Pennsylvania, USA": {
+    "lat": 40.5800868,
+    "lon": -76.617742
+  },
+  "Harrisburg, Pennsylvania, USA": {
+    "lat": 40.2663107,
+    "lon": -76.8861122
+  },
+  "Wexford, Ireland": {
+    "lat": 52.3367671,
+    "lon": -6.4601397
+  },
+  "Carlow, Ireland": {
+    "lat": 52.8408344,
+    "lon": -6.9261131
+  },
+  "Kendal, Westmorland, England": {
+    "lat": 54.3289795,
+    "lon": -2.747183
+  },
+  "Pickering, Yorkshire, England": {
+    "lat": 54.2452377,
+    "lon": -0.7793593
+  },
+  "Sandgate, Kent, England": {
+    "lat": 51.0743788,
+    "lon": 1.1487129
+  },
+  "Sydney, New South Wales, Australia": {
+    "lat": -33.8698439,
+    "lon": 151.2082848
+  },
+  "Frankfurt am Main, Germany": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "Rio de Janeiro, Brazil": {
+    "lat": -22.9110137,
+    "lon": -43.2093727
+  },
+  "Khorol, Ukraine": {
+    "lat": 49.7831496,
+    "lon": 33.2719474
+  },
+  "North Haven, Connecticut, USA": {
+    "lat": 41.3909305,
+    "lon": -72.859545
+  },
+  "Cerisiers, France": {
+    "lat": 48.1342328,
+    "lon": 3.4832297
+  },
+  "Rennes, France": {
+    "lat": 48.1113387,
+    "lon": -1.6800198
+  },
+  "Nemours, France": {
+    "lat": 48.268026,
+    "lon": 2.6953079
+  },
+  "Lons-le-Saunier, France": {
+    "lat": 46.6727037,
+    "lon": 5.5589973
+  },
+  "Versailles, France": {
+    "lat": 48.8035403,
+    "lon": 2.1266886
+  },
+  "Langesund, Norway": {
+    "lat": 59.000697,
+    "lon": 9.7484437
+  },
+  "Vienna, Austria": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "Broglie, France": {
+    "lat": 49.0087429,
+    "lon": 0.5280377
+  },
+  "Ville-d'Avray, France": {
+    "lat": 48.8279362,
+    "lon": 2.1894241
+  },
+  "Beijing, China": {
+    "lat": 40.190632,
+    "lon": 116.412144
+  },
+  "Weston-super-Mare, England": {
+    "lat": 51.3471927,
+    "lon": -2.9778916
+  },
+  "Belgrade, Serbia": {
+    "lat": 44.8178131,
+    "lon": 20.4568974
+  },
+  "Haifa, Israel": {
+    "lat": 32.8191218,
+    "lon": 34.9983856
+  },
+  "Dresden, Germany": {
+    "lat": 51.0493286,
+    "lon": 13.7381437
+  },
+  "Oslo, Norway": {
+    "lat": 59.9133301,
+    "lon": 10.7389701
+  },
+  "Azamgarh, India": {
+    "lat": 26.023639,
+    "lon": 83.0293105
+  },
+  "Isfahan, Iran": {
+    "lat": 32.6707877,
+    "lon": 51.6650002
+  },
+  "Cambuslang, Lanarkshire, Scotland": {
+    "lat": 55.8191936,
+    "lon": -4.1685904
+  },
+  "Utrecht, The Netherlands": {
+    "lat": 52.0907006,
+    "lon": 5.1215634
+  },
+  "Nevers, France": {
+    "lat": 46.9876601,
+    "lon": 3.1577203
+  },
+  "Woolwich, London, England": {
+    "lat": 51.4919328,
+    "lon": 0.0703949
+  },
+  "Newcastle upon Tyne, England": {
+    "lat": 54.9738474,
+    "lon": -1.6131572
+  },
+  "New York, New York, USA": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "New Ross, County Wexford, Ireland": {
+    "lat": 52.3955671,
+    "lon": -6.9446066
+  },
+  "Adelaide, Australia": {
+    "lat": -34.9281805,
+    "lon": 138.5999312
+  },
+  "Streatham Common, London, England": {
+    "lat": 51.4216468,
+    "lon": -0.1250177
+  },
+  "Chester, England": {
+    "lat": 53.1908873,
+    "lon": -2.8908955
+  },
+  "Navasota, Texas, USA": {
+    "lat": 30.3885033,
+    "lon": -96.0880028
+  },
+  "Frascati, Italy": {
+    "lat": 41.8082452,
+    "lon": 12.6803684
+  },
+  "Felsberg, Germany": {
+    "lat": 51.1502197,
+    "lon": 9.451222
+  },
+  "Ziegenhain, Germany": {
+    "lat": 50.6770164,
+    "lon": 7.5256751
+  },
+  "Amanda, Fairfield County, Ohio, USA": {
+    "lat": 39.649508,
+    "lon": -82.7443367
+  },
+  "Springfield, Missouri, USA": {
+    "lat": 37.2081729,
+    "lon": -93.2922715
+  },
+  "Philadelphia, Pennsylvania, USA": {
+    "lat": 39.9527237,
+    "lon": -75.1635262
+  },
+  "Romford, London, England": {
+    "lat": 51.5747271,
+    "lon": 0.1826107
+  },
+  "Belfast, Ireland": {
+    "lat": 54.5975804,
+    "lon": -5.9277097
+  },
+  "Beverly, Massachusetts, USA": {
+    "lat": 42.5489744,
+    "lon": -70.8781883
+  },
+  "Salem, Massachusetts, USA": {
+    "lat": 42.5195292,
+    "lon": -70.8967226
+  },
+  "Berne, Switzerland": {
+    "lat": 46.9484742,
+    "lon": 7.4521749
+  },
+  "Marcq-en-Baroeul, Hauts-de-France, France": {
+    "lat": 50.6767018,
+    "lon": 3.1043032
+  },
+  "Warsaw, Poland": {
+    "lat": 52.2337172,
+    "lon": 21.0714322
+  },
+  "Aalborg, Denmark": {
+    "lat": 57.0462626,
+    "lon": 9.9215263
+  },
+  "Rosario, Santa Fe, Argentina": {
+    "lat": -32.9593609,
+    "lon": -60.6617024
+  },
+  "Le Mans, France": {
+    "lat": 48.0073849,
+    "lon": 0.1967849
+  },
+  "Grenoble, France": {
+    "lat": 45.1875602,
+    "lon": 5.7357819
+  },
+  "Canberra, Australia": {
+    "lat": -35.2975906,
+    "lon": 149.1012676
+  },
+  "Selasca, Italy": {
+    "lat": 45.9396894,
+    "lon": 8.5808694
+  },
+  "Dundee, Scotland": {
+    "lat": 56.4605938,
+    "lon": -2.97019
+  },
+  "Newport News, Virginia, USA": {
+    "lat": 36.9775016,
+    "lon": -76.42977
+  },
+  "Canonbury, London, England": {
+    "lat": 51.5435136,
+    "lon": -0.1004038
+  },
+  "Vijayapura, India": {
+    "lat": 16.814415,
+    "lon": 75.8933856
+  },
+  "Ujjain, India": {
+    "lat": 23.1885131,
+    "lon": 75.7716562
+  },
+  "Cincinnati, Ohio, USA": {
+    "lat": 39.1014537,
+    "lon": -84.5124602
+  },
+  "Urbana, Illinois, USA": {
+    "lat": 40.1117174,
+    "lon": -88.207301
+  },
+  "Ipswich, England": {
+    "lat": 52.0579324,
+    "lon": 1.1528095
+  },
+  "Gibraltar": {
+    "lat": 36.1285933,
+    "lon": -5.3474761
+  },
+  "Rochester, New York, USA": {
+    "lat": 43.157285,
+    "lon": -77.615214
+  },
+  "Skopje, Macedonia": {
+    "lat": 41.9961816,
+    "lon": 21.4319213
+  },
+  "Tulsa, Oklahoma, USA": {
+    "lat": 36.1563122,
+    "lon": -95.9927516
+  },
+  "Polotsk, Belarus": {
+    "lat": 55.4854656,
+    "lon": 28.7682339
+  },
+  "Tel Aviv, Israel": {
+    "lat": 32.0852997,
+    "lon": 34.7818064
+  },
+  "Kharkiv, Ukraine": {
+    "lat": 49.9923181,
+    "lon": 36.2310146
+  },
+  "Seattle, USA": {
+    "lat": 47.6038321,
+    "lon": -122.330062
+  },
+  "Horwich, Lancashire, England": {
+    "lat": 53.6010572,
+    "lon": -2.556926
+  },
+  "Southampton, England": {
+    "lat": 50.9025349,
+    "lon": -1.404189
+  },
+  "Accrington, Lancashire, England": {
+    "lat": 53.7541156,
+    "lon": -2.3655434
+  },
+  "Lake District, England": {
+    "lat": 54.4785304,
+    "lon": -3.0655331
+  },
+  "Chingford, Essex, England": {
+    "lat": 51.6369347,
+    "lon": 0.0189909
+  },
+  "Manchester, England": {
+    "lat": 53.4794892,
+    "lon": -2.2451148
+  },
+  "Vilnius, Lithuania": {
+    "lat": 54.6870458,
+    "lon": 25.2829111
+  },
+  "Somerset House, London, England": {
+    "lat": 51.5116948,
+    "lon": -0.117442
+  },
+  "Landrum, South Carolina, USA": {
+    "lat": 35.1751148,
+    "lon": -82.1892007
+  },
+  "Innsbruck, Austria": {
+    "lat": 47.2654296,
+    "lon": 11.3927685
+  },
+  "Rome, Italy": {
+    "lat": 41.8933203,
+    "lon": 12.4829321
+  },
+  "Aberdeen, Scotland": {
+    "lat": 57.1482429,
+    "lon": -2.0928095
+  },
+  "Shanghai, China": {
+    "lat": 31.2312707,
+    "lon": 121.4700152
+  },
+  "Engelbrekts, Stockholm County, Sweden": {
+    "lat": 59.3435753,
+    "lon": 18.0721372
+  },
+  "Istanbul, Turkey": {
+    "lat": 41.006381,
+    "lon": 28.9758715
+  },
+  "Agrigento, Sicily, Italy": {
+    "lat": 37.3122991,
+    "lon": 13.57465
+  },
+  "Perugia, Italy": {
+    "lat": 43.1070321,
+    "lon": 12.4029962
+  },
+  "Buffalo, New York, USA": {
+    "lat": 42.8867166,
+    "lon": -78.8783922
+  },
+  "La Croix-Rousse, Lyon, France": {
+    "lat": 45.7766432,
+    "lon": 4.8287408
+  },
+  "Penicuik, Midlothian, Scotland": {
+    "lat": 55.827236,
+    "lon": -3.2218145
+  },
+  "Hellertown, Pennsylvania, USA": {
+    "lat": 40.5794426,
+    "lon": -75.3405529
+  },
+  "Brooklyn, New York City, New York, USA": {
+    "lat": 40.6526006,
+    "lon": -73.9497211
+  },
+  "Laucha (Unstrut), Germany": {
+    "lat": 51.2219966,
+    "lon": 11.6789059
+  },
+  "Jena, Germany": {
+    "lat": 50.9281717,
+    "lon": 11.5879359
+  },
+  "Leipzig, Sachsen, Germany": {
+    "lat": 51.3406321,
+    "lon": 12.3747329
+  },
+  "Bremen, Germany": {
+    "lat": 53.0758196,
+    "lon": 8.8071646
+  },
+  "Skien, Norway": {
+    "lat": 59.2662883,
+    "lon": 9.5311354
+  },
+  "Bergamo, Italy": {
+    "lat": 45.7566557,
+    "lon": 9.7542192
+  },
+  "Teulada, Sardinia, Italy": {
+    "lat": 38.96743,
+    "lon": 8.772242
+  },
+  "Ventimiglia, Italy": {
+    "lat": 43.7917623,
+    "lon": 7.6033131
+  },
+  "Recife, Pernambuco, Brazil": {
+    "lat": -8.0584933,
+    "lon": -34.8848193
+  },
+  "Forest Grove, Ottawa County, Michigan, USA": {
+    "lat": 42.7966937,
+    "lon": -85.8617002
+  },
+  "Arlington, Virginia, USA": {
+    "lat": 38.8769326,
+    "lon": -77.0893094
+  },
+  "The Bronx, New York City, USA": {
+    "lat": 40.8466508,
+    "lon": -73.8785937
+  },
+  "Manhattan, New York City, USA": {
+    "lat": 40.7896239,
+    "lon": -73.9598939
+  },
+  "Capetown, South Africa": {
+    "lat": -33.9228378,
+    "lon": 18.426976
+  },
+  "West Calder, West Lothian, Scotland": {
+    "lat": 55.8537711,
+    "lon": -3.566816
+  },
+  "Lacy, Washington, USA": {
+    "lat": 36.100162,
+    "lon": -94.1717364
+  },
+  "Toronto, Canada": {
+    "lat": 43.6534817,
+    "lon": -79.3839347
+  },
+  "Avellaneda, Argentina": {
+    "lat": -34.6648394,
+    "lon": -58.3628061
+  },
+  "Ontario, Canada": {
+    "lat": 50.000678,
+    "lon": -86.000977
+  },
+  "Wendover, England": {
+    "lat": 51.7676884,
+    "lon": -0.7443215
+  },
+  "Tewksbury, Massachusetts, USA": {
+    "lat": 42.6106479,
+    "lon": -71.2342248
+  },
+  "Croydon, England": {
+    "lat": 51.3713049,
+    "lon": -0.101957
+  },
+  "Santo Stefano di Magra, La Spezia, Italy": {
+    "lat": 44.1650993,
+    "lon": 9.9173304
+  },
+  "Arezzo, Italy": {
+    "lat": 43.5171442,
+    "lon": 11.7639282
+  },
+  "Summit, New Jersey, USA": {
+    "lat": 40.7182356,
+    "lon": -74.3592296
+  },
+  "Los Angeles, California, USA": {
+    "lat": 34.0536909,
+    "lon": -118.242766
+  },
+  "Wing, Rutland, England": {
+    "lat": 52.6180039,
+    "lon": -0.6847683
+  },
+  "Lintrathen, Angus, Scotland": {
+    "lat": 56.6772434,
+    "lon": -3.1717281
+  },
+  "Worthing, Sussex, England": {
+    "lat": 50.8115402,
+    "lon": -0.3699697
+  },
+  "Kingston, Jamaica": {
+    "lat": 17.9712148,
+    "lon": -76.7928128
+  },
+  "Mount Vernon, Westchester, New York, USA": {
+    "lat": 40.9125085,
+    "lon": -73.8386504
+  },
+  "Noyon, Picardy, France": {
+    "lat": 49.5805561,
+    "lon": 3.0000288
+  },
+  "Louvain, Belgium": {
+    "lat": 50.879202,
+    "lon": 4.7011675
+  },
+  "Varzy, France": {
+    "lat": 47.3589895,
+    "lon": 3.3864431
+  },
+  "Amiens France": {
+    "lat": 49.8941708,
+    "lon": 2.2956951
+  },
+  "Lusigny-sur-Barse, France": {
+    "lat": 48.2550945,
+    "lon": 4.2686395
+  },
+  "Silver Spring, Maryland, USA": {
+    "lat": 38.9997621,
+    "lon": -77.0240371
+  },
+  "Montreal, Canada": {
+    "lat": 45.5031824,
+    "lon": -73.5698065
+  },
+  "Newnham Grange, Cambridge, England": {
+    "lat": 52.200907,
+    "lon": 0.1140995
+  },
+  "Braidwood, Edinburgh, Scotland": {
+    "lat": 55.9451104,
+    "lon": -3.1792778
+  },
+  "Dieuze, Lorraine, France": {
+    "lat": 48.8104847,
+    "lon": 6.7179948
+  },
+  "Cuddalore, Tamil Nadu, India": {
+    "lat": 11.520207,
+    "lon": 79.3396356
+  },
+  "Stockbridge, Edinburgh, Scotland": {
+    "lat": 55.9579716,
+    "lon": -3.2093404
+  },
+  "Newcastle-upon-Tyne, England": {
+    "lat": 54.9738474,
+    "lon": -1.6131572
+  },
+  "Tullamore, County Offaly, Ireland": {
+    "lat": 53.2743768,
+    "lon": -7.4927486
+  },
+  "Dunsink, Dublin, Ireland": {
+    "lat": 53.3845792,
+    "lon": -6.3034793
+  },
+  "Stanford, California, USA": {
+    "lat": 37.427467,
+    "lon": -122.1702445
+  },
+  "Daresbury, England": {
+    "lat": 53.3401912,
+    "lon": -2.6329929
+  },
+  "Guilford, England": {
+    "lat": 53.0895084,
+    "lon": -1.3712607
+  },
+  "Dijon, France": {
+    "lat": 47.3215806,
+    "lon": 5.0414701
+  },
+  "Southwark, London, England": {
+    "lat": 51.5061349,
+    "lon": -0.1011379
+  },
+  "Hove, Sussex, England": {
+    "lat": 50.8544841,
+    "lon": -0.2392024
+  },
+  "Peterhead, Scotland": {
+    "lat": 57.5052909,
+    "lon": -1.7813194
+  },
+  "Soquel, Santa Cruz, California, USA": {
+    "lat": 36.992568,
+    "lon": -121.9428597
+  },
+  "Brissac, Maine-et-Loire, France": {
+    "lat": 47.3410667,
+    "lon": -0.4425197
+  },
+  "Milford, Pennsylvania, USA": {
+    "lat": 41.322316,
+    "lon": -74.8023882
+  },
+  "Stirling, Scotland": {
+    "lat": 56.1181242,
+    "lon": -3.9360012
+  },
+  "Elkhart, Indiana, USA": {
+    "lat": 41.6012796,
+    "lon": -85.8590603
+  },
+  "St Petersburg, Florida, USA": {
+    "lat": 27.7700475,
+    "lon": -82.6359078
+  },
+  "Montpellier, France": {
+    "lat": 43.6112422,
+    "lon": 3.8767337
+  },
+  "Swinton, Berwickshire, Scotland": {
+    "lat": 55.7198452,
+    "lon": -2.26405
+  },
+  "Chippendale, Sydney, Australia": {
+    "lat": -33.8863291,
+    "lon": 151.1998211
+  },
+  "Cuddapah, India": {
+    "lat": 14.4956602,
+    "lon": 78.8349278
+  },
+  "Lincoln, England": {
+    "lat": 53.2293545,
+    "lon": -0.5404819
+  },
+  "Juda, Wisconsin, USA": {
+    "lat": 42.590225,
+    "lon": -89.5087235
+  },
+  "Brodhead, Wisconsin, USA": {
+    "lat": 42.6197428,
+    "lon": -89.376795
+  },
+  "Fuzhou, Fujian province, China": {
+    "lat": 26.0774954,
+    "lon": 119.2918215
+  },
+  "China": {
+    "lat": 35.0000663,
+    "lon": 104.999955
+  },
+  "Toowoomba, Queensland, Australia": {
+    "lat": -27.5610193,
+    "lon": 151.953351
+  },
+  "Bangalore, India": {
+    "lat": 12.9881567,
+    "lon": 77.6226
+  },
+  "Zaria, Nigeria": {
+    "lat": 11.0248119,
+    "lon": 7.6518533
+  },
+  "Onitsha, Anambra state, Nigeria": {
+    "lat": 6.1461619,
+    "lon": 6.8019088
+  },
+  "Chopyeong-myeon, Jincheon-gun, South Korea": {
+    "lat": 36.8423027,
+    "lon": 127.5371066
+  },
+  "Yokohama, Japan": {
+    "lat": 35.4503381,
+    "lon": 139.6343802
+  },
+  "Woodstock, Oxfordshire, England": {
+    "lat": 51.8474887,
+    "lon": -1.3545343
+  },
+  "Salzburg, Austria": {
+    "lat": 47.7981346,
+    "lon": 13.0464806
+  },
+  "Stuttgart, Germany": {
+    "lat": 48.7784485,
+    "lon": 9.1800132
+  },
+  "Ulm, Germany": {
+    "lat": 48.3984968,
+    "lon": 9.9912458
+  },
+  "Randers, Denmark": {
+    "lat": 56.4617545,
+    "lon": 10.0371476
+  },
+  "Strasbourg, France": {
+    "lat": 48.584614,
+    "lon": 7.7507127
+  },
+  "Karlsruhe, Germany": {
+    "lat": 49.0068705,
+    "lon": 8.4034195
+  },
+  "Ibadan, Oyo State, Nigeria": {
+    "lat": 7.3786064,
+    "lon": 3.8969928
+  },
+  "Windsor, Connecticut, USA": {
+    "lat": 41.8525984,
+    "lon": -72.6437022
+  },
+  "Neisse, Silesia": {
+    "lat": 50.4638685,
+    "lon": 17.0372984
+  },
+  "East Knoyle, Wiltshire, England": {
+    "lat": 51.0790674,
+    "lon": -2.1740851
+  },
+  "Needham, Massachusetts, USA": {
+    "lat": 42.2802645,
+    "lon": -71.2360624
+  },
+  "Ogwashi-Ukwu, Delta State, Nigeria": {
+    "lat": 6.1817718,
+    "lon": 6.532877
+  },
+  "Lagos, Nigeria": {
+    "lat": 6.4550575,
+    "lon": 3.3941795
+  },
+  "Baltimore, USA": {
+    "lat": 39.2908816,
+    "lon": -76.610759
+  },
+  "Gaffney, South Carolina, USA": {
+    "lat": 35.0717945,
+    "lon": -81.6498195
+  },
+  "Stoneham, Massachusetts, USA": {
+    "lat": 42.4802635,
+    "lon": -71.0993581
+  },
+  "Menlo Park, California, USA": {
+    "lat": 37.4519671,
+    "lon": -122.177992
+  },
+  "ChambÃ©ry, France": {
+    "lat": -20.9769029,
+    "lon": 55.3173555
+  },
+  "Gaylord, Michigan,  USA": {
+    "lat": 45.027513,
+    "lon": -84.674752
+  },
+  "Medford, Massachusetts, USA": {
+    "lat": 42.4184296,
+    "lon": -71.1061639
+  },
+  "Bourg-en-Bresse, France": {
+    "lat": 46.2051192,
+    "lon": 5.2250324
+  },
+  "MÃ¢con, France": {
+    "lat": 45.1050804,
+    "lon": 4.9147112
+  },
+  "South Africa": {
+    "lat": -28.8166236,
+    "lon": 24.991639
+  },
+  "Epping, Essex, England": {
+    "lat": 51.6982689,
+    "lon": 0.1102918
+  },
+  "Lewes, East Sussex, England": {
+    "lat": 50.8746139,
+    "lon": 0.0051153
+  },
+  "St Albans, England": {
+    "lat": 51.753051,
+    "lon": -0.3379675
+  },
+  "Buenos Aires, Argentina": {
+    "lat": -34.6083696,
+    "lon": -58.4440583
+  },
+  "Barcelona, Spain": {
+    "lat": 41.3825802,
+    "lon": 2.177073
+  },
+  "Long Beach, California, USA": {
+    "lat": 33.7690164,
+    "lon": -118.191604
+  },
+  "Saluzzo, Italy": {
+    "lat": 44.6446052,
+    "lon": 7.4926009
+  },
+  "Cardiff, Wales": {
+    "lat": 51.4816546,
+    "lon": -3.1791934
+  },
+  "Ascot, England": {
+    "lat": 51.4101286,
+    "lon": -0.6680194
+  },
+  "Sassari, Sardinia, Italy": {
+    "lat": 40.7778499,
+    "lon": 8.9219725
+  },
+  "Albenga, Savona, Italy": {
+    "lat": 44.0492503,
+    "lon": 8.2131239
+  },
+  "Stratford on Avon, Warwickshire, England": {
+    "lat": 52.1927803,
+    "lon": -1.70634
+  },
+  "Hackforth, Yorkshire, England": {
+    "lat": 54.3343499,
+    "lon": -1.6254387
+  },
+  "Lambeth, London, England": {
+    "lat": 51.4952111,
+    "lon": -0.1163354
+  },
+  "Oneida, New York, USA": {
+    "lat": 43.2144051,
+    "lon": -75.4039155
+  },
+  "Madison, Wisconsin, USA": {
+    "lat": 43.074761,
+    "lon": -89.3837613
+  },
+  "Pune, India": {
+    "lat": 18.5213738,
+    "lon": 73.8545071
+  },
+  "Dahanu, India": {
+    "lat": 19.9887244,
+    "lon": 72.733848
+  },
+  "Devlali, India": {
+    "lat": 19.8965492,
+    "lon": 73.8367402
+  },
+  "Hamden, New Haven, Connecticut, USA": {
+    "lat": 41.3959302,
+    "lon": -72.8968574
+  },
+  "Accra, Ghana": {
+    "lat": 5.5571096,
+    "lon": -0.2012376
+  },
+  "Groningen, Netherlands": {
+    "lat": 53.2190652,
+    "lon": 6.5680077
+  },
+  "Oeiras, Portugal": {
+    "lat": 38.6925777,
+    "lon": -9.3123076
+  },
+  "Martha's Vineyard, Massachusetts, USA": {
+    "lat": 41.3920454,
+    "lon": -70.6208138
+  },
+  "Rugby, England": {
+    "lat": 52.3726682,
+    "lon": -1.2620038
+  },
+  "St Paul, Minnesota, USA": {
+    "lat": 44.9497487,
+    "lon": -93.0931028
+  },
+  "Orange, New Jersey, USA": {
+    "lat": 40.7709499,
+    "lon": -74.2264601
+  },
+  "Gainsville, Florida, USA": {
+    "lat": 29.6194176,
+    "lon": -82.3601179
+  },
+  "Sheridan, Wyoming, USA": {
+    "lat": 44.7947537,
+    "lon": -106.8222688
+  },
+  "Fort Collins, Colorado, USA": {
+    "lat": 40.5871782,
+    "lon": -105.0770113
+  },
+  "Omagh, County Tyrone, Ireland": {
+    "lat": 54.5992486,
+    "lon": -7.3029907
+  },
+  "Centralia, Illinois, USA": {
+    "lat": 38.5250491,
+    "lon": -89.1334037
+  },
+  "Kaunas, Lithuania": {
+    "lat": 54.8982139,
+    "lon": 23.9044817
+  },
+  "London, Ontario, Canada": {
+    "lat": 42.9832406,
+    "lon": -81.243372
+  },
+  "Leeds, England": {
+    "lat": 53.7974185,
+    "lon": -1.5437941
+  },
+  "Budleigh Salterton, Devon, England": {
+    "lat": 50.6310504,
+    "lon": -3.3299844
+  },
+  "Llandudno, Wales": {
+    "lat": 53.322475,
+    "lon": -3.8243251
+  },
+  "Dunfermline, Fife, Scotland": {
+    "lat": 56.0713724,
+    "lon": -3.4616183
+  },
+  "Stockholm, Sweden": {
+    "lat": 59.3251172,
+    "lon": 18.0710935
+  },
+  "Cortland, New York, USA": {
+    "lat": 42.5842136,
+    "lon": -76.0704906
+  },
+  "Hinsdale, Illinois, USA": {
+    "lat": 41.8024604,
+    "lon": -87.9299841
+  },
+  "Amherst, Massachusetts, USA": {
+    "lat": 42.3731948,
+    "lon": -72.5198761
+  },
+  "Blackburn, Lancashire, England": {
+    "lat": 53.749326,
+    "lon": -2.4840566
+  },
+  "Warwick, Warwickshire, England": {
+    "lat": 52.2814519,
+    "lon": -1.5815742
+  },
+  "Methil, Fife, Scotland": {
+    "lat": 56.1848771,
+    "lon": -3.0132612
+  },
+  "Palo Alto, California, USA": {
+    "lat": 37.4443293,
+    "lon": -122.1598465
+  },
+  "Maidenhead, Berkshire, England": {
+    "lat": 51.522743,
+    "lon": -0.7197368
+  },
+  "Raleigh, North Carolina, USA": {
+    "lat": 35.7803977,
+    "lon": -78.6390989
+  },
+  "Athol, Massachusetts, USA": {
+    "lat": 42.594001,
+    "lon": -72.2268141
+  },
+  "Scarfskerry, Caithness, Scotland": {
+    "lat": 58.6488025,
+    "lon": -3.2694539
+  },
+  "Ripon, Yorkshire, England": {
+    "lat": 54.1362169,
+    "lon": -1.5238006
+  },
+  "Milngavie, Dunbartonshire, Scotland": {
+    "lat": 55.9410791,
+    "lon": -4.3178027
+  },
+  "Worth, Sussex, England": {
+    "lat": 51.1117058,
+    "lon": -0.1417616
+  },
+  "Dennistoun, Glasgow, Scotland": {
+    "lat": 55.8617362,
+    "lon": -4.2190097
+  },
+  "Victoria, Australia": {
+    "lat": -36.5986096,
+    "lon": 144.6780052
+  },
+  "Abergavenny, Monmouthshire, Wales": {
+    "lat": 51.8213212,
+    "lon": -3.0147935
+  },
+  "Exeter, England": {
+    "lat": 50.7256138,
+    "lon": -3.5269209
+  },
+  "Ferguson, St Louis, Missouri, USA": {
+    "lat": 38.7398692,
+    "lon": -90.3310647
+  },
+  "Auckland, New Zealand": {
+    "lat": -36.852095,
+    "lon": 174.7631803
+  },
+  "Headington, Oxford, England": {
+    "lat": 51.7601673,
+    "lon": -1.2109282
+  },
+  "Arlington, Massachusetts, USA": {
+    "lat": 42.4153739,
+    "lon": -71.1564428
+  },
+  "Weaver, Minnesota, USA": {
+    "lat": 44.2149646,
+    "lon": -91.9287717
+  },
+  "Lidoriki, Greece": {
+    "lat": 38.5276063,
+    "lon": 22.2030735
+  },
+  "Euboia Island, Greece": {
+    "lat": 38.4941723,
+    "lon": 23.9110844
+  },
+  "Abdera, Thrace, Greece": {
+    "lat": 40.9815562,
+    "lon": 24.9515371
+  },
+  "Blois, France": {
+    "lat": 47.5876861,
+    "lon": 1.3337639
+  },
+  "Port Huron, Michigan, USA": {
+    "lat": 42.9760854,
+    "lon": -82.4333742
+  },
+  "Swansea, Wales": {
+    "lat": 51.6195955,
+    "lon": -3.9459248
+  },
+  "Somerset, Indiana, USA": {
+    "lat": 40.6692082,
+    "lon": -85.8283175
+  },
+  "Stony Brook, New York, USA": {
+    "lat": 40.908482,
+    "lon": -73.1325471
+  },
+  "Cluj, Romania": {
+    "lat": 46.769379,
+    "lon": 23.5899542
+  },
+  "Savona, Italy": {
+    "lat": 44.2334238,
+    "lon": 8.2525727
+  },
+  "Albaro, Genoa, Italy": {
+    "lat": 44.3972232,
+    "lon": 8.9635865
+  },
+  "Rotterdam, Netherlands": {
+    "lat": 51.9244424,
+    "lon": 4.47775
+  },
+  "Belmont, Massachusetts, USA": {
+    "lat": 42.3959296,
+    "lon": -71.1786655
+  },
+  "Potenza, Basilicata, Italy": {
+    "lat": 40.5173119,
+    "lon": 15.8216088
+  },
+  "Thury, France": {
+    "lat": 47.0336869,
+    "lon": 4.525334
+  },
+  "Tampico, Illinois, USA": {
+    "lat": 41.6324811,
+    "lon": -89.7850393
+  },
+  "Boulder, Colorado, USA": {
+    "lat": 40.0149856,
+    "lon": -105.270545
+  },
+  "Durango, Colorado, USA": {
+    "lat": 37.2769484,
+    "lon": -107.8766
+  },
+  "Esher, Surrey, England": {
+    "lat": 51.3693938,
+    "lon": -0.365415
+  },
+  "Worthing, West Sussex, England": {
+    "lat": 50.8115402,
+    "lon": -0.3699697
+  },
+  "Brooklyn, New York, USA": {
+    "lat": 40.6526006,
+    "lon": -73.9497211
+  },
+  "Arlington, Texas, USA": {
+    "lat": 32.7355816,
+    "lon": -97.1071186
+  },
+  "Vancouver, British Columbia, Canada": {
+    "lat": 49.2608724,
+    "lon": -123.113952
+  },
+  "Milwaukee, Wisconsin, USA": {
+    "lat": 43.0386475,
+    "lon": -87.9090751
+  },
+  "Kintail, Scotland": {
+    "lat": 57.1983161,
+    "lon": -5.2868254
+  },
+  "Dunoon, Scotland": {
+    "lat": 55.9481104,
+    "lon": -4.9244868
+  },
+  "New York, USA": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "Higham Ferrers, Northamptonshire, England": {
+    "lat": 52.3060303,
+    "lon": -0.5923318
+  },
+  "Bearsden, Glasgow, Scotland": {
+    "lat": 55.8908041,
+    "lon": -4.3257978
+  },
+  "Dewsbury, Yorkshire, England": {
+    "lat": 53.6909103,
+    "lon": -1.6302142
+  },
+  "Bexhill, Sussex, England": {
+    "lat": 50.8419553,
+    "lon": 0.4709063
+  },
+  "Tuffley, Gloucester, England": {
+    "lat": 51.8474679,
+    "lon": -2.2529125
+  },
+  "Staten Island, New York City, New York, USA": {
+    "lat": 40.5834557,
+    "lon": -74.1496048
+  },
+  "Cheltenham, England": {
+    "lat": 51.8995685,
+    "lon": -2.0711559
+  },
+  "Providence, Rhode Island, USA": {
+    "lat": 41.8239891,
+    "lon": -71.4128343
+  },
+  "Darlington, County Durham, England": {
+    "lat": 54.5242081,
+    "lon": -1.5555812
+  },
+  "Rosario, Argentina": {
+    "lat": -32.9593609,
+    "lon": -60.6617024
+  },
+  "Falmouth, Massachusetts, USA": {
+    "lat": 41.5514979,
+    "lon": -70.6147519
+  },
+  "Burnside, Rutherglen, Lanarkshire, Scotland": {
+    "lat": 55.8169392,
+    "lon": -4.2031241
+  },
+  "Corby, Northamptonshire, England": {
+    "lat": 52.4877341,
+    "lon": -0.7032713
+  },
+  "Perth, Scotland": {
+    "lat": 56.3958683,
+    "lon": -3.4302017
+  },
+  "Kilbarchan, Renfrewshire, Scotland": {
+    "lat": 55.8362999,
+    "lon": -4.5532607
+  },
+  "Troon, Scotland": {
+    "lat": 55.5437893,
+    "lon": -4.663906
+  },
+  "Sheffield, England": {
+    "lat": 53.3806626,
+    "lon": -1.4702278
+  },
+  "Galveston, Texas, USA": {
+    "lat": 29.3872254,
+    "lon": -94.992736
+  },
+  "Beawar, Rajasthan, India": {
+    "lat": 26.0992137,
+    "lon": 74.3127044
+  },
+  "Wellington, New Zealand": {
+    "lat": -41.2887953,
+    "lon": 174.7772114
+  },
+  "Bridgewater, Massachusetts, USA": {
+    "lat": 41.9902206,
+    "lon": -70.9754432
+  },
+  "Minnesota, USA": {
+    "lat": 45.9896587,
+    "lon": -94.6113288
+  },
+  "Hull, Yorkshire, England": {
+    "lat": 53.7623862,
+    "lon": -0.3301214
+  },
+  "Union City, Randolph, Indiana, USA": {
+    "lat": 40.201991,
+    "lon": -84.8091287
+  },
+  "Hackney, London, England": {
+    "lat": 51.5432402,
+    "lon": -0.0493621
+  },
+  "Corbridge Northumberland, England": {
+    "lat": 54.9740218,
+    "lon": -2.0175509
+  },
+  "Bloomington, Indiana, USA": {
+    "lat": 39.1670396,
+    "lon": -86.5342881
+  },
+  "Nyon, Switzerland": {
+    "lat": 46.3820585,
+    "lon": 6.2402791
+  },
+  "Manhattan, New York City, New York County, USA": {
+    "lat": 40.7896239,
+    "lon": -73.9598939
+  },
+  "Brzeziny, Poland": {
+    "lat": 51.8006607,
+    "lon": 19.7446206
+  },
+  "Suffern, New York, USA": {
+    "lat": 41.1151372,
+    "lon": -74.1493948
+  },
+  "Bar-le-Duc, France": {
+    "lat": 48.7712673,
+    "lon": 5.1623805
+  },
+  "Bruck an der Mur, Styria, Austria": {
+    "lat": 47.4121987,
+    "lon": 15.2721668
+  },
+  "Inverary, Scotland": {
+    "lat": 55.9188429,
+    "lon": -4.2151048
+  },
+  "Southport, Lancashire, England": {
+    "lat": 53.6183006,
+    "lon": -2.9423215
+  },
+  "Los Angeles, USA": {
+    "lat": 34.0536909,
+    "lon": -118.242766
+  },
+  "Nuenen, The Netherlands": {
+    "lat": 51.48603,
+    "lon": 5.544007
+  },
+  "Tilburg, Netherlands": {
+    "lat": 51.5856184,
+    "lon": 5.0660616
+  },
+  "De Bilt, Netherlands": {
+    "lat": 52.1445592,
+    "lon": 5.1737773
+  },
+  "Coburg, Germany": {
+    "lat": 50.2582226,
+    "lon": 10.964561
+  },
+  "Bonn, Germany": {
+    "lat": 50.7352621,
+    "lon": 7.1024635
+  },
+  "Worms, Germany": {
+    "lat": 49.6302618,
+    "lon": 8.3620898
+  },
+  "Ãrebro, Sweden": {
+    "lat": 57.0026492,
+    "lon": 15.1582668
+  },
+  "Alnwick, Northumberland, England": {
+    "lat": 55.4133398,
+    "lon": -1.7072354
+  },
+  "Coventry, England": {
+    "lat": 52.4081812,
+    "lon": -1.510477
+  },
+  "Clinton, New York, USA": {
+    "lat": 40.7652778,
+    "lon": -73.993889
+  },
+  "Buckden": {
+    "lat": 52.2965726,
+    "lon": -0.2517052
+  },
+  "West Hartford, Connecticut, USA": {
+    "lat": 41.7620447,
+    "lon": -72.7420399
+  },
+  "Reading, England": {
+    "lat": 51.4514953,
+    "lon": -0.9836342
+  },
+  "Charlottesville, Virginia, USA": {
+    "lat": 38.029306,
+    "lon": -78.4766781
+  },
+  "Maud, Aberdeenshire, Scotland": {
+    "lat": 57.521428,
+    "lon": -2.1295694
+  },
+  "Quebec, Canada": {
+    "lat": 52.4760892,
+    "lon": -71.8258668
+  },
+  "Kirkcaldy, Fife, Scotland": {
+    "lat": 56.1110218,
+    "lon": -3.1582296
+  },
+  "Newbury, Berkshire, England": {
+    "lat": 51.4020243,
+    "lon": -1.3242212
+  },
+  "Corney, Cumberland, England": {
+    "lat": 54.3093611,
+    "lon": -3.365647
+  },
+  "Middletown, Connecticut, USA": {
+    "lat": 41.5623178,
+    "lon": -72.6509061
+  },
+  "Pontesbury, Shropshire, England": {
+    "lat": 52.6504357,
+    "lon": -2.8803469
+  },
+  "Hampstead, London, England": {
+    "lat": 51.5566155,
+    "lon": -0.1782918
+  },
+  "Dallas, Texas, USA": {
+    "lat": 32.7762719,
+    "lon": -96.7968559
+  },
+  "Everett, Snohomish, Washington, USA": {
+    "lat": 47.9793437,
+    "lon": -122.2127011
+  },
+  "Marshfield, Missouri, USA": {
+    "lat": 37.3302192,
+    "lon": -92.9068984
+  },
+  "San Marino, California, USA": {
+    "lat": 34.1215947,
+    "lon": -118.105739
+  },
+  "Buffalo, Erie, New York, USA": {
+    "lat": 42.8867166,
+    "lon": -78.8783922
+  },
+  "Pittsburgh, Allegheny, Pennsylvania, USA": {
+    "lat": 40.4416941,
+    "lon": -79.9900861
+  },
+  "Princeton, USA": {
+    "lat": 40.3496953,
+    "lon": -74.6597376
+  },
+  "Melbourne, Victoria, Australia": {
+    "lat": -37.8142454,
+    "lon": 144.9631732
+  },
+  "Kingston, Tasmania, Australia": {
+    "lat": -42.9749818,
+    "lon": 147.308221
+  },
+  "Scottsdale, Arizona, USA": {
+    "lat": 33.4942189,
+    "lon": -111.926018
+  },
+  "Hartford, Connecticut, USA": {
+    "lat": 41.764582,
+    "lon": -72.6908547
+  },
+  "Brookline, Massachusetts, USA": {
+    "lat": 42.332918,
+    "lon": -71.1187829
+  },
+  "Berchem, Antwerp, Belgium": {
+    "lat": 51.1943524,
+    "lon": 4.4329972
+  },
+  "Midhurst, Sussex, England": {
+    "lat": 50.9841854,
+    "lon": -0.74043
+  },
+  "La Jolla, California, USA": {
+    "lat": 32.8401623,
+    "lon": -117.2740777
+  },
+  "BrÄila, Romania": {
+    "lat": 45.2716092,
+    "lon": 27.9742932
+  },
+  "Evansville, Indiana, USA": {
+    "lat": 37.970495,
+    "lon": -87.5715641
+  },
+  "White River Junction, Vermont, USA": {
+    "lat": 43.6505307,
+    "lon": -72.3309258
+  },
+  "Jacksonville, Florida, USA": {
+    "lat": 30.3321838,
+    "lon": -81.655651
+  },
+  "Washington D.C., USA": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+  },
+  "Marietta, Ohio, USA": {
+    "lat": 39.4167742,
+    "lon": -81.4548392
+  },
+  "Antwerp, Belgium": {
+    "lat": 51.2211097,
+    "lon": 4.3997081
+  },
+  "Somerville, New Jersey, USA": {
+    "lat": 40.5742696,
+    "lon": -74.60988
+  },
+  "Winfield, Kansas, USA": {
+    "lat": 37.2397486,
+    "lon": -96.9955919
+  },
+  "Fort Sill, Oklahoma, USA": {
+    "lat": 34.7027408,
+    "lon": -98.5074309
+  },
+  "Bergen, Norway": {
+    "lat": 60.3943055,
+    "lon": 5.3259192
+  },
+  "Espeland, Norway": {
+    "lat": 60.383333,
+    "lon": 5.466667
+  },
+  "Tula, Russia": {
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  "Granville, Ohio, USA": {
+    "lat": 40.0681192,
+    "lon": -82.5196037
+  },
+  "Wellesley, Massachusetts, USA": {
+    "lat": 42.2964859,
+    "lon": -71.2925571
+  },
+  "Pittsburg, Pennsylvania, USA": {
+    "lat": 40.9328397,
+    "lon": -80.3633981
+  },
+  "Chevy Chase, Maryland, USA": {
+    "lat": 38.9813699,
+    "lon": -77.0849245
+  },
+  "Hamburg, Germany": {
+    "lat": 53.550341,
+    "lon": 10.000654
+  },
+  "Narberth, Pennsylvania, USA": {
+    "lat": 40.0084456,
+    "lon": -75.26046
+  },
+  "Elizabeth, New Jersey, USA": {
+    "lat": 40.6639916,
+    "lon": -74.2107006
+  },
+  "South Hadley, Massachusetts, USA": {
+    "lat": 42.2591392,
+    "lon": -72.5751341
+  },
+  "Tunis, Tunisia": {
+    "lat": 36.8002068,
+    "lon": 10.1857757
+  },
+  "Modena, Italy": {
+    "lat": 44.5384728,
+    "lon": 10.9359609
+  },
+  "Lecce, Italy": {
+    "lat": 40.1522173,
+    "lon": 18.2260628
+  },
+  "Samara, Russia": {
+    "lat": 53.1956255,
+    "lon": 50.1014927
+  },
+  "Erlangen, Bavaria, Germany": {
+    "lat": 49.5891571,
+    "lon": 10.9812072
+  },
+  "Carlisle, Pennsylvania , USA": {
+    "lat": 40.201499,
+    "lon": -77.1890783
+  },
+  "Bay Head, New Jersey, USA": {
+    "lat": 40.0717828,
+    "lon": -74.0543036
+  },
+  "Peloponnese, Greece": {
+    "lat": 37.363372,
+    "lon": 22.2394984
+  },
+  "Tartu, Estonia": {
+    "lat": 58.3801207,
+    "lon": 26.72245
+  },
+  "Lecce, Puglia, Italy": {
+    "lat": 40.1522173,
+    "lon": 18.2260628
+  },
+  "Rush Creek Township, Fairfield County, Ohio, USA": {
+    "lat": 39.7070255,
+    "lon": -82.4276303
+  },
+  "Soiana, Pisa, Italy": {
+    "lat": 43.5523525,
+    "lon": 10.6474944
+  },
+  "Caracas, Venezuela": {
+    "lat": 10.5060934,
+    "lon": -66.9146008
+  },
+  "Pescia, Pistoia, Tuscany, Italy": {
+    "lat": 43.90171,
+    "lon": 10.6897811
+  },
+  "Roskilde, Denmark": {
+    "lat": 55.6433478,
+    "lon": 12.0819247
+  },
+  "Saalfeld, Thuringia, Germany": {
+    "lat": 50.6479143,
+    "lon": 11.3610041
+  },
+  "Watertown, Connecticut, USA": {
+    "lat": 41.6062078,
+    "lon": -73.1181658
+  },
+  "Bow, London, England": {
+    "lat": 51.5309383,
+    "lon": -0.0274853
+  },
+  "Calgary, Alberta, Canada": {
+    "lat": 51.0456064,
+    "lon": -114.057541
+  },
+  "Peterhead,  Aberdeenshire, Scotland": {
+    "lat": 57.5052909,
+    "lon": -1.7813194
+  },
+  "Watsonville, California, USA": {
+    "lat": 36.9092773,
+    "lon": -121.7529071
+  },
+  "Ann Arbor, Washtenaw County, Michigan, USA": {
+    "lat": 42.2813722,
+    "lon": -83.7484616
+  },
+  "Carpentras, France": {
+    "lat": 44.0554043,
+    "lon": 5.0487681
+  },
+  "Eyrenville, France": {
+    "lat": 44.7011133,
+    "lon": 0.5670064
+  },
+  "Derby, England": {
+    "lat": 52.9142235,
+    "lon": -1.4719885
+  },
+  "La Bauche, Savoie, France": {
+    "lat": 45.4821375,
+    "lon": 5.7650222
+  },
+  "Abbeyside, County Waterford, Ireland": {
+    "lat": 52.0935412,
+    "lon": -7.606386
+  },
+  "Denver, Colorado, USA": {
+    "lat": 39.7392364,
+    "lon": -104.984862
+  },
+  "Sussex, England": {
+    "lat": 50.9445139,
+    "lon": -0.0622673
+  },
+  "Torre Annunziata, Italy": {
+    "lat": 40.7525236,
+    "lon": 14.4550044
+  },
+  "Nigrande, Saldus, Latvia": {
+    "lat": 56.4843061,
+    "lon": 22.0917854
+  },
+  "Latvia": {
+    "lat": 56.8406494,
+    "lon": 24.7537645
+  },
+  "Bangor, Northern Ireland": {
+    "lat": 54.662595,
+    "lon": -5.6679127
+  },
+  "Chemnitz, Saxony, Germany": {
+    "lat": 50.8323531,
+    "lon": 12.918914
+  },
+  "Zurich, Switzerland": {
+    "lat": 47.3744489,
+    "lon": 8.5410422
+  },
+  "Cologne, Germany": {
+    "lat": 50.938361,
+    "lon": 6.959974
+  },
+  "Helsinki, Finland": {
+    "lat": 60.1674881,
+    "lon": 24.9427473
+  },
+  "Passau, Germany": {
+    "lat": 48.5748229,
+    "lon": 13.4609744
+  },
+  "Kiel, Germany": {
+    "lat": 54.3227085,
+    "lon": 10.135555
+  },
+  "Newton, Kansas, USA": {
+    "lat": 38.0469166,
+    "lon": -97.3447244
+  },
+  "San Diego, California, USA": {
+    "lat": 32.7174202,
+    "lon": -117.162772
+  },
+  "Waldheim, Saskatchewan, Canada": {
+    "lat": 52.6186624,
+    "lon": -106.649761
+  },
+  "Waltham, Massachusetts, USA": {
+    "lat": 42.3756401,
+    "lon": -71.2358004
+  },
+  "Erdberg, Vienna, Austria": {
+    "lat": 48.1914136,
+    "lon": 16.4141569
+  },
+  "France": {
+    "lat": 46.603354,
+    "lon": 1.8883335
+  },
+  "Fulham, London, England": {
+    "lat": 51.474408,
+    "lon": -0.206809
+  },
+  "Tupelo, Mississippi, USA": {
+    "lat": 34.2576067,
+    "lon": -88.7033859
+  },
+  "Bologna, Italy": {
+    "lat": 44.4938203,
+    "lon": 11.3426327
+  },
+  "Rhodes, Greece": {
+    "lat": 36.1725297,
+    "lon": 27.9194016
+  },
+  "Giessen, Germany": {
+    "lat": 50.5808795,
+    "lon": 8.6938161
+  },
+  "Orly, Val-De-Marne, France": {
+    "lat": 48.7431683,
+    "lon": 2.402391
+  },
+  "Szombathely, Hungary": {
+    "lat": 47.2291184,
+    "lon": 16.6187625
+  },
+  "Cormons, Italy": {
+    "lat": 45.957791,
+    "lon": 13.4709541
+  },
+  "Orbassano, Turin, Piedmont, Italy": {
+    "lat": 45.0072629,
+    "lon": 7.5369192
+  },
+  "Genoa, Liguria, Italy": {
+    "lat": 44.40726,
+    "lon": 8.9338624
+  },
+  "Pencader, Carmarthenshire, Wales": {
+    "lat": 52.0001337,
+    "lon": -4.2685111
+  },
+  "Waterloo, Ontario, Canada": {
+    "lat": 43.4652699,
+    "lon": -80.5222961
+  },
+  "Shedfield, Hampshire, England": {
+    "lat": 50.9243204,
+    "lon": -1.1984888
+  },
+  "Hamilton, Ontario, Canada": {
+    "lat": 43.2560802,
+    "lon": -79.8728583
+  },
+  "Ithaca, New York, USA": {
+    "lat": 42.4374175,
+    "lon": -76.5483724
+  },
+  "Tonbridge, Kent, England": {
+    "lat": 51.1955494,
+    "lon": 0.2750712
+  },
+  "Helensburgh, Scotland": {
+    "lat": 56.0033464,
+    "lon": -4.7342935
+  },
+  "San Mateo Atenco, Mexico": {
+    "lat": 19.2621168,
+    "lon": -99.537009
+  },
+  "Kaohsiung, Taiwan": {
+    "lat": 22.6203348,
+    "lon": 120.3120375
+  },
+  "Simon's Town, South Africa": {
+    "lat": -34.193181,
+    "lon": 18.433266
+  },
+  "Riposto, Catania, Sicily": {
+    "lat": 37.7318901,
+    "lon": 15.2042214
+  },
+  "Casteggio, Italy": {
+    "lat": 45.0141141,
+    "lon": 9.1235778
+  },
+  "Richmond, Victoria, Australia": {
+    "lat": -37.80745,
+    "lon": 144.9907213
+  },
+  "Gunzenhausen, Germany": {
+    "lat": 49.1147095,
+    "lon": 10.7545933
+  },
+  "Chevy Chase, Montgomery County, Maryland, USA": {
+    "lat": 38.9813699,
+    "lon": -77.0849245
+  },
+  "Wiesbaden, Germany": {
+    "lat": 50.0820384,
+    "lon": 8.2416556
+  },
+  "Casale Monferrato (Alessandria), Italy": {
+    "lat": 45.1362661,
+    "lon": 8.4498127
+  },
+  "Figueres, Girona, Spain": {
+    "lat": 42.2666314,
+    "lon": 2.9638434
+  },
+  "Biebrich, Germany": {
+    "lat": 50.3030289,
+    "lon": 7.9544958
+  },
+  "Georgetown, Washington DC, USA": {
+    "lat": 38.9087133,
+    "lon": -77.0653494
+  },
+  "Horicon, Wisconsin, USA": {
+    "lat": 43.4513819,
+    "lon": -88.6312139
+  },
+  "Kensington, Contra Costa County, California, USA": {
+    "lat": 37.908433,
+    "lon": -122.2765838
+  },
+  "East Wellow, England": {
+    "lat": 50.9818839,
+    "lon": -1.5688195
+  },
+  "Cisco, Texas, USA": {
+    "lat": 32.3828077,
+    "lon": -98.9797165
+  },
+  "Santa Barbara, California, USA": {
+    "lat": 34.4221319,
+    "lon": -119.702667
+  },
+  "Le Roy, Michigan, USA": {
+    "lat": 44.0376598,
+    "lon": -85.4525886
+  },
+  "Wilmette, Illinois, USA": {
+    "lat": 42.0719906,
+    "lon": -87.682691
+  },
+  "Douai, France": {
+    "lat": 50.3675677,
+    "lon": 3.0804641
+  },
+  "Saverne, Bas-Rhin, France": {
+    "lat": 48.7419909,
+    "lon": 7.3625953
+  },
+  "Mont-de-Laval, Doubs, France": {
+    "lat": 47.1699698,
+    "lon": 6.6267932
+  },
+  "Writtle, Essex, England": {
+    "lat": 51.7284758,
+    "lon": 0.4115666
+  },
+  "Palermo, Sicily, Italy": {
+    "lat": 38.1112268,
+    "lon": 13.3524434
+  },
+  "Livorno, Italy": {
+    "lat": 42.7902379,
+    "lon": 10.3402239
+  },
+  "Salerno, Italy": {
+    "lat": 40.4194416,
+    "lon": 15.3106085
+  },
+  "Arezzo, Tuscany, Italy": {
+    "lat": 43.5171442,
+    "lon": 11.7639282
+  },
+  "Edgeworthstown, County Longford, Ireland": {
+    "lat": 53.6887624,
+    "lon": -7.6031144
+  },
+  "Witney, England": {
+    "lat": 51.7838848,
+    "lon": -1.4852861
+  },
+  "Reigate, Surrey, England": {
+    "lat": 51.2376557,
+    "lon": -0.2057067
+  },
+  "Omagh, Co. Tyrone, Ireland": {
+    "lat": 54.5992486,
+    "lon": -7.3029907
+  },
+  "Peabody, Massachusetts, USA": {
+    "lat": 42.5278731,
+    "lon": -70.9286609
+  },
+  "Maracaibo, Venezuela": {
+    "lat": 10.6498095,
+    "lon": -71.6443596
+  },
+  "New Hartford, Connecticut, USA": {
+    "lat": 41.8788343,
+    "lon": -72.9796173
+  },
+  "Denville, New Jersey, USA": {
+    "lat": 40.8922694,
+    "lon": -74.4774255
+  },
+  "Crouch End, London, England": {
+    "lat": 51.5796918,
+    "lon": -0.1236831
+  },
+  "Harrogate, England": {
+    "lat": 53.9921491,
+    "lon": -1.5391039
+  },
+  "Liverpool, Lancashire, England": {
+    "lat": 53.6443219,
+    "lon": -2.8167292
+  },
+  "Ashland, Massachusetts, USA": {
+    "lat": 42.2606614,
+    "lon": -71.4641337
+  },
+  "Las Cruces, New Mexico, USA": {
+    "lat": 32.3140354,
+    "lon": -106.779807
+  },
+  "Hull, England": {
+    "lat": 53.7623862,
+    "lon": -0.3301214
+  },
+  "Cookridge, Leeds, England": {
+    "lat": 53.8544222,
+    "lon": -1.6186552
+  },
+  "Dayton, Ohio, USA": {
+    "lat": 39.7589478,
+    "lon": -84.1916069
+  },
+  "Woodbridge, Suffolk, England": {
+    "lat": 52.0941323,
+    "lon": 1.3199383
+  },
+  "San Francisco, California, USA": {
+    "lat": 37.7792588,
+    "lon": -122.4193286
+  },
+  "Altadena, Los Angeles County, California, USA": {
+    "lat": 34.1928193,
+    "lon": -118.1374663
+  },
+  "Harpenden, England": {
+    "lat": 51.8145103,
+    "lon": -0.3549311
+  },
+  "Nuremberg, Bayern, Germany": {
+    "lat": 49.453872,
+    "lon": 11.077298
+  },
+  "Bourne End, Buckinghamshire, England": {
+    "lat": 51.5799463,
+    "lon": -0.7120777
+  },
+  "Bingley, Yorkshire, England": {
+    "lat": 53.8479533,
+    "lon": -1.8384526
+  },
+  "Bournemouth, England": {
+    "lat": 50.7201514,
+    "lon": -1.8799118
+  },
+  "Roanoke, Virginia, USA": {
+    "lat": 37.270973,
+    "lon": -79.9414313
+  },
+  "Dartmouth, Devon, England": {
+    "lat": 50.3514839,
+    "lon": -3.583844
+  },
+  "Birmingham, Alabama, USA": {
+    "lat": 33.5206824,
+    "lon": -86.8024326
+  },
+  "Clarksburg, West Virginia, USA": {
+    "lat": 39.2806451,
+    "lon": -80.3445341
+  },
+  "Falls Church, Virginia, USA": {
+    "lat": 38.882334,
+    "lon": -77.1710914
+  },
+  "Crowthorne, Berkshire, England": {
+    "lat": 51.3708551,
+    "lon": -0.7950262
+  },
+  "Princeton, New Jersey. USA": {
+    "lat": 40.3496953,
+    "lon": -74.6597376
+  },
+  "Cottbus, Brandenburg, Germany": {
+    "lat": 51.7567447,
+    "lon": 14.3357307
+  },
+  "Bad Godesberg, Bonn, Germany": {
+    "lat": 50.6850682,
+    "lon": 7.156323
+  },
+  "Wernigerode, Germany": {
+    "lat": 51.8344172,
+    "lon": 10.7862526
+  },
+  "Hamm, Westphalia, Germany": {
+    "lat": 51.681281,
+    "lon": 7.8191185
+  },
+  "Heidelberg, Germany": {
+    "lat": 49.4093582,
+    "lon": 8.694724
+  },
+  "Vimmerby, Sweden": {
+    "lat": 57.683333,
+    "lon": 15.833333
+  },
+  "Bleienbach, Bern canton, Switzerland": {
+    "lat": 47.1856551,
+    "lon": 7.7561202
+  },
+  "Bern, Switzerland": {
+    "lat": 46.9484742,
+    "lon": 7.4521749
+  },
+  "Bad Kreuznach, Germany": {
+    "lat": 49.8490413,
+    "lon": 7.8626661
+  },
+  "Orel, Russia": {
+    "lat": 52.9709262,
+    "lon": 36.0642127
+  },
+  "Varna, Bulgaria": {
+    "lat": 43.2052135,
+    "lon": 27.8602025
+  },
+  "Pasadena, California, USA": {
+    "lat": 34.1476507,
+    "lon": -118.144155
+  },
+  "Toronto, Ontario, Canada": {
+    "lat": 43.6534817,
+    "lon": -79.3839347
+  },
+  "Cranleigh, Surrey, England": {
+    "lat": 51.1407587,
+    "lon": -0.4865787
+  },
+  "Leicester, England": {
+    "lat": 52.6362,
+    "lon": -1.1331969
+  },
+  "Kunhegyes, Hungary": {
+    "lat": 47.3699089,
+    "lon": 20.6318292
+  },
+  "Palo Alto, California USA": {
+    "lat": 37.4443293,
+    "lon": -122.1598465
+  },
+  "Ukraine": {
+    "lat": 49.4871968,
+    "lon": 31.2718321
+  },
+  "Tokyo, Japan": {
+    "lat": 35.6768601,
+    "lon": 139.7638947
+  },
+  "Frankfurt an Main, Germany": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "Acireale, Catania, Sicily, Italy": {
+    "lat": 37.6127773,
+    "lon": 15.1658804
+  },
+  "Morano Calabro, Cosenza, Calabria, Italy": {
+    "lat": 39.8439407,
+    "lon": 16.135613
+  },
+  "Bromma, Stockholm, Sweden": {
+    "lat": 59.339769,
+    "lon": 17.9395411
+  },
+  "Water Mill, New York, USA": {
+    "lat": 40.9211766,
+    "lon": -72.3488461
+  },
+  "Bannockburn, Stirlingshire, Scotland": {
+    "lat": 56.0908921,
+    "lon": -3.9132272
+  },
+  "Beaune, Bourgogne, France": {
+    "lat": 47.0239064,
+    "lon": 4.8380426
+  },
+  "Nimes, Gard, Languedoc, France": {
+    "lat": 43.8173307,
+    "lon": 4.3618782
+  },
+  "Villefranche-de-Rouergue, Aveyron, France": {
+    "lat": 44.3517623,
+    "lon": 2.0375431
+  },
+  "Le Havre, France": {
+    "lat": 49.4938975,
+    "lon": 0.1079732
+  },
+  "Lundin Links, Fife, Scotland": {
+    "lat": 56.2126211,
+    "lon": -2.9544147
+  },
+  "Dokkum, Friesland, The Netherlands": {
+    "lat": 53.3243515,
+    "lon": 5.9992306
+  },
+  "Stanford, USA": {
+    "lat": 37.4265407,
+    "lon": -122.1703055
+  },
+  "Eastleigh, Hampshire, England": {
+    "lat": 50.9691736,
+    "lon": -1.3517331
+  },
+  "Norwich, England": {
+    "lat": 52.6285576,
+    "lon": 1.2923954
+  },
+  "St John's Wood, London, England": {
+    "lat": 51.531726,
+    "lon": -0.1741901
+  },
+  "Bradford, Yorkshire, England": {
+    "lat": 53.7944229,
+    "lon": -1.7519186
+  },
+  "Watford, Hertfordshire, England": {
+    "lat": 51.6553875,
+    "lon": -0.3957425
+  },
+  "Chichester, Sussex,England": {
+    "lat": 50.8364862,
+    "lon": -0.7791721
+  },
+  "Kaiserslautern, Germany": {
+    "lat": 49.4432174,
+    "lon": 7.7689951
+  },
+  "Wechselburg, Sachsen, Germany": {
+    "lat": 51.0048471,
+    "lon": 12.7733471
+  },
+  "Landshut, Germany": {
+    "lat": 48.536217,
+    "lon": 12.1516551
+  },
+  "Feldkirch, Austria": {
+    "lat": 47.2375671,
+    "lon": 9.5981724
+  },
+  "Graz, Austria": {
+    "lat": 47.0708678,
+    "lon": 15.4382786
+  },
+  "Peuerbach, Austria": {
+    "lat": 48.3438653,
+    "lon": 13.7710445
+  },
+  "Vienna , Austria": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "Zug, Switzerland": {
+    "lat": 47.1486137,
+    "lon": 8.5539378
+  },
+  "Munich, Bavaria, Germany": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "Westminster, London, England": {
+    "lat": 51.5004439,
+    "lon": -0.1265398
+  },
+  "Melbourne, Australia": {
+    "lat": -37.8142454,
+    "lon": 144.9631732
+  },
+  "Kilkenny, County Kilkenny, Ireland": {
+    "lat": 52.6506255,
+    "lon": -7.2514438
+  },
+  "Overisel, Michigan, USA": {
+    "lat": 42.7283593,
+    "lon": -86.0097593
+  },
+  "Lincoln, Lincolnshire, England": {
+    "lat": 53.2293545,
+    "lon": -0.5404819
+  },
+  "Ballintemple, County Cork, Ireland": {
+    "lat": 51.8947981,
+    "lon": -8.4354471
+  },
+  "Gravesend, England": {
+    "lat": 51.4424747,
+    "lon": 0.3694468
+  },
+  "Bordighera, Italy": {
+    "lat": 43.7850512,
+    "lon": 7.6591094
+  },
+  "Millinocket, Maine, USA": {
+    "lat": 45.6565049,
+    "lon": -68.7091349
+  },
+  "Wayland, Middlesex, Massachusetts, USA": {
+    "lat": 42.3632063,
+    "lon": -71.3606721
+  },
+  "Portland, Oregon, USA": {
+    "lat": 45.5202471,
+    "lon": -122.674194
+  },
+  "Salem, Oregon, USA": {
+    "lat": 44.9391565,
+    "lon": -123.033121
+  },
+  "Kill-o'-the Grange, Monkstown, Co. Dublin, Ireland": {
+    "lat": 53.2822873,
+    "lon": -6.1498845
+  },
+  "Stanford, Santa Clara, California, USA": {
+    "lat": 37.427467,
+    "lon": -122.1702445
+  },
+  "Chico, California, USA": {
+    "lat": 39.7284945,
+    "lon": -121.8374777
+  },
+  "Greenlaw, Berwickshire, Scotland": {
+    "lat": 55.7068575,
+    "lon": -2.4607056
+  },
+  "Sneinton, Nottingham, England": {
+    "lat": 52.9533392,
+    "lon": -1.1254612
+  },
+  "Twickenham, London, England": {
+    "lat": 51.4505786,
+    "lon": -0.3288402
+  },
+  "Newark, New Jersey, USA": {
+    "lat": 40.735657,
+    "lon": -74.1723667
+  },
+  "West Nyack, New York, USA": {
+    "lat": 41.090129,
+    "lon": -73.9704898
+  },
+  "Bodmin, Cornwall, England": {
+    "lat": 50.470725,
+    "lon": -4.7243205
+  },
+  "Long Stratton, Norfolk, England": {
+    "lat": 52.4878256,
+    "lon": 1.233093
+  },
+  "Culross, Fife, Scotland": {
+    "lat": 56.0556633,
+    "lon": -3.6283699
+  },
+  "Liverpool, England": {
+    "lat": 53.4071991,
+    "lon": -2.99168
+  },
+  "Canterbury, Kent, England": {
+    "lat": 51.2800275,
+    "lon": 1.0802533
+  },
+  "Lynnville, Pennsylvania, USA": {
+    "lat": 40.6470389,
+    "lon": -75.7515802
+  },
+  "Aba, Nigeria": {
+    "lat": 5.1128008,
+    "lon": 7.3651376
+  },
+  "Pall Mall, London, England": {
+    "lat": 51.5053427,
+    "lon": -0.1376811
+  },
+  "Midgley, Yorkshire, England": {
+    "lat": 53.7340724,
+    "lon": -1.9571824
+  },
+  "Cowdenbeath, Fife, Scotland": {
+    "lat": 56.1110634,
+    "lon": -3.3438843
+  },
+  "Skreen, County Sligo, Ireland": {
+    "lat": 54.222979,
+    "lon": -8.7337948
+  },
+  "Quarr Abbey, Isle of Wight, England": {
+    "lat": 50.7315258,
+    "lon": -1.205039
+  },
+  "Memphis, Tennessee, USA": {
+    "lat": 35.1460249,
+    "lon": -90.0517638
+  },
+  "Roche, Canton Vaud, Switzerland": {
+    "lat": 46.3610602,
+    "lon": 6.9309298
+  },
+  "Lausanne, Switzerland": {
+    "lat": 46.5218269,
+    "lon": 6.6327025
+  },
+  "Charleroi, Belgium": {
+    "lat": 50.4116233,
+    "lon": 4.444528
+  },
+  "Panagyurishte, Bulgaria": {
+    "lat": 42.5043065,
+    "lon": 24.1888411
+  },
+  "Sofia, Bulgaria": {
+    "lat": 42.6977028,
+    "lon": 23.3217359
+  },
+  "Youngstown, Ohio, USA": {
+    "lat": 41.1035786,
+    "lon": -80.6520161
+  },
+  "Donetske, Ukraine": {
+    "lat": 48.93431,
+    "lon": 37.6904
+  },
+  "Transbaikal, Russia": {
+    "lat": 52.248521,
+    "lon": 115.956325
+  },
+  "Kimmeridge, Dorset, England": {
+    "lat": 50.6078572,
+    "lon": -2.1139493
+  },
+  "Merton, London, England": {
+    "lat": 51.4108698,
+    "lon": -0.1880971
+  },
+  "Drimnagh, Dublin, Ireland": {
+    "lat": 53.3299263,
+    "lon": -6.3236515
+  },
+  "Gelsenkirchen-Buer, Germany": {
+    "lat": 51.5611041,
+    "lon": 7.0607256
+  },
+  "Greifswald, Germany": {
+    "lat": 54.095791,
+    "lon": 13.3815238
+  },
+  "San Diego, USA": {
+    "lat": 32.7174202,
+    "lon": -117.162772
+  },
+  "Dayton, Iowa, USA": {
+    "lat": 42.2613645,
+    "lon": -94.0685672
+  },
+  "Durham, North Carolina, USA": {
+    "lat": 35.996653,
+    "lon": -78.9018053
+  },
+  "Iasi, Romania": {
+    "lat": 47.1615598,
+    "lon": 27.5837814
+  },
+  "Vigevano, Italy": {
+    "lat": 45.3170942,
+    "lon": 8.858603
+  },
+  "Johannesburg, South Africa": {
+    "lat": -26.205,
+    "lon": 28.049722
+  },
+  "Harvey, Illinois, USA": {
+    "lat": 41.6100344,
+    "lon": -87.6467132
+  },
+  "Rochdale, Lancashire, England": {
+    "lat": 53.6629569,
+    "lon": -2.2914448
+  },
+  "Coulsdon, Surrey, England": {
+    "lat": 51.29723,
+    "lon": -0.1061029
+  },
+  "Mantua, Italy": {
+    "lat": 45.1692628,
+    "lon": 10.6708365
+  },
+  "Verona, Italy": {
+    "lat": 45.4424977,
+    "lon": 10.9857377
+  },
+  "Palermo, Italy": {
+    "lat": 38.1112268,
+    "lon": 13.3524434
+  },
+  "Scandiano, Emilia-Romagna, Italy": {
+    "lat": 44.5993449,
+    "lon": 10.6878385
+  },
+  "Porto Empedocle, Italy": {
+    "lat": 37.2883127,
+    "lon": 13.52755
+  },
+  "Crema, Italy": {
+    "lat": 45.362828,
+    "lon": 9.6874573
+  },
+  "Bagheria, Sicily,  Italy": {
+    "lat": 38.079351,
+    "lon": 13.509349
+  },
+  "Ravenna, Italy": {
+    "lat": 44.3640607,
+    "lon": 12.0590095
+  },
+  "North York, Ontario, Canada": {
+    "lat": 43.7543217,
+    "lon": -79.4491057
+  },
+  "Ararat, Victoria, Australia": {
+    "lat": -37.2834165,
+    "lon": 142.9319447
+  },
+  "Sumter, South Carolina, USA": {
+    "lat": 33.9204354,
+    "lon": -80.3414693
+  },
+  "Porto, Portugal": {
+    "lat": 41.1494512,
+    "lon": -8.6107884
+  },
+  "Carmelo, Uruguay": {
+    "lat": -33.9967827,
+    "lon": -58.2836485
+  },
+  "Montevideo, Uruguay": {
+    "lat": -34.9058916,
+    "lon": -56.1913095
+  },
+  "Workington, England": {
+    "lat": 54.6415716,
+    "lon": -3.5459287
+  },
+  "Newburyport, Massachusetts, USA": {
+    "lat": 42.8116592,
+    "lon": -70.8719271
+  },
+  "Lewisville, Texas, USA": {
+    "lat": 33.046233,
+    "lon": -96.994174
+  },
+  "Hamamatsu, Japan": {
+    "lat": 34.7109786,
+    "lon": 137.7259431
+  },
+  "Frankfurt, Germany": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "Bad Kleinen, Germany": {
+    "lat": 53.7706474,
+    "lon": 11.4727533
+  },
+  "Warri, Nigeria": {
+    "lat": 5.5186186,
+    "lon": 5.7480196
+  },
+  "Croydon, Surrey, England": {
+    "lat": 51.2973191,
+    "lon": -0.0708474
+  },
+  "Louth, Lincolnshire, England": {
+    "lat": 53.3675163,
+    "lon": -0.0022381
+  },
+  "Alexandria, Virginia, USA": {
+    "lat": 38.8051095,
+    "lon": -77.0470229
+  },
+  "Bondi, New South Wales, Australia": {
+    "lat": -33.8930556,
+    "lon": 151.2633333
+  },
+  "Sydney, Australia": {
+    "lat": -33.8698439,
+    "lon": 151.2082848
+  },
+  "Tulcea, Romania": {
+    "lat": 45.177518,
+    "lon": 28.8016348
+  },
+  "Ottawa, Canada": {
+    "lat": 45.4208777,
+    "lon": -75.6901106
+  },
+  "Fiesole, Italy": {
+    "lat": 43.8066689,
+    "lon": 11.2930735
+  },
+  "Castelfranco Veneto, Italy": {
+    "lat": 45.6711936,
+    "lon": 11.9265094
+  },
+  "Sistels, Tarn-et-Garonne, France": {
+    "lat": 44.0607957,
+    "lon": 0.783465
+  },
+  "Xingtai, Hebei province, China": {
+    "lat": 37.0616519,
+    "lon": 114.499746
+  },
+  "Amsterdam, The Netherlands": {
+    "lat": 52.3730796,
+    "lon": 4.8924534
+  },
+  "Haarlem, The Netherlands": {
+    "lat": 52.3837058,
+    "lon": 4.6435597
+  },
+  "L'Etivaz, Vaud canton, Switzerland": {
+    "lat": 46.4240286,
+    "lon": 7.1460271
+  },
+  "Pestszentlorinc, Hungary": {
+    "lat": 47.4548436,
+    "lon": 19.1827618
+  },
+  "Tel Aviv": {
+    "lat": 32.0852997,
+    "lon": 34.7818064
+  },
+  "Annapurna Mountain, Nepal": {
+    "lat": 27.8254036,
+    "lon": 85.4484663
+  },
+  "Lankwitz, Berlin, Germany": {
+    "lat": 52.4387852,
+    "lon": 13.3420633
+  },
+  "Djursholm, Sweden": {
+    "lat": 59.3973535,
+    "lon": 18.0880625
+  },
+  "Schwerin, Germany": {
+    "lat": 53.6288297,
+    "lon": 11.4148038
+  },
+  "Tucson, Arizona, USA": {
+    "lat": 32.2228765,
+    "lon": -110.974847
+  },
+  "Luckenwalde, Germany": {
+    "lat": 52.0902045,
+    "lon": 13.1741882
+  },
+  "Haren-Ems, Niedersachsen, Germany": {
+    "lat": 52.7905619,
+    "lon": 7.2400267
+  },
+  "Langenhagen, Germany": {
+    "lat": 52.443118,
+    "lon": 9.738994
+  },
+  "Haverford, Pennsylvania, USA": {
+    "lat": 40.0131672,
+    "lon": -75.2943516
+  },
+  "Altenburg, Germany": {
+    "lat": 50.9852411,
+    "lon": 12.4340988
+  },
+  "Bischofsheim an der Rhon, Germany": {
+    "lat": 50.4011137,
+    "lon": 10.0075314
+  },
+  "Waldheim, Germany": {
+    "lat": 51.0770643,
+    "lon": 13.0157798
+  },
+  "Koblenz-Moselweiss, Germany": {
+    "lat": 50.3495621,
+    "lon": 7.5609004
+  },
+  "Kanpur, Uttar Pradesh, India": {
+    "lat": 26.4609135,
+    "lon": 80.3217588
+  },
+  "Huncoat, Lancashire, England": {
+    "lat": 53.7722434,
+    "lon": -2.3470472
+  },
+  "Fulda, Minnesota, USA": {
+    "lat": 43.8705186,
+    "lon": -95.6002856
+  },
+  "Hastings, England": {
+    "lat": 50.8553888,
+    "lon": 0.5824703
+  },
+  "Waterbury, Connecticut, USA": {
+    "lat": 41.5538091,
+    "lon": -73.0438362
+  },
+  "Austin, Texas, USA": {
+    "lat": 30.2711286,
+    "lon": -97.7436995
+  },
+  "Millis, Massachusetts, USA": {
+    "lat": 42.1674963,
+    "lon": -71.3572212
+  },
+  "State College, Pennsylvania , USA": {
+    "lat": 40.7944504,
+    "lon": -77.8616386
+  },
+  "Schweinfurt, Germany": {
+    "lat": 50.0518552,
+    "lon": 10.2220921
+  },
+  "Magdala, Thuringia, Germany": {
+    "lat": 50.9065543,
+    "lon": 11.4463291
+  },
+  "Essen, Germany": {
+    "lat": 51.4582235,
+    "lon": 7.0158171
+  },
+  "Dornach, Switzerland": {
+    "lat": 47.4806097,
+    "lon": 7.6176609
+  },
+  "Schwerin, Mecklenburg, Germany": {
+    "lat": 53.6288297,
+    "lon": 11.4148038
+  },
+  "UnterlÃ¼ss, Germany": {
+    "lat": 49.7939608,
+    "lon": 9.9305563
+  },
+  "Zollikon, Switzerland": {
+    "lat": 47.3379535,
+    "lon": 8.5755735
+  },
+  "Wilhelmshaven, Germany": {
+    "lat": 53.5278793,
+    "lon": 8.106301
+  },
+  "Weinfelden, Switzerland": {
+    "lat": 47.5669187,
+    "lon": 9.1097539
+  },
+  "Yamaguchi, Japan": {
+    "lat": 34.2379614,
+    "lon": 131.5873845
+  },
+  "Danderyd, Stockholm, Sweden": {
+    "lat": 59.4043647,
+    "lon": 18.0358505
+  },
+  "Kassel, Germany": {
+    "lat": 51.3157833,
+    "lon": 9.4978479
+  },
+  "Schliersee, Bavaria, Germany": {
+    "lat": 47.7345915,
+    "lon": 11.8620286
+  },
+  "Dhandhuka, Gujarat, India": {
+    "lat": 22.3816365,
+    "lon": 71.9791414
+  },
+  "Gujarat, India": {
+    "lat": 22.3850051,
+    "lon": 71.745261
+  },
+  "Binyamina, Israel": {
+    "lat": 32.5202891,
+    "lon": 34.9435862
+  },
+  "Rottevalle, The Netherlands": {
+    "lat": 53.1452083,
+    "lon": 6.1030877
+  },
+  "Leiden, The Netherlands": {
+    "lat": 52.1594747,
+    "lon": 4.4908843
+  },
+  "Oegstgeest, The Netherlands": {
+    "lat": 52.185433,
+    "lon": 4.4738856
+  },
+  "Arnhem, Netherlands": {
+    "lat": 51.984257,
+    "lon": 5.9108573
+  },
+  "Haarlem, Netherlands": {
+    "lat": 52.3885317,
+    "lon": 4.6388048
+  },
+  "Saint-Cyr-sur-Mer, Var, France": {
+    "lat": 43.1810087,
+    "lon": 5.711516
+  },
+  "Bourbonne-les-Bains, Haute-Marne, France": {
+    "lat": 47.9538267,
+    "lon": 5.7512344
+  },
+  "Beauvais, Oise, Picardie, France": {
+    "lat": 49.4300997,
+    "lon": 2.0823355
+  },
+  "Lille, France": {
+    "lat": 50.6365654,
+    "lon": 3.0635282
+  },
+  "Abbeville, Picardy, France,": {
+    "lat": 50.1060835,
+    "lon": 1.8337029
+  },
+  "Aix-en-Provence, France": {
+    "lat": 43.5298424,
+    "lon": 5.4474738
+  },
+  "Nancy, Lorraine, France": {
+    "lat": 48.6937223,
+    "lon": 6.1834097
+  },
+  "Lancaster, Worcester County, Massachusetts, USA": {
+    "lat": 42.4569773,
+    "lon": -71.6731246
+  },
+  "Cambridge, Middlesex, Massachusetts, USA": {
+    "lat": 42.3656347,
+    "lon": -71.1040018
+  },
+  "Dunkirk, New York, USA": {
+    "lat": 42.483224,
+    "lon": -79.3345605
+  },
+  "Mayfield, Sussex, England": {
+    "lat": 51.0193508,
+    "lon": 0.2619784
+  },
+  "Lewes, Sussex, England": {
+    "lat": 50.8746139,
+    "lon": 0.0051153
+  },
+  "Chambersburg, Pennsylvania , USA": {
+    "lat": 39.9375112,
+    "lon": -77.6612586
+  },
+  "Melbury Sampford, Dorset, England": {
+    "lat": 50.8549661,
+    "lon": -2.6051383
+  },
+  "Aldersgate, London, England": {
+    "lat": 51.5201501,
+    "lon": -0.0986832
+  },
+  "Millsboro, Washington County, Pennsylvania, USA": {
+    "lat": 39.9853002,
+    "lon": -79.9936635
+  },
+  "Grantham, Lincolnshire, England": {
+    "lat": 52.913192,
+    "lon": -0.6438974
+  },
+  "Long Buckby, Northamptonshire, England": {
+    "lat": 52.3029316,
+    "lon": -1.0804568
+  },
+  "Olveston, Gloucestershire, England": {
+    "lat": 51.5771191,
+    "lon": -2.5865513
+  },
+  "Newington, Southwark, London, England": {
+    "lat": 51.4852627,
+    "lon": -0.101583
+  },
+  "St Giles, London, England": {
+    "lat": 51.4746686,
+    "lon": -0.0848361
+  },
+  "Eton, Berkshire, England": {
+    "lat": 51.4885381,
+    "lon": -0.6091736
+  },
+  "Nutley, Essex, New Jersey, USA": {
+    "lat": 40.8223223,
+    "lon": -74.1598663
+  },
+  "Palo Alto, San Mateo, California, USA": {
+    "lat": 37.4688273,
+    "lon": -122.141075
+  },
+  "Cazenovia, New York, USA": {
+    "lat": 42.9300668,
+    "lon": -75.8526969
+  },
+  "Liss, Hampshire, England": {
+    "lat": 51.0415389,
+    "lon": -0.899455
+  },
+  "Brixton, London, England": {
+    "lat": 51.4633914,
+    "lon": -0.1148023
+  },
+  "Watkins, New York, USA": {
+    "lat": 42.3363805,
+    "lon": -76.9250488
+  },
+  "Krefeld, Germany": {
+    "lat": 51.3331205,
+    "lon": 6.5623343
+  },
+  "Aachen, Germany": {
+    "lat": 50.776351,
+    "lon": 6.083862
+  },
+  "New Castle, Pennsylvania, USA": {
+    "lat": 40.9999202,
+    "lon": -80.3471856
+  },
+  "Bernstadt, Saxony, Germany": {
+    "lat": 51.0474279,
+    "lon": 14.8269241
+  },
+  "Tettenhall, Wolverhampton, England": {
+    "lat": 52.5986015,
+    "lon": -2.1665631
+  },
+  "Wynnewood, Pennsylvania, USA": {
+    "lat": 40.0028514,
+    "lon": -75.2707469
+  },
+  "Colchester, England": {
+    "lat": 51.8896903,
+    "lon": 0.8994651
+  },
+  "Echternach, Luxembourg": {
+    "lat": 49.8120961,
+    "lon": 6.4214859
+  },
+  "Reichenau, Germany": {
+    "lat": 47.6956373,
+    "lon": 9.0592022
+  },
+  "North Lancing, Sussex, England": {
+    "lat": 50.8385772,
+    "lon": -0.320336
+  },
+  "Detroit, Michigan, USA": {
+    "lat": 42.3315509,
+    "lon": -83.0466403
+  },
+  "Evanston, USA": {
+    "lat": 42.0470043,
+    "lon": -87.6846053
+  },
+  "Osaka, Japan": {
+    "lat": 34.6937569,
+    "lon": 135.5014539
+  },
+  "Bibra, Saxony, Germany": {
+    "lat": 51.2064665,
+    "lon": 11.5835806
+  },
+  "Iowa, USA": {
+    "lat": 41.9216734,
+    "lon": -93.3122705
+  },
+  "Elis, Peloponnese, Greece": {
+    "lat": 37.8830916,
+    "lon": 21.3847776
+  },
+  "Chios, Greece": {
+    "lat": 38.3758131,
+    "lon": 26.0646552
+  },
+  "Arita, Wakayama Prefecture, Japan": {
+    "lat": 33.4908417,
+    "lon": 135.7357177
+  },
+  "Liminka, Northern Ostrobothnia, Finland": {
+    "lat": 64.8106448,
+    "lon": 25.4084842
+  },
+  "Hanoi, Vietnam": {
+    "lat": 21.0283334,
+    "lon": 105.854041
+  },
+  "Le Grand Abergement, Ain, France": {
+    "lat": 46.0727448,
+    "lon": 5.6831857
+  },
+  "Stockport, England": {
+    "lat": 53.407901,
+    "lon": -2.160243
+  },
+  "Burradoo, Bowral, New South Wales, Australia": {
+    "lat": -34.4971409,
+    "lon": 150.4186579
+  },
+  "Magdeburg, Germany": {
+    "lat": 52.1315889,
+    "lon": 11.6399609
+  },
+  "Ilmenau, Germany": {
+    "lat": 50.6867695,
+    "lon": 10.9142385
+  },
+  "Hanover, German": {
+    "lat": 52.3744779,
+    "lon": 9.7385532
+  },
+  "Hoboken, New Jersey, USA": {
+    "lat": 40.7433066,
+    "lon": -74.0323752
+  },
+  "Hoquiam, Washington, USA": {
+    "lat": 46.980929,
+    "lon": -123.889335
+  },
+  "Morristown, New Jersey, USA": {
+    "lat": 40.7970382,
+    "lon": -74.4809868
+  },
+  "Jintan, Jiangsu Province, China": {
+    "lat": 31.7233197,
+    "lon": 119.5825196
+  },
+  "Rockwell City, Calhoun County, Iowa, USA": {
+    "lat": 42.3952576,
+    "lon": -94.6338671
+  },
+  "Austin, Travis County, Texas, USA": {
+    "lat": 30.2711286,
+    "lon": -97.7436995
+  },
+  "Craigflower, Fife, Scotland": {
+    "lat": 56.0568331,
+    "lon": -3.5670514
+  },
+  "Boulogne-sur-Mer, France": {
+    "lat": 50.7259985,
+    "lon": 1.6118771
+  },
+  "Houston, Texas, USA": {
+    "lat": 29.7589382,
+    "lon": -95.3676974
+  },
+  "Wimbledon, London, England": {
+    "lat": 51.4220721,
+    "lon": -0.2052902
+  },
+  "Nedlands, WA, Australia": {
+    "lat": -31.9799209,
+    "lon": 115.8057167
+  },
+  "Marrakesh, Morocco": {
+    "lat": 31.6258257,
+    "lon": -7.9891608
+  },
+  "Fustat, Egypt": {
+    "lat": 30.007548,
+    "lon": 31.2349526
+  },
+  "Bromley, Kent, England": {
+    "lat": 51.0938993,
+    "lon": 0.8528776
+  },
+  "Rockville, Maryland, USA": {
+    "lat": 39.0817985,
+    "lon": -77.1516844
+  },
+  "Bratislava, Slovakia": {
+    "lat": 48.1516988,
+    "lon": 17.1093063
+  },
+  "Zhytomyr, Ukraine": {
+    "lat": 50.9080532,
+    "lon": 28.3867504
+  },
+  "Houthalen, Belgium": {
+    "lat": 51.031137,
+    "lon": 5.3720755
+  },
+  "Dnepropetrovsk, Ukraine": {
+    "lat": 48.4680221,
+    "lon": 35.0417711
+  },
+  "Ankara, Turkey": {
+    "lat": 39.9207759,
+    "lon": 32.8540497
+  },
+  "Hameln, Germany": {
+    "lat": 52.1039941,
+    "lon": 9.3561569
+  },
+  "Radford, Virginia, USA": {
+    "lat": 37.1343148,
+    "lon": -80.5749169
+  },
+  "Sherman Oaks, Los Angeles, California, USA": {
+    "lat": 34.1508718,
+    "lon": -118.448986
+  },
+  "Bronx, New York, USA": {
+    "lat": 40.8466508,
+    "lon": -73.8785937
+  },
+  "Lexington, Middlesex, Massachusetts, USA": {
+    "lat": 42.4473175,
+    "lon": -71.2245003
+  },
+  "Berkeley, Alameda, California, USA": {
+    "lat": 37.8708393,
+    "lon": -122.272863
+  },
+  "Woolsthorpe, Lincolnshire, England": {
+    "lat": 52.8096267,
+    "lon": -0.6322203
+  },
+  "Galatz, Romania": {
+    "lat": 45.4338215,
+    "lon": 28.0549395
+  },
+  "Madison, Dane, Wisconsin, USA": {
+    "lat": 43.074761,
+    "lon": -89.3837613
+  },
+  "Rye, Sussex, England": {
+    "lat": 50.9511871,
+    "lon": 0.7327667
+  },
+  "Boxborough, Massachusetts, USA": {
+    "lat": 42.4827512,
+    "lon": -71.5142726
+  },
+  "Loudun, France": {
+    "lat": 47.0102263,
+    "lon": 0.081826
+  },
+  "Barkly East, Eastern Cape, South Africa": {
+    "lat": -30.967953,
+    "lon": 27.595701
+  },
+  "Oxford, North Carolina, USA": {
+    "lat": 36.3107004,
+    "lon": -78.5908345
+  },
+  "Norfolk, Virginia, USA": {
+    "lat": 36.8493695,
+    "lon": -76.2899539
+  },
+  "Kfar Saba, Israel": {
+    "lat": 32.1802348,
+    "lon": 34.9180542
+  },
+  "New Brunswick, N.J., USA": {
+    "lat": 40.4951365,
+    "lon": -74.4439254
+  },
+  "Lysianka, Cherkasy Oblast, Ukraine": {
+    "lat": 49.2526497,
+    "lon": 30.8275126
+  },
+  "Ljubljana, Slovenia": {
+    "lat": 46.0500268,
+    "lon": 14.5069289
+  },
+  "Arkhangelsk, Russia": {
+    "lat": 64.543022,
+    "lon": 40.537121
+  },
+  "New Mexico, USA": {
+    "lat": 34.5802074,
+    "lon": -105.996047
+  },
+  "Lewisham, Kent, England": {
+    "lat": 51.1390866,
+    "lon": 1.2842143
+  },
+  "Bakewell, Derbyshire, England": {
+    "lat": 53.2148429,
+    "lon": -1.6758613
+  },
+  "Bengeo, Hertford, England": {
+    "lat": 51.8063247,
+    "lon": -0.0817045
+  },
+  "Botley, Oxford, England": {
+    "lat": 51.7525531,
+    "lon": -1.2813098
+  },
+  "St Nicholas, Aberdeen, Scotland": {
+    "lat": 57.1474916,
+    "lon": -2.0994084
+  },
+  "Holt, Norfolk, England": {
+    "lat": 52.9054382,
+    "lon": 1.0928322
+  },
+  "Rochester, Kent, England": {
+    "lat": 51.3883811,
+    "lon": 0.504925
+  },
+  "Fountain Hills, Arizona, USA": {
+    "lat": 33.6117105,
+    "lon": -111.717361
+  },
+  "Philadelphia, Pennsylvania , USA": {
+    "lat": 39.9527237,
+    "lon": -75.1635262
+  },
+  "Durham, England": {
+    "lat": 54.666667,
+    "lon": -1.75
+  },
+  "Bourg-en-Bresse, Ain, France": {
+    "lat": 46.2051192,
+    "lon": 5.2250324
+  },
+  "Ottawa, Ontario, Canada": {
+    "lat": 45.4208777,
+    "lon": -75.6901106
+  },
+  "The Hague, The Netherlands": {
+    "lat": 52.0749456,
+    "lon": 4.2696802
+  },
+  "Basingstoke, England": {
+    "lat": 51.262826,
+    "lon": -1.0861976
+  },
+  "Carnacally, Co Down, Ireland": {
+    "lat": 54.2330689,
+    "lon": -6.2933188
+  },
+  "Boynton Beach, Florida, USA": {
+    "lat": 26.5256179,
+    "lon": -80.0666026
+  },
+  "Schaffhausen, Switzerland": {
+    "lat": 47.6960491,
+    "lon": 8.634513
+  },
+  "East Hampton, New York, USA": {
+    "lat": 40.9633868,
+    "lon": -72.1847598
+  },
+  "Leiden, Holland": {
+    "lat": 52.1594747,
+    "lon": 4.4908843
+  },
+  "Kherson, Ukraine": {
+    "lat": 46.5421715,
+    "lon": 33.4079326
+  },
+  "Uberaba, Minas Gerais, Brazil": {
+    "lat": -19.750833,
+    "lon": -47.936666
+  },
+  "Tampa, Florida, USA": {
+    "lat": 27.9477595,
+    "lon": -82.458444
+  },
+  "Rostov-on-Don, Russia": {
+    "lat": 47.2610441,
+    "lon": 39.7249086
+  },
+  "AlÃ¨s, France": {
+    "lat": 43.5007482,
+    "lon": 2.4384748
+  },
+  "Sceaux, France": {
+    "lat": 47.5147285,
+    "lon": 4.0218449
+  },
+  "Rennes, Bretagne, France": {
+    "lat": 48.1113387,
+    "lon": -1.6800198
+  },
+  "Ganacker, Bavaria, Germany": {
+    "lat": 48.7169354,
+    "lon": 12.6874514
+  },
+  "Grasse, Alpes-Maritimes, France": {
+    "lat": 43.6589011,
+    "lon": 6.9239103
+  },
+  "Neuilly-sur-Seine, France, France": {
+    "lat": 48.884683,
+    "lon": 2.2695658
+  },
+  "Sainte-Olive, Bresse, France": {
+    "lat": 46.0188678,
+    "lon": 4.9315723
+  },
+  "Uccle, Belgium": {
+    "lat": 50.8035441,
+    "lon": 4.3338445
+  },
+  "Iraq": {
+    "lat": 33.0955793,
+    "lon": 44.1749775
+  },
+  "La Paz, Bolivia": {
+    "lat": -16.4955455,
+    "lon": -68.1336229
+  },
+  "Roseville, California, USA": {
+    "lat": 38.7521235,
+    "lon": -121.2880059
+  },
+  "Elsinore, Denmark": {
+    "lat": 56.0348739,
+    "lon": 12.6130073
+  },
+  "Utzenstorf, Switzerland": {
+    "lat": 47.1293896,
+    "lon": 7.5577607
+  },
+  "Sea Bright, New Jersey, USA": {
+    "lat": 40.3615488,
+    "lon": -73.9742051
+  },
+  "Newcastle, England": {
+    "lat": 54.9738474,
+    "lon": -1.6131572
+  },
+  "Lavagh, County Leitrim, Ireland": {
+    "lat": 53.9403594,
+    "lon": -7.993263
+  },
+  "Stone, Buckinghamshire, England": {
+    "lat": 51.8042697,
+    "lon": -0.8671291
+  },
+  "Sherborne, Gloucestershire, England": {
+    "lat": 51.8313924,
+    "lon": -1.7530327
+  },
+  "Chalford, Gloucestershire, England": {
+    "lat": 51.7270649,
+    "lon": -2.1546482
+  },
+  "Ayr, Scotland": {
+    "lat": 55.4628044,
+    "lon": -4.6302502
+  },
+  "York, England": {
+    "lat": 53.9656578,
+    "lon": -1.0743052
+  },
+  "Great Oakley, Essex, England": {
+    "lat": 51.9045677,
+    "lon": 1.1906148
+  },
+  "Bayswater, London, England": {
+    "lat": 51.5122764,
+    "lon": -0.1883854
+  },
+  "Buckhaven, Fife, Scotland": {
+    "lat": 56.1710696,
+    "lon": -3.0333966
+  },
+  "Leslie, Fife, Scotland": {
+    "lat": 56.2013764,
+    "lon": -3.215211
+  },
+  "Chelsea, London, England": {
+    "lat": 51.4875167,
+    "lon": -0.1687007
+  },
+  "Peoria, Illinois, USA": {
+    "lat": 40.6938609,
+    "lon": -89.5891008
+  },
+  "Dowanhill, Glasgow, Scotland": {
+    "lat": 55.8761474,
+    "lon": -4.2995903
+  },
+  "Ormskirk, Lancashire, England": {
+    "lat": 53.5673603,
+    "lon": -2.8859603
+  },
+  "Dorking, Surrey, England": {
+    "lat": 51.2325184,
+    "lon": -0.3306724
+  },
+  "Carmyllie, Angus, Scotland": {
+    "lat": 56.5731444,
+    "lon": -2.7348882
+  },
+  "Portsoy, Scotland": {
+    "lat": 57.6815502,
+    "lon": -2.6907423
+  },
+  "Peebles, Scotland": {
+    "lat": 55.6517553,
+    "lon": -3.1885456
+  },
+  "Broughshane, Co. Antrim, Ireland": {
+    "lat": 54.8936924,
+    "lon": -6.2037804
+  },
+  "Bootle, Liverpool, England": {
+    "lat": 53.4506931,
+    "lon": -2.9948834
+  },
+  "Lochgilphead, Argyll, Scotland": {
+    "lat": 56.0375069,
+    "lon": -5.433147
+  },
+  "Reichenbach, Switzerland": {
+    "lat": 46.623593,
+    "lon": 7.6908247
+  },
+  "Moffat, Scotland": {
+    "lat": 55.3332407,
+    "lon": -3.444357
+  },
+  "San Mateo, California, USA": {
+    "lat": 37.496904,
+    "lon": -122.3330573
+  },
+  "Minneapolis, Minnesota, USA": {
+    "lat": 44.9772995,
+    "lon": -93.2654692
+  },
+  "Garden (near Stirling), Scotland": {
+    "lat": 56.1174629,
+    "lon": -3.9392773
+  },
+  "Balgonie, Fife, Scotland": {
+    "lat": 56.1934278,
+    "lon": -3.0979458
+  },
+  "Carrow Abbey,  England": {
+    "lat": 52.6181805,
+    "lon": 1.3107722
+  },
+  "Keith, Scotland": {
+    "lat": 57.5427292,
+    "lon": -2.9523291
+  },
+  "Epe, The Netherlands": {
+    "lat": 52.3270371,
+    "lon": 5.9631945
+  },
+  "Dordrecht, Netherlands": {
+    "lat": 51.7689546,
+    "lon": 4.6867891
+  },
+  "Contra Costa County, USA": {
+    "lat": 37.9034806,
+    "lon": -121.9175345
+  },
+  "Ashwood, Woking, Surrey, England": {
+    "lat": 51.3135433,
+    "lon": -0.551622
+  },
+  "Recife, Brazil": {
+    "lat": -8.0584933,
+    "lon": -34.8848193
+  },
+  "Valenciennes, France": {
+    "lat": 50.3579317,
+    "lon": 3.5234846
+  },
+  "Neuilly-sur-Seine, France": {
+    "lat": 48.884683,
+    "lon": 2.2695658
+  },
+  "Villefranche, Beaujolais, France": {
+    "lat": 46.127867,
+    "lon": 4.6237966
+  },
+  "Alanthus Grove, Gentry County, Missouri, USA": {
+    "lat": 40.3069365,
+    "lon": -94.5441279
+  },
+  "Ostend, Belgium": {
+    "lat": 51.2258565,
+    "lon": 2.919496
+  },
+  "Bonheiden, Belgium": {
+    "lat": 51.0184586,
+    "lon": 4.5845019
+  },
+  "Dax, France": {
+    "lat": 43.7084065,
+    "lon": -1.0518771
+  },
+  "Morteau, Doubs, France": {
+    "lat": 47.0569367,
+    "lon": 6.6047189
+  },
+  "St Ouen, Loir-et-Cher, France": {
+    "lat": 47.8083034,
+    "lon": 1.0771718
+  },
+  "Fourmies (Nord), France": {
+    "lat": 50.0171741,
+    "lon": 4.0458492
+  },
+  "Figeac, Lot, France": {
+    "lat": 44.6092335,
+    "lon": 2.0324321
+  },
+  "Morlaix, France": {
+    "lat": 48.5824932,
+    "lon": -3.8331972
+  },
+  "Lisieux, France": {
+    "lat": 49.1460831,
+    "lon": 0.2255168
+  },
+  "La Baule, Loire-Atlantique, France": {
+    "lat": 47.2843726,
+    "lon": -2.3951595
+  },
+  "Strasbourg, Bas-Rhin, France": {
+    "lat": 48.584614,
+    "lon": 7.7507127
+  },
+  "Fontanil-Cornillon, Grenoble, France": {
+    "lat": 45.2556949,
+    "lon": 5.6654815
+  },
+  "Le Pouliguen, Pays de la Loire, France": {
+    "lat": 47.2714307,
+    "lon": -2.4310663
+  },
+  "Les Sables-d'Olonne, France": {
+    "lat": 46.4990505,
+    "lon": -1.7767859
+  },
+  "St Malo, France": {
+    "lat": 48.649518,
+    "lon": -2.0260409
+  },
+  "Cluses, Savoy, France": {
+    "lat": 46.0603171,
+    "lon": 6.5804218
+  },
+  "Esch-sur-Alzette, Luxembourg": {
+    "lat": 49.4959628,
+    "lon": 5.9850306
+  },
+  "Metz, Lorraine, France": {
+    "lat": 49.1196964,
+    "lon": 6.1763552
+  },
+  "Pest, Hungary": {
+    "lat": 47.4942216,
+    "lon": 19.0529846
+  },
+  "Toxteth, Liverpool, England": {
+    "lat": 53.3912422,
+    "lon": -2.9662407
+  },
+  "Oakland, California, USA": {
+    "lat": 37.8044557,
+    "lon": -122.271356
+  },
+  "Brighton, Sussex, England": {
+    "lat": 50.8356838,
+    "lon": -0.2939213
+  },
+  "Strood, Kent, England": {
+    "lat": 51.058574,
+    "lon": 0.6470424
+  },
+  "Headington, Oxfordshire, England": {
+    "lat": 51.7601673,
+    "lon": -1.2109282
+  },
+  "Lagos, Portugal": {
+    "lat": 37.1027964,
+    "lon": -8.6728689
+  },
+  "Coimbra, Portugal": {
+    "lat": 40.2111931,
+    "lon": -8.4294632
+  },
+  "Itapecuru-Mirim, Maranhao, Brazil": {
+    "lat": -3.3973569,
+    "lon": -44.3560724
+  },
+  "Te Kuiti, New Zealand": {
+    "lat": -38.3341925,
+    "lon": 175.1657117
+  },
+  "Christchurch, New Zealand": {
+    "lat": -43.530955,
+    "lon": 172.6364343
+  },
+  "Hilltown, Bucks county, Pennsylvania, USA": {
+    "lat": 40.3421754,
+    "lon": -75.2345751
+  },
+  "Nakskov, Denmark": {
+    "lat": 54.8304979,
+    "lon": 11.1493517
+  },
+  "Lausen, Basel-Land, Switzerland": {
+    "lat": 47.4736459,
+    "lon": 7.7591139
+  },
+  "Spandau, Germany": {
+    "lat": 52.519308,
+    "lon": 13.1818225
+  },
+  "Farnham, Surrey, England": {
+    "lat": 51.2151749,
+    "lon": -0.7984854
+  },
+  "Marrum, The Netherlands": {
+    "lat": 53.3235573,
+    "lon": 5.8017153
+  },
+  "Garrelsweer, The Netherlands": {
+    "lat": 53.3112224,
+    "lon": 6.7700401
+  },
+  "Itens, Friesland, Netherlands": {
+    "lat": 53.1009875,
+    "lon": 5.6433419
+  },
+  "Halmstad, Sweden": {
+    "lat": 56.6739826,
+    "lon": 12.8574827
+  },
+  "Hunslet, Leeds, England": {
+    "lat": 53.7786185,
+    "lon": -1.5282492
+  },
+  "East Linton, East Lothian, Scotland": {
+    "lat": 55.9871488,
+    "lon": -2.6628247
+  },
+  "Ashland, Jackson, Oregon, USA": {
+    "lat": 42.1972487,
+    "lon": -122.7153995
+  },
+  "Belfast, Northern Ireland": {
+    "lat": 54.5975804,
+    "lon": -5.9277097
+  },
+  "Hardwick, Buckinghamshire, England": {
+    "lat": 51.8623915,
+    "lon": -0.8433467
+  },
+  "Woolwich, Kent, England": {
+    "lat": 51.1941751,
+    "lon": 1.1883443
+  },
+  "Isle of Skye, Scotland": {
+    "lat": 57.3630079,
+    "lon": -6.3021737
+  },
+  "Lisburn, Co Antrim, Ireland": {
+    "lat": 54.5112856,
+    "lon": -6.046717
+  },
+  "East Heddon, Northumberland, England": {
+    "lat": 54.9958357,
+    "lon": -1.8039476
+  },
+  "St Austell, Cornwall, England": {
+    "lat": 50.338466,
+    "lon": -4.7882104
+  },
+  "Bishopstowe, Natal, South Africa": {
+    "lat": -29.5885116,
+    "lon": 30.4304342
+  },
+  "Lichfield, Staffordshire, England": {
+    "lat": 52.6843696,
+    "lon": -1.8275286
+  },
+  "Hoddom, Dumfries, Scotland": {
+    "lat": 55.0443434,
+    "lon": -3.3226939
+  },
+  "High Holborn, London, England": {
+    "lat": 51.5173406,
+    "lon": -0.1221274
+  },
+  "Hindley, Lancashire, England": {
+    "lat": 53.7922469,
+    "lon": -2.6785745
+  },
+  "Ruislip, London, England": {
+    "lat": 51.5714026,
+    "lon": -0.4213375
+  },
+  "Milltown of Rothiemay, Moray, Scotland": {
+    "lat": 57.5225539,
+    "lon": -2.7566902
+  },
+  "Tower Ward, London, England": {
+    "lat": 51.5105025,
+    "lon": -0.0785173
+  },
+  "Mortlake, London, England": {
+    "lat": 51.4698873,
+    "lon": -0.2685226
+  },
+  "Bluefield, West Virginia, USA": {
+    "lat": 37.2698395,
+    "lon": -81.2223195
+  },
+  "New Jersey, USA": {
+    "lat": 40.0757384,
+    "lon": -74.4041622
+  },
+  "Woburn, Bedfordshire, England": {
+    "lat": 51.9887486,
+    "lon": -0.6192052
+  },
+  "Greenwich, London, England": {
+    "lat": 51.4686256,
+    "lon": 0.0488306
+  },
+  "Alresford, Hampshire, England": {
+    "lat": 51.0895586,
+    "lon": -1.1629772
+  },
+  "Bloomsbury, London, England": {
+    "lat": 51.5210963,
+    "lon": -0.1289635
+  },
+  "North Tawton, Devon, England": {
+    "lat": 50.7982054,
+    "lon": -3.8841822
+  },
+  "Potterspury, Northamptonshire, England": {
+    "lat": 52.0824668,
+    "lon": -0.895095
+  },
+  "Maldon, Victoria, Australia": {
+    "lat": -36.9963144,
+    "lon": 144.0689457
+  },
+  "Camberwell, Victoria, Australia": {
+    "lat": -37.8384623,
+    "lon": 145.0740767
+  },
+  "Slough, Buckinghamshire, England": {
+    "lat": 51.5098978,
+    "lon": -0.5357882
+  },
+  "Hawkhurst, Kent, England": {
+    "lat": 51.0476326,
+    "lon": 0.5109912
+  },
+  "Bartlesville, Oklahoma, USA": {
+    "lat": 36.7421089,
+    "lon": -95.9528877
+  },
+  "Baton Rouge, Louisiana, USA": {
+    "lat": 30.4494155,
+    "lon": -91.1869659
+  },
+  "Chryston, Lanarkshire, Scotland": {
+    "lat": 55.9064621,
+    "lon": -4.0993107
+  },
+  "Ormesby, Yorkshire, England": {
+    "lat": 53.7905912,
+    "lon": -1.419482
+  },
+  "Paisley, Renfrewshire, Scotland": {
+    "lat": 55.8455828,
+    "lon": -4.4239646
+  },
+  "Hampstead, England": {
+    "lat": 51.55653,
+    "lon": -0.1783011
+  },
+  "Etna, New Hampshire, USA": {
+    "lat": 43.6928489,
+    "lon": -72.2217561
+  },
+  "Girvan, Ayrshire, Scotland": {
+    "lat": 55.2413151,
+    "lon": -4.8553579
+  },
+  "Beckenham, Kent, England": {
+    "lat": 51.3751615,
+    "lon": 0.6282967
+  },
+  "Weybridge, Surrey, England": {
+    "lat": 51.3727175,
+    "lon": -0.4549297
+  },
+  "Largo, Fife, Scotland": {
+    "lat": 56.2128399,
+    "lon": -2.9399797
+  },
+  "Ambler, Pennsylvania, USA": {
+    "lat": 40.1545535,
+    "lon": -75.2215651
+  },
+  "Firle, Sussex, England": {
+    "lat": 50.8461727,
+    "lon": 0.1001169
+  },
+  "Cambuslang, Glasgow, Scotland": {
+    "lat": 55.8285194,
+    "lon": -4.1708171
+  },
+  "Rabat, Morocco": {
+    "lat": 34.0218454,
+    "lon": -6.8408929
+  },
+  "Victoria Infirmary, Glasgow, Scotland": {
+    "lat": 55.8283805,
+    "lon": -4.267171
+  },
+  "Merchiston Castle, Edinburgh, Scotland": {
+    "lat": 55.9333409,
+    "lon": -3.2138918
+  },
+  "Luton, Bedfordshire, England": {
+    "lat": 51.9059247,
+    "lon": -0.3940818
+  },
+  "Southwick, Sussex, England": {
+    "lat": 50.8345258,
+    "lon": -0.2383308
+  },
+  "Burntisland, Fife, Scotland": {
+    "lat": 56.0593631,
+    "lon": -3.2330993
+  },
+  "Burnham-on-Sea, Somerset, England": {
+    "lat": 51.2377356,
+    "lon": -2.998695
+  },
+  "St Mary Woolnoth, London, England": {
+    "lat": 51.5127597,
+    "lon": -0.0880229
+  },
+  "Ghazipur, India": {
+    "lat": 25.6034862,
+    "lon": 83.5075888
+  },
+  "Morningside, Edinburgh, Scotland": {
+    "lat": 55.9296409,
+    "lon": -3.2100796
+  },
+  "Belfast (Port Fairy), Victoria, Australia": {
+    "lat": -38.3607231,
+    "lon": 142.259777
+  },
+  "Edmonton, London, England": {
+    "lat": 51.6267968,
+    "lon": -0.0769118
+  },
+  "Ventnor, Isle of Wight, England": {
+    "lat": 50.594976,
+    "lon": -1.2029747
+  },
+  "Huddersfield, Yorkshire, England": {
+    "lat": 53.6466645,
+    "lon": -1.7822482
+  },
+  "Kilmarnock, Scotland": {
+    "lat": 55.6100589,
+    "lon": -4.4964652
+  },
+  "Morrilton, Arkansas, USA": {
+    "lat": 35.154026,
+    "lon": -92.7429266
+  },
+  "Ottawa, Kansas, USA": {
+    "lat": 39.1273653,
+    "lon": -97.6568094
+  },
+  "New Bedford, Massachusetts, USA": {
+    "lat": 41.6362152,
+    "lon": -70.934205
+  },
+  "Ashford, Kent, England": {
+    "lat": 51.148555,
+    "lon": 0.8722566
+  },
+  "Morant Bay, Jamaica": {
+    "lat": 17.8820832,
+    "lon": -76.4115503
+  },
+  "Kinross, Scotland": {
+    "lat": 56.2033706,
+    "lon": -3.4214864
+  },
+  "Montrose, Angus, Scotland": {
+    "lat": 56.7114295,
+    "lon": -2.4681544
+  },
+  "Montrose, Scotland": {
+    "lat": 56.7114295,
+    "lon": -2.4681544
+  },
+  "Acapulco, Mexico": {
+    "lat": 16.8680495,
+    "lon": -99.8940182
+  },
+  "Morley, Yorkshire, England": {
+    "lat": 53.7440745,
+    "lon": -1.5988598
+  },
+  "Godalming, England": {
+    "lat": 51.1857892,
+    "lon": -0.6149074
+  },
+  "At sea": {
+    "lat": 12.1463353,
+    "lon": -68.27611
+  },
+  "Tulancingo, Hidalgo, Mexico": {
+    "lat": 20.0839585,
+    "lon": -98.3635381
+  },
+  "Novelda, Alicante, Spain": {
+    "lat": 38.3842144,
+    "lon": -0.7674146
+  },
+  "Tuxpan, Veracruz, Mexico": {
+    "lat": 20.9298337,
+    "lon": -97.3936617
+  },
+  "Manizales, Colombia": {
+    "lat": 5.0743694,
+    "lon": -75.5081167
+  },
+  "Cali, Colombia": {
+    "lat": 3.4519988,
+    "lon": -76.5325259
+  },
+  "CÃ¡diz, Spain": {
+    "lat": 42.8734659,
+    "lon": -8.9156122
+  },
+  "Bogota, Colombia": {
+    "lat": 4.6534109,
+    "lon": -74.0836547
+  },
+  "St Hilaire-Cottes, Pas-de-Calais, France": {
+    "lat": 50.5703444,
+    "lon": 2.4140311
+  },
+  "St Genest, Loire, France": {
+    "lat": 45.4460991,
+    "lon": 4.3360534
+  },
+  "Southwold, Suffolk, England": {
+    "lat": 52.3260841,
+    "lon": 1.6793095
+  },
+  "Switzerland": {
+    "lat": 46.7985624,
+    "lon": 8.2319736
+  },
+  "Clark-Lindsey Village, Urbana, Illinois, USA": {
+    "lat": 40.083617,
+    "lon": -88.2069379
+  },
+  "Auxerre, Bourgogne, France": {
+    "lat": 47.7961287,
+    "lon": 3.570579
+  },
+  "Maplewood, New Jersey, USA": {
+    "lat": 40.7312123,
+    "lon": -74.2734808
+  },
+  "Magheragall, County Antrim, Ireland": {
+    "lat": 54.5312753,
+    "lon": -6.1324913
+  },
+  "Holywood, County Down, Ireland": {
+    "lat": 54.6404494,
+    "lon": -5.8361723
+  },
+  "Saint-Omer, France": {
+    "lat": 50.7515771,
+    "lon": 2.2534183
+  },
+  "Clermont-Ferrand, France": {
+    "lat": 45.7774551,
+    "lon": 3.0819427
+  },
+  "Waycross, Ware County, Georgia, USA": {
+    "lat": 31.2135511,
+    "lon": -82.3540178
+  },
+  "San Antonio, Bexar County, Texas, USA": {
+    "lat": 29.4246002,
+    "lon": -98.4951405
+  },
+  "Ghent, Belgium": {
+    "lat": 51.0538286,
+    "lon": 3.7250121
+  },
+  "Fordingbridge, Hampshire, England": {
+    "lat": 50.926829,
+    "lon": -1.7917011
+  },
+  "England": {
+    "lat": 52.5310214,
+    "lon": -1.2649062
+  },
+  "Ypres, Belgium": {
+    "lat": 50.8521947,
+    "lon": 2.8846047
+  },
+  "College Park, Maryland, USA": {
+    "lat": 38.980666,
+    "lon": -76.9369189
+  },
+  "Forfar, Angus, Scotland": {
+    "lat": 56.6443013,
+    "lon": -2.888212
+  },
+  "Shelby County, Kentucky, USA": {
+    "lat": 38.2215625,
+    "lon": -85.2111267
+  },
+  "Maida Vale, London, England": {
+    "lat": 51.527592,
+    "lon": -0.1905916
+  },
+  "Savannah-La-Mar, Jamaica": {
+    "lat": 18.2257105,
+    "lon": -78.1291844
+  },
+  "Lichtensteig, St Gallen, Switzerland": {
+    "lat": 47.3231436,
+    "lon": 9.0874862
+  },
+  "Wolsztyn, Poland": {
+    "lat": 52.11725,
+    "lon": 16.1126622
+  },
+  "Pittsburgh, Pennsylvania, USA": {
+    "lat": 40.4416941,
+    "lon": -79.9900861
+  },
+  "Barcelona, Venezuela": {
+    "lat": 10.1325951,
+    "lon": -64.6819583
+  },
+  "Yaguaraparo, Venezuela": {
+    "lat": 10.5699189,
+    "lon": -62.8273516
+  },
+  "Toivakka, Finland": {
+    "lat": 62.0962173,
+    "lon": 26.0804935
+  },
+  "Cavalaire, Var, France": {
+    "lat": 43.1722952,
+    "lon": 6.531917
+  },
+  "Thaon, Calvados, France": {
+    "lat": 49.2576169,
+    "lon": -0.4541322
+  },
+  "Blet, Cher, France": {
+    "lat": 46.8956307,
+    "lon": 2.7315391
+  },
+  "Mantes-sur-Seine, France": {
+    "lat": 48.998991,
+    "lon": 1.6502747
+  },
+  "Brookline, Boston, Massachusetts, USA": {
+    "lat": 42.3461245,
+    "lon": -71.1002643
+  },
+  "BogotÃ¡, Colombia": {
+    "lat": 4.6534109,
+    "lon": -74.0836547
+  },
+  "Logrono, Spain": {
+    "lat": 42.4661196,
+    "lon": -2.4396676
+  },
+  "Soro, Denmark": {
+    "lat": 55.4365822,
+    "lon": 11.5629363
+  },
+  "Freiberg, Germany": {
+    "lat": 50.9169415,
+    "lon": 13.3428889
+  },
+  "Kerala, India": {
+    "lat": 10.3528744,
+    "lon": 76.5120396
+  },
+  "Red Bank, New Jersey, USA": {
+    "lat": 40.3470543,
+    "lon": -74.0643065
+  },
+  "Bensberg, Germany": {
+    "lat": 51.2323776,
+    "lon": 9.3541143
+  },
+  "Erlangen, Germany": {
+    "lat": 49.5891571,
+    "lon": 10.9812072
+  },
+  "Langenthal, Bern, Switzerland": {
+    "lat": 47.2116019,
+    "lon": 7.788786
+  },
+  "Brunswick, Germany": {
+    "lat": 52.2646577,
+    "lon": 10.5236066
+  },
+  "Chemnitz, Germany": {
+    "lat": 50.8323531,
+    "lon": 12.918914
+  },
+  "Coldharbour, Surrey, England": {
+    "lat": 51.1843636,
+    "lon": -0.3541137
+  },
+  "Potsdam, Germany": {
+    "lat": 52.4009309,
+    "lon": 13.0591397
+  },
+  "Gars am Kamp, Lower Austria, Austria": {
+    "lat": 48.5951053,
+    "lon": 15.6594592
+  },
+  "Kasko, Vaasa, Finland": {
+    "lat": 63.0735016,
+    "lon": 21.6592281
+  },
+  "Burtnieki, Latvia": {
+    "lat": 57.6951865,
+    "lon": 25.2751955
+  },
+  "White Sulphur Springs, Greenbrier County, West Virginia, USA": {
+    "lat": 37.7965149,
+    "lon": -80.2975734
+  },
+  "Stourbridge, Worcestershire, England": {
+    "lat": 52.3969858,
+    "lon": -2.2424269
+  },
+  "Creeslough, County Donegal, Ireland": {
+    "lat": 55.122438,
+    "lon": -7.9078234
+  },
+  "Wyndmoor, Pennsylvania, USA": {
+    "lat": 40.0853435,
+    "lon": -75.1940207
+  },
+  "Didsbury, Manchester,England": {
+    "lat": 53.4168134,
+    "lon": -2.2321381
+  },
+  "Narutowicz, Poland": {
+    "lat": 52.2187514,
+    "lon": 20.9849542
+  },
+  "Barnsley, Yorkshire, England": {
+    "lat": 53.5527719,
+    "lon": -1.4827755
+  },
+  "Winnsboro, South Carolina, USA": {
+    "lat": 34.3807012,
+    "lon": -81.0864776
+  },
+  "Tatebayashi, Gunma Prefecture, Japan": {
+    "lat": 36.2454338,
+    "lon": 139.5421576
+  },
+  "Ashikaga, Japan": {
+    "lat": 36.3400358,
+    "lon": 139.4488397
+  },
+  "Dover, New Hampshire, USA": {
+    "lat": 43.1981117,
+    "lon": -70.8739761
+  },
+  "Montgomery, Alabama, USA": {
+    "lat": 32.37742,
+    "lon": -86.3091683
+  },
+  "Osaka, Wakayama Prefecture, Japan": {
+    "lat": 34.2547407,
+    "lon": 135.1395119
+  },
+  "Nara, Japan": {
+    "lat": 34.2963089,
+    "lon": 135.8816819
+  },
+  "Kyoto, Japan": {
+    "lat": 35.0115754,
+    "lon": 135.7681441
+  },
+  "Inverness, Scotland": {
+    "lat": 57.4790124,
+    "lon": -4.225739
+  },
+  "Hyderabad, India": {
+    "lat": 17.360589,
+    "lon": 78.4740613
+  },
+  "Annecy, France": {
+    "lat": 45.8992348,
+    "lon": 6.1288847
+  },
+  "Berlin-Wilmersdorf, Germany": {
+    "lat": 52.48137,
+    "lon": 13.3077406
+  },
+  "Hiroshima, Japan": {
+    "lat": 34.3917241,
+    "lon": 132.4517589
+  },
+  "Kofu, Japan": {
+    "lat": 35.6652481,
+    "lon": 138.5710441
+  },
+  "Urbana, USA": {
+    "lat": 40.1117174,
+    "lon": -88.207301
+  },
+  "New Rochelle, New York, USA": {
+    "lat": 40.9115386,
+    "lon": -73.7826363
+  },
+  "Marburg, Germany": {
+    "lat": 50.8090106,
+    "lon": 8.7704695
+  },
+  "Blaricum, Netherlands": {
+    "lat": 52.2725049,
+    "lon": 5.2441379
+  },
+  "Csaszlo, Szabolcs-Szatmar-Bereg, Hungary": {
+    "lat": 47.9142421,
+    "lon": 22.7224995
+  },
+  "Brisbane, Australia": {
+    "lat": -27.4689623,
+    "lon": 153.0235009
+  },
+  "Sopron, Hungary": {
+    "lat": 47.6803063,
+    "lon": 16.5983457
+  },
+  "Duc Tho District, Ha Tinh Province, Vietnam": {
+    "lat": 18.4886823,
+    "lon": 105.6052929
+  },
+  "Ho Chi Minh City, Vietnam": {
+    "lat": 10.7763897,
+    "lon": 106.7011391
+  },
+  "Buda, Hungary": {
+    "lat": 47.4938673,
+    "lon": 19.0417582
+  },
+  "Southsea, Portsmouth, Hampshire, England": {
+    "lat": 50.7804271,
+    "lon": -1.0871556
+  },
+  "Wrexham, Wrexham, Wales": {
+    "lat": 53.0465084,
+    "lon": -2.9937869
+  },
+  "Pittsfield, Massachusetts, USA": {
+    "lat": 42.4484778,
+    "lon": -73.2541069
+  },
+  "Hedemora, Dalarna, Sweden": {
+    "lat": 60.2777918,
+    "lon": 15.9885408
+  },
+  "Antony, Hauts-de-Seine, France": {
+    "lat": 48.753554,
+    "lon": 2.2959423
+  },
+  "Rehovot, Israel": {
+    "lat": 31.8952532,
+    "lon": 34.8105616
+  },
+  "Vejle, Denmark": {
+    "lat": 55.707931,
+    "lon": 9.5329419
+  },
+  "Juva, Finland": {
+    "lat": 61.8961369,
+    "lon": 27.859727
+  },
+  "Edmonton, Alberta, Canada": {
+    "lat": 53.5462055,
+    "lon": -113.491241
+  },
+  "Zakopane, Poland": {
+    "lat": 49.2969114,
+    "lon": 19.9504753
+  },
+  "Adelaide, South Australia, Australia": {
+    "lat": -34.9281805,
+    "lon": 138.5999312
+  },
+  "Independence, Iowa, USA": {
+    "lat": 42.4685661,
+    "lon": -91.8891187
+  },
+  "Harlingen, Texas, USA": {
+    "lat": 26.1907543,
+    "lon": -97.6960599
+  },
+  "Vinnytsya, Ukraine": {
+    "lat": 49.2394952,
+    "lon": 28.5113787
+  },
+  "Gallipoli, Lecce, Italy": {
+    "lat": 40.05672,
+    "lon": 17.996423
+  },
+  "Ostashkov, Russia": {
+    "lat": 57.1557583,
+    "lon": 33.1013213
+  },
+  "Krefeld, German": {
+    "lat": 51.3331205,
+    "lon": 6.5623343
+  },
+  "Acton, England": {
+    "lat": 51.5081402,
+    "lon": -0.2732607
+  },
+  "Bad Radkersburg, Styria, Austria": {
+    "lat": 46.6880556,
+    "lon": 15.9880546
+  },
+  "Middlesex, England": {
+    "lat": 51.5460558,
+    "lon": -0.2537791
+  },
+  "Trumpington, England": {
+    "lat": 52.173992,
+    "lon": 0.1121163
+  },
+  "Reporoa, New Zealand": {
+    "lat": -38.4346745,
+    "lon": 176.3466687
+  },
+  "Rich Hill, Bates, Missouri, USA": {
+    "lat": 38.0964191,
+    "lon": -94.3610616
+  },
+  "Englefield Green, Surrey, England": {
+    "lat": 51.4282771,
+    "lon": -0.5749432
+  },
+  "Gomel, Belarus": {
+    "lat": 52.4238936,
+    "lon": 31.0131698
+  },
+  "Kutaisi, Georgia": {
+    "lat": 42.2596791,
+    "lon": 42.6633738
+  },
+  "Avignon, France": {
+    "lat": 43.9492493,
+    "lon": 4.8059012
+  },
+  "Newcastle upon Tyne, Northumberland, England": {
+    "lat": 54.9751136,
+    "lon": -1.6117595
+  },
+  "Kilmun, Argyll, Scotland": {
+    "lat": 55.9900082,
+    "lon": -4.9278762
+  },
+  "Shaanxi province, China": {
+    "lat": 35.5895959,
+    "lon": 109.3013107
+  },
+  "Chang'an, China": {
+    "lat": 34.261004,
+    "lon": 108.9423363
+  },
+  "Beaufort West, Cape Province, South Africa": {
+    "lat": -32.353611,
+    "lon": 22.580556
+  },
+  "Bennington, Oklahoma, USA": {
+    "lat": 34.0045412,
+    "lon": -96.0377597
+  },
+  "Houston, Harris, Texas, USA": {
+    "lat": 29.7589382,
+    "lon": -95.3676974
+  },
+  "Clontarf, Dublin, Ireland": {
+    "lat": 53.3608138,
+    "lon": -6.1968538
+  },
+  "Chagrin Falls, Ohio, USA": {
+    "lat": 41.436589,
+    "lon": -81.3855058
+  },
+  "Skokie, Illinois, USA": {
+    "lat": 42.0262972,
+    "lon": -87.7521069
+  },
+  "Arnsberg, Westphalia, Germany": {
+    "lat": 51.4002384,
+    "lon": 8.0605908
+  },
+  "Mirecourt, Vosges, France": {
+    "lat": 48.3005302,
+    "lon": 6.1312974
+  },
+  "Mutzig, Alsace": {
+    "lat": 48.5395474,
+    "lon": 7.4555778
+  },
+  "St-Servan-sur-Mer, France": {
+    "lat": 48.6360156,
+    "lon": -2.0146326
+  },
+  "Neuilly-sur-Seine, Paris, France": {
+    "lat": 48.8777548,
+    "lon": 2.2603775
+  },
+  "Dieppe, France": {
+    "lat": 49.9246182,
+    "lon": 1.0791444
+  },
+  "Winter Haven, Florida, USA": {
+    "lat": 28.0222435,
+    "lon": -81.7328568
+  },
+  "Ealing, London, England": {
+    "lat": 51.5126553,
+    "lon": -0.3051952
+  },
+  "Sevenoaks, Kent, England": {
+    "lat": 51.2745218,
+    "lon": 0.1961166
+  },
+  "Toulouse, Haute-Garonne, France": {
+    "lat": 43.6044622,
+    "lon": 1.4442469
+  },
+  "Oak Park, Illinois, USA": {
+    "lat": 41.8878145,
+    "lon": -87.7887615
+  },
+  "Girona, Spain": {
+    "lat": 41.9793006,
+    "lon": 2.8199439
+  },
+  "Morlanwelz, Belgium": {
+    "lat": 50.4550743,
+    "lon": 4.2425425
+  },
+  "Croze, Creuse, France": {
+    "lat": 45.8176703,
+    "lon": 2.1608842
+  },
+  "Hildesheim, Germany": {
+    "lat": 52.1527188,
+    "lon": 9.9518083
+  },
+  "Grasswil, Bern, Switzerland": {
+    "lat": 47.1423921,
+    "lon": 7.6671445
+  },
+  "Viterbo, Italy": {
+    "lat": 42.4929522,
+    "lon": 11.9488136
+  },
+  "Bucksport, South Carolina, USA": {
+    "lat": 33.672867,
+    "lon": -79.1125629
+  },
+  "York, Pennsylvania, USA": {
+    "lat": 39.962493,
+    "lon": -76.7276989
+  },
+  "Toledo, Ohio, USA": {
+    "lat": 41.6529143,
+    "lon": -83.5378173
+  },
+  "Orenburg, Russia": {
+    "lat": 51.7671248,
+    "lon": 55.0978517
+  },
+  "Amsterdam, Holland": {
+    "lat": 52.3730796,
+    "lon": 4.8924534
+  },
+  "Mar del Plata, Argentina": {
+    "lat": -37.9976168,
+    "lon": -57.5482079
+  },
+  "Park Falls, Wisconsin, USA": {
+    "lat": 45.9338249,
+    "lon": -90.4517454
+  },
+  "Collegeville, Minnesota, USA": {
+    "lat": 45.5944117,
+    "lon": -94.3622868
+  },
+  "Valencia, Spain": {
+    "lat": 39.4697065,
+    "lon": -0.3763353
+  },
+  "Asturias, Spain": {
+    "lat": 43.3133868,
+    "lon": -5.94192
+  },
+  "Sant'Ana do Livramento, Rio Grande do Sul, Brazil": {
+    "lat": -30.8894097,
+    "lon": -55.5317694
+  },
+  "Cairneyhill, Fife, Scotland": {
+    "lat": 56.0601071,
+    "lon": -3.5331476
+  },
+  "South Croydon, London, England": {
+    "lat": 51.3629173,
+    "lon": -0.0933556
+  },
+  "Letham, Angus, Scotland": {
+    "lat": 56.6288329,
+    "lon": -2.7695401
+  },
+  "Halifax, Yorkshire, England": {
+    "lat": 53.7229229,
+    "lon": -1.8604874
+  },
+  "Hanover, Germany": {
+    "lat": 52.3744779,
+    "lon": 9.7385532
+  },
+  "Nantucket, Massachusetts, USA": {
+    "lat": 41.2727997,
+    "lon": -70.0951867
+  },
+  "Lynn, Massachusetts, USA": {
+    "lat": 42.466763,
+    "lon": -70.9494939
+  },
+  "Turda, Romania": {
+    "lat": 46.5685214,
+    "lon": 23.7853643
+  },
+  "Oradea, Romania": {
+    "lat": 47.0549163,
+    "lon": 21.9285231
+  },
+  "Ouagadougou, Burkina Faso": {
+    "lat": 12.3681873,
+    "lon": -1.5270944
+  },
+  "El Cerrito, California, USA": {
+    "lat": 37.9154056,
+    "lon": -122.301411
+  },
+  "Eugene, Oregon, USA": {
+    "lat": 44.0505054,
+    "lon": -123.0950506
+  },
+  "Chexbres, Vaud canton, Switzerland": {
+    "lat": 46.4809505,
+    "lon": 6.7803021
+  },
+  "California, USA": {
+    "lat": 36.7014631,
+    "lon": -118.755997
+  },
+  "Starokonstantinov, Ukraine": {
+    "lat": 49.7528457,
+    "lon": 27.1653412
+  },
+  "Ribemont, France": {
+    "lat": 49.7959192,
+    "lon": 3.4588395
+  },
+  "Waterville, Maine, USA": {
+    "lat": 44.5524176,
+    "lon": -69.6313607
+  },
+  "Kansas City, Jackson County, Missouri, USA": {
+    "lat": 39.100105,
+    "lon": -94.5781416
+  },
+  "Tucson, Pima County, Arizona, USA": {
+    "lat": 32.2228765,
+    "lon": -110.974847
+  },
+  "Pinnow, Germany": {
+    "lat": 53.6097486,
+    "lon": 13.1424367
+  },
+  "Norman, Oklahoma, USA": {
+    "lat": 35.2225717,
+    "lon": -97.4394816
+  },
+  "Zimbabwe": {
+    "lat": -18.4554963,
+    "lon": 29.7468414
+  },
+  "Annen, Netherlands": {
+    "lat": 53.056286,
+    "lon": 6.7275703
+  },
+  "Lawrence, Kansas, USA": {
+    "lat": 38.9719137,
+    "lon": -95.2359403
+  },
+  "Aynho, Northamptonshire, England": {
+    "lat": 51.9948605,
+    "lon": -1.2520728
+  },
+  "Hillsboro, Texas, USA": {
+    "lat": 32.0108506,
+    "lon": -97.1303744
+  },
+  "Wickwar, Gloucestershire, England": {
+    "lat": 51.5853895,
+    "lon": -2.4129632
+  },
+  "Notting Hill, Kensington, England": {
+    "lat": 51.5109995,
+    "lon": -0.2055267
+  },
+  "Crown, Pennsylvania, USA": {
+    "lat": 41.3897854,
+    "lon": -79.270876
+  },
+  "Erie, Pennsylvania, USA": {
+    "lat": 42.1294712,
+    "lon": -80.0852695
+  },
+  "Hastings, Nebraska, USA": {
+    "lat": 40.5861322,
+    "lon": -98.3898883
+  },
+  "Gateshead-on-Tyne, England": {
+    "lat": 54.9612513,
+    "lon": -1.6855298
+  },
+  "Plymouth, England": {
+    "lat": 50.3714122,
+    "lon": -4.1424451
+  },
+  "Malvern, England": {
+    "lat": 52.1159559,
+    "lon": -2.3258985
+  },
+  "Carmarthen, Wales": {
+    "lat": 51.8591257,
+    "lon": -4.3115907
+  },
+  "Spain": {
+    "lat": 39.3260685,
+    "lon": -4.8379791
+  },
+  "Forreston, Illinois, USA": {
+    "lat": 42.1261742,
+    "lon": -89.579115
+  },
+  "Poolesville, Maryland, USA": {
+    "lat": 39.146088,
+    "lon": -77.4166561
+  },
+  "Tehran, Iran": {
+    "lat": 35.6892523,
+    "lon": 51.3896004
+  },
+  "Obu, Aichi Prefecture, Japan": {
+    "lat": 35.0165825,
+    "lon": 136.954545
+  },
+  "Chiusa di Pesio (Cuneo), Italy": {
+    "lat": 44.32643,
+    "lon": 7.675436
+  },
+  "Peking, China": {
+    "lat": 40.190632,
+    "lon": 116.412144
+  },
+  "Ennis, County Clare, Ireland": {
+    "lat": 52.8435152,
+    "lon": -8.983747
+  },
+  "Rothesay, Isle of Bute, Scotland": {
+    "lat": 55.8327525,
+    "lon": -5.0470975
+  },
+  "Catrine, Ayrshire, Scotland": {
+    "lat": 55.5043269,
+    "lon": -4.3318299
+  },
+  "Fortaleza, CearÃ¡, Brazil": {
+    "lat": -3.7304512,
+    "lon": -38.5217989
+  },
+  "Algiers, Algeria": {
+    "lat": 36.7729333,
+    "lon": 3.0588445
+  },
+  "Chiswick, London, England": {
+    "lat": 51.4811465,
+    "lon": -0.2681753
+  },
+  "Exmouth, Devon, England": {
+    "lat": 50.6190962,
+    "lon": -3.4146801
+  },
+  "Maligny, Yonne, Bourgogne, France": {
+    "lat": 47.8695165,
+    "lon": 3.7643034
+  },
+  "Kettering, Northamptonshire, England": {
+    "lat": 52.3994233,
+    "lon": -0.728004
+  },
+  "Leeuwarden, Netherlands": {
+    "lat": 53.2005936,
+    "lon": 5.7918548
+  },
+  "Laren, Netherlands": {
+    "lat": 52.2565894,
+    "lon": 5.2251925
+  },
+  "Lercara Friddi, Palermo, Italy": {
+    "lat": 37.746946,
+    "lon": 13.604854
+  },
+  "Baku, Azerbaijan": {
+    "lat": 40.3755885,
+    "lon": 49.8328009
+  },
+  "Ithaca, USA": {
+    "lat": 42.4374175,
+    "lon": -76.5483724
+  },
+  "Black Mountain, North Carolina, USA": {
+    "lat": 35.6176544,
+    "lon": -82.3205791
+  },
+  "Claremont, California, USA": {
+    "lat": 34.0966764,
+    "lon": -117.7197785
+  },
+  "Mannheim, Baden, Germany": {
+    "lat": 49.4892913,
+    "lon": 8.4673098
+  },
+  "Little Rock, Arkansas, USA": {
+    "lat": 34.7465071,
+    "lon": -92.2896267
+  },
+  "Esslingen, Germany": {
+    "lat": 48.7427584,
+    "lon": 9.3071685
+  },
+  "Epernon, France": {
+    "lat": 48.6101745,
+    "lon": 1.677222
+  },
+  "Bussy, Kanton Freiburg, Switzerland": {
+    "lat": 46.8353706,
+    "lon": 6.8879852
+  },
+  "Ambert, Basse-Auvergne, France": {
+    "lat": 45.7466869,
+    "lon": 3.5460281
+  },
+  "Chiba, Japan": {
+    "lat": 35.549399,
+    "lon": 140.2647303
+  },
+  "Mitaka, Japan": {
+    "lat": 35.6833926,
+    "lon": 139.5592421
+  },
+  "Boksitogorsk, Russia": {
+    "lat": 59.4729021,
+    "lon": 33.8489952
+  },
+  "Maliivka, Zolotonosha, Cherkasy Oblast, Ukraine": {
+    "lat": 49.6591709,
+    "lon": 32.177711
+  },
+  "Shatura, Russia": {
+    "lat": 55.578403,
+    "lon": 39.5437584
+  },
+  "East Bridgewater, Massachusetts, USA": {
+    "lat": 42.0332957,
+    "lon": -70.9588099
+  },
+  "Sedbergh, Yorkshire, England": {
+    "lat": 53.7930111,
+    "lon": -1.4856044
+  },
+  "Ramsgate, Kent, England": {
+    "lat": 51.3334726,
+    "lon": 1.4196476
+  },
+  "Dundee, Angus, Scotland": {
+    "lat": 56.5479596,
+    "lon": -2.6160637
+  },
+  "Massa, Tuscany, Italy": {
+    "lat": 44.0359323,
+    "lon": 10.1395519
+  },
+  "Prague,  Czech Republic": {
+    "lat": 50.0596288,
+    "lon": 14.4464593
+  },
+  "Sarny, Ukraine": {
+    "lat": 51.3350028,
+    "lon": 26.6171275
+  },
+  "Bronx, New York City, USA": {
+    "lat": 40.8466508,
+    "lon": -73.8785937
+  },
+  "Canaveses, Portugal": {
+    "lat": 41.5042599,
+    "lon": -7.36286
+  },
+  "Bad Homburg, Germany": {
+    "lat": 50.2363508,
+    "lon": 8.5980265
+  },
+  "Beer Sheva, Israel": {
+    "lat": 31.2457442,
+    "lon": 34.7925181
+  },
+  "Warwick, England": {
+    "lat": 52.2814519,
+    "lon": -1.5815742
+  },
+  "Amioun, Lebanon": {
+    "lat": 34.3004082,
+    "lon": 35.816685
+  },
+  "Winnipeg, Manitoba, Canada": {
+    "lat": 49.8955367,
+    "lon": -97.1384584
+  },
+  "Deerfield Beach, Florida, USA": {
+    "lat": 26.318342,
+    "lon": -80.0996306
+  },
+  "Hamden, Connecticut, USA": {
+    "lat": 41.3959302,
+    "lon": -72.8968574
+  },
+  "Bisley, Gloucester, England": {
+    "lat": 51.827454,
+    "lon": -2.2472037
+  },
+  "Boston, USA": {
+    "lat": 42.3554334,
+    "lon": -71.060511
+  },
+  "West Loch Tarbert, Argyll, Scotland": {
+    "lat": 55.8009606,
+    "lon": -5.5040941
+  },
+  "Ballarat, Victoria, Australia": {
+    "lat": -37.5623013,
+    "lon": 143.8605645
+  },
+  "Kensington Gore, London, England": {
+    "lat": 51.5014958,
+    "lon": -0.1798971
+  },
+  "Westward Ho!, Devon, England": {
+    "lat": 51.0411656,
+    "lon": -4.2315065
+  },
+  "Leamington Spa, Warwickshire, England": {
+    "lat": 52.2913394,
+    "lon": -1.536404
+  },
+  "Sunderland, Tyne & Wear, England": {
+    "lat": 54.9541136,
+    "lon": -1.408561
+  },
+  "Thurlstone, Yorkshire, England": {
+    "lat": 53.5285625,
+    "lon": -1.6481335
+  },
+  "Nuenen, Netherlands": {
+    "lat": 51.48603,
+    "lon": 5.544007
+  },
+  "Heteren, The Netherlands": {
+    "lat": 51.9554341,
+    "lon": 5.7573215
+  },
+  "Moulins-sur-Allier, Auvergne, France": {
+    "lat": 46.5615946,
+    "lon": 3.3393685
+  },
+  "Saint-Cloud, France": {
+    "lat": 48.8437412,
+    "lon": 2.219344
+  },
+  "Froland, Norway": {
+    "lat": 58.5872846,
+    "lon": 8.600438
+  },
+  "Orslev, Denmark": {
+    "lat": 55.0414258,
+    "lon": 11.9638538
+  },
+  "Holbrook, Derbyshire, England": {
+    "lat": 52.9998136,
+    "lon": -1.4588781
+  },
+  "Kamianets-Podilskyi, Ukraine": {
+    "lat": 48.6781294,
+    "lon": 26.5854027
+  },
+  "Irkutsk, Russia": {
+    "lat": 52.2891225,
+    "lon": 104.279829
+  },
+  "Nizhny Novgorod, Russia": {
+    "lat": 56.2769292,
+    "lon": 43.9212981
+  },
+  "Yekaterinburg, Russia": {
+    "lat": 56.839104,
+    "lon": 60.60825
+  },
+  "Enugu, Nigeria": {
+    "lat": 6.4499833,
+    "lon": 7.5000007
+  },
+  "Prinknash Park, Upton St Leonards, Gloucestershire, England": {
+    "lat": 51.821667,
+    "lon": -2.1728164
+  },
+  "Guye Peak, Washington State, USA": {
+    "lat": 47.4419777,
+    "lon": -121.408909
+  },
+  "Delft, Netherlands": {
+    "lat": 51.9994572,
+    "lon": 4.3627245
+  },
+  "Chandler's Ford, Hampshire, England": {
+    "lat": 50.9828402,
+    "lon": -1.3833123
+  },
+  "Fredrikstad, Norway": {
+    "lat": 59.1862012,
+    "lon": 10.8680241
+  },
+  "Bordeaux, France": {
+    "lat": 44.841225,
+    "lon": -0.5800364
+  },
+  "Keene, New Hampshire, USA": {
+    "lat": 42.933597,
+    "lon": -72.2784264
+  },
+  "Avoca, County Wicklow, Ireland": {
+    "lat": 52.8230209,
+    "lon": -6.2096184
+  },
+  "Maidstone, Kent, England": {
+    "lat": 51.2748258,
+    "lon": 0.5231646
+  },
+  "Camden Town, London, England": {
+    "lat": 51.5394397,
+    "lon": -0.1426957
+  },
+  "Torquay, Devon, England": {
+    "lat": 50.4652392,
+    "lon": -3.5211361
+  },
+  "Linwood, Pennsylvania, USA": {
+    "lat": 39.8265655,
+    "lon": -75.4250468
+  },
+  "Greenville, Maine, USA": {
+    "lat": 45.458955,
+    "lon": -69.5916835
+  },
+  "Santos, Brazil": {
+    "lat": -23.9335988,
+    "lon": -46.3286399
+  },
+  "Salvador, Brazil": {
+    "lat": -12.9822499,
+    "lon": -38.4812772
+  },
+  "Rieti, Lazio, Italy": {
+    "lat": 42.4147363,
+    "lon": 12.8858881
+  },
+  "Watchet, Somerset, England": {
+    "lat": 51.179924,
+    "lon": -3.3306406
+  },
+  "Weimar, Germany": {
+    "lat": 50.9793301,
+    "lon": 11.3297921
+  },
+  "Frankenthal, Pfalz, Germany": {
+    "lat": 49.5353466,
+    "lon": 8.3541391
+  },
+  "Decorah, Iowa, USA": {
+    "lat": 43.3041609,
+    "lon": -91.7859098
+  },
+  "Brooklyn, Maine, USA": {
+    "lat": 44.5511009,
+    "lon": -69.6443926
+  },
+  "Brno, Czech Republic": {
+    "lat": 49.1922443,
+    "lon": 16.6113382
+  },
+  "Frankfurt (Main), Germany": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "Szarvas, Hungary": {
+    "lat": 46.8621434,
+    "lon": 20.5521466
+  },
+  "Szepetnek, Hungary": {
+    "lat": 46.4335412,
+    "lon": 16.8994777
+  },
+  "Bad Soden, Germany": {
+    "lat": 50.1517006,
+    "lon": 8.4899671
+  },
+  "Utica, New York, USA": {
+    "lat": 43.1009031,
+    "lon": -75.2326641
+  },
+  "Bedlewo, Poland": {
+    "lat": 52.234848,
+    "lon": 16.7249062
+  },
+  "Dalkeith, Midlothian, Scotland": {
+    "lat": 55.8943361,
+    "lon": -3.0700445
+  },
+  "Newport, Shropshire, England": {
+    "lat": 52.6895102,
+    "lon": -2.727743
+  },
+  "Clarecastle, County Clare, Ireland": {
+    "lat": 52.8155649,
+    "lon": -8.9664844
+  },
+  "Frederiksberg, Copenhagen, Denmark": {
+    "lat": 55.6726162,
+    "lon": 12.5499232
+  },
+  "Hannover, Germany": {
+    "lat": 52.3744779,
+    "lon": 9.7385532
+  },
+  "Hamburg, West Germany": {
+    "lat": 51.2515879,
+    "lon": 6.9791488
+  },
+  "Broxburn, West Lothian, Scotland": {
+    "lat": 55.9343917,
+    "lon": -3.4693866
+  },
+  "Kings Cross, Sydney, New South Wales, Australia": {
+    "lat": -33.8744874,
+    "lon": 151.2222308
+  },
+  "Canberra, Australian Capital Territory, Australia": {
+    "lat": -35.2975906,
+    "lon": 149.1012676
+  },
+  "Long Branch, New Jersey, USA": {
+    "lat": 40.3042778,
+    "lon": -73.9923596
+  },
+  "Tokaj, Hungary": {
+    "lat": 48.1235534,
+    "lon": 21.4113895
+  },
+  "Tunbridge Wells, Kent, England": {
+    "lat": 51.1371483,
+    "lon": 0.2673446
+  },
+  "Tallahassee, Florida, USA": {
+    "lat": 30.4380832,
+    "lon": -84.2809332
+  },
+  "Freiburg, Germany": {
+    "lat": 47.9960901,
+    "lon": 7.8494005
+  },
+  "Le Mans, Maine, France": {
+    "lat": 47.4838944,
+    "lon": -0.3468242
+  },
+  "Heilbronn, Neckar, Germany": {
+    "lat": 49.4720238,
+    "lon": 8.6581539
+  },
+  "Los Gatos, California, USA": {
+    "lat": 37.226611,
+    "lon": -121.9746797
+  },
+  "Riverside, California, USA": {
+    "lat": 33.9824949,
+    "lon": -117.374238
+  },
+  "Nice, France": {
+    "lat": 43.7009358,
+    "lon": 7.2683912
+  },
+  "Mantes-la-Jolie, Yvelines, France": {
+    "lat": 48.9891971,
+    "lon": 1.7140683
+  },
+  "Pantin, Seine-St Denis, France": {
+    "lat": 48.8965023,
+    "lon": 2.4019804
+  },
+  "Pacific Grove, California, United States": {
+    "lat": 36.6211149,
+    "lon": -121.917794
+  },
+  "Batz-sur-Mer, France": {
+    "lat": 47.2771383,
+    "lon": -2.4791931
+  },
+  "Astrakhan, Russia": {
+    "lat": 46.3498308,
+    "lon": 48.0326203
+  },
+  "Sculcoates, Kingston upon Hull, England": {
+    "lat": 53.761411,
+    "lon": -0.3444597
+  },
+  "Valparaiso, Chile": {
+    "lat": -32.5976089,
+    "lon": -70.8529753
+  },
+  "Sliema, Malta": {
+    "lat": 35.9127609,
+    "lon": 14.5020708
+  },
+  "Bognor-Regis, England": {
+    "lat": 50.7834973,
+    "lon": -0.6730718
+  },
+  "Kent, England": {
+    "lat": 51.2070748,
+    "lon": 0.7210362
+  },
+  "Burnaby, British Columbia, Canada": {
+    "lat": 49.2433804,
+    "lon": -122.972545
+  },
+  "Ingolstadt, Bavaria, Germany": {
+    "lat": 48.7630165,
+    "lon": 11.4250395
+  },
+  "Ashbourne, Derbyshire, England": {
+    "lat": 53.0173327,
+    "lon": -1.7342725
+  },
+  "Crookham, Hampshire, England": {
+    "lat": 51.2628663,
+    "lon": -0.8385339
+  },
+  "Dunster, Somerset, England": {
+    "lat": 51.1834143,
+    "lon": -3.4439792
+  },
+  "Magherafelt, County Londonderry, Northern Ireland": {
+    "lat": 54.7544757,
+    "lon": -6.6078073
+  },
+  "Middelburg, Netherlands": {
+    "lat": 51.4996784,
+    "lon": 3.6137371
+  },
+  "Byzantium (Turkey)": {
+    "lat": 41.006381,
+    "lon": 28.9758715
+  },
+  "Macclesfield, England": {
+    "lat": 53.2606635,
+    "lon": -2.1255158
+  },
+  "Catania, Sicily, Italy": {
+    "lat": 37.5023612,
+    "lon": 15.0873718
+  },
+  "Italy": {
+    "lat": 42.6384261,
+    "lon": 12.674297
+  },
+  "Le Croisic, France": {
+    "lat": 47.2933971,
+    "lon": -2.5094404
+  },
+  "Sedan, Ardennes, France": {
+    "lat": 49.7033759,
+    "lon": 4.9433409
+  },
+  "Etterbeek, Brussels, Belgium": {
+    "lat": 50.8361447,
+    "lon": 4.3861737
+  },
+  "Cabrespine, France": {
+    "lat": 43.3631409,
+    "lon": 2.4598519
+  },
+  "Lorient, France": {
+    "lat": 47.7477336,
+    "lon": -3.3660907
+  },
+  "Pornichet, France": {
+    "lat": 47.2613293,
+    "lon": -2.3364238
+  },
+  "Beaumont-de-Lomagne, France": {
+    "lat": 43.8817933,
+    "lon": 0.9875923
+  },
+  "Castres, France": {
+    "lat": 49.8044444,
+    "lon": 3.2383333
+  },
+  "Champtercier, Provence, France": {
+    "lat": 44.0957817,
+    "lon": 6.161969
+  },
+  "Lauterbourg, France": {
+    "lat": 48.9751103,
+    "lon": 8.1767166
+  },
+  "Saint Malo, France": {
+    "lat": 48.649518,
+    "lon": -2.0260409
+  },
+  "Laon, France": {
+    "lat": 49.564665,
+    "lon": 3.620686
+  },
+  "Lagny-sur-Marne, France": {
+    "lat": 48.8773018,
+    "lon": 2.7056056
+  },
+  "Caen, France": {
+    "lat": 49.1813403,
+    "lon": -0.3635615
+  },
+  "Beaumont-en-Auge, Normandy, France": {
+    "lat": 49.2782545,
+    "lon": 0.1109445
+  },
+  "Wormerveer, Netherlands": {
+    "lat": 52.4952218,
+    "lon": 4.7876566
+  },
+  "Alcabideche, Cascais, Portugal": {
+    "lat": 38.7397519,
+    "lon": -9.408232
+  },
+  "Rome": {
+    "lat": 41.8933203,
+    "lon": 12.4829321
+  },
+  "Rhodes": {
+    "lat": 48.7584377,
+    "lon": 6.8985177
+  },
+  "Bursa, Turkey": {
+    "lat": 39.9895878,
+    "lon": 28.8944669
+  },
+  "Samarkand, Uzbekistan": {
+    "lat": 39.6550017,
+    "lon": 66.9756954
+  },
+  "Sheikhupura, Pakistan": {
+    "lat": 31.7085285,
+    "lon": 73.9864014
+  },
+  "Milton, Massachusetts, USA": {
+    "lat": 42.2501425,
+    "lon": -71.065573
+  },
+  "Oakwood, Texas, USA": {
+    "lat": 31.5850881,
+    "lon": -95.8497596
+  },
+  "Calahorra, Spain": {
+    "lat": 42.3035212,
+    "lon": -1.9648758
+  },
+  "Hoshangabad, Madhya Pradesh, India": {
+    "lat": 22.7545538,
+    "lon": 77.7198249
+  },
+  "Jammu, Jammu and Kashmir, India": {
+    "lat": 32.7185614,
+    "lon": 74.8580917
+  },
+  "Atherton, San Mateo County, California, USA": {
+    "lat": 37.453773,
+    "lon": -122.2058272
+  },
+  "Walla Walla, Washington, USA": {
+    "lat": 46.2055155,
+    "lon": -118.5174284
+  },
+  "Fedsden, Roydon, Essex, England": {
+    "lat": 51.7715253,
+    "lon": 0.0485571
+  },
+  "Morrisville, Pennsylvania, USA": {
+    "lat": 40.2114978,
+    "lon": -74.7879399
+  },
+  "Salt Spring Island, British Columbia, Canada": {
+    "lat": 48.8296672,
+    "lon": -123.5151614
+  },
+  "Overton, Yarmouth County, Nova Scotia, Canada": {
+    "lat": 43.8401302,
+    "lon": -66.1430115
+  },
+  "Wolfville, Nova Scotia, Canada": {
+    "lat": 45.0914073,
+    "lon": -64.3645102
+  },
+  "Schull, Co Cork, Ireland": {
+    "lat": 51.5271026,
+    "lon": -9.5469428
+  },
+  "Panipat, India": {
+    "lat": 29.3912753,
+    "lon": 76.9771675
+  },
+  "Delhi, India": {
+    "lat": 28.6273928,
+    "lon": 77.1716954
+  },
+  "National City, California, USA": {
+    "lat": 32.6781085,
+    "lon": -117.0991967
+  },
+  "Highgate, London, England": {
+    "lat": 51.5706446,
+    "lon": -0.1492397
+  },
+  "Owen Sound, Ontario, Canada": {
+    "lat": 44.5678105,
+    "lon": -80.9430094
+  },
+  "Florida, USA": {
+    "lat": 27.7567667,
+    "lon": -81.4639835
+  },
+  "Stewiacke, Colchester County, Nova Scotia, Canada": {
+    "lat": 45.1371295,
+    "lon": -63.3483698
+  },
+  "Sackville, New Brunswick, Canada": {
+    "lat": 45.9079431,
+    "lon": -64.3723708
+  },
+  "Banff, Alberta, Canada": {
+    "lat": 51.175076,
+    "lon": -115.5720773
+  },
+  "Far Rockaway, New York, USA": {
+    "lat": 40.6053825,
+    "lon": -73.7551326
+  },
+  "Hudson, New York, USA": {
+    "lat": 42.2528649,
+    "lon": -73.790959
+  },
+  "Palmer, Massachusetts, USA": {
+    "lat": 42.1574489,
+    "lon": -72.3299783
+  },
+  "Avellaneda, Buenos Aires, Argentina": {
+    "lat": -34.6648394,
+    "lon": -58.3628061
+  },
+  "Bures-sur-Yvette, France": {
+    "lat": 48.6972179,
+    "lon": 2.1632719
+  },
+  "Fairfax, Virginia, USA": {
+    "lat": 38.8462236,
+    "lon": -77.3063733
+  },
+  "Aldershot, Hampshire, England": {
+    "lat": 51.2494169,
+    "lon": -0.7630148
+  },
+  "Brooklyn, New York City, USA": {
+    "lat": 40.6526006,
+    "lon": -73.9497211
+  },
+  "Berlin-Charlottenburg, Germany": {
+    "lat": 52.5043157,
+    "lon": 13.3026447
+  },
+  "Monterey, California, USA": {
+    "lat": 36.2231079,
+    "lon": -121.387742
+  },
+  "Henley-on-Thames, Oxfordshire, England": {
+    "lat": 51.5375786,
+    "lon": -0.9050287
+  },
+  "Eaglesham, Renfrewshire, Scotland": {
+    "lat": 55.7407281,
+    "lon": -4.2738525
+  },
+  "Kansas City, Missouri, USA": {
+    "lat": 39.100105,
+    "lon": -94.5781416
+  },
+  "Celina, Ohio, USA": {
+    "lat": 40.5489358,
+    "lon": -84.5702338
+  },
+  "Manhattan, New York City, New York, USA": {
+    "lat": 40.7896239,
+    "lon": -73.9598939
+  },
+  "Santa Monica, California, USA": {
+    "lat": 34.0194704,
+    "lon": -118.491227
+  },
+  "Carrickfergus, Ireland": {
+    "lat": 54.7136165,
+    "lon": -5.8073112
+  },
+  "New Brunswick, New Jersey, USA": {
+    "lat": 40.4951365,
+    "lon": -74.4439254
+  },
+  "Madeley, Shropshire, England": {
+    "lat": 52.6148489,
+    "lon": -2.3905408
+  },
+  "Lismore, County Waterford, Ireland": {
+    "lat": 52.1368018,
+    "lon": -7.9330526
+  },
+  "Goodwater, Coosa County, Alabama, USA": {
+    "lat": 33.0637706,
+    "lon": -86.0538692
+  },
+  "Saint Hippolyte-du-Fort, Gard, France": {
+    "lat": 43.9643602,
+    "lon": 3.8564364
+  },
+  "Arcachon, Gironde, France": {
+    "lat": 44.6616428,
+    "lon": -1.1700018
+  },
+  "Hemet, California, USA": {
+    "lat": 33.7475203,
+    "lon": -116.9719684
+  },
+  "Broughty Ferry, Angus, Scotland": {
+    "lat": 56.4684091,
+    "lon": -2.85034
+  },
+  "Vallejo, California, USA": {
+    "lat": 38.1040864,
+    "lon": -122.2566367
+  },
+  "Santa Rosa, California, USA": {
+    "lat": 38.4404925,
+    "lon": -122.7141049
+  },
+  "Airdrie, Lanarkshire, Scotland": {
+    "lat": 55.8661181,
+    "lon": -3.9804785
+  },
+  "Helmstedt, Germany": {
+    "lat": 52.2089226,
+    "lon": 11.0028882
+  },
+  "Bad Harzburg, Germany": {
+    "lat": 51.8797558,
+    "lon": 10.5875671
+  },
+  "Drumcondra, Dublin, Ireland": {
+    "lat": 53.3680988,
+    "lon": -6.2554727
+  },
+  "Johnstone, Renfrewshire, Scotland": {
+    "lat": 55.836517,
+    "lon": -4.5122831
+  },
+  "Edzell, Angus, Scotland": {
+    "lat": 56.8099863,
+    "lon": -2.6558539
+  },
+  "Stradbroke, Suffolk, England": {
+    "lat": 52.3175951,
+    "lon": 1.2728286
+  },
+  "George Street, Edinburgh, Scotland": {
+    "lat": 55.9530151,
+    "lon": -3.2002351
+  },
+  "Freshwater, Isle of Wight, England": {
+    "lat": 50.6814402,
+    "lon": -1.5231372
+  },
+  "Falkirk, Stirlingshire, Scotland": {
+    "lat": 56.0858872,
+    "lon": -3.9054034
+  },
+  "Shawlands, Glasgow, Scotland": {
+    "lat": 55.8293953,
+    "lon": -4.2924269
+  },
+  "Mallow, Cork County, Ireland": {
+    "lat": 52.138912,
+    "lon": -8.6551101
+  },
+  "New Westminster, British Columbia, Canada": {
+    "lat": 49.2067726,
+    "lon": -122.9108818
+  },
+  "Tenby, Wales": {
+    "lat": 51.6726128,
+    "lon": -4.7050443
+  },
+  "Auschwitz, Poland": {
+    "lat": 50.0336707,
+    "lon": 19.2600798
+  },
+  "West Kilbride, Ayrshire, Scotland": {
+    "lat": 55.6964342,
+    "lon": -4.8513782
+  },
+  "Worthing, England": {
+    "lat": 50.8115402,
+    "lon": -0.3699697
+  },
+  "Rochester, Oakland County, Michigan, USA": {
+    "lat": 42.680588,
+    "lon": -83.1338214
+  },
+  "Ilchester, Somerset, England": {
+    "lat": 51.0029053,
+    "lon": -2.6823645
+  },
+  "Burbage, Leicestershire, England": {
+    "lat": 52.5279306,
+    "lon": -1.3486528
+  },
+  "Calais, Maine, USA": {
+    "lat": 45.1890175,
+    "lon": -67.2781391
+  },
+  "Ann Arbor, Washtenaw, Michigan": {
+    "lat": 42.2813722,
+    "lon": -83.7484616
+  },
+  "Colchester, Essex, England": {
+    "lat": 51.8896903,
+    "lon": 0.8994651
+  },
+  "Dartmouth, Halifax, Nova Scotia, Canada": {
+    "lat": 44.6799707,
+    "lon": -63.5720232
+  },
+  "South River Lake, Antigonish, Nova Scotia, Canada": {
+    "lat": 45.4144517,
+    "lon": -61.9458757
+  },
+  "Krakow, Poland": {
+    "lat": 50.0469432,
+    "lon": 19.9971534
+  },
+  "Taft, California, USA": {
+    "lat": 35.1424671,
+    "lon": -119.456507
+  },
+  "Kurow, New Zealand": {
+    "lat": -44.7338879,
+    "lon": 170.4694561
+  },
+  "Yangzhou, Jiangsu province, China": {
+    "lat": 32.3968554,
+    "lon": 119.4077658
+  },
+  "Brunnen, Switzerland": {
+    "lat": 46.9940439,
+    "lon": 8.6054085
+  },
+  "Gainesville, Florida, USA": {
+    "lat": 29.6519684,
+    "lon": -82.3249846
+  },
+  "Stilesville, Hendricks County, Indiana, USA": {
+    "lat": 39.6383798,
+    "lon": -86.6336135
+  },
+  "Indianapolis, Indiana, USA": {
+    "lat": 39.7683331,
+    "lon": -86.1583502
+  },
+  "Jasper, Canada": {
+    "lat": 52.8752336,
+    "lon": -118.0824291
+  },
+  "BÃ¼dingen, Germany": {
+    "lat": 52.6086554,
+    "lon": 11.6412903
+  },
+  "Chester, Cheshire, England": {
+    "lat": 53.1908873,
+    "lon": -2.8908955
+  },
+  "Kew, Surrey, England": {
+    "lat": 51.3855287,
+    "lon": -0.3844736
+  },
+  "Horncastle, Lincolnshire, England": {
+    "lat": 53.2087265,
+    "lon": -0.1169525
+  },
+  "Whitechapel, London, England": {
+    "lat": 51.5174861,
+    "lon": -0.0659685
+  },
+  "Northern Ireland": {
+    "lat": 54.5859836,
+    "lon": -6.9591554
+  },
+  "Fressingfield, Suffolk, England": {
+    "lat": 52.3468235,
+    "lon": 1.3177377
+  },
+  "Little Elm, Texas, USA": {
+    "lat": 33.1626194,
+    "lon": -96.9375051
+  },
+  "Laramie, Wyoming, USA": {
+    "lat": 41.3116442,
+    "lon": -105.5917876
+  },
+  "Nagoya, Japan": {
+    "lat": 35.1851045,
+    "lon": 136.8998438
+  },
+  "Norwich, Connecticut, USA": {
+    "lat": 41.5243537,
+    "lon": -72.0759008
+  },
+  "Cork City, Ireland": {
+    "lat": 51.8897794,
+    "lon": -8.4653846
+  },
+  "Lucan, Dublin, Ireland": {
+    "lat": 53.3567157,
+    "lon": -6.4501534
+  },
+  "Zagorsk, Russia": {
+    "lat": 51.8620618,
+    "lon": 107.7356314
+  },
+  "Kiev, Ukraine": {
+    "lat": 50.4500336,
+    "lon": 30.5241361
+  },
+  "Vladivostok, Russia": {
+    "lat": 43.1150678,
+    "lon": 131.8855768
+  },
+  "Aspenden, Hertfordshire, England": {
+    "lat": 51.9385107,
+    "lon": -0.042312
+  },
+  "Melrose, Massachusetts, USA": {
+    "lat": 42.4564323,
+    "lon": -71.064182
+  },
+  "West Lafayette, Indiana, USA": {
+    "lat": 40.4258686,
+    "lon": -86.9080655
+  },
+  "Iran": {
+    "lat": 32.6475314,
+    "lon": 54.5643516
+  },
+  "Kingston, Kent, England": {
+    "lat": 51.2183887,
+    "lon": 1.1488036
+  },
+  "Galway, Ireland": {
+    "lat": 53.2744122,
+    "lon": -9.0490601
+  },
+  "Ching-k'ou, China": {
+    "lat": 23.5048227,
+    "lon": 112.8225759
+  },
+  "Yamagata Prefecture, Japan": {
+    "lat": 38.4746705,
+    "lon": 140.083237
+  },
+  "Chevithorne, Devon, England": {
+    "lat": 50.9282935,
+    "lon": -3.4606904
+  },
+  "Richmond, England": {
+    "lat": 51.4405529,
+    "lon": -0.3076394
+  },
+  "Akureyri, Iceland": {
+    "lat": 65.6839035,
+    "lon": -18.1121756
+  },
+  "Ningbo, China": {
+    "lat": 29.8622194,
+    "lon": 121.6203873
+  },
+  "Pithiviers, France": {
+    "lat": 48.1738051,
+    "lon": 2.2544871
+  },
+  "Gunzenhausen, Bavaria, Germany": {
+    "lat": 49.1147095,
+    "lon": 10.7545933
+  },
+  "Ansbach, Bavaria, Germany": {
+    "lat": 49.2888745,
+    "lon": 10.5597693
+  },
+  "Wallace, Nova Scotia, Canada": {
+    "lat": 45.8136444,
+    "lon": -63.473214
+  },
+  "Macroom, County Cork, Ireland": {
+    "lat": 51.9049705,
+    "lon": -8.9599195
+  },
+  "Tulungagung, East Java, Indonesia": {
+    "lat": -8.0729035,
+    "lon": 111.8996408
+  },
+  "Guadalajara, Jalisco, Mexico": {
+    "lat": 20.6720375,
+    "lon": -103.338396
+  },
+  "Lafayette, Indiana, USA": {
+    "lat": 40.4191229,
+    "lon": -86.8919011
+  },
+  "Erode, Tamil Nadu state, India": {
+    "lat": 10.9742885,
+    "lon": 78.0388464
+  },
+  "Santa Fe, New Mexico, USA": {
+    "lat": 35.6876096,
+    "lon": -105.938456
+  },
+  "New Town, Tasmania, Australia": {
+    "lat": -42.8588009,
+    "lon": 147.3058753
+  },
+  "Poland": {
+    "lat": 52.215933,
+    "lon": 19.134422
+  },
+  "Bratislava, Slovak Republic": {
+    "lat": 48.1516988,
+    "lon": 17.1093063
+  },
+  "Lambertseter, Norway": {
+    "lat": 59.8733636,
+    "lon": 10.8103713
+  },
+  "Mitcham, Surrey, England": {
+    "lat": 51.351463,
+    "lon": -0.7163732
+  },
+  "Brighton, England": {
+    "lat": 50.8214626,
+    "lon": -0.1400561
+  },
+  "Keighley, Yorkshire, England": {
+    "lat": 53.8684021,
+    "lon": -1.9020456
+  },
+  "Newnham, Cambridge, England": {
+    "lat": 52.1965421,
+    "lon": 0.1070436
+  },
+  "Flint, Michigan, USA": {
+    "lat": 43.0161693,
+    "lon": -83.6900211
+  },
+  "Bennington, Vermont, USA": {
+    "lat": 42.8788667,
+    "lon": -73.1968205
+  },
+  "Visakhapatnam, Andhra Pradesh, India": {
+    "lat": 17.6935526,
+    "lon": 83.2921297
+  },
+  "Xi-an, China": {
+    "lat": 34.261004,
+    "lon": 108.9423363
+  },
+  "Benin City, Edo State, Nigeria": {
+    "lat": 6.3330586,
+    "lon": 5.6221058
+  },
+  "Swarthmore, Pennsylvania, USA": {
+    "lat": 39.9020565,
+    "lon": -75.3499124
+  },
+  "Brockton, Massachusetts, USA": {
+    "lat": 42.0834335,
+    "lon": -71.0183787
+  },
+  "Montgomery City, Missouri": {
+    "lat": 38.9775406,
+    "lon": -91.5048844
+  },
+  "Komorowice, Poland": {
+    "lat": 51.0159371,
+    "lon": 17.0021085
+  },
+  "Kirkcaldy, Scotland": {
+    "lat": 56.1110218,
+    "lon": -3.1582296
+  },
+  "Belgrade": {
+    "lat": 44.8178131,
+    "lon": 20.4568974
+  },
+  "Fukui, Japan": {
+    "lat": 35.9263502,
+    "lon": 136.6068127
+  },
+  "Frankfort, Indiana, USA": {
+    "lat": 40.2797657,
+    "lon": -86.5108244
+  },
+  "Wakayama, Japan": {
+    "lat": 33.8070292,
+    "lon": 135.5930743
+  },
+  "Uji, Kyoto": {
+    "lat": 34.9247486,
+    "lon": 135.7986143
+  },
+  "Neubrandenburg, Germany": {
+    "lat": 53.5574458,
+    "lon": 13.2602781
+  },
+  "Tomsk, USSR": {
+    "lat": 56.5086361,
+    "lon": 84.5184035
+  },
+  "Watford, England": {
+    "lat": 51.6553875,
+    "lon": -0.3957425
+  },
+  "Astakos, Aetolia-Acarnania, Greece": {
+    "lat": 38.5355305,
+    "lon": 21.0815098
+  },
+  "Thessaloniki, Greece": {
+    "lat": 40.6403167,
+    "lon": 22.9352716
+  },
+  "BÃ©ziers, France": {
+    "lat": 48.3260792,
+    "lon": 5.8872578
+  },
+  "Uttoxeter, Staffordshire, England": {
+    "lat": 52.8980321,
+    "lon": -1.8649214
+  },
+  "Chichester, England": {
+    "lat": 50.8364862,
+    "lon": -0.7791721
+  },
+  "Wolverhampton, England": {
+    "lat": 52.5847651,
+    "lon": -2.127567
+  },
+  "Glen Iris, Melbourne, Australia": {
+    "lat": -37.855814,
+    "lon": 145.0646117
+  },
+  "Snogbaek, Denmark": {
+    "lat": 55.5011573,
+    "lon": 12.1560677
+  },
+  "Pittston, Luzerne county, Pennsylvania, USA": {
+    "lat": 41.3259134,
+    "lon": -75.7893604
+  },
+  "Wootton, Kent, England": {
+    "lat": 51.1736897,
+    "lon": 1.1797025
+  },
+  "Dylta bruk, Sweden": {
+    "lat": 59.386664,
+    "lon": 15.263459
+  },
+  "Ashtead, Surrey, England": {
+    "lat": 51.3055227,
+    "lon": -0.3071682
+  },
+  "Heckmondwike, Yorkshire, England": {
+    "lat": 53.7074371,
+    "lon": -1.6754499
+  },
+  "Hardwick Hall, Derbyshire, England": {
+    "lat": 53.1679977,
+    "lon": -1.3088009
+  },
+  "Bolton (near Manchester), England": {
+    "lat": 53.5365675,
+    "lon": -2.0960234
+  },
+  "Bowdon (near Manchester), England": {
+    "lat": 53.3822349,
+    "lon": -2.3816518
+  },
+  "Edgbaston, Birmingham, England": {
+    "lat": 52.4709941,
+    "lon": -1.9225861
+  },
+  "Dreghorn, Ayrshire, Scotland": {
+    "lat": 55.6096497,
+    "lon": -4.6164949
+  },
+  "Rondebosch, South Africa": {
+    "lat": -33.9680556,
+    "lon": 18.4877778
+  },
+  "Camberwell, London, England": {
+    "lat": 51.4745706,
+    "lon": -0.0925416
+  },
+  "St Ives, Sydney, Australia": {
+    "lat": -33.7292063,
+    "lon": 151.159396
+  },
+  "Market Bosworth, Leicestershire, England": {
+    "lat": 52.6217051,
+    "lon": -1.4149268
+  },
+  "Zwolle, Overijssel, The Netherlands": {
+    "lat": 52.5145653,
+    "lon": 6.0977204
+  },
+  "Milverton, Somerset, England": {
+    "lat": 51.0251275,
+    "lon": -3.2548397
+  },
+  "Sandsvaer, Buskerud, Norway": {
+    "lat": 59.60287,
+    "lon": 9.75526
+  },
+  "Paros, Greece": {
+    "lat": 37.0651494,
+    "lon": 25.1919784
+  },
+  "New Smyrna Beach, Florida, USA": {
+    "lat": 29.0258132,
+    "lon": -80.9271271
+  },
+  "Marlborough, Wiltshire, England": {
+    "lat": 51.420633,
+    "lon": -1.7251743
+  },
+  "New Haven Connecticut, USA": {
+    "lat": 41.3082138,
+    "lon": -72.9250518
+  },
+  "Helper, Carbon County, Utah, USA": {
+    "lat": 39.6841305,
+    "lon": -110.854605
+  },
+  "Newburgh, Fife, Scotland": {
+    "lat": 56.3510044,
+    "lon": -3.237601
+  },
+  "Strathkinness, Fife, Scotland": {
+    "lat": 56.3355368,
+    "lon": -2.8763984
+  },
+  "Blackpool, England": {
+    "lat": 53.8179442,
+    "lon": -3.0509812
+  },
+  "Wokingham, Berkshire, England": {
+    "lat": 51.4120318,
+    "lon": -0.8324037
+  },
+  "Zeist, The Netherlands": {
+    "lat": 52.0892832,
+    "lon": 5.2276307
+  },
+  "Visseltofta, Sweden": {
+    "lat": 56.4255316,
+    "lon": 13.8621608
+  },
+  "Padua, Veneto, Italy": {
+    "lat": 45.4077172,
+    "lon": 11.8734455
+  },
+  "Saint-LÃ´, France": {
+    "lat": 44.0634514,
+    "lon": 0.9976884
+  },
+  "Chittoor, India": {
+    "lat": 13.2026484,
+    "lon": 79.0032253
+  },
+  "Kolodeje, Pardubice, Czech Republic": {
+    "lat": 50.0526069,
+    "lon": 15.8764824
+  },
+  "Telc, Czech Republic": {
+    "lat": 49.1847652,
+    "lon": 15.4524773
+  },
+  "Huejutla de Reyes, Hidalgo, Mexico": {
+    "lat": 21.1433802,
+    "lon": -98.3883787
+  },
+  "Puebla, Mexico": {
+    "lat": 18.833333,
+    "lon": -98.0
+  },
+  "Gisborne, New Zealand": {
+    "lat": -38.661326,
+    "lon": 178.0206487
+  },
+  "Nashville, Tennessee, USA": {
+    "lat": 36.1622767,
+    "lon": -86.7742984
+  },
+  "Tambov, Russia": {
+    "lat": 52.7216164,
+    "lon": 41.4523988
+  },
+  "Oak Park, Illinois, United States": {
+    "lat": 41.8878145,
+    "lon": -87.7887615
+  },
+  "Worcester, England": {
+    "lat": 52.1911849,
+    "lon": -2.2206585
+  },
+  "Grandvilliers, Oise, France": {
+    "lat": 49.6647765,
+    "lon": 1.9428278
+  },
+  "Bordeaux, Gironde, France": {
+    "lat": 44.841225,
+    "lon": -0.5800364
+  },
+  "Byurakan, Armenia": {
+    "lat": 40.3387135,
+    "lon": 44.2688648
+  },
+  "Ibadan, Nigeria": {
+    "lat": 7.3786064,
+    "lon": 3.8969928
+  },
+  "Argenteuil, Val-d'Oise, France": {
+    "lat": 48.9479069,
+    "lon": 2.2481797
+  },
+  "Frontenay, Jura, France": {
+    "lat": 46.7870003,
+    "lon": 5.616343
+  },
+  "Guna, Madhya Pradesh, India": {
+    "lat": 24.5001772,
+    "lon": 77.2600959
+  },
+  "Bombay, India": {
+    "lat": 19.054999,
+    "lon": 72.8692035
+  },
+  "Novosibirsk, Russia": {
+    "lat": 54.9678144,
+    "lon": 82.9515989
+  },
+  "Kela, Lanchkhuti, Georgia": {
+    "lat": 42.031664,
+    "lon": 41.9470773
+  },
+  "Columbia, South Carolina, USA": {
+    "lat": 34.000754,
+    "lon": -81.0352313
+  },
+  "Silver Spring, Montgomery, Maryland, USA": {
+    "lat": 38.9997621,
+    "lon": -77.0240371
+  },
+  "Dixon, Iowa, USA": {
+    "lat": 41.7427867,
+    "lon": -90.782347
+  },
+  "Waco, Texas, USA": {
+    "lat": 31.5491899,
+    "lon": -97.1474628
+  },
+  "Temple, Texas, USA": {
+    "lat": 31.098207,
+    "lon": -97.3427847
+  },
+  "Lviv, Ukraine": {
+    "lat": 49.841952,
+    "lon": 24.0315921
+  },
+  "Cranford, New Jersey, USA": {
+    "lat": 40.656539,
+    "lon": -74.3035794
+  },
+  "Smolensk, Russia": {
+    "lat": 54.77897,
+    "lon": 32.0471812
+  },
+  "Chandler, Oklahoma, USA": {
+    "lat": 35.7032002,
+    "lon": -96.880011
+  },
+  "San Jose, California, USA": {
+    "lat": 37.3361663,
+    "lon": -121.890591
+  },
+  "Englewood, New Jersey, USA": {
+    "lat": 40.8929329,
+    "lon": -73.9726508
+  },
+  "Branford, Connecticut, USA": {
+    "lat": 41.2795414,
+    "lon": -72.8150989
+  },
+  "Oberuzwil, St Gallen Canton, Switzerland": {
+    "lat": 47.4299725,
+    "lon": 9.1224313
+  },
+  "London England": {
+    "lat": 51.4893335,
+    "lon": -0.1440551
+  },
+  "Pittsburgh, USA": {
+    "lat": 40.4416941,
+    "lon": -79.9900861
+  },
+  "Washington D.C.,Â USA": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+  },
+  "Elmside, Cambridge, England": {
+    "lat": 52.2039729,
+    "lon": 0.1054502
+  },
+  "South Belmar, New Jersey, USA": {
+    "lat": 40.1791233,
+    "lon": -74.0304778
+  },
+  "New Canton Illinois, USA": {
+    "lat": 39.6361576,
+    "lon": -91.0959713
+  },
+  "Troy Hills, New Jersey, USA": {
+    "lat": 40.8451135,
+    "lon": -74.404284
+  },
+  "Chian": {
+    "lat": 29.1465317,
+    "lon": 120.0300626
+  },
+  "Gettysburg, Pennsylvania, USA": {
+    "lat": 39.8308973,
+    "lon": -77.231012
+  },
+  "Talladega, Alabama, USA": {
+    "lat": 33.3967079,
+    "lon": -86.1597137
+  },
+  "Reedsburg, Wisconsin, USA": {
+    "lat": 43.5325234,
+    "lon": -90.0080595
+  },
+  "Medina, Michigan, USA": {
+    "lat": 41.8081046,
+    "lon": -84.2638354
+  },
+  "Aarhus, Denmark": {
+    "lat": 56.1496278,
+    "lon": 10.2134046
+  },
+  "Richmond Hill, New York, USA": {
+    "lat": 40.6994253,
+    "lon": -73.8309672
+  },
+  "Greiz, Thuringia, Germany": {
+    "lat": 50.7783814,
+    "lon": 12.0763533
+  },
+  "Los Altos, California, USA": {
+    "lat": 37.3790629,
+    "lon": -122.116578
+  },
+  "Rostock, Mecklenburg, Germany": {
+    "lat": 54.0886707,
+    "lon": 12.1400211
+  },
+  "Rastatt, Baden, Germany": {
+    "lat": 48.8574209,
+    "lon": 8.2088088
+  },
+  "Herrsching, Bavaria, Germany": {
+    "lat": 47.9984622,
+    "lon": 11.1703947
+  },
+  "Akron, Ohio, USA": {
+    "lat": 41.083064,
+    "lon": -81.518485
+  },
+  "Sneek, Netherlands": {
+    "lat": 53.033548,
+    "lon": 5.6611029
+  },
+  "Kinghorn, Fife, Scotland": {
+    "lat": 56.0707374,
+    "lon": -3.1742285
+  },
+  "Radcliffe Infirmary, Oxford": {
+    "lat": 51.7600976,
+    "lon": -1.2623887
+  },
+  "Bangor, Wales": {
+    "lat": 53.2277163,
+    "lon": -4.1268822
+  },
+  "West Calder, Scotland": {
+    "lat": 55.8537711,
+    "lon": -3.566816
+  },
+  "Dunfermline, Scotland": {
+    "lat": 56.0713724,
+    "lon": -3.4616183
+  },
+  "Castlelyons (N of Cork), Ireland": {
+    "lat": 52.0889073,
+    "lon": -8.2338663
+  },
+  "Westminster. London, England": {
+    "lat": 51.5004439,
+    "lon": -0.1265398
+  },
+  "Paddington, London, England": {
+    "lat": 51.5163047,
+    "lon": -0.1792423
+  },
+  "Exeter, Devon, England": {
+    "lat": 50.7256138,
+    "lon": -3.5269209
+  },
+  "Madeira Islands, Portugal": {
+    "lat": 32.7517501,
+    "lon": -16.9817487
+  },
+  "Rutherglen, Scotland": {
+    "lat": 55.8284315,
+    "lon": -4.2134405
+  },
+  "Orleans, Massachusetts, USA": {
+    "lat": 41.7883108,
+    "lon": -69.99001
+  },
+  "Bishop Burton, Yorkshire, England": {
+    "lat": 53.8414315,
+    "lon": -0.5135522
+  },
+  "Bonnyrigg, Scotland": {
+    "lat": 55.8751189,
+    "lon": -3.1059076
+  },
+  "Martinsburg, West Virginia, USA": {
+    "lat": 39.4562528,
+    "lon": -77.9639604
+  },
+  "Canterbury, England": {
+    "lat": 51.2800275,
+    "lon": 1.0802533
+  },
+  "Beaconsfield, England": {
+    "lat": 51.6082881,
+    "lon": -0.6571233
+  },
+  "Barbados, West Indies": {
+    "lat": 13.1232663,
+    "lon": -59.6313854
+  },
+  "Blackford, Edinburgh, Scotland": {
+    "lat": 55.9265763,
+    "lon": -3.1859869
+  },
+  "Slough, England": {
+    "lat": 51.5034269,
+    "lon": -0.5748722
+  },
+  "Shorncliffe, Folkestone, Kent, England": {
+    "lat": 51.0811616,
+    "lon": 1.1714612
+  },
+  "Burghfield Common, Reading, England": {
+    "lat": 51.3954242,
+    "lon": -1.0643351
+  },
+  "Stewarton, Ayrshire, Scotland": {
+    "lat": 55.680265,
+    "lon": -4.5153023
+  },
+  "Huntly, Aberdeenshire, Scotland": {
+    "lat": 57.4474806,
+    "lon": -2.7864246
+  },
+  "Llanfihangel Tre'r Beirdd, Anglesey, Wales": {
+    "lat": 53.3322633,
+    "lon": -4.3137286
+  },
+  "Kirriemuir, Angus, Scotland": {
+    "lat": 56.6731057,
+    "lon": -3.0043927
+  },
+  "Selkirk, Scotland": {
+    "lat": 55.5470714,
+    "lon": -2.8415411
+  },
+  "Douglas, Isle of Man": {
+    "lat": 54.149774,
+    "lon": -4.4779021
+  },
+  "Odessa, Ontario, Canada": {
+    "lat": 44.276984,
+    "lon": -76.722712
+  },
+  "Syracuse, New York, USA": {
+    "lat": 43.0481221,
+    "lon": -76.1474244
+  },
+  "Longside, Aberdeenshire, Scotland": {
+    "lat": 57.5166732,
+    "lon": -1.9387955
+  },
+  "Glack, Aberdeenshire, Scotland": {
+    "lat": 57.1934752,
+    "lon": -2.4358546
+  },
+  "Bridgend, Wales": {
+    "lat": 51.5049859,
+    "lon": -3.5756674
+  },
+  "Winnipeg, Canada": {
+    "lat": 49.8955367,
+    "lon": -97.1384584
+  },
+  "White Waltham, Berkshire, England": {
+    "lat": 51.4908971,
+    "lon": -0.7683543
+  },
+  "Sidcup, Kent, England": {
+    "lat": 51.4286417,
+    "lon": 0.3852493
+  },
+  "Eton, Buckinghamshire, England": {
+    "lat": 51.4989347,
+    "lon": -0.6434842
+  },
+  "Albury, Surrey, England": {
+    "lat": 51.209119,
+    "lon": -0.4936554
+  },
+  "Papa Westray, Orkney, Scotland": {
+    "lat": 59.3548383,
+    "lon": -2.8974154
+  },
+  "Ninewells, Dundee, Scotland": {
+    "lat": 56.4594808,
+    "lon": -3.0323264
+  },
+  "Houghton-le-Spring, Durham, England": {
+    "lat": 54.8414841,
+    "lon": -1.4699092
+  },
+  "Greenock, Scotland": {
+    "lat": 55.9473423,
+    "lon": -4.7564721
+  },
+  "Worcester, Massachusetts, USA": {
+    "lat": 42.2625621,
+    "lon": -71.8018877
+  },
+  "Oberwolfach, Schwarzwald, Germany": {
+    "lat": 48.3453276,
+    "lon": 8.2356658
+  },
+  "Bath, Somerset, England": {
+    "lat": 51.3813864,
+    "lon": -2.3596963
+  },
+  "Newmarket, Suffolk, England": {
+    "lat": 52.2443103,
+    "lon": 0.4065503
+  },
+  "Waterloo, Canada": {
+    "lat": 43.4652699,
+    "lon": -80.5222961
+  },
+  "Dysart, Fife, Scotland": {
+    "lat": 56.1264515,
+    "lon": -3.1209817
+  },
+  "Musselburgh, East Lothian, Scotland": {
+    "lat": 55.9421202,
+    "lon": -3.0538516
+  },
+  "Lancaster, Lancashire, England": {
+    "lat": 54.0484068,
+    "lon": -2.7990345
+  },
+  "Norton-juxta-Twycross, Leicestershire, England": {
+    "lat": 52.6598693,
+    "lon": -1.5238611
+  },
+  "Lyndon Hall, Rutland, England": {
+    "lat": 52.6294179,
+    "lon": -0.6614005
+  },
+  "Lewisville, Denton County, Texas, USA": {
+    "lat": 33.046233,
+    "lon": -96.994174
+  },
+  "Greenville, North Carolina, USA": {
+    "lat": 35.613224,
+    "lon": -77.3724593
+  },
+  "Townsville, Australia": {
+    "lat": -19.2569391,
+    "lon": 146.8239537
+  },
+  "Leeuwarden, The Netherlands": {
+    "lat": 53.2005936,
+    "lon": 5.7918548
+  },
+  "Den Haag, The Netherlands": {
+    "lat": 52.0799838,
+    "lon": 4.3113461
+  },
+  "New Milton, Hampshire, England": {
+    "lat": 50.7531006,
+    "lon": -1.6550682
+  },
+  "Ripon, Wisconsin, USA": {
+    "lat": 43.8442406,
+    "lon": -88.8387158
+  },
+  "Fairfield, Connecticut, USA": {
+    "lat": 41.1412078,
+    "lon": -73.2637258
+  },
+  "Ambergate, Derbyshire, England": {
+    "lat": 53.0604187,
+    "lon": -1.4808654
+  },
+  "Hampstead Garden, London, England": {
+    "lat": 51.5805081,
+    "lon": -0.1806164
+  },
+  "Hilden, Mettmann, Germany": {
+    "lat": 51.1674417,
+    "lon": 6.9307271
+  },
+  "Housseras, France": {
+    "lat": 48.3107452,
+    "lon": 6.7126604
+  },
+  "Karlshof, Germany": {
+    "lat": 51.7195188,
+    "lon": 14.3889215
+  },
+  "Gotha, Thuringia, Germany": {
+    "lat": 50.9494849,
+    "lon": 10.7014435
+  },
+  "Baden-Baden, Germany": {
+    "lat": 48.7610716,
+    "lon": 8.239959
+  },
+  "Owego, Tioga County, New York,USA": {
+    "lat": 42.1034528,
+    "lon": -76.2622669
+  },
+  "Donglai, Shandong province, China": {
+    "lat": 37.6494078,
+    "lon": 120.5113613
+  },
+  "Chernigov, Ukraine": {
+    "lat": 51.494099,
+    "lon": 31.294332
+  },
+  "Donetsk, USSR": {
+    "lat": 47.1209737,
+    "lon": 37.5132046
+  },
+  "Lublin, Poland": {
+    "lat": 51.2181945,
+    "lon": 22.5546776
+  },
+  "Sakai, Osaka Prefecture, Japan": {
+    "lat": 34.5737364,
+    "lon": 135.4828866
+  },
+  "Vannes, France": {
+    "lat": 47.6586772,
+    "lon": -2.7599079
+  },
+  "MÃ©rignac, France": {
+    "lat": 44.8052713,
+    "lon": 1.695017
+  },
+  "Nan-yang, China": {
+    "lat": 31.7816716,
+    "lon": 117.227389
+  },
+  "Not known": {
+    "lat": -9.6681711,
+    "lon": 160.1119298
+  },
+  "Oxford, Ohio, USA": {
+    "lat": 39.5103048,
+    "lon": -84.7420519
+  }
+}
