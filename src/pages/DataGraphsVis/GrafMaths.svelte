@@ -4,7 +4,7 @@
 
   let svgEl;
   let dadosBiografias = {};
-  let nomesMatematicos = []; 
+  let nomesMatematicos = [];
   let grafo = { nodes: [], links: [] };
   let raiz = '';
   let profundidade = 1;
@@ -40,10 +40,21 @@
 
     const nodes = [...nodesMap.keys()].map(id => ({ id }));
     const links = [];
+    
+    // Usar Set para evitar links duplicados
+    const linkSet = new Set();
+
     for (const [source, bio] of nodesMap.entries()) {
       for (const target of bio.citados || []) {
         if (nodesMap.has(target)) {
-          links.push({ source, target });
+          // Criar identificador único para o link
+          const linkId = `${source}->${target}`;
+          
+          // Só adicionar se não existir
+          if (!linkSet.has(linkId)) {
+            linkSet.add(linkId);
+            links.push({ source, target });
+          }
         }
       }
     }
@@ -59,23 +70,44 @@
     const width = svgEl.clientWidth;
     const height = svgEl.clientHeight;
 
+    // Marcador de seta cinza
+    const defs = svg.append('defs');
+    
+    defs.append('marker')
+      .attr('id', 'seta-cinza')
+      .attr('viewBox', '0 -5 10 10')
+      .attr('refX', 15) // Aumentei um pouco para ficar mais afastado do nó
+      .attr('refY', 0)
+      .attr('markerWidth', 6)
+      .attr('markerHeight', 6)
+      .attr('orient', 'auto')
+      .attr('markerUnits', 'strokeWidth')
+      .append('path')
+      .attr('d', 'M0,-5L10,0L0,5')
+      .attr('fill', '#888');
+
     const simulation = d3.forceSimulation(grafo.nodes)
-      .force('link', d3.forceLink(grafo.links).id(d => d.id).distance(80))
-      .force('charge', d3.forceManyBody().strength(-300))
-      .force('center', d3.forceCenter(width / 2, height / 2));
+      .force('link', d3.forceLink(grafo.links).id(d => d.id).distance(100))
+      .force('charge', d3.forceManyBody().strength(-400))
+      .force('center', d3.forceCenter(width / 2, height / 2))
+      .force('collision', d3.forceCollide().radius(20)); // Evitar sobreposição
 
     const link = svg.append('g')
+      .attr('stroke-width', 1.5)
       .selectAll('line')
       .data(grafo.links)
       .enter().append('line')
-      .attr('stroke', '#999');
+      .attr('stroke', '#888')
+      .attr('marker-end', 'url(#seta-cinza)');
 
     const node = svg.append('g')
       .selectAll('circle')
       .data(grafo.nodes)
       .enter().append('circle')
       .attr('r', 8)
-      .attr('fill', '#69b3a2')
+      .attr('fill', d => d.id === raiz ? '#f39c12' : '#69b3a2')
+      .attr('stroke', '#fff')
+      .attr('stroke-width', 2)
       .call(drag(simulation));
 
     const label = svg.append('g')
@@ -84,19 +116,42 @@
       .enter().append('text')
       .text(d => d.id)
       .attr('font-size', '0.75rem')
-      .attr('dx', 10)
-      .attr('dy', 3);
+      .attr('font-family', 'Arial, sans-serif')
+      .attr('dx', 12)
+      .attr('dy', 4)
+      .attr('pointer-events', 'none'); // Evita interferência no drag
 
     simulation.on('tick', () => {
+      // Usar linhas retas ao invés de curvas para evitar confusão visual
       link
-        .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
-        .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+        .attr('x1', d => {
+          // Calcular posição na borda do círculo
+          const dx = d.target.x - d.source.x;
+          const dy = d.target.y - d.source.y;
+          const length = Math.sqrt(dx * dx + dy * dy);
+          return d.source.x + (dx / length) * 10; // 10 é o raio + margem
+        })
+        .attr('y1', d => {
+          const dx = d.target.x - d.source.x;
+          const dy = d.target.y - d.source.y;
+          const length = Math.sqrt(dx * dx + dy * dy);
+          return d.source.y + (dy / length) * 10;
+        })
+        .attr('x2', d => {
+          const dx = d.target.x - d.source.x;
+          const dy = d.target.y - d.source.y;
+          const length = Math.sqrt(dx * dx + dy * dy);
+          return d.target.x - (dx / length) * 10; // Para na borda do círculo
+        })
+        .attr('y2', d => {
+          const dx = d.target.x - d.source.x;
+          const dy = d.target.y - d.source.y;
+          const length = Math.sqrt(dx * dx + dy * dy);
+          return d.target.y - (dy / length) * 10;
+        });
 
-      node
-        .attr('cx', d => d.x).attr('cy', d => d.y);
-
-      label
-        .attr('x', d => d.x).attr('y', d => d.y);
+      node.attr('cx', d => d.x).attr('cy', d => d.y);
+      label.attr('x', d => d.x).attr('y', d => d.y);
     });
 
     function drag(simulation) {
@@ -141,6 +196,16 @@
     width: 100%;
     height: 80vh;
     border: 1px solid #ccc;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  select, input {
+    margin-left: 10px;
   }
 </style>
 
