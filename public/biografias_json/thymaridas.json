@@ -1,0 +1,10 @@
+{
+  "nome_completo": "Thymaridas of Paros",
+  "nome_curto": "Thymaridas",
+  "ano_nascimento": "400 BC",
+  "ano_morte": "350 BC",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Thymaridas/",
+  "lugar_nascimento": "Paros, Greece",
+  "lugar_morte": null,
+  "biografia": "We are told a little about\nThymaridas'\nlife. He was apparently a rich man but, for some reason we are not told about, he fell into poverty. Thestor of Poseidonia sailed to Paros to help him with money specially collected for his benefit.\nThymaridas was a Pythagorean and a number theorist who wrote on\nprime numbers\n.\nIamblichus\ntells us that Thymaridas called a prime number rectilinear since it can only be represented one-dimensionally. Non-primes such as\n6\nare represented by rectangles of sides\n2\nand\n3\n. We are also told that he called 'one' a 'limiting quantity' or a 'limit of fewness'.\nThymaridas also gave methods for solving simultaneous linear equations which became known as the 'flower of Thymaridas'. For the\nn\nn\nn\nequations in\nn\nn\nn\nunknowns\nx\n+\nx\n1\n+\nx\n2\n+\n.\n.\n.\n+\nx\nn\nâ\n1\n=\nS\nx + x_{1} + x_{2} + ... + x_{n-1} = S\nx\n+\nx\n1\nâ\n+\nx\n2\nâ\n+\n.\n.\n.\n+\nx\nn\nâ\n1\nâ\n=\nS\nx\n+\nx\n1\n=\na\n1\nx + x_{1} = a_{1}\nx\n+\nx\n1\nâ\n=\na\n1\nâ\nx\n+\nx\n2\n=\na\n2\nx + x_{2} = a_{2}\nx\n+\nx\n2\nâ\n=\na\n2\nâ\n.\n.\n.\nx\n+\nx\nn\nâ\n1\n=\na\nn\nâ\n1\nx + x_{n-1} = a_{n-1}\nx\n+\nx\nn\nâ\n1\nâ\n=\na\nn\nâ\n1\nâ\nthen Thymaridas gives the solution\nx\n=\na\n1\n+\na\n2\n+\n.\n.\n.\n.\n+\na\nn\nâ\n1\nâ\nS\nn\nâ\n2\nx = \\Large\\frac {a_{1} + a_{2} + .... + a_{n-1} - S}{n - 2}\nx\n=\nn\nâ\n2\na\n1\nâ\n+\na\n2\nâ\n+\n.\n.\n.\n.\n+\na\nn\nâ\n1\nâ\nâ\nS\nâ\n.\nHe also shows how certain other types of equations can be put into this form."
+}
