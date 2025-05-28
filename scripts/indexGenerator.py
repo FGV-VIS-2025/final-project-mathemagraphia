@@ -2,7 +2,7 @@ import os
 import json
 
 # Caminho da pasta onde estão os arquivos .json
-PASTA = "biografias_json"
+PASTA = "public/biografias_json"
 
 # Lista de arquivos que terminam com .json, ignorando o index.json se já existir
 nomes = [
