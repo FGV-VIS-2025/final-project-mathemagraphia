@@ -4,15 +4,21 @@
 
   let svgEl;
   let dadosBiografias = {};
-  let nomesMatematicos = [];
+  let matematicos = []; // Substitui nomesMatematicos
+  let mapaMatematicos = new Map();
   let grafo = { nodes: [], links: [] };
   let raiz = '';
   let profundidade = 1;
 
-  function extrairCitados(biografia, candidatos) {
-    return candidatos.filter(nome =>
-      new RegExp(`\\b${nome}\\b`, 'i').test(biografia)
-    );
+  function normalizar(texto) {
+    return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
+  function extrairCitados(biografia, matematicos) {
+    const bioNorm = normalizar(biografia);
+    return matematicos
+      .filter(m => bioNorm.includes(m.nome_normalizado))
+      .map(m => m.slug); // Retorna os slugs citados
   }
 
   function construirGrafo(raiz, n) {
@@ -28,7 +34,7 @@
         const bio = dadosBiografias[nome];
         nodesMap.set(nome, bio);
 
-        const citados = extrairCitados(bio.biografia, nomesMatematicos);
+        const citados = extrairCitados(bio.biografia, matematicos);
         bio.citados = citados;
 
         for (const citado of citados) {
@@ -114,7 +120,7 @@
       .selectAll('text')
       .data(grafo.nodes)
       .enter().append('text')
-      .text(d => d.id)
+      .text(d => mapaMatematicos.get(d.id)?.nome_completo ?? d.id)
       .attr('font-size', '0.75rem')
       .attr('font-family', 'Arial, sans-serif')
       .attr('dx', 12)
@@ -175,20 +181,21 @@
 
   onMount(async () => {
     const index = await fetch('biografias_json/index.json').then(r => r.json());
-    nomesMatematicos = index;
+    matematicos = await fetch('biografias_json/index.json').then(r => r.json());
+    mapaMatematicos = new Map(matematicos.map(m => [m.slug, m]));
 
-    for (const nome of nomesMatematicos) {
-      const dados = await fetch(`biografias_json/${nome}.json`).then(r => r.json());
-      dadosBiografias[nome] = dados;
+    for (const m of matematicos) {
+      const dados = await fetch(`biografias_json/${m.slug}.json`).then(r => r.json());
+      dadosBiografias[m.slug] = dados;
     }
 
-    raiz = nomesMatematicos[0];
+    raiz = matematicos[0].slug;
     construirGrafo(raiz, profundidade);
   });
-
-  $: if (raiz && profundidade) {
+  $: if (raiz && profundidade && dadosBiografias[raiz]) {
     construirGrafo(raiz, profundidade);
   }
+  
 </script>
 
 <style>
@@ -214,8 +221,8 @@
 <label>
   Matemático de origem:
   <select bind:value={raiz}>
-    {#each nomesMatematicos as nome}
-      <option value={nome}>{nome}</option>
+    {#each matematicos as m}
+      <option value={m.slug}>{m.nome_completo}</option>
     {/each}
   </select>
 </label>
