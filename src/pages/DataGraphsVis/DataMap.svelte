@@ -1,107 +1,166 @@
 <script>
-import { onMount, onDestroy } from 'svelte';
-import * as d3 from 'd3';
-import * as topojson from 'topojson-client';
+  import { onMount, onDestroy } from 'svelte';
+  import * as d3 from 'd3';
+  import * as topojson from 'topojson-client';
 
-let containerEl;
-let svgEl;
-let tooltipEl;
+  let containerEl, svgEl, tooltipEl;
+  let projection, path, g, svg;
+  let land;
 
-const MAP_URL  = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
-const DATA_URL = 'data/biografias_com_coords.json';
+  const MAP_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
+  const DATA_URL = 'data/biografias_com_coords.json';
 
-let projection, path, g, svg;
-let pontos = [];
-let land;
+  let raw = [];
+  let pontos = [];
 
-function drawLand() {
-  g.append('path')
-    .datum(land)
-    .attr('d', path)
-    .attr('fill', '#eee')
-    .attr('stroke', '#999');
-}
+  let seculoAtual = 17;
+  let playing = false;
+  let intervaloAnimacao = null;
+  let fixedTooltipData = null;
 
-let fixedTooltipData = null;
+  function drawLand() {
+    g.append('path')
+      .datum(land)
+      .attr('d', path)
+      .attr('fill', '#eee')
+      .attr('stroke', '#999');
 
-function showTooltip(e, d) {
-  const bounds = containerEl.getBoundingClientRect();
-  tooltipEl.innerHTML = `
-    <strong>${d.nome_completo}</strong><br/>
-    <a href="${d.link}" target="_blank">Ver biografia</a>
-  `;
-  tooltipEl.style.opacity = '1';
-  tooltipEl.style.pointerEvents = 'auto'; // reativa interatividade
-  tooltipEl.style.left = (e.clientX - bounds.left + 10) + 'px';
-  tooltipEl.style.top = (e.clientY - bounds.top - 28) + 'px';
-}
+    // Adiciona nomes dos países
+    const countries = land.features;
 
+    g.selectAll('text.country-label')
+      .data(countries)
+      .enter()
+      .append('text')
+      .attr('class', 'country-label')
+      .attr('transform', d => {
+        const centroid = path.centroid(d);
+        return `translate(${centroid[0]},${centroid[1]})`;
+      })
+      .text(d => d.properties.name)
+      .attr('font-size', '8px')
+      .attr('fill', '#555')
+      .attr('text-anchor', 'middle')
+      .style('pointer-events', 'none');
+  }
 
-function hideTooltip() {
-  tooltipEl.style.opacity = '0';
-  tooltipEl.style.pointerEvents = 'none';
-  tooltipEl.innerHTML = ''; // opcional, se quiser remover conteúdo
-}
+  function showTooltip(e, d) {
+    const bounds = containerEl.getBoundingClientRect();
+    tooltipEl.innerHTML = `
+      <strong>${d.nome_completo}</strong><br/>
+      <a href="${d.link}" target="_blank">Ver biografia</a>
+    `;
+    tooltipEl.style.opacity = '1';
+    tooltipEl.style.pointerEvents = 'auto';
+    tooltipEl.style.left = (e.clientX - bounds.left + 10) + 'px';
+    tooltipEl.style.top = (e.clientY - bounds.top - 28) + 'px';
+  }
 
+  function hideTooltip() {
+    tooltipEl.style.opacity = '0';
+    tooltipEl.style.pointerEvents = 'none';
+    tooltipEl.innerHTML = '';
+  }
 
-function drawPoints() {
-  g.selectAll('circle')
+  function drawPoints() {
+  // Remove old circles and labels first
+  g.selectAll('circle').remove();
+  g.selectAll('text.math-label').remove();
+
+  const enter = g.selectAll('circle')
     .data(pontos, d => d.link)
-    .join(
-      enter => enter.append('circle')
-        .attr('cx', d => projection(d.coords)[0])
-        .attr('cy', d => projection(d.coords)[1])
-        .attr('r', 0)
-        .attr('fill', 'crimson')
-        .attr('stroke', '#000')
-        .attr('stroke-width', 0.5)
-        .on('mouseover', (e, d) => {
-          if (!fixedTooltipData) showTooltip(e, d);
-        })
-        .on('mouseout', () => {
-          if (!fixedTooltipData) hideTooltip();
-        })
-        .on('click', (e, d) => {
-          if (fixedTooltipData && fixedTooltipData.link === d.link) {
-            fixedTooltipData = null;
-            hideTooltip();
-          } else {
-            fixedTooltipData = d;
-            showTooltip(e, d);
-          }
-        })
-        .transition()
-        .duration(300)
-        .attr('r', 3),
-      update => update
-        .attr('cx', d => projection(d.coords)[0])
-        .attr('cy', d => projection(d.coords)[1]),
-      exit => exit.remove()
-    );
+    .enter();
+
+  enter.append('circle')
+    .attr('cx', d => projection(d.coords)[0])
+    .attr('cy', d => projection(d.coords)[1])
+    .attr('r', 3)
+    .attr('fill', 'crimson')
+    .attr('stroke', '#000')
+    .attr('stroke-width', 0.5)
+    .on('mouseover', (e, d) => {
+      if (!fixedTooltipData) showTooltip(e, d);
+    })
+    .on('mouseout', () => {
+      if (!fixedTooltipData) hideTooltip();
+    })
+    .on('click', (e, d) => {
+      if (fixedTooltipData && fixedTooltipData.link === d.link) {
+        fixedTooltipData = null;
+        hideTooltip();
+      } else {
+        fixedTooltipData = d;
+        showTooltip(e, d);
+      }
+    });
+
+  // Add label with name next to each point
+  enter.append('text')
+    .attr('class', 'math-label')
+    .attr('x', d => projection(d.coords)[0] + 5)
+    .attr('y', d => projection(d.coords)[1] + 4)
+    .text(d => d.nome_completo)
+    .attr('font-size', '10px')
+    .attr('font-family', 'Arial, sans-serif')
+    .attr('fill', '#333')
+    .style('pointer-events', 'none');
 }
+  function render() {
+    g.selectAll('*').remove();
+    drawLand();
+    drawPoints();
+  }
 
+  function resize() {
+    const { width, height } = containerEl.getBoundingClientRect();
+    svg
+      .attr('viewBox', `0 0 ${width} ${height}`)
+      .attr('preserveAspectRatio', 'xMidYMid meet');
 
-function render() {
-  g.selectAll('*').remove();
-  drawLand();
+    projection.fitSize([width, height], land);
+    path = d3.geoPath(projection);
+    render();
+  }
+
+  function atualizarPontosFiltrados() {
+  const maxAno = seculoAtual * 100;
+
+  pontos = raw
+    .filter(d =>
+      d.lat_nasc != null &&
+      d.lon_nasc != null &&
+      !isNaN(+d.ano_nascimento) &&
+      +d.ano_nascimento <= maxAno
+    )
+    .map(d => ({
+      ...d,
+      ano_nasc: +d.ano_nascimento,
+      coords: [d.lon_nasc, d.lat_nasc]
+    }));
+
+  console.log("Pontos para desenhar:", pontos.length);
   drawPoints();
 }
 
-function resize() {
-  const { width, height } = containerEl.getBoundingClientRect();
-
-  svg
-    .attr('viewBox', `0 0 ${width} ${height}`)
-    .attr('preserveAspectRatio', 'xMidYMid meet');
-
-  projection
-    .fitSize([width, height], land); // usa fitSize em vez de scale + translate
-
-  path = d3.geoPath(projection);
-  render();
-}
+  function togglePlay() {
+    playing = !playing;
+    if (playing) {
+      intervaloAnimacao = setInterval(() => {
+        seculoAtual++;
+        if (seculoAtual > 21) {
+          clearInterval(intervaloAnimacao);
+          playing = false;
+          return;
+        }
+        atualizarPontosFiltrados();
+      }, 800);
+    } else {
+      clearInterval(intervaloAnimacao);
+    }
+  }
 
   function handleClickOutside(e) {
+    
     if (
       fixedTooltipData &&
       !tooltipEl.contains(e.target) &&
@@ -112,37 +171,34 @@ function resize() {
     }
   }
 
-onMount(async () => {
+  onMount(async () => {
+    window.addEventListener('click', handleClickOutside);
+    svg = d3.select(svgEl);
+    g = svg.append('g');
+    projection = d3.geoNaturalEarth1();
+    
+    path = d3.geoPath(projection);
 
-  window.addEventListener('click', handleClickOutside);
+    const world = await d3.json(MAP_URL);
+    land = topojson.feature(world, world.objects.countries);
 
-  svg = d3.select(svgEl);
-  g = svg.append('g');
+    raw = await d3.json(DATA_URL);
+    atualizarPontosFiltrados();
 
-  projection = d3.geoNaturalEarth1();
-  path = d3.geoPath(projection);
+    const ro = new ResizeObserver(resize);
+    ro.observe(containerEl);
 
-  const world = await d3.json(MAP_URL);
-  land = topojson.feature(world, world.objects.countries);
+    onDestroy(() => {
+      ro.disconnect();
+      clearInterval(intervaloAnimacao);
+      window.removeEventListener('click', handleClickOutside);
+    });
 
-  const raw = await d3.json(DATA_URL);
-  pontos = raw
-    .filter(d => d.lat_nasc && d.lon_nasc)
-    .map(d => ({ ...d, coords: [d.lon_nasc, d.lat_nasc] }));
-
-  const ro = new ResizeObserver(resize);
-  ro.observe(containerEl);
-
-  onDestroy(() => {
-    ro.disconnect();
-    window.removeEventListener('click', handleClickOutside);
+    resize();
   });
-
-
-  resize();
-});
 </script>
 
+<!-- MAPA -->
 <div class="map-wrapper">
   <div class="map-container" bind:this={containerEl}>
     <svg bind:this={svgEl}></svg>
@@ -150,12 +206,25 @@ onMount(async () => {
   </div>
 </div>
 
+<!-- CONTROLES -->
+<div class="controls">
+  <label>
+    Século:
+    <input type="range" min="9" max="21" bind:value={seculoAtual} on:input={atualizarPontosFiltrados} />
+    <span>{seculoAtual}º</span>
+  </label>
+  <button class="play-button" on:click={togglePlay}>
+    {playing ? '⏸ Pausar' : '▶️ Play'}
+  </button>
+</div>
+
+<!-- ESTILOS -->
 <style>
   .map-wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 85vh;
     background: #f5f5f5;
   }
 
@@ -174,20 +243,57 @@ onMount(async () => {
     background: radial-gradient(#fff, #e0e0e0);
   }
 
+  .country-label {
+    font-family: Arial, sans-serif;
+    font-size: 8px;
+    fill: #555;
+  }
+
   #tooltip {
     position: absolute;
-    pointer-events: auto; /* permite cliques */
+    pointer-events: auto;
     background: white;
-    padding: 6px 10px;
-    border: 1px solid #999;
-    border-radius: 4px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
     font-size: 0.85rem;
     opacity: 0;
-    transition: opacity 0.2s;
+    transition: opacity 0.2s ease;
     z-index: 10;
   }
 
+  .controls {
+    text-align: center;
+    margin-top: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .controls label {
+    font-size: 1rem;
+    margin-right: 1rem;
+  }
+
+  .controls input[type="range"] {
+    vertical-align: middle;
+    accent-color: steelblue;
+  }
+
+  .play-button {
+    background-color: steelblue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.2s;
+  }
+
+  .play-button:hover {
+    background-color: #336699;
+  }
 
   :global(a) {
     color: steelblue;
