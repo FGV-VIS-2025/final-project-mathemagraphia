@@ -30,16 +30,18 @@
   }
 
   function showTooltip(e, d) {
-    const bounds = containerEl.getBoundingClientRect();
-    tooltipEl.innerHTML = `
-      <strong>${d.nome_completo}</strong><br/>
-      <a href="${d.link}" target="_blank">Ver biografia</a>
-    `;
-    tooltipEl.style.opacity = '1';
-    tooltipEl.style.pointerEvents = 'auto';
-    tooltipEl.style.left = (e.clientX - bounds.left + 10) + 'px';
-    tooltipEl.style.top = (e.clientY - bounds.top - 28) + 'px';
-  }
+  const bounds = containerEl.getBoundingClientRect();
+  tooltipEl.innerHTML = `
+    <strong>${d.nome_completo}</strong><br/>
+    <span><strong>País:</strong> ${d.pais || 'Desconhecido'}</span><br/>
+    <span><strong>Nasc.:</strong> ${d.ano_nascimento || 'Desconhecido'}</span><br/>
+    <a href="${d.link}" target="_blank">Ver biografia</a>
+  `;
+  tooltipEl.style.opacity = '1';
+  tooltipEl.style.pointerEvents = 'auto';
+  tooltipEl.style.left = (e.clientX - bounds.left + 10) + 'px';
+  tooltipEl.style.top = (e.clientY - bounds.top - 28) + 'px';
+}
 
   function hideTooltip() {
     tooltipEl.style.opacity = '0';
