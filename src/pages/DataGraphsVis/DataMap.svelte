@@ -22,26 +22,11 @@
     g.append('path')
       .datum(land)
       .attr('d', path)
-      .attr('fill', '#eee')
-      .attr('stroke', '#999');
+      .attr('fill', '#eaeaea')
+      .attr('stroke', '#aaa')
+      .attr('stroke-width', 0.5);
 
-    // Adiciona nomes dos países
-    const countries = land.features;
-
-    g.selectAll('text.country-label')
-      .data(countries)
-      .enter()
-      .append('text')
-      .attr('class', 'country-label')
-      .attr('transform', d => {
-        const centroid = path.centroid(d);
-        return `translate(${centroid[0]},${centroid[1]})`;
-      })
-      .text(d => d.properties.name)
-      .attr('font-size', '8px')
-      .attr('fill', '#555')
-      .attr('text-anchor', 'middle')
-      .style('pointer-events', 'none');
+    // ❌ Removido: nomes dos países
   }
 
   function showTooltip(e, d) {
@@ -63,48 +48,35 @@
   }
 
   function drawPoints() {
-  // Remove old circles and labels first
-  g.selectAll('circle').remove();
-  g.selectAll('text.math-label').remove();
+    g.selectAll('circle').remove();
 
-  const enter = g.selectAll('circle')
-    .data(pontos, d => d.link)
-    .enter();
+    g.selectAll('circle')
+      .data(pontos, d => d.link)
+      .enter()
+      .append('circle')
+      .attr('cx', d => projection(d.coords)[0])
+      .attr('cy', d => projection(d.coords)[1])
+      .attr('r', 4)
+      .attr('fill', '#d62828')
+      .attr('stroke', '#fff')
+      .attr('stroke-width', 1)
+      .on('mouseover', (e, d) => {
+        if (!fixedTooltipData) showTooltip(e, d);
+      })
+      .on('mouseout', () => {
+        if (!fixedTooltipData) hideTooltip();
+      })
+      .on('click', (e, d) => {
+        if (fixedTooltipData && fixedTooltipData.link === d.link) {
+          fixedTooltipData = null;
+          hideTooltip();
+        } else {
+          fixedTooltipData = d;
+          showTooltip(e, d);
+        }
+      });
+  }
 
-  enter.append('circle')
-    .attr('cx', d => projection(d.coords)[0])
-    .attr('cy', d => projection(d.coords)[1])
-    .attr('r', 3)
-    .attr('fill', 'crimson')
-    .attr('stroke', '#000')
-    .attr('stroke-width', 0.5)
-    .on('mouseover', (e, d) => {
-      if (!fixedTooltipData) showTooltip(e, d);
-    })
-    .on('mouseout', () => {
-      if (!fixedTooltipData) hideTooltip();
-    })
-    .on('click', (e, d) => {
-      if (fixedTooltipData && fixedTooltipData.link === d.link) {
-        fixedTooltipData = null;
-        hideTooltip();
-      } else {
-        fixedTooltipData = d;
-        showTooltip(e, d);
-      }
-    });
-
-  // Add label with name next to each point
-  enter.append('text')
-    .attr('class', 'math-label')
-    .attr('x', d => projection(d.coords)[0] + 5)
-    .attr('y', d => projection(d.coords)[1] + 4)
-    .text(d => d.nome_completo)
-    .attr('font-size', '10px')
-    .attr('font-family', 'Arial, sans-serif')
-    .attr('fill', '#333')
-    .style('pointer-events', 'none');
-}
   function render() {
     g.selectAll('*').remove();
     drawLand();
@@ -123,24 +95,23 @@
   }
 
   function atualizarPontosFiltrados() {
-  const maxAno = seculoAtual * 100;
+    const maxAno = seculoAtual * 100;
 
-  pontos = raw
-    .filter(d =>
-      d.lat_nasc != null &&
-      d.lon_nasc != null &&
-      !isNaN(+d.ano_nascimento) &&
-      +d.ano_nascimento <= maxAno
-    )
-    .map(d => ({
-      ...d,
-      ano_nasc: +d.ano_nascimento,
-      coords: [d.lon_nasc, d.lat_nasc]
-    }));
+    pontos = raw
+      .filter(d =>
+        d.lat_nasc != null &&
+        d.lon_nasc != null &&
+        !isNaN(+d.ano_nascimento) &&
+        +d.ano_nascimento <= maxAno
+      )
+      .map(d => ({
+        ...d,
+        ano_nasc: +d.ano_nascimento,
+        coords: [d.lon_nasc, d.lat_nasc]
+      }));
 
-  console.log("Pontos para desenhar:", pontos.length);
-  drawPoints();
-}
+    drawPoints();
+  }
 
   function togglePlay() {
     playing = !playing;
@@ -160,7 +131,6 @@
   }
 
   function handleClickOutside(e) {
-    
     if (
       fixedTooltipData &&
       !tooltipEl.contains(e.target) &&
@@ -176,7 +146,6 @@
     svg = d3.select(svgEl);
     g = svg.append('g');
     projection = d3.geoNaturalEarth1();
-    
     path = d3.geoPath(projection);
 
     const world = await d3.json(MAP_URL);
@@ -184,6 +153,15 @@
 
     raw = await d3.json(DATA_URL);
     atualizarPontosFiltrados();
+
+    // ✅ Zoom e pan
+    svg.call(
+      d3.zoom()
+        .scaleExtent([1, 8])
+        .on('zoom', ({ transform }) => {
+          g.attr('transform', transform);
+        })
+    );
 
     const ro = new ResizeObserver(resize);
     ro.observe(containerEl);
@@ -218,7 +196,7 @@
   </button>
 </div>
 
-<!-- ESTILOS -->
+<!-- ESTILO -->
 <style>
   .map-wrapper {
     display: flex;
@@ -240,13 +218,7 @@
   svg {
     width: 100%;
     height: 100%;
-    background: radial-gradient(#fff, #e0e0e0);
-  }
-
-  .country-label {
-    font-family: Arial, sans-serif;
-    font-size: 8px;
-    fill: #555;
+    background: linear-gradient(to bottom, #f0f4f8, #d9e2ec);
   }
 
   #tooltip {
