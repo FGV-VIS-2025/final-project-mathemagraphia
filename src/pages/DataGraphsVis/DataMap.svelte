@@ -33,7 +33,7 @@
   const bounds = containerEl.getBoundingClientRect();
   tooltipEl.innerHTML = `
     <strong>${d.nome_completo}</strong><br/>
-    <span><strong>País:</strong> ${d.pais || 'Desconhecido'}</span><br/>
+    <span><strong>País:</strong> ${d.lugar_nascimento || 'Desconhecido'}</span><br/>
     <span><strong>Nasc.:</strong> ${d.ano_nascimento || 'Desconhecido'}</span><br/>
     <a href="${d.link}" target="_blank">Ver biografia</a>
   `;
@@ -224,18 +224,19 @@
   }
 
   #tooltip {
-    position: absolute;
-    pointer-events: auto;
-    background: white;
-    padding: 8px 12px;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-    font-size: 0.85rem;
-    opacity: 0;
-    transition: opacity 0.2s ease;
-    z-index: 10;
-  }
+  color: black; /* <-- adiciona esta linha */
+  position: absolute;
+  pointer-events: auto;
+  background: white;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  font-size: 0.85rem;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 10;
+}
 
   .controls {
     text-align: center;
