@@ -4,11 +4,15 @@
 
   let svgEl;
   let dadosBiografias = {};
-  let matematicos = []; // Substitui nomesMatematicos
+  let matematicos = [];
   let mapaMatematicos = new Map();
   let grafo = { nodes: [], links: [] };
   let raiz = '';
   let profundidade = 1;
+  let simulation;
+
+  // Nova variável para manter o texto digitado na busca
+  let buscaNome = '';
 
   function normalizar(texto) {
     return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
@@ -18,7 +22,7 @@
     const bioNorm = normalizar(biografia);
     return matematicos
       .filter(m => bioNorm.includes(m.nome_normalizado))
-      .map(m => m.slug); // Retorna os slugs citados
+      .map(m => m.slug);
   }
 
   function construirGrafo(raiz, n) {
@@ -46,17 +50,12 @@
 
     const nodes = [...nodesMap.keys()].map(id => ({ id }));
     const links = [];
-    
-    // Usar Set para evitar links duplicados
     const linkSet = new Set();
 
     for (const [source, bio] of nodesMap.entries()) {
       for (const target of bio.citados || []) {
         if (nodesMap.has(target)) {
-          // Criar identificador único para o link
           const linkId = `${source}->${target}`;
-          
-          // Só adicionar se não existir
           if (!linkSet.has(linkId)) {
             linkSet.add(linkId);
             links.push({ source, target });
@@ -76,13 +75,12 @@
     const width = svgEl.clientWidth;
     const height = svgEl.clientHeight;
 
-    // Marcador de seta cinza
+    // 1) Definir seta
     const defs = svg.append('defs');
-    
     defs.append('marker')
       .attr('id', 'seta-cinza')
       .attr('viewBox', '0 -5 10 10')
-      .attr('refX', 15) // Aumentei um pouco para ficar mais afastado do nó
+      .attr('refX', 15)
       .attr('refY', 0)
       .attr('markerWidth', 6)
       .attr('markerHeight', 6)
@@ -92,12 +90,18 @@
       .attr('d', 'M0,-5L10,0L0,5')
       .attr('fill', '#888');
 
-    const simulation = d3.forceSimulation(grafo.nodes)
+    // 2) Se já existe simulation, pare-a
+    if (simulation) simulation.stop();
+
+    // 3) Cria a simulação
+    simulation = d3.forceSimulation(grafo.nodes)
       .force('link', d3.forceLink(grafo.links).id(d => d.id).distance(100))
       .force('charge', d3.forceManyBody().strength(-400))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('collision', d3.forceCollide().radius(20)); // Evitar sobreposição
+      .force('collision', d3.forceCollide().radius(20))
+      .on('end', () => simulation.stop());
 
+    // 4) Cria elementos de link, node e label
     const link = svg.append('g')
       .attr('stroke-width', 1.5)
       .selectAll('line')
@@ -125,17 +129,16 @@
       .attr('font-family', 'Arial, sans-serif')
       .attr('dx', 12)
       .attr('dy', 4)
-      .attr('pointer-events', 'none'); // Evita interferência no drag
+      .attr('pointer-events', 'none');
 
+    // 5) Atualiza posições em cada tick
     simulation.on('tick', () => {
-      // Usar linhas retas ao invés de curvas para evitar confusão visual
       link
         .attr('x1', d => {
-          // Calcular posição na borda do círculo
           const dx = d.target.x - d.source.x;
           const dy = d.target.y - d.source.y;
           const length = Math.sqrt(dx * dx + dy * dy);
-          return d.source.x + (dx / length) * 10; // 10 é o raio + margem
+          return d.source.x + (dx / length) * 10;
         })
         .attr('y1', d => {
           const dx = d.target.x - d.source.x;
@@ -147,7 +150,7 @@
           const dx = d.target.x - d.source.x;
           const dy = d.target.y - d.source.y;
           const length = Math.sqrt(dx * dx + dy * dy);
-          return d.target.x - (dx / length) * 10; // Para na borda do círculo
+          return d.target.x - (dx / length) * 10;
         })
         .attr('y2', d => {
           const dx = d.target.x - d.source.x;
@@ -156,14 +159,19 @@
           return d.target.y - (dy / length) * 10;
         });
 
-      node.attr('cx', d => d.x).attr('cy', d => d.y);
-      label.attr('x', d => d.x).attr('y', d => d.y);
+      node
+        .attr('cx', d => d.x)
+        .attr('cy', d => d.y);
+
+      label
+        .attr('x', d => d.x)
+        .attr('y', d => d.y);
     });
 
-    function drag(simulation) {
+    function drag(sim) {
       return d3.drag()
         .on('start', (event, d) => {
-          if (!event.active) simulation.alphaTarget(0.3).restart();
+          if (!event.active) sim.alphaTarget(0.3).restart();
           d.fx = d.x;
           d.fy = d.y;
         })
@@ -172,7 +180,7 @@
           d.fy = event.y;
         })
         .on('end', (event, d) => {
-          if (!event.active) simulation.alphaTarget(0);
+          if (!event.active) sim.alphaTarget(0);
           d.fx = null;
           d.fy = null;
         });
@@ -181,21 +189,33 @@
 
   onMount(async () => {
     const index = await fetch('biografias_json/index.json').then(r => r.json());
-    matematicos = await fetch('biografias_json/index.json').then(r => r.json());
-    mapaMatematicos = new Map(matematicos.map(m => [m.slug, m]));
+    matematicos = index;
+    mapaMatematicos = new Map(index.map(m => [m.slug, m]));
 
     for (const m of matematicos) {
       const dados = await fetch(`biografias_json/${m.slug}.json`).then(r => r.json());
       dadosBiografias[m.slug] = dados;
     }
 
+    // Defina um valor inicial para raiz e exiba o grafo
     raiz = matematicos[0].slug;
     construirGrafo(raiz, profundidade);
   });
-  $: if (raiz && profundidade && dadosBiografias[raiz]) {
+
+  // Quando **apenas** raiz ou profundidade mudam, reconstrói o grafo
+  $: if (raiz && profundidade) {
     construirGrafo(raiz, profundidade);
   }
-  
+
+  // Quando o usuário seleciona um nome no datalist, buscamos o slug correspondente
+  function aoSelecionarNome() {
+    const encontrado = matematicos.find(m => m.nome_completo === buscaNome);
+    if (encontrado) {
+      raiz = encontrado.slug;
+      // Limpa a busca para não ficar texto antigo no campo
+      buscaNome = '';
+    }
+  }
 </script>
 
 <style>
@@ -204,32 +224,48 @@
     height: 80vh;
     border: 1px solid #ccc;
   }
-  
+
   label {
     display: block;
     margin: 10px 0;
     font-family: Arial, sans-serif;
   }
-  
-  select, input {
+
+/* Remova o “select,” pois não existe mais <select> */
+  input {
     margin-left: 10px;
+  }
+
+  /* Estilização extra para a lista suspensa do datalist (caso queira ajustar) */
+  input {
+    padding: 4px 8px;
+    font-size: 1rem;
+    width: 40%;
   }
 </style>
 
 <h2>Grafo de Distâncias entre Matemáticos</h2>
 
+<!-- 1) Campo de busca com autocompletar -->
 <label>
-  Matemático de origem:
-  <select bind:value={raiz}>
+  Buscar Matemático:
+  <input
+    list="listaMatematicos"
+    bind:value={buscaNome}
+    on:change={aoSelecionarNome}
+    placeholder="Digite parte do nome e selecione…" />
+  <datalist id="listaMatematicos">
     {#each matematicos as m}
-      <option value={m.slug}>{m.nome_completo}</option>
+      <option value="{m.nome_completo}"></option>
     {/each}
-  </select>
+  </datalist>
 </label>
 
+<!-- 2) Slider de Profundidade (permanece igual ao original) -->
 <label>
   Profundidade: {profundidade}
   <input type="range" min="1" max="4" bind:value={profundidade} />
 </label>
 
+<!-- 3) Área do SVG para desenhar o grafo -->
 <svg bind:this={svgEl}></svg>
