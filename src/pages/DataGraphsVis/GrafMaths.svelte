@@ -259,6 +259,14 @@ function drawGraph() {
     font-size: 1rem;
     width: 40%;
   }
+  svg {
+    cursor: grab; /* Mostra que dá para arrastar (pan) */
+  }
+
+  svg:active {
+    cursor: grabbing; /* Enquanto arrasta, muda o cursor */
+  }
+
 </style>
 
 <h2>Grafo de Distâncias entre Matemáticos</h2>
