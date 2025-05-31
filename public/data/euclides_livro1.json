@@ -1,5 +1,9 @@
 [
   {
+    "titulo": "PROP. I. PROB.",
+    "conteudo": "Seja a linha recta AB de um certo comprimento. Se deve sobre ella descrever um triangulo equilatero.\n\nCom o centro A e com o intervallo AB se descreva ( Post. 3 ) o circulo BCD; e com o centro B e com o intervallo BA se descreva o circulo ACE. Do ponto C, onde os circulos se cortam reciprocamente, se tirem ( Post. 1 ) para os pontos A, B as rectas CA, CB. O triangulo ABC será equilatero. Sendo o ponto A o centro do circulo BCD, será AC=AB ( Definiç. 15 ). E sendo o ponto B o centro do circulo CAE, será BC=BA. Mas temos visto CA=AB. Logo tanto CA, como CB, é egual a AB. Mas as cousas, que são eguaes a uma terceira, são eguaes entre si ( Ax. 1 ). Logo será CA=CB. Logo as tres rectas CA, AB, BC são eguaes; e por consequencia o triangulo ABC, feito sobre a recta dada AB, é equilatero."
+  },
+  {
     "titulo": "PROP. II. PROB.",
     "conteudo": "De um ponto dado tirar uma linha recta igual á outra recta\n\ndada(Fig.19 ).\nSeja dado o ponto A, e dada tambem a recta BC. Se deve do\n\nponto A tirar uma linha recta egual á recta dada BC.\nDo ponto A para o ponto B tire-se (Post.1 ) a recta\n\nAB, e sobre esta se faça (Prop.1, 1 ) o triangulo\n\nequilatero DAB; e se produzam (Post.2 ) as rectas AE, BF\n\nem direitura das rectas DA, DB. Com o centro B e o intervallo BC\n\nse descreva (Post.3 ) o circulo CGH; e tambem com o\n\ncentro D e o intervallo DG se descreva o circulo GKL. Sendo o\n\nponto B o centro do circulo CGH, será BC=BG (Def.15 ).\n\nE sendo D o centro do circulo GKL, será DL=DG. Mas as partes DA,\n\nDB das rectas DL, DG são eguaes. Logo, tiradas estas, as partes\n\nresiduas AL, BG serão tambem eguaes (Ax.3 ). Mas temos\n\ndemonstrado, que é BC=BG. Logo cada uma das duas AL, BC será\n\negual a BG. Mas as cousas eguaes a uma terceira, são eguaes\n\nentre si. Logo será AL=BC; e por consequencia temos tirado do\n\nponto A a linha recta AL egual a outra dada BC.\n"
   },
