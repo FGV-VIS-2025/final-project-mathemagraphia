@@ -1,0 +1,13 @@
+{
+  "nome_completo": "Johannes de Sacrobosco",
+  "nome_curto": "John Sacrobosco",
+  "ano_nascimento": "1195",
+  "ano_morte": "1256",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Sacrobosco/",
+  "lugar_nascimento": "(possibly) Halifax, Yorkshire, England",
+  "lugar_morte": "Paris, France",
+  "biografia": "John of Holywood\nor\nJohannes de Sacrobosco\nwas educated at Oxford. He became a canon of the Order of St Augustine at the monastery of Holywood in Nithsdale.\nIn\n1220\nSacrobosco went to study in Paris. Although almost all dates for Sacrobosco are guesses we do know one date precisely for, on\n5\nJune\n1221\n, he was appointed a teacher at the University of Paris. Soon after this he became professor of mathematics at Paris.\nSacrobosco promoted Arabic methods of arithmetic and algebra in his teachings. In\nDe Algorismo\nhe discusses calculating with positive integers. The work contains\n11\nchapters, one each on topics such as addition, subtraction, multiplication, division, square roots and cube roots.\nIn\n1220\nSacrobosco wrote\nTractatus de Sphaera\na book on astronomy in four chapters. The first chapter deals with the shape and place of the Earth within a spherical universe. The second chapter deals with various circles on the sky. The third chapter describes rising and setting of heavenly bodies from different geographical locations while the fourth chapter gives a brief introduction to\nPtolemy\n's theory of the planets and of eclipses.\nThe book, which predates\nGrosseteste\n's astronomy book, is well written and was widely used throughout Europe from the middle of the\n13\nth\nCentury.\nClavius\nused in the\n16\nth\nCentury and it was still the basic astronomy text until the\n17\nth\nCentury. It was essentially the first astronomy text to be printed in\n1472\n. Despite its long life as a teaching book\nBarocius\nhad pointed out\n84\nerrors in the book as early as\n1570\n.\nSacrobosco wrote\nDe Anni Ratione\nin\n1232\n. This book deals with time, studying the day, week, month, year as well as the Moon and the ecclesiastical calendar. He maintains that the Julian calendar is\n10\ndays in error and should be corrected. He suggest a reform of the calendar achieved by omitting one day every\n288\nyears.\nHe wrote a number of other book including\nTractatus de Quadrante\non the quadrant.",
+  "math_areas": [
+    "Algebra"
+  ]
+}

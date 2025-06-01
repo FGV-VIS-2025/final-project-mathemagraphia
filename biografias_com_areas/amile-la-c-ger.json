@@ -1,0 +1,13 @@
+{
+  "nome_completo": "Ãmile LÃ©ger",
+  "nome_curto": "Ãmile LÃ©ger",
+  "ano_nascimento": "1795",
+  "ano_morte": "1838",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Leger/",
+  "lugar_nascimento": "Lagrange-aux-Bois, France",
+  "lugar_morte": "Paris, France",
+  "biografia": "Ãmile LÃ©ger\n's father was Claude LÃ©ger who was a professor of\nrhetoric\nat the LycÃ©e de Mayence\n(\nthe city of Mainz, now in Germany, which was occupied by the French at that time\n)\n. Ãmile LÃ©ger was admitted to the Ãcole Polytechnique in\n1813\n.\nHe was still a student at the Ãcole Polytechnique in March\n1815\nwhen Napoleon Bonaparte escaped for his Hundred Days. The students were told to defend Paris and LÃ©ger was decorated for his bravery defending the capital.\nIn\n1816\nhe left the Ãcole Polytechnique and joined his family in Montmorency where he father had set up his own educational establishment. He taught at his father's school taking charge after his father retired. The school was very successful in training students for the entrance examinations for university, in particular training students to enter the Ãcole Polytechnique.\nLÃ©ger only published four mathematical papers but one contains possibly the first mention of what today is a well known fact about the\nEuclidean algorithm\n, see\n[\n1\n]\n:-\nÃmile LÃ©ger appears to have been the first\n(\nor second, if the work of\nde Lagny\n... is counted\n)\nto recognise that the worst case of the Euclidean algorithm occurs when the inputs are consecutive\nFibonacci numbers\n.",
+  "math_areas": [
+    "Geometry"
+  ]
+}
