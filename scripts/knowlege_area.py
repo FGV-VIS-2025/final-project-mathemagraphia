@@ -10,46 +10,122 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Palavras-chave em inglês mapeadas para áreas matemáticas
 KEYWORDS_MAP = {
+    # Algebra
     " algebra ": "Algebra",
+    " linear algebra ": "Algebra",
+    " abstract algebra ": "Algebra",
     " group theory ": "Algebra",
+    " groups ": "Algebra",
+    " rings ": "Algebra",
     " ring ": "Algebra",
+    " fields ": "Algebra",
     " field ": "Algebra",
+    " vector space ": "Algebra",
+    " matrices ": "Algebra",
+    " matrix theory ": "Algebra",
 
+    # Geometry
     " geometry ": "Geometry",
     " differential geometry ": "Geometry",
-    " euclidean ": "Geometry",
-    " non-euclidean ": "Geometry",
+    " euclidean geometry ": "Geometry",
+    " non-euclidean geometry ": "Geometry",
+    " analytic geometry ": "Geometry",
+    " projective geometry ": "Geometry",
+    " geometric structures ": "Geometry",
+    " geodesic ": "Geometry",
+    " curvature ": "Geometry",
 
+    # Calculus
     " calculus ": "Calculus",
-    " limit ": "Calculus",
-    " derivative ": "Calculus",
+    " integral ": "Calculus",
+    " integrals ": "Calculus",
     " integration ": "Calculus",
+    " derivatives ": "Calculus",
+    " derivative ": "Calculus",
+    " differential equations ": "Calculus",
+    " rate of change ": "Calculus",
+    " infinitesimal ": "Calculus",
+    " limits ": "Calculus",
+    " limit ": "Calculus",
 
+    # Statistics
     " statistics ": "Statistics",
+    " statistical ": "Statistics",
     " probability ": "Statistics",
+    " probabilistic ": "Statistics",
+    " random variable ": "Statistics",
+    " stochastic ": "Statistics",
+    " data analysis ": "Statistics",
+    " hypothesis testing ": "Statistics",
 
+    # Analysis
     " analysis ": "Analysis",
     " real analysis ": "Analysis",
     " complex analysis ": "Analysis",
+    " functional analysis ": "Analysis",
+    " sequence ": "Analysis",
+    " series ": "Analysis",
+    " convergence ": "Analysis",
+    " continuity ": "Analysis",
     " function ": "Analysis",
+    " functions ": "Analysis",
+    " limits ": "Analysis",
 
+    # Number Theory
     " number theory ": "Number Theory",
-    " prime ": "Number Theory",
-    " modular ": "Number Theory",
+    " prime number ": "Number Theory",
+    " primes ": "Number Theory",
+    " modular arithmetic ": "Number Theory",
+    " congruences ": "Number Theory",
+    " diophantine equation ": "Number Theory",
+    " integers ": "Number Theory",
+    " arithmetic ": "Number Theory",
 
+    # Topology
     " topology ": "Topology",
+    " topological ": "Topology",
     " manifold ": "Topology",
+    " manifolds ": "Topology",
+    " homeomorphism ": "Topology",
+    " open sets ": "Topology",
+    " continuity ": "Topology",
+    " compactness ": "Topology",
 
+    # Logic
     " logic ": "Logic",
+    " logical ": "Logic",
+    " formal logic ": "Logic",
     " proof ": "Logic",
+    " proofs ": "Logic",
+    " theorem ": "Logic",
+    " theorems ": "Logic",
+    " propositional logic ": "Logic",
+    " predicate logic ": "Logic",
     " set theory ": "Logic",
+    " axioms ": "Logic",
 
+    # Combinatorics
     " combinatorics ": "Combinatorics",
+    " combinatorial ": "Combinatorics",
     " enumeration ": "Combinatorics",
+    " permutations ": "Combinatorics",
+    " combinations ": "Combinatorics",
+    " graph theory ": "Combinatorics",
+    " coloring ": "Combinatorics",
+    " discrete math ": "Combinatorics",
 
+    # Applied Mathematics
     " applied mathematics ": "Applied Mathematics",
+    " applied math ": "Applied Mathematics",
     " mathematical physics ": "Applied Mathematics",
     " modelling ": "Applied Mathematics",
+    " modeling ": "Applied Mathematics",
+    " numerical methods ": "Applied Mathematics",
+    " fluid dynamics ": "Applied Mathematics",
+    " mechanics ": "Applied Mathematics",
+    " simulations ": "Applied Mathematics",
+    " optimization ": "Applied Mathematics",
+    " engineering mathematics ": "Applied Mathematics",
 }
 
 def detect_math_areas(text, keyword_map):

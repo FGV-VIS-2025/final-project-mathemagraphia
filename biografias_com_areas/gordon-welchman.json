@@ -10,7 +10,8 @@
   "math_areas": [
     "Algebra",
     "Analysis",
+    "Combinatorics",
     "Geometry",
-    "Number Theory"
+    "Logic"
   ]
 }

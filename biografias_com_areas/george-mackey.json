@@ -10,7 +10,11 @@
   "math_areas": [
     "Algebra",
     "Analysis",
+    "Applied Mathematics",
     "Calculus",
-    "Number Theory"
+    "Logic",
+    "Number Theory",
+    "Statistics",
+    "Topology"
   ]
 }
