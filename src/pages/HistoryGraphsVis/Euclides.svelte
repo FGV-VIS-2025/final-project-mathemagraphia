@@ -4,10 +4,7 @@
 
   let nodes = [];
   let links = [];
-
-  // Guarda o texto (conteúdo) da proposição selecionada
   let selectedTitle = "";
-  // (Opcional) Guarda o ID/título da proposição selecionada
   let selectedId = "";
 
   function processar(rawData) {
@@ -15,192 +12,230 @@
     links = [];
     const mapa = new Map();
 
-    // Mapeia número romano → título
+    // 1) Monta mapa “número romano → título completo”, mas sem repetições
     rawData.forEach(p => {
       const id = p.titulo.trim();
-      const num = id.match(/PROP\. ([IVXLCDM]+)(?=\.)?/i)?.[1]?.toUpperCase();
-      if (num) {
-        mapa.set(num, id);
-        nodes.push({ id, title: p.conteudo });
+      // Regex mais robusta: só Prop. + romanos no início
+      const matchNum = id.match(/^[Pp][Rr][Oo][Pp]\.\s*([IVXLCDM]+)\b/i);
+      if (matchNum) {
+        const num = matchNum[1].toUpperCase();
+        // só adiciona se ainda não existir esse numeral no mapa
+        if (!mapa.has(num)) {
+          mapa.set(num, id);
+          nodes.push({ id, title: p.conteudo });
+        }
       }
     });
 
-    const refRegex = /\(\s*(?:Prop|Pr|PROP)\.?\s+([IVXLCDM]+|\d+)(?:,\s*\d+)?\s*\)/gi;
+    // 2) Regex para capturar qualquer “(Prop. N…)” ou “(Pr N…)” no conteúdo
+    const refRegex = /\(\s*(?:Prop|PR|Pr|PROP)\.?\s*([IVXLCDM]+|\d+)[^)]*\)/gi;
 
     rawData.forEach(p => {
       const origem = p.titulo.trim();
       const matches = [...p.conteudo.matchAll(refRegex)];
-
-      matches.forEach(([_, refNum]) => {
-        const ref = isNaN(refNum)
-          ? refNum.toUpperCase()
-          : toRoman(parseInt(refNum));
-
-        const destino = mapa.get(ref);
-        if (destino) {
+      matches.forEach(([fullMatch, rawNum]) => {
+        // Se vier número arábico, converte para romano
+        const ref = isNaN(rawNum)
+          ? rawNum.toUpperCase()
+          : toRoman(parseInt(rawNum, 10));
+        if (mapa.has(ref)) {
+          const destino = mapa.get(ref);
           links.push({ source: origem, target: destino });
-        } else {
-          console.warn(`⚠️ Referência não encontrada: Prop. ${ref} em ${origem}`);
         }
       });
     });
-
-    console.log(`✅ Nós: ${nodes.length} | Arestas: ${links.length}`);
   }
 
   function toRoman(input) {
     const num = Number(input);
-    if (!Number.isInteger(num) || num <= 0) return '';
-    
+    if (!Number.isInteger(num) || num <= 0) return "";
     const values = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
     const numerals = {
-      1000: 'M', 900: 'CM', 500: 'D', 400: 'CD',
-      100: 'C', 90: 'XC', 50: 'L', 40: 'XL',
-      10: 'X', 9: 'IX', 5: 'V', 4: 'IV', 1: 'I'
+      1000: "M", 900: "CM", 500: "D", 400: "CD",
+      100: "C", 90: "XC", 50: "L", 40: "XL",
+      10: "X", 9: "IX", 5: "V", 4: "IV", 1: "I"
     };
-    
-    let result = '';
+    let result = "";
     let n = num;
-    
-    for (const val of values) {
-      while (n >= val) {
-        result += numerals[val];
-        n -= val;
+    for (const v of values) {
+      while (n >= v) {
+        result += numerals[v];
+        n -= v;
       }
     }
     return result;
   }
 
   onMount(async () => {
-    const base = import.meta.env.BASE_URL || '';
+    const base = import.meta.env.BASE_URL || "";
     const res = await fetch(`${base}data/euclides_livro1.json`);
     const raw = await res.json();
+
+    // ──────────── Pré-processamento ────────────
+    raw.forEach(p => {
+      // Normaliza “(Pr. N, 1)” para “(Prop. N)”
+      p.conteudo = p.conteudo.replace(
+        /\(\s*Pr\.?\s*(\d+)\s*,\s*1\s*\)/gi,
+        "(Prop. $1)"
+      );
+      // E também pega “(Pr N 1)” sem vírgula
+      p.conteudo = p.conteudo.replace(
+        /\(\s*Pr\.?\s*(\d+)\s+1\s*\)/gi,
+        "(Prop. $1)"
+      );
+    });
+    // ────────────────────────────────────────────
+
+    // DEBUG opcional: conferir se há títulos duplicados
+    const titulos = raw.map(p => p.titulo.trim());
+    const repetidos = titulos.filter((t, i) => titulos.indexOf(t) !== i);
+    console.log("→ possíveis títulos duplicados:", repetidos);
+
     processar(raw);
 
-    const svg = d3.select('#svg')
-      .attr('viewBox', [-500, -300, 1000, 600])
+    // DEBUG: confira que “PROP. XVIII. THEOR.” aparece só UMA vez em nodes
+    console.log("→ nodes:", nodes.map(d => d.id));
+    console.log("→ links:", links);
+
+    // ─────── Mon­tagem do SVG e força ───────
+    const svg = d3.select("#svg")
+      .attr("viewBox", [-500, -300, 1000, 600])
       .call(d3.zoom().on("zoom", ({ transform }) => {
-        svg.select('g').attr('transform', transform);
+        svg.select("g").attr("transform", transform);
       }));
 
-    const g = svg.append('g');
+    svg.append("defs")
+      .append("marker")
+        .attr("id", "arrow")
+        .attr("viewBox", "0 -5 10 10")
+        .attr("refX", 15)
+        .attr("refY", 0)
+        .attr("markerWidth", 6)
+        .attr("markerHeight", 6)
+        .attr("orient", "auto")
+      .append("path")
+        .attr("d", "M0,-5L10,0L0,5")
+        .attr("fill", "#999");
 
-    // Desenha arestas
+    const g = svg.append("g");
+    const sim = d3.forceSimulation(nodes)
+      .force("link", d3.forceLink(links).id(d => d.id).distance(80))
+      .force("charge", d3.forceManyBody().strength(-200))
+      .force("center", d3.forceCenter(0, 0));
+
     const link = g.append("g")
+      .attr("class", "links")
       .selectAll("line")
       .data(links)
       .enter().append("line")
-      .attr("stroke", "#aaa");
+      .attr("stroke", "#999")
+      .attr("stroke-width", 1.2)
+      .attr("marker-end", "url(#arrow)");
 
-    // Desenha nós e registra evento de clique
     const node = g.append("g")
+      .attr("class", "nodes")
       .selectAll("circle")
       .data(nodes)
       .enter().append("circle")
-      .attr("r", 8)
-      .attr("fill", "#69b3a2")
+      .attr("r", 6)
+      .attr("fill", "#4f7cac")
       .style("cursor", "pointer")
-      .on("click", (event, d) => {
-        // Ao clicar, preenche a sidebar com o texto da proposição
+      .on("click", (_, d) => {
         selectedTitle = d.title;
         selectedId = d.id;
       })
       .call(d3.drag()
-        .on("start", dragstarted)
-        .on("drag", dragged)
-        .on("end", dragended));
+        .on("start", (event, d) => {
+          if (!event.active) sim.alphaTarget(0.3).restart();
+          d.fx = d.x;
+          d.fy = d.y;
+        })
+        .on("drag", (event, d) => {
+          d.fx = event.x;
+          d.fy = event.y;
+        })
+        .on("end", (event, d) => {
+          if (!event.active) sim.alphaTarget(0);
+          d.fx = null;
+          d.fy = null;
+        })
+      );
 
-    // Exibe o rótulo de cada nó (pode ser ocultado se poluir muito)
     const label = g.append("g")
+      .attr("class", "labels")
       .selectAll("text")
       .data(nodes)
       .enter().append("text")
       .text(d => d.id)
-      .attr("x", 10)
-      .attr("y", 4)
-      .style("font-size", "10px")
-      .style("pointer-events", "none"); // para que o texto não bloqueie cliques no círculo
+      .attr("x", 8)
+      .attr("y", 3)
+      .style("font-size", "9px")
+      .style("fill", "#333")
+      .style("pointer-events", "none");
 
-    // Configuração da simulação de força
-    const sim = d3.forceSimulation(nodes)
-      .force("link", d3.forceLink(links).id(d => d.id).distance(100))
-      .force("charge", d3.forceManyBody().strength(-300))
-      .force("center", d3.forceCenter(0, 0))
-      .on("tick", () => {
-        link
-          .attr("x1", d => d.source.x)
-          .attr("y1", d => d.source.y)
-          .attr("x2", d => d.target.x)
-          .attr("y2", d => d.target.y);
-        node
-          .attr("cx", d => d.x)
-          .attr("cy", d => d.y);
-        label
-          .attr("x", d => d.x + 10)
-          .attr("y", d => d.y + 4);
-      });
+    sim.on("tick", () => {
+      link
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
 
-    function dragstarted(event, d) {
-      if (!event.active) sim.alphaTarget(0.3).restart();
-      d.fx = d.x;
-      d.fy = d.y;
-    }
+      node
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y);
 
-    function dragged(event, d) {
-      d.fx = event.x;
-      d.fy = event.y;
-    }
-
-    function dragended(event, d) {
-      if (!event.active) sim.alphaTarget(0);
-      d.fx = null;
-      d.fy = null;
-    }
+      label
+        .attr("x", d => d.x + 8)
+        .attr("y", d => d.y + 3);
+    });
+    // ────────────────────────────────────────────
   });
 </script>
 
 <style>
-  /* Container principal: sidebar à esquerda + grafo à direita */
   .container {
     display: flex;
-    height: 100vh; /* ocupa toda a altura da janela */
+    height: 100vh;
+    font-family: Arial, sans-serif;
   }
-
-  /* Sidebar fixo à esquerda */
   .sidebar {
     width: 300px;
-    min-width: 300px;
-    max-width: 300px;
-    padding: 16px;
-    background: #f5f5f5;
+    background: #fafafa;
     border-right: 1px solid #ddd;
-    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
   }
-
-  .sidebar h2 {
-    margin-top: 0;
+  .sidebar-header {
+    padding: 16px;
+    background: #4f7cac;
+    color: white;
     font-size: 1.1rem;
+    font-weight: bold;
+    border-bottom: 1px solid #3b5a7a;
+  }
+  .sidebar-content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 12px 16px;
+  }
+  .sidebar-content p {
+    margin-bottom: 1rem;
+    white-space: pre-line;
+    line-height: 1.5;
+    font-size: 0.95rem;
     color: #333;
   }
-
-  .sidebar p {
-    white-space: pre-wrap;
-    line-height: 1.4;
-    font-size: 0.95rem;
-    color: #444;
-  }
-
-  .sidebar .placeholder {
-    color: #888;
+  .placeholder {
+    color: #777;
     font-style: italic;
+    text-align: center;
+    margin-top: 2rem;
   }
-
-  /* Área do grafo: ocupa o restante do espaço */
   .graph {
     flex: 1;
-    position: relative; /* para o SVG ocupar 100% */
+    position: relative;
+    background: #ffffff;
   }
-
   svg {
     width: 100%;
     height: 100%;
@@ -208,17 +243,26 @@
 </style>
 
 <div class="container">
-  <!-- Sidebar fixa -->
   <div class="sidebar">
-    {#if selectedTitle}
-      <h2>{selectedId}</h2>
-      <p>{selectedTitle}</p>
-    {:else}
-      <p class="placeholder">Clique em um nó para ver o texto da proposição.</p>
-    {/if}
+    <div class="sidebar-header">
+      {#if selectedId}
+        {selectedId}
+      {:else}
+        Informação
+      {/if}
+    </div>
+    <div class="sidebar-content">
+      {#if selectedTitle}
+        {#each selectedTitle.split("\n\n") as paragraph}
+          <p>{paragraph.trim()}</p>
+        {/each}
+      {:else}
+        <p class="placeholder">
+          Clique em um nó para ver o texto completo da proposição.
+        </p>
+      {/if}
+    </div>
   </div>
-
-  <!-- Área do grafo -->
   <div class="graph">
     <svg id="svg"></svg>
   </div>
