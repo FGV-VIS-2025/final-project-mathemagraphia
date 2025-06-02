@@ -79,28 +79,23 @@
   // Função que recebe os nós de origem (src) e destino (tgt),
   // e retorna a string "d" de um <path> SVG do tipo arco (A …).
   function gerarArc(src, tgt) {
-    // 1) Coords cartesianas
     const x1 = src.x;
     const y1 = src.y;
     const x2 = tgt.x;
     const y2 = tgt.y;
 
-    // 2) Parâmetros polares de cada nó
     const r1 = src.r;
     const r2 = tgt.r;
     const θ1 = src.theta;
     const θ2 = tgt.theta;
 
-    // 3) Escolhe um raio intermediário para o arco:
-    const deslocamento = 20; // você pode ajustar para "levantar" mais/menos o arco
+    const deslocamento = 20;
     const rArc = (r1 + r2) / 2 + deslocamento;
 
-    // 4) Calcula flags do SVG (large-arc-flag e sweep-flag)
     const dθ = Math.abs(θ2 - θ1);
     const largeArcFlag = dθ > Math.PI ? 1 : 0;
     const sweepFlag = θ2 > θ1 ? 1 : 0;
 
-    // 5) Monta a string do path
     return `
       M ${x1} ${y1}
       A ${rArc} ${rArc} 0 ${largeArcFlag} ${sweepFlag} ${x2} ${y2}
@@ -112,7 +107,6 @@
     const res = await fetch(`${base}data/euclides_livro1.json`);
     const raw = await res.json();
 
-    // Normaliza “(Pr. N, 1)” e “(Pr N 1)”
     raw.forEach(p => {
       p.conteudo = p.conteudo.replace(
         /\(\s*Pr\.?\s*(\d+)\s*,\s*1\s*\)/gi,
@@ -126,7 +120,6 @@
 
     processar(raw);
 
-    // Mapa auxiliar (id → node) e extrai d.num
     const nodeById = new Map();
     nodes.forEach(d => {
       const m = d.id.match(/([IVXLCDM]+)/);
@@ -134,18 +127,15 @@
       nodeById.set(d.id, d);
     });
 
-    // 1) Ordena nodes por d.num (Prop I, II, III, …)
     nodes.sort((a, b) => a.num - b.num);
 
-    // 2) Parâmetros da espiral
     const viewWidth = 1000;
     const viewHeight = 600;
     const maxRadius = Math.min(viewWidth, viewHeight) / 2 - 40;
     const N = nodes.length;
     const scale = maxRadius / Math.sqrt(N - 1);
-    const goldenAngle = Math.PI * (3 - Math.sqrt(5)); // ≈ 2.39996
+    const goldenAngle = Math.PI * (3 - Math.sqrt(5));
 
-    // 3) Atribui r, θ, x e y a cada nó
     nodes.forEach((d, i) => {
       const r = scale * Math.sqrt(i);
       const θ = i * goldenAngle;
@@ -155,7 +145,6 @@
       d.y = r * Math.sin(θ);
     });
 
-    // 4) Monta o SVG e o grupo principal
     const svg = d3
       .select("#svg")
       .attr("viewBox", [-500, -300, 1000, 600])
@@ -167,7 +156,7 @@
           })
       );
 
-    // 5) Definição do marcador de seta
+    // Definição do marcador de seta usando currentColor
     svg
       .append("defs")
       .append("marker")
@@ -180,11 +169,11 @@
       .attr("orient", "auto")
       .append("path")
       .attr("d", "M0,-5L10,0L0,5")
-      .attr("fill", "#999");
+      .attr("fill", "currentColor"); // herda da cor definida no path pai
 
     const g = svg.append("g");
 
-    // 5.5) DESENHA A “SOMBRA” DA ESPIRAL POR TRÁS (AGORA MAIS LARGA E ROXA)
+    // Desenha a “sombra” da espiral
     const spiralSamples = d3.range(0, N, 0.5).map(i => {
       const r = scale * Math.sqrt(i);
       const theta = i * goldenAngle;
@@ -201,12 +190,12 @@
       .attr("class", "espiral-sombra")
       .attr("d", spiralLine(spiralSamples))
       .attr("fill", "none")
-      .attr("stroke", "purple")     // cor roxa
-      .attr("stroke-width", 4)      // um pouco mais largo
+      .attr("stroke", "purple")
+      .attr("stroke-width", 4)
       .attr("stroke-opacity", 0.15)
-      .lower(); // garante que fique por baixo de links e nós
+      .lower();
 
-    // 6) ---- Desenha as arestas como arcos manuais (SVG "A" comandos) ----
+    // Desenha as arestas
     g.append("g")
       .attr("class", "links")
       .selectAll("path")
@@ -221,11 +210,12 @@
       })
       .attr("fill", "none")
       .attr("stroke", "#999")
+      .attr("color", "#999")      // cor inicial do marcador
       .attr("stroke-width", 1.2)
-      .attr("stroke-opacity", 0.7)
+      .attr("opacity", 0.7)
       .attr("marker-end", "url(#arrow)");
 
-    // 7) Desenha os nós (círculos)
+    // Desenha os nós
     g.append("g")
       .attr("class", "nodes")
       .selectAll("circle")
@@ -238,18 +228,26 @@
       .attr("fill", "#4f7cac")
       .style("cursor", "pointer")
       .on("click", (_, d) => {
-        // Atualiza sidebar
         selectedTitle = d.title;
         selectedId = d.id;
 
-        // Destaca só as arestas que tocam esse nó
         g.selectAll("path.link")
-          .attr("stroke-opacity", link =>
+          .attr("stroke", link => {
+            if (link.source === d.id) return "red";
+            if (link.target === d.id) return "blue";
+            return "#ccc";
+          })
+          .attr("color", link => {
+            if (link.source === d.id) return "red";
+            if (link.target === d.id) return "blue";
+            return "#ccc";
+          })
+          .attr("opacity", link =>
             link.source === d.id || link.target === d.id ? 1 : 0.1
           );
       });
 
-    // 8) Rótulos (id) ao lado de cada nó
+    // Rótulos dos nós
     g.append("g")
       .attr("class", "labels")
       .selectAll("text")
@@ -263,10 +261,13 @@
       .style("fill", "#333")
       .style("pointer-events", "none");
 
-    // 9) Clique fora reseta arestas e limpa sidebar
+    // Clique fora para resetar
     svg.on("click", (event) => {
       if (event.target.tagName !== "circle") {
-        g.selectAll("path.link").attr("stroke-opacity", 0.7);
+        g.selectAll("path.link")
+          .attr("stroke", "#999")
+          .attr("color", "#999")
+          .attr("opacity", 0.7);
         selectedTitle = "";
         selectedId = "";
       }
