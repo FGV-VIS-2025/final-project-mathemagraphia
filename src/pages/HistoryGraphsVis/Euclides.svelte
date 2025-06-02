@@ -76,8 +76,7 @@
     });
   }
 
-  // Função que recebe os nós de origem (src) e destino (tgt),
-  // e retorna a string "d" de um <path> SVG do tipo arco (A …).
+  // Gera a string "d" de um <path> SVG em forma de arco
   function gerarArc(src, tgt) {
     const x1 = src.x;
     const y1 = src.y;
@@ -107,6 +106,7 @@
     const res = await fetch(`${base}data/euclides_livro1.json`);
     const raw = await res.json();
 
+    // Normaliza “(Pr. N, 1)” e “(Pr N 1)”
     raw.forEach(p => {
       p.conteudo = p.conteudo.replace(
         /\(\s*Pr\.?\s*(\d+)\s*,\s*1\s*\)/gi,
@@ -120,6 +120,7 @@
 
     processar(raw);
 
+    // Mapa auxiliar (id → node) e extrai d.num
     const nodeById = new Map();
     nodes.forEach(d => {
       const m = d.id.match(/([IVXLCDM]+)/);
@@ -127,15 +128,18 @@
       nodeById.set(d.id, d);
     });
 
+    // 1) Ordena nodes por d.num (Prop I, II, III, …)
     nodes.sort((a, b) => a.num - b.num);
 
+    // 2) Parâmetros da espiral
     const viewWidth = 1000;
     const viewHeight = 600;
     const maxRadius = Math.min(viewWidth, viewHeight) / 2 - 40;
     const N = nodes.length;
     const scale = maxRadius / Math.sqrt(N - 1);
-    const goldenAngle = Math.PI * (3 - Math.sqrt(5));
+    const goldenAngle = Math.PI * (3 - Math.sqrt(5)); // ≈ 2.39996
 
+    // 3) Atribui r, θ, x e y a cada nó
     nodes.forEach((d, i) => {
       const r = scale * Math.sqrt(i);
       const θ = i * goldenAngle;
@@ -144,6 +148,55 @@
       d.x = r * Math.cos(θ);
       d.y = r * Math.sin(θ);
     });
+
+    // ─────────── CALCULAR GRAU (arestas incidentes) ───────────
+
+    // Inicializa contagem de grau (incidentes) para cada nó
+    const degCounts = new Map();
+    nodes.forEach(d => degCounts.set(d.id, 0));
+    links.forEach(link => {
+      // Incrementa para source e para target (arestas incidentes)
+      degCounts.set(link.source, degCounts.get(link.source) + 1);
+      degCounts.set(link.target, degCounts.get(link.target) + 1);
+    });
+    // Anexa a propriedade 'deg' (grau) a cada nó
+    nodes.forEach(d => {
+      d.deg = degCounts.get(d.id) || 0;
+    });
+
+    // Determina o valor máximo de grau
+    const maxDeg = d3.max(nodes, d => d.deg);
+
+    // Cria uma escala para o raio dos nós: quanto maior o grau, maior o círculo
+    const radiusScale = d3
+      .scaleLinear()
+      .domain([0, maxDeg])
+      .range([4, 12]); // nó com grau 0 terá raio 4, nó com grau = maxDeg terá raio 12
+
+    // ─────────── CALCULAR OUT-DEGREE E ESCALA DE CORES ───────────
+
+    // Inicializa contagem de saída (out-degree) para cada nó
+    const outCounts = new Map();
+    nodes.forEach(d => outCounts.set(d.id, 0));
+    links.forEach(link => {
+      outCounts.set(link.source, outCounts.get(link.source) + 1);
+    });
+    // Anexa a propriedade 'out' a cada nó
+    nodes.forEach(d => {
+      d.out = outCounts.get(d.id) || 0;
+    });
+
+    // Determina o valor máximo de out-degree
+    const maxOut = d3.max(nodes, d => d.out);
+
+    // Cria uma escala contínua cinza → vinho mais claro
+    const colorScale = d3
+      .scaleLinear()
+      .domain([0, maxOut])
+      .range(["#666666", "#01FF10"])
+      .interpolate(d3.interpolateLab);
+
+    // ─────────── MONTAR O SVG E DESENHAR ───────────
 
     const svg = d3
       .select("#svg")
@@ -169,11 +222,11 @@
       .attr("orient", "auto")
       .append("path")
       .attr("d", "M0,-5L10,0L0,5")
-      .attr("fill", "currentColor"); // herda da cor definida no path pai
+      .attr("fill", "currentColor");
 
     const g = svg.append("g");
 
-    // Desenha a “sombra” da espiral
+    // 5.5) Desenha a “sombra” da espiral por trás (agora mais larga e roxa)
     const spiralSamples = d3.range(0, N, 0.5).map(i => {
       const r = scale * Math.sqrt(i);
       const theta = i * goldenAngle;
@@ -195,7 +248,7 @@
       .attr("stroke-opacity", 0.15)
       .lower();
 
-    // Desenha as arestas
+    // 6) Desenha as arestas (arcos manuais)
     g.append("g")
       .attr("class", "links")
       .selectAll("path")
@@ -215,7 +268,7 @@
       .attr("opacity", 0.7)
       .attr("marker-end", "url(#arrow)");
 
-    // Desenha os nós
+    // 7) Desenha os nós (círculos), tamanho e preenchimento de acordo com grau e out-degree
     g.append("g")
       .attr("class", "nodes")
       .selectAll("circle")
@@ -224,8 +277,8 @@
       .append("circle")
       .attr("cx", d => d.x)
       .attr("cy", d => d.y)
-      .attr("r", 6)
-      .attr("fill", "#4f7cac")
+      .attr("r", d => radiusScale(d.deg))        // raio proporcional ao grau (arestas incidentes)
+      .attr("fill", d => colorScale(d.out))      // cor proporcional ao out-degree
       .style("cursor", "pointer")
       .on("click", (_, d) => {
         selectedTitle = d.title;
@@ -247,7 +300,7 @@
           );
       });
 
-    // Rótulos dos nós
+    // 8) Rótulos (id) ao lado de cada nó
     g.append("g")
       .attr("class", "labels")
       .selectAll("text")
@@ -261,7 +314,7 @@
       .style("fill", "#333")
       .style("pointer-events", "none");
 
-    // Clique fora para resetar
+    // 9) Clique fora reseta arestas e limpa sidebar
     svg.on("click", (event) => {
       if (event.target.tagName !== "circle") {
         g.selectAll("path.link")
