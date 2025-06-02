@@ -4,6 +4,7 @@
   import People from './pages/People.svelte';
   import History from './pages/History.svelte';
   import Charts from './pages/Charts.svelte';
+  import Curves from './pages/Curves.svelte';
   import DataMap from './pages/DataGraphsVis/DataMap.svelte';
   import GrafMaths from './pages/DataGraphsVis/GrafMaths.svelte';
   import Euclides from './pages/HistoryGraphsVis/Euclides.svelte';
@@ -29,6 +30,8 @@ function goTo(page) {
     <Charts on:navigate={(e) => goTo(e.detail)} />
   {:else if currentPage === 'datamap'}
     <DataMap />
+  {:else if currentPage === 'curves'}
+    <Curves />
   {:else if currentPage === 'grafmaths'}
     <GrafMaths />
   {:else if currentPage === 'euclides'}

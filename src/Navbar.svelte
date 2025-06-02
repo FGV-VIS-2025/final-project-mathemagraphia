@@ -16,6 +16,7 @@
 
   <!-- Lado direito: Navegação -->
   <div class="nav-links">
+    <button on:click={() => navigateTo('curves')}>Curvas</button>
     <button on:click={() => navigateTo('people')}>Pessoas</button>
     <button on:click={() => navigateTo('history')}>Histórias</button>
     <button on:click={() => navigateTo('charts')}>DataGraphs</button>
