@@ -167,7 +167,7 @@
           })
       );
 
-    // 5) Definição do marcador de seta (igual antes)
+    // 5) Definição do marcador de seta
     svg
       .append("defs")
       .append("marker")
@@ -183,6 +183,28 @@
       .attr("fill", "#999");
 
     const g = svg.append("g");
+
+    // 5.5) DESENHA A “SOMBRA” DA ESPIRAL POR TRÁS (AGORA MAIS LARGA E ROXA)
+    const spiralSamples = d3.range(0, N, 0.5).map(i => {
+      const r = scale * Math.sqrt(i);
+      const theta = i * goldenAngle;
+      return [r * Math.cos(theta), r * Math.sin(theta)];
+    });
+
+    const spiralLine = d3
+      .line()
+      .x(d => d[0])
+      .y(d => d[1])
+      .curve(d3.curveNatural);
+
+    g.append("path")
+      .attr("class", "espiral-sombra")
+      .attr("d", spiralLine(spiralSamples))
+      .attr("fill", "none")
+      .attr("stroke", "purple")     // cor roxa
+      .attr("stroke-width", 4)      // um pouco mais largo
+      .attr("stroke-opacity", 0.15)
+      .lower(); // garante que fique por baixo de links e nós
 
     // 6) ---- Desenha as arestas como arcos manuais (SVG "A" comandos) ----
     g.append("g")
@@ -204,8 +226,7 @@
       .attr("marker-end", "url(#arrow)");
 
     // 7) Desenha os nós (círculos)
-    const nodeSel = g
-      .append("g")
+    g.append("g")
       .attr("class", "nodes")
       .selectAll("circle")
       .data(nodes)
