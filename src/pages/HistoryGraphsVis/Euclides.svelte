@@ -7,45 +7,6 @@
   let selectedTitle = "";
   let selectedId = "";
 
-  function processar(rawData) {
-    nodes = [];
-    links = [];
-    const mapa = new Map();
-
-    // 1) Monta mapa “número romano → título completo”, mas sem repetições
-    rawData.forEach(p => {
-      const id = p.titulo.trim();
-      // Regex mais robusta: só Prop. + romanos no início
-      const matchNum = id.match(/^[Pp][Rr][Oo][Pp]\.\s*([IVXLCDM]+)\b/i);
-      if (matchNum) {
-        const num = matchNum[1].toUpperCase();
-        // só adiciona se ainda não existir esse numeral no mapa
-        if (!mapa.has(num)) {
-          mapa.set(num, id);
-          nodes.push({ id, title: p.conteudo });
-        }
-      }
-    });
-
-    // 2) Regex para capturar qualquer “(Prop. N…)” ou “(Pr N…)” no conteúdo
-    const refRegex = /\(\s*(?:Prop|PR|Pr|PROP)\.?\s*([IVXLCDM]+|\d+)[^)]*\)/gi;
-
-    rawData.forEach(p => {
-      const origem = p.titulo.trim();
-      const matches = [...p.conteudo.matchAll(refRegex)];
-      matches.forEach(([fullMatch, rawNum]) => {
-        // Se vier número arábico, converte para romano
-        const ref = isNaN(rawNum)
-          ? rawNum.toUpperCase()
-          : toRoman(parseInt(rawNum, 10));
-        if (mapa.has(ref)) {
-          const destino = mapa.get(ref);
-          links.push({ source: origem, target: destino });
-        }
-      });
-    });
-  }
-
   function toRoman(input) {
     const num = Number(input);
     if (!Number.isInteger(num) || num <= 0) return "";
@@ -66,129 +27,229 @@
     return result;
   }
 
+  function fromRoman(str) {
+    const map = { I:1, V:5, X:10, L:50, C:100, D:500, M:1000 };
+    let sum = 0;
+    for (let i = 0; i < str.length; i++) {
+      const curr = map[str[i]];
+      const next = map[str[i+1]];
+      if (next && next > curr) {
+        sum += next - curr;
+        i++;
+      } else {
+        sum += curr;
+      }
+    }
+    return sum;
+  }
+
+  function processar(rawData) {
+    nodes = [];
+    links = [];
+    const mapa = new Map();
+
+    rawData.forEach(p => {
+      const id = p.titulo.trim();
+      const matchNum = id.match(/^[Pp][Rr][Oo][Pp]\.\s*([IVXLCDM]+)\b/i);
+      if (matchNum) {
+        const num = matchNum[1].toUpperCase();
+        if (!mapa.has(num)) {
+          mapa.set(num, id);
+          nodes.push({ id, title: p.conteudo });
+        }
+      }
+    });
+
+    const refRegex = /\(\s*(?:Prop|PR|Pr|PROP)\.?\s*([IVXLCDM]+|\d+)[^)]*\)/gi;
+    rawData.forEach(p => {
+      const origem = p.titulo.trim();
+      const matches = [...p.conteudo.matchAll(refRegex)];
+      matches.forEach(([fullMatch, rawNum]) => {
+        const ref = isNaN(rawNum)
+          ? rawNum.toUpperCase()
+          : toRoman(parseInt(rawNum, 10));
+        if (mapa.has(ref)) {
+          const destino = mapa.get(ref);
+          links.push({ source: origem, target: destino });
+        }
+      });
+    });
+  }
+
+  // Função que recebe os nós de origem (src) e destino (tgt),
+  // e retorna a string "d" de um <path> SVG do tipo arco (A …).
+  function gerarArc(src, tgt) {
+    // 1) Coords cartesianas
+    const x1 = src.x;
+    const y1 = src.y;
+    const x2 = tgt.x;
+    const y2 = tgt.y;
+
+    // 2) Parâmetros polares de cada nó
+    const r1 = src.r;
+    const r2 = tgt.r;
+    const θ1 = src.theta;
+    const θ2 = tgt.theta;
+
+    // 3) Escolhe um raio intermediário para o arco:
+    const deslocamento = 20; // você pode ajustar para "levantar" mais/menos o arco
+    const rArc = (r1 + r2) / 2 + deslocamento;
+
+    // 4) Calcula flags do SVG (large-arc-flag e sweep-flag)
+    const dθ = Math.abs(θ2 - θ1);
+    const largeArcFlag = dθ > Math.PI ? 1 : 0;
+    const sweepFlag = θ2 > θ1 ? 1 : 0;
+
+    // 5) Monta a string do path
+    return `
+      M ${x1} ${y1}
+      A ${rArc} ${rArc} 0 ${largeArcFlag} ${sweepFlag} ${x2} ${y2}
+    `;
+  }
+
   onMount(async () => {
     const base = import.meta.env.BASE_URL || "";
     const res = await fetch(`${base}data/euclides_livro1.json`);
     const raw = await res.json();
 
-    // ──────────── Pré-processamento ────────────
+    // Normaliza “(Pr. N, 1)” e “(Pr N 1)”
     raw.forEach(p => {
-      // Normaliza “(Pr. N, 1)” para “(Prop. N)”
       p.conteudo = p.conteudo.replace(
         /\(\s*Pr\.?\s*(\d+)\s*,\s*1\s*\)/gi,
         "(Prop. $1)"
       );
-      // E também pega “(Pr N 1)” sem vírgula
       p.conteudo = p.conteudo.replace(
         /\(\s*Pr\.?\s*(\d+)\s+1\s*\)/gi,
         "(Prop. $1)"
       );
     });
-    // ────────────────────────────────────────────
-
-    // DEBUG opcional: conferir se há títulos duplicados
-    const titulos = raw.map(p => p.titulo.trim());
-    const repetidos = titulos.filter((t, i) => titulos.indexOf(t) !== i);
-    console.log("→ possíveis títulos duplicados:", repetidos);
 
     processar(raw);
 
-    // DEBUG: confira que “PROP. XVIII. THEOR.” aparece só UMA vez em nodes
-    console.log("→ nodes:", nodes.map(d => d.id));
-    console.log("→ links:", links);
+    // Mapa auxiliar (id → node) e extrai d.num
+    const nodeById = new Map();
+    nodes.forEach(d => {
+      const m = d.id.match(/([IVXLCDM]+)/);
+      d.num = m ? fromRoman(m[1]) : 0;
+      nodeById.set(d.id, d);
+    });
 
-    // ─────── Mon­tagem do SVG e força ───────
-    const svg = d3.select("#svg")
+    // 1) Ordena nodes por d.num (Prop I, II, III, …)
+    nodes.sort((a, b) => a.num - b.num);
+
+    // 2) Parâmetros da espiral
+    const viewWidth = 1000;
+    const viewHeight = 600;
+    const maxRadius = Math.min(viewWidth, viewHeight) / 2 - 40;
+    const N = nodes.length;
+    const scale = maxRadius / Math.sqrt(N - 1);
+    const goldenAngle = Math.PI * (3 - Math.sqrt(5)); // ≈ 2.39996
+
+    // 3) Atribui r, θ, x e y a cada nó
+    nodes.forEach((d, i) => {
+      const r = scale * Math.sqrt(i);
+      const θ = i * goldenAngle;
+      d.r = r;
+      d.theta = θ;
+      d.x = r * Math.cos(θ);
+      d.y = r * Math.sin(θ);
+    });
+
+    // 4) Monta o SVG e o grupo principal
+    const svg = d3
+      .select("#svg")
       .attr("viewBox", [-500, -300, 1000, 600])
-      .call(d3.zoom().on("zoom", ({ transform }) => {
-        svg.select("g").attr("transform", transform);
-      }));
+      .call(
+        d3
+          .zoom()
+          .on("zoom", ({ transform }) => {
+            svg.select("g").attr("transform", transform);
+          })
+      );
 
-    svg.append("defs")
+    // 5) Definição do marcador de seta (igual antes)
+    svg
+      .append("defs")
       .append("marker")
-        .attr("id", "arrow")
-        .attr("viewBox", "0 -5 10 10")
-        .attr("refX", 15)
-        .attr("refY", 0)
-        .attr("markerWidth", 6)
-        .attr("markerHeight", 6)
-        .attr("orient", "auto")
+      .attr("id", "arrow")
+      .attr("viewBox", "0 -5 10 10")
+      .attr("refX", 15)
+      .attr("refY", 0)
+      .attr("markerWidth", 6)
+      .attr("markerHeight", 6)
+      .attr("orient", "auto")
       .append("path")
-        .attr("d", "M0,-5L10,0L0,5")
-        .attr("fill", "#999");
+      .attr("d", "M0,-5L10,0L0,5")
+      .attr("fill", "#999");
 
     const g = svg.append("g");
-    const sim = d3.forceSimulation(nodes)
-      .force("link", d3.forceLink(links).id(d => d.id).distance(80))
-      .force("charge", d3.forceManyBody().strength(-200))
-      .force("center", d3.forceCenter(0, 0));
 
-    const link = g.append("g")
+    // 6) ---- Desenha as arestas como arcos manuais (SVG "A" comandos) ----
+    g.append("g")
       .attr("class", "links")
-      .selectAll("line")
+      .selectAll("path")
       .data(links)
-      .enter().append("line")
+      .enter()
+      .append("path")
+      .attr("class", "link")
+      .attr("d", link => {
+        const src = nodeById.get(link.source);
+        const tgt = nodeById.get(link.target);
+        return gerarArc(src, tgt);
+      })
+      .attr("fill", "none")
       .attr("stroke", "#999")
       .attr("stroke-width", 1.2)
+      .attr("stroke-opacity", 0.7)
       .attr("marker-end", "url(#arrow)");
 
-    const node = g.append("g")
+    // 7) Desenha os nós (círculos)
+    const nodeSel = g
+      .append("g")
       .attr("class", "nodes")
       .selectAll("circle")
       .data(nodes)
-      .enter().append("circle")
+      .enter()
+      .append("circle")
+      .attr("cx", d => d.x)
+      .attr("cy", d => d.y)
       .attr("r", 6)
       .attr("fill", "#4f7cac")
       .style("cursor", "pointer")
       .on("click", (_, d) => {
+        // Atualiza sidebar
         selectedTitle = d.title;
         selectedId = d.id;
-      })
-      .call(d3.drag()
-        .on("start", (event, d) => {
-          if (!event.active) sim.alphaTarget(0.3).restart();
-          d.fx = d.x;
-          d.fy = d.y;
-        })
-        .on("drag", (event, d) => {
-          d.fx = event.x;
-          d.fy = event.y;
-        })
-        .on("end", (event, d) => {
-          if (!event.active) sim.alphaTarget(0);
-          d.fx = null;
-          d.fy = null;
-        })
-      );
 
-    const label = g.append("g")
+        // Destaca só as arestas que tocam esse nó
+        g.selectAll("path.link")
+          .attr("stroke-opacity", link =>
+            link.source === d.id || link.target === d.id ? 1 : 0.1
+          );
+      });
+
+    // 8) Rótulos (id) ao lado de cada nó
+    g.append("g")
       .attr("class", "labels")
       .selectAll("text")
       .data(nodes)
-      .enter().append("text")
+      .enter()
+      .append("text")
       .text(d => d.id)
-      .attr("x", 8)
-      .attr("y", 3)
+      .attr("x", d => d.x + 8)
+      .attr("y", d => d.y + 3)
       .style("font-size", "9px")
       .style("fill", "#333")
       .style("pointer-events", "none");
 
-    sim.on("tick", () => {
-      link
-        .attr("x1", d => d.source.x)
-        .attr("y1", d => d.source.y)
-        .attr("x2", d => d.target.x)
-        .attr("y2", d => d.target.y);
-
-      node
-        .attr("cx", d => d.x)
-        .attr("cy", d => d.y);
-
-      label
-        .attr("x", d => d.x + 8)
-        .attr("y", d => d.y + 3);
+    // 9) Clique fora reseta arestas e limpa sidebar
+    svg.on("click", (event) => {
+      if (event.target.tagName !== "circle") {
+        g.selectAll("path.link").attr("stroke-opacity", 0.7);
+        selectedTitle = "";
+        selectedId = "";
+      }
     });
-    // ────────────────────────────────────────────
   });
 </script>
 
