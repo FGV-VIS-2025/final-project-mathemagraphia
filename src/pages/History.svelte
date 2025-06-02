@@ -3,8 +3,7 @@
   const dispatch = createEventDispatcher();
 
   const cards = [
-    { img: "icons/DataMapGPT.png", title: "Euclides", page: "euclides" },
-    { img: "icons/GrafGPT.png", title: "GrafMaths", page: "grafmaths" }
+    { img: "icons/EuclidesGPT.png", title: "Euclides", page: "euclides" }
   ];
 
   function goTo(page) {
