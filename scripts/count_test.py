@@ -1,7 +1,7 @@
 import os
 import json
 
-OUTPUT_DIR = "biografias_com_areas"
+OUTPUT_DIR = "public/biografias_com_areas"
 
 vazios = 0
 total = 0

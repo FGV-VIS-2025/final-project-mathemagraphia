@@ -4,7 +4,7 @@ import re
 from slugify import slugify
 
 INPUT_DIR = "public/biografias_json"
-OUTPUT_DIR = "biografias_com_areas"
+OUTPUT_DIR = "public/biografias_com_areas"
 LOG_PATH = os.path.join(OUTPUT_DIR, "log.txt")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
