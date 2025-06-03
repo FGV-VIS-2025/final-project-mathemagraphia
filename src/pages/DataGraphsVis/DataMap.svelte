@@ -26,6 +26,9 @@
   let zoomGroup; // o grupo <g> onde aplicamos zoom
   let currentTransform = d3.zoomIdentity;
   let scaleFactor = 1;
+  let searchTerm = "";
+  let suggestions = [];
+  let showSuggestions = false;
 
   // Formata ano (ex: -280 => "280 BC", 1893 => "1893")
   function formatYear(y) {
@@ -54,10 +57,10 @@
       .attr("class", "point")
       .attr("cx", d => projection(d.coords)[0])
       .attr("cy", d => projection(d.coords)[1])
-      .attr("r", 3)
+      .attr("r", 3 / scaleFactor) // raio ajustado
       .attr("fill", "crimson")
       .attr("stroke", "#000")
-      .attr("stroke-width", 0.5)
+      .attr("stroke-width", 0.5 / scaleFactor) // <-- borda ajustada
       .on("mouseover", (event, d) => {
         if (!fixedTooltipData) hoveredData = d;
       })
@@ -76,9 +79,37 @@
   }
 
   function updateFiltered() {
-    // Filtra todos os pontos até selectedYear (birthYear <= selectedYear)
-    filteredPoints = allPoints.filter(d => d.birthYear <= selectedYear);
+    filteredPoints = allPoints.filter(d => {
+      const nome = d.nome_curto.toLowerCase() + " " + d.nome_completo.toLowerCase();
+      return (
+        d.birthYear <= selectedYear &&
+        nome.includes(searchTerm.toLowerCase())
+      );
+    });
+
     drawPoints();
+  }
+  function onSearchInput() {
+    const term = searchTerm.trim().toLowerCase();
+
+    suggestions = allPoints.filter(p =>
+      p.nome_curto.toLowerCase().includes(term) ||
+      p.nome_completo.toLowerCase().includes(term)
+    ).slice(0, 10); // limite de sugestões
+
+    updateFiltered();
+  }
+
+  function selectSuggestion(person) {
+    hoveredData = person;
+    fixedTooltipData = person;
+    searchTerm = person.nome_curto;
+    suggestions = [];
+    showSuggestions = false;
+
+    // Centraliza o ponto no mapa (animando a projeção)
+    const [x, y] = projection(person.coords);
+    svgEl.scrollIntoView({ behavior: "smooth" });
   }
 
   function drawMap() {
@@ -186,7 +217,9 @@ onMount(async () => {
 
       // Atualiza o raio dos círculos proporcionalmente ao zoom
       zoomGroup.selectAll("circle.point")
-        .attr("r", 3 / scaleFactor);  // <-- ajusta o tamanho visual
+        .attr("r", 3 / scaleFactor)
+        .attr("stroke-width", 0.5 / scaleFactor); // <-- ajusta borda dinamicamente
+        // <-- ajusta o tamanho visual
     });
 
   d3.select(svgEl).call(zoom);
@@ -195,74 +228,47 @@ onMount(async () => {
 
 </script>
 
-<style>
-  .map-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 1rem;
-  }
-
-  svg {
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  }
-
-  #tooltip {
-    position: absolute;
-    pointer-events: auto;
-    background: white;
-    padding: 6px 10px;
-    border: 1px solid #999;
-    border-radius: 4px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
-    font-size: 0.85rem;
-    opacity: 0;
-    transition: opacity 0.2s;
-    z-index: 10;
-    font-family: sans-serif;
-  }
-
-  .timeline-container {
-    margin-top: 1rem;
-    width: 80%;
-    text-align: center;
-  }
-
-  input[type="range"] {
-    width: 100%;
-  }
-
-  .year-label {
-    margin-top: 0.5rem;
-    font-weight: bold;
-  }
-
-  :global(a) {
-    color: steelblue;
-    text-decoration: underline;
-  }
-.map-container {
+<style>.map-layout {
   display: flex;
-  align-items: flex-start;
-  gap: 1rem;
+  flex-direction: row;
+  gap: 1.5rem;
+  justify-content: center;
   padding: 1rem;
+  flex-wrap: wrap;
+}
+
+.map-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+}
+
+svg {
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .info-panel {
-  width: 220px;
-  min-height: 200px;
+  width: 280px;
+  min-height: 300px;
   background: #fff;
   border: 1px solid #ccc;
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 1rem;
   font-family: sans-serif;
-  font-size: 0.9rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  font-size: 0.95rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  flex-shrink: 0;
 }
 
-.info-card {
-  line-height: 1.4;
+.info-card h2 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.info-card p {
+  margin: 0.3rem 0;
 }
 
 .info-card.muted {
@@ -270,32 +276,113 @@ onMount(async () => {
   font-style: italic;
 }
 
-.map-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 .bio-scroll {
-  max-height: 200px;
+  max-height: 320px;
   overflow-y: auto;
   margin-top: 0.5rem;
   padding-right: 6px;
   white-space: pre-wrap;
-  font-size: 0.75rem;
-  line-height: 1.4;
+  font-size: 0.85rem;
+  line-height: 1.5;
 }
 
 .bio-scroll::-webkit-scrollbar {
   width: 6px;
 }
 .bio-scroll::-webkit-scrollbar-thumb {
-  background-color: #ccc;
+  background-color: #bbb;
   border-radius: 3px;
+}
+
+.timeline-container {
+  margin-top: 1rem;
+  width: 100%;
+  text-align: center;
+}
+
+input[type="range"] {
+  width: 100%;
+  max-width: 600px;
+}
+
+.year-label {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+
+.search-container {
+  position: relative;
+  margin: 1rem auto;
+  width: 80%;
+  max-width: 500px;
+  text-align: center;
+}
+
+.search-container input {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.suggestions-list {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-left: 0.5rem;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  max-height: 300px;
+  overflow-y: auto;
+  width: 250px;
+  z-index: 1000;
+  list-style: none;
+  padding: 0;
+}
+
+.suggestions-list li {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.suggestions-list li:hover {
+  background: #f0f0f0;
+}
+
+:global(a) {
+  color: steelblue;
+  text-decoration: underline;
 }
 
 </style>
 
-<div class="map-container">
+<!-- Barra de busca centralizada -->
+<div class="search-container">
+  <input
+    type="text"
+    placeholder="Buscar por nome..."
+    bind:value={searchTerm}
+    on:input={onSearchInput}
+    on:focus={() => showSuggestions = true}
+    on:blur={() => setTimeout(() => showSuggestions = false, 100)}  
+  />
+
+  {#if showSuggestions && suggestions.length > 0}
+    <ul class="suggestions-list">
+      {#each suggestions as s}
+        <li on:click={() => selectSuggestion(s)}>{s.nome_curto}</li>
+      {/each}
+    </ul>
+  {/if}
+</div>
+
+<!-- Painel lateral e Mapa -->
+<div class="map-layout">
+  <!-- Lateral esquerda: painel -->
   <div class="info-panel">
     {#if hoveredData}
       <div class="info-card">
@@ -320,10 +407,10 @@ onMount(async () => {
     {/if}
   </div>
 
-
-
+  <!-- Centro: Mapa + Slider -->
   <div class="map-wrapper">
     <svg bind:this={svgEl} width={width} height={height}></svg>
+
     <div class="timeline-container">
       <input
         type="range"
@@ -339,4 +426,3 @@ onMount(async () => {
     </div>
   </div>
 </div>
-
