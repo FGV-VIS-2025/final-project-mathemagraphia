@@ -26,10 +26,12 @@
       .map(m => m.slug);
   }
 
-  function construirGrafo(raiz, n) {
+  function construirGrafo(raizAtual, n) {
+    if (!raizAtual || !dadosBiografias[raizAtual]) return;
+    
     const nodesMap = new Map();
     const visitados = new Set();
-    let fronteira = [raiz];
+    let fronteira = [raizAtual];
 
     for (let nivel = 0; nivel < n; nivel++) {
       const novaFronteira = [];
@@ -74,20 +76,37 @@
   }
 
   function drawGraph() {
+    if (!svgEl) return;
+    
     const svg = d3.select(svgEl);
     svg.selectAll('*').remove();
 
     const width = svgEl.clientWidth;
     const height = svgEl.clientHeight;
 
-    if (simulation) simulation.stop();
+    // Para a simulação anterior se existir
+    if (simulation) {
+      simulation.stop();
+    }
+
+    // Adiciona seta para as conexões
+    svg.append('defs').append('marker')
+      .attr('id', 'seta-cinza')
+      .attr('viewBox', '0 -5 10 10')
+      .attr('refX', 15)
+      .attr('refY', 0)
+      .attr('markerWidth', 6)
+      .attr('markerHeight', 6)
+      .attr('orient', 'auto')
+      .append('path')
+      .attr('d', 'M0,-5L10,0L0,5')
+      .attr('fill', '#888');
 
     simulation = d3.forceSimulation(grafo.nodes)
       .force('link', d3.forceLink(grafo.links).id(d => d.id).distance(100))
-      .force('charge', d3.forceManyBody().strength(-400))
+      .force('charge', d3.forceManyBody().strength(-300))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('collision', d3.forceCollide().radius(20))
-      .on('end', () => simulation.stop());
+      .force('collision', d3.forceCollide().radius(20));
 
     const container = svg.append('g').attr('class', 'container');
 
@@ -112,9 +131,8 @@
         selecionado = mapaMatematicos.get(d.id);
       })
       .on('click', (event, d) => {
-        selecionado = mapaMatematicos.get(d.id); // Fixa ao clicar também
-      })
-
+        selecionado = mapaMatematicos.get(d.id);
+      });
 
     const label = container.append('g')
       .selectAll('text')
@@ -126,15 +144,12 @@
       .attr('dy', 4)
       .attr('pointer-events', 'none');
 
-    
-    
-
     simulation.on('tick', () => {
       link
-        .attr('x1', d => isFinite(d.source?.x) ? d.source.x : 0)
-        .attr('y1', d => isFinite(d.source?.y) ? d.source.y : 0)
-        .attr('x2', d => isFinite(d.target?.x) ? d.target.x : 0)
-        .attr('y2', d => isFinite(d.target?.y) ? d.target.y : 0);
+        .attr('x1', d => d.source.x)
+        .attr('y1', d => d.source.y)
+        .attr('x2', d => d.target.x)
+        .attr('y2', d => d.target.y);
 
       node
         .attr('cx', d => d.x)
@@ -170,14 +185,13 @@
     svg.call(zoomBehavior);
   }
 
-
   onMount(async () => {
-    const index = await fetch('biografias_json/index.json').then(r => r.json());
+    const index = await fetch(`${import.meta.env.BASE_URL}biografias_json/index.json`).then(r => r.json());
     matematicos = index;
     mapaMatematicos = new Map(index.map(m => [m.slug, m]));
 
     for (const m of matematicos) {
-      const dados = await fetch(`biografias_json/${m.slug}.json`).then(r => r.json());
+      const dados = await fetch(`${import.meta.env.BASE_URL}biografias_json/${m.slug}.json`).then(r => r.json());
       dadosBiografias[m.slug] = dados;
     }
 
@@ -186,18 +200,22 @@
     construirGrafo(raiz, profundidade);
   });
 
-  // Quando **apenas** raiz ou profundidade mudam, reconstrói o grafo
-  $: if (raiz && profundidade) {
+  // Previne loops infinitos - só reconstrói quando realmente necessário
+  let ultimaRaiz = '';
+  let ultimaProfundidade = 0;
+  
+  $: if (raiz && profundidade && (raiz !== ultimaRaiz || profundidade !== ultimaProfundidade)) {
+    ultimaRaiz = raiz;
+    ultimaProfundidade = profundidade;
     construirGrafo(raiz, profundidade);
   }
 
-  // Quando o usuário seleciona um nome no datalist, buscamos o slug correspondente
+  // Quando o usuário seleciona um nome no datalist
   function aoSelecionarNome() {
     const encontrado = matematicos.find(m => m.nome_completo === buscaNome);
     if (encontrado) {
       raiz = encontrado.slug;
-      // Limpa a busca para não ficar texto antigo no campo
-      buscaNome = '';
+      buscaNome = ''; // Limpa a busca
     }
   }
 </script>
@@ -207,6 +225,11 @@
     width: 100%;
     height: 80vh;
     border: 1px solid #ccc;
+    cursor: grab;
+  }
+
+  svg:active {
+    cursor: grabbing;
   }
 
   label {
@@ -215,47 +238,35 @@
     font-family: Arial, sans-serif;
   }
 
-/* Remova o “select,” pois não existe mais <select> */
   input {
     margin-left: 10px;
-  }
-
-  /* Estilização extra para a lista suspensa do datalist (caso queira ajustar) */
-  input {
     padding: 4px 8px;
     font-size: 1rem;
     width: 40%;
   }
-  svg {
-    cursor: grab; /* Mostra que dá para arrastar (pan) */
+
+  .painel-infos {
+    position: absolute;
+    left: 1rem;
+    top: 7rem;
+    width: 280px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 1rem;
+    font-family: Arial, sans-serif;
+    font-size: 0.9rem;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+    z-index: 100;
+    max-height: 70vh;
+    overflow-y: auto;
   }
 
-  svg:active {
-    cursor: grabbing; /* Enquanto arrasta, muda o cursor */
+  .painel-infos h3 {
+    margin-top: 0;
+    font-size: 1.1rem;
+    color: #333;
   }
-.painel-infos {
-  position: absolute;
-  left: 1rem;
-  top: 7rem;
-  width: 280px;
-  background: #fff;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  padding: 1rem;
-  font-family: Arial, sans-serif;
-  font-size: 0.9rem;
-  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
-  z-index: 100;
-  max-height: 70vh;
-  overflow-y: auto;
-}
-
-.painel-infos h3 {
-  margin-top: 0;
-  font-size: 1.1rem;
-  color: #333;
-}
-
 </style>
 
 <h2>Grafo de Distâncias entre Matemáticos</h2>
@@ -275,7 +286,6 @@
   {/if}
 </div>
 
-<!-- 1) Campo de busca com autocompletar -->
 <label>
   Buscar Matemático:
   <input
@@ -290,11 +300,9 @@
   </datalist>
 </label>
 
-<!-- 2) Slider de Profundidade (permanece igual ao original) -->
 <label>
   Profundidade: {profundidade}
   <input type="range" min="1" max="4" bind:value={profundidade} />
 </label>
 
-<!-- 3) Área do SVG para desenhar o grafo -->
 <svg bind:this={svgEl}></svg>
