@@ -161,7 +161,7 @@ onMount(async () => {
 
   // 2) Carrega dados de biografias
   try {
-    const raw = await d3.json(DATA_URL);
+    const raw = await d3.json(`${import.meta.env.BASE_URL}data/biografias_coords.json`);
     allPoints = raw
       .map(d => {
         let year = null;
