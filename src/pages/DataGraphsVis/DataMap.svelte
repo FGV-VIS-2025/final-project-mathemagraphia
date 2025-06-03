@@ -98,13 +98,12 @@
       .filter(d =>
         d.lat_nasc != null &&
         d.lon_nasc != null &&
-        !isNaN(+d.ano_nascimento) &&
-        +d.ano_nascimento <= maxAno
+        d.ano_nasc != null &&
+        d.ano_nasc <= maxAno
       )
       .map(d => ({
         ...d,
-        coords: [d.lon_nasc, d.lat_nasc],
-        ano_nasc: +d.ano_nascimento
+        coords: [d.lon_nasc, d.lat_nasc]
       }));
     drawPoints();
   }
@@ -163,9 +162,21 @@
       const lugar = (d.lat_nasc != null && d.lon_nasc != null)
         ? inferCountry(d.lat_nasc, d.lon_nasc)
         : 'Desconhecido';
+
+      let ano_raw = (d.ano_nascimento || '').toString().trim();
+      let ano_nasc = null;
+
+      if (/BC/i.test(ano_raw)) {
+        ano_nasc = -parseInt(ano_raw.replace(/[^0-9]/g, ''), 10);
+      } else if (!isNaN(+ano_raw)) {
+        ano_nasc = +ano_raw;
+      }
+
       return {
         ...d,
-        lugar_nascimento: lugar
+        lugar_nascimento: lugar,
+        ano_nascimento: ano_raw,
+        ano_nasc: ano_nasc
       };
     });
 
@@ -238,19 +249,19 @@
   }
 
   #tooltip {
-  color: black; /* <-- adiciona esta linha */
-  position: absolute;
-  pointer-events: auto;
-  background: white;
-  padding: 8px 12px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  font-size: 0.85rem;
-  opacity: 0;
-  transition: opacity 0.2s ease;
-  z-index: 10;
-}
+    color: black;
+    position: absolute;
+    pointer-events: auto;
+    background: white;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    font-size: 0.85rem;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    z-index: 10;
+  }
 
   .controls {
     text-align: center;
