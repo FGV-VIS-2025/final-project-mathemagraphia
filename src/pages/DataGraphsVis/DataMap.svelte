@@ -1,261 +1,333 @@
 <script>
-import { onMount, onDestroy } from 'svelte';
-import * as d3 from 'd3';
-import * as topojson from 'topojson-client';
+  import { onMount } from "svelte";
+  import * as d3 from "d3";
+  import * as topojson from "topojson-client";
 
-let containerEl;
-let svgEl;
-let tooltipEl;
+  // Dimensões fixas do SVG
+  const width = 800;
+  const height = 450;
 
-const MAP_URL  = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
-const DATA_URL = 'data/biografias_com_coords.json';
+  let svgEl;
+  // URLs dos dados
+  const MAP_URL = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
+  const DATA_URL = "public/data/biografias_coords.json";
 
-// Declarações de variáveis no escopo do componente
-let projection, path, g, svg;
-let pontos = [];
-let land;               // antes estava em window.land
-let lastMouse = null;   // antes não existia
-let fixedTooltip = false;
-let isUserInteracting = false;
-let rotation;
-let autoRotateTimer = null;
-let restartTimer    = null;
+  let projection;
+  let path;
+  let landFeatures;
+  let allPoints = [];      // todos os pontos com birthYear
+  let filteredPoints = []; // só os que satisfazem o filtro de ano
+  let fixedTooltipData = null;
+  let hoveredData = null;
+  // Slider: vai de minYear até currentYear
+  let minYear = 0;
+  const currentYear = new Date().getFullYear();
+  let selectedYear = currentYear;
+  let zoomGroup; // o grupo <g> onde aplicamos zoom
+  let currentTransform = d3.zoomIdentity;
 
-// Funções de desenho (sem alterações)
-function drawSphere() {
-  g.append('path')
-    .datum({ type: 'Sphere' })
-    .attr('d', path)
-    .attr('fill', '#1d4ed8');
-}
+  // Formata ano (ex: -280 => "280 BC", 1893 => "1893")
+  function formatYear(y) {
+    if (y < 0) return `${-y} BC`;
+    return `${y}`;
+  }
 
-function drawLand() {
-  g.append('path')
-    .datum(land)            // agora usa a variável local `land`
-    .attr('d', path)
-    .attr('fill', '#eee')
-    .attr('stroke', '#999');
-}
+  function drawLand() {
+    zoomGroup.append("g")
+      .selectAll("path")
+      .data(landFeatures.features)
+      .join("path")
+      .attr("d", path)
+      .attr("fill", "#e0e0e0")
+      .attr("stroke", "#888")
+      .attr("stroke-width", 0.4);
+  }
 
-// FUNÇÃO CORRIGIDA: Verifica se um ponto está visível na parte frontal do globo
-function isPointVisible(coord) {
-  // Obtém a rotação atual do globo
-  const [lambda, phi] = projection.rotate();
-  
-  // Converte as coordenadas do ponto para radianos
-  const pointLambda = coord[0] * Math.PI / 180;
-  const pointPhi = coord[1] * Math.PI / 180;
-  
-  // Converte a rotação atual para radianos
-  const lambdaR = lambda * Math.PI / 180;
-  const phiR = phi * Math.PI / 180;
-  
-  // Calcula o cosseno do ângulo central entre o ponto e o centro da visualização
-  // Usando a fórmula da distância angular na esfera
-  const cosAngle = Math.sin(pointPhi) * Math.sin(-phiR) + 
-                  Math.cos(pointPhi) * Math.cos(-phiR) * 
-                  Math.cos(pointLambda - (-lambdaR));
-  
-  // O ponto é visível se o cosseno do ângulo for positivo
-  // (isso significa que o ângulo está entre -90 e 90 graus)
-  return cosAngle > 0;
-}
+  function drawPoints() {
+    zoomGroup.selectAll("circle.point").remove();
 
-function drawPoints() {
-  const visible = pontos.filter(d => isPointVisible(d.coords));
+    zoomGroup.append("g")
+      .selectAll("circle")
+      .data(filteredPoints)
+      .join("circle")
+      .attr("class", "point")
+      .attr("cx", d => projection(d.coords)[0])
+      .attr("cy", d => projection(d.coords)[1])
+      .attr("r", 3)
+      .attr("fill", "crimson")
+      .attr("stroke", "#000")
+      .attr("stroke-width", 0.5)
+      .on("mouseover", (event, d) => {
+        if (!fixedTooltipData) hoveredData = d;
+      })
+      .on("mouseout", () => {
+        if (!fixedTooltipData) hoveredData = null;
+      })
+      .on("click", (event, d) => {
+        if (fixedTooltipData && fixedTooltipData.link === d.link) {
+          fixedTooltipData = null;
+          hoveredData = null;
+        } else {
+          fixedTooltipData = d;
+          hoveredData = d;
+        }
+      });
+  }
 
-  g.selectAll('circle')
-    .data(visible, d => d.link)
-    .join(
-      enter => enter.append('circle')
-        .attr('cx', d => projection(d.coords)[0])
-        .attr('cy', d => projection(d.coords)[1])
-        .attr('r', 0)
-        .attr('fill', 'crimson')
-        .attr('stroke', '#000')
-        .attr('stroke-width', 0.5)
-        .on('mouseover', (e, d) => {
-          if (!fixedTooltip) {
-            tooltipEl.innerHTML = `
-              <strong>${d.nome_completo}</strong><br/>
-              <a href="${d.link}" target="_blank">Ver biografia</a>
-            `;
-            tooltipEl.style.opacity = '1';
-            tooltipEl.style.left = e.pageX + 10 + 'px';
-            tooltipEl.style.top = e.pageY - 28 + 'px';
-          }
-        })
-        .on('mouseout', () => {
-          if (!fixedTooltip) tooltipEl.style.opacity = '0';
-        })
-        .on('click', () => {
-          fixedTooltip = !fixedTooltip;
-          if (!fixedTooltip) tooltipEl.style.opacity = '0';
-        })
-        .transition()
-        .duration(300)
-        .attr('r', 3),
-      update => update
-        .attr('cx', d => projection(d.coords)[0])
-        .attr('cy', d => projection(d.coords)[1]),
-      exit => exit.remove()
-    );
-}
+  function updateFiltered() {
+    // Filtra todos os pontos até selectedYear (birthYear <= selectedYear)
+    filteredPoints = allPoints.filter(d => d.birthYear <= selectedYear);
+    drawPoints();
+  }
 
-// Re-render completo
-function render() {
-  g.selectAll('*').remove();
-  drawSphere();
-  drawLand();
-  drawPoints();
-}
+  function drawMap() {
+    const svg = d3.select(svgEl);
+    svg.selectAll("*").remove();
+    zoomGroup = svg.append("g").attr("class", "zoom-group");
+    zoomGroup.attr("transform", currentTransform);
 
-function startAutoRotate() {
-  if (autoRotateTimer) return;
-  autoRotateTimer = setInterval(() => {
-    if (!isUserInteracting) {
-      rotation = projection.rotate();
-      rotation[0] += 0.2;
-      projection.rotate(rotation);
-      render();
+    // Fundo
+    svg.append("rect")
+      .attr("width", width)
+      .attr("height", height)
+      .attr("fill", "#f0f0f0")
+      .lower()  // Garante que fique atrás de tudo
+      .on("click", () => {
+        fixedTooltipData = null;
+        hoveredData = null;
+      });
+
+    if (!landFeatures || !landFeatures.features.length) {
+      svg.append("text")
+        .attr("x", width / 2)
+        .attr("y", height / 2)
+        .attr("text-anchor", "middle")
+        .attr("fill", "red")
+        .style("font-size", "16px")
+        .text("Erro: não foram carregadas features de país.");
+      return;
     }
-  }, 30);
-}
 
-function stopAutoRotate() {
-  isUserInteracting = true;
-  clearTimeout(restartTimer);
-  restartTimer = setTimeout(() => {
-    isUserInteracting = false;
-  }, 3000);
-}
+    drawLand();
+    updateFiltered();
+  }
 
-function resize() {
-  const { width, height } = containerEl.getBoundingClientRect();
+  onMount(async () => {
+    // Configura projeção
+    projection = d3.geoNaturalEarth1()
+      .scale(150)
+      .translate([width / 2, height / 2]);
+    path = d3.geoPath(projection);
 
-  svg
-    .attr('viewBox', `0 0 ${width} ${height}`)
-    .attr('preserveAspectRatio', 'xMidYMid meet');
+    // 1) Carrega TopoJSON
+    try {
+      const world = await d3.json(MAP_URL);
+      landFeatures = topojson.feature(world, world.objects.countries);
+    } catch {
+      landFeatures = { features: [] };
+    }
 
-  projection
-    .translate([width / 2, height / 2])
-    .scale((Math.min(width, height) / 2) * 0.9);
+    // 2) Carrega dados de biografias
+    try {
+      const raw = await d3.json(DATA_URL);
+      // Extrai birthYear numérico de raw.ano_nascimento
+      allPoints = raw
+        .map(d => {
+          let year = null;
+          const yn = (d.ano_nascimento || "").trim();
+          if (yn.endsWith("BC")) {
+            const n = parseInt(yn.replace("BC", "").trim());
+            year = isNaN(n) ? null : -n;
+          } else {
+            const n = parseInt(yn);
+            year = isNaN(n) ? null : n;
+          }
 
-  path = d3.geoPath(projection);
-  render();
-}
+          if (
+            d.coords_nascimento &&
+            typeof d.coords_nascimento.lat === "number" &&
+            typeof d.coords_nascimento.lon === "number" &&
+            year !== null
+          ) {
+            return {
+              nome_completo: d.nome_completo,
+              nome_curto: d.nome_curto || d.nome_completo,
+              pais_nascimento: d.lugar_nascimento || "Desconhecido",
+              biografia: d.biografia || "",
+              link: d.link,
+              coords: [d.coords_nascimento.lon, d.coords_nascimento.lat],
+              birthYear: year
+            };
+          }
+          return null;
+        })
+        .filter(d => d !== null);
 
-onMount(async () => {
-  svg = d3.select(svgEl);
-  g   = svg.append('g');
+      // Determina ano mínimo entre todos os birthYear
+      if (allPoints.length) {
+        minYear = Math.min(...allPoints.map(d => d.birthYear));
+        selectedYear = currentYear;
+      }
+    } catch {
+      allPoints = [];
+    }
+    
+    const zoom = d3.zoom()
+      .scaleExtent([0.5, 8])
+      .on("zoom", (event) => {
+        currentTransform = event.transform;
+        zoomGroup.attr("transform", currentTransform);
+      });
 
-  projection = d3.geoOrthographic().clipAngle(90);
-  path       = d3.geoPath(projection);
+    d3.select(svgEl).call(zoom);
 
-  // Carrega e atribui a variável `land`
-  const world = await d3.json(MAP_URL);
-  land = topojson.feature(world, world.objects.countries);
-
-  // Carrega os pontos
-  const raw = await d3.json(DATA_URL);
-  pontos = raw
-    .filter(d => d.lat_nasc && d.lon_nasc)
-    .map(d => ({ ...d, coords: [d.lon_nasc, d.lat_nasc] }));
-
-  rotation = projection.rotate();
-
-  const ro = new ResizeObserver(resize);
-  ro.observe(containerEl);
-
-  svg.call(
-    d3.drag()
-      .on('start', e => {
-        stopAutoRotate();
-        lastMouse = [e.x, e.y];
-      })
-      .on('drag', e => {
-        if (!lastMouse) return;
-        const [lx, ly] = lastMouse;
-        const dx = e.x - lx, dy = e.y - ly;
-        rotation = projection.rotate();
-        projection.rotate([
-          rotation[0] + dx * 0.25,
-          rotation[1] - dy * 0.25
-        ]);
-        render();
-        lastMouse = [e.x, e.y];
-      })
-      .on('end', () => {
-        rotation = projection.rotate();
-        lastMouse = null;
-      })
-  );
-
-  onDestroy(() => {
-    ro.disconnect();
-    clearInterval(autoRotateTimer);
-    clearTimeout(restartTimer);
+    // 3) Desenha mapa e pontos iniciais
+    drawMap();
   });
-
-  resize();
-  startAutoRotate();
-});
 </script>
-
-<div class="map-wrapper">
-  <div class="map-container" bind:this={containerEl}>
-    <svg bind:this={svgEl}></svg>
-    <div bind:this={tooltipEl} id="tooltip"></div>
-  </div>
-</div>
-
 
 <style>
   .map-wrapper {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    height: 100vh;       /* ocupa a altura inteira da tela */
-    background: #f5f5f5; /* cor de fundo opcional */
-  }
-
-  .map-container {
-    width: 90vmin;        /* largura baseada na menor dimensão da tela */
-    height: 90vmin;       /* altura igual para formar um quadrado */
-    position: relative;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* borda suave */
-    border-radius: 12px;
-    overflow: hidden;
+    margin: 1rem;
   }
 
   svg {
-    width: 100%;
-    height: 100%;
-    background: radial-gradient(#fff, #e0e0e0);
-    cursor: grab;
-  }
-
-  svg:active {
-    cursor: grabbing;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   }
 
   #tooltip {
     position: absolute;
-    top: 0;
-    left: 0;
+    pointer-events: auto;
     background: white;
     padding: 6px 10px;
     border: 1px solid #999;
     border-radius: 4px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
     font-size: 0.85rem;
-    pointer-events: none;
     opacity: 0;
     transition: opacity 0.2s;
     z-index: 10;
+    font-family: sans-serif;
   }
+
+  .timeline-container {
+    margin-top: 1rem;
+    width: 80%;
+    text-align: center;
+  }
+
+  input[type="range"] {
+    width: 100%;
+  }
+
+  .year-label {
+    margin-top: 0.5rem;
+    font-weight: bold;
+  }
+
   :global(a) {
     color: steelblue;
     text-decoration: underline;
   }
+.map-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.info-panel {
+  width: 220px;
+  min-height: 200px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 1rem;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.info-card {
+  line-height: 1.4;
+}
+
+.info-card.muted {
+  color: #666;
+  font-style: italic;
+}
+
+.map-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bio-scroll {
+  max-height: 200px;
+  overflow-y: auto;
+  margin-top: 0.5rem;
+  padding-right: 6px;
+  white-space: pre-wrap;
+  font-size: 0.75rem;
+  line-height: 1.4;
+}
+
+.bio-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.bio-scroll::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 3px;
+}
+
 </style>
+
+<div class="map-container">
+  <div class="info-panel">
+    {#if hoveredData}
+      <div class="info-card">
+        <h2>{hoveredData.nome_curto}</h2>
+        <p><strong>Nascimento:</strong> {formatYear(hoveredData.birthYear)}</p>
+        <p><strong>Local:</strong> {hoveredData.pais_nascimento}</p>
+
+        <div class="bio-scroll">
+          <pre>{hoveredData.biografia}</pre>
+        </div>
+
+        <p style="margin-top: 0.5rem;">
+          <a href={hoveredData.link} target="_blank" rel="noopener">
+            Ver biografia completa
+          </a>
+        </p>
+      </div>
+    {:else}
+      <div class="info-card muted">
+        Passe o mouse sobre um ponto
+      </div>
+    {/if}
+  </div>
+
+
+
+  <div class="map-wrapper">
+    <svg bind:this={svgEl} width={width} height={height}></svg>
+    <div class="timeline-container">
+      <input
+        type="range"
+        min={minYear}
+        max={currentYear}
+        bind:value={selectedYear}
+        on:input={updateFiltered}
+      />
+      <div class="year-label">Ano selecionado: {formatYear(selectedYear)}</div>
+      <div class="year-range">
+        <small>{formatYear(minYear)} → {formatYear(currentYear)}</small>
+      </div>
+    </div>
+  </div>
+</div>
+
