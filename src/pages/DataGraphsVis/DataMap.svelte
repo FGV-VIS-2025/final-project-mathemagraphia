@@ -25,6 +25,7 @@
   let selectedYear = currentYear;
   let zoomGroup; // o grupo <g> onde aplicamos zoom
   let currentTransform = d3.zoomIdentity;
+  let scaleFactor = 1;
 
   // Formata ano (ex: -280 => "280 BC", 1893 => "1893")
   function formatYear(y) {
@@ -112,78 +113,86 @@
     updateFiltered();
   }
 
-  onMount(async () => {
-    // Configura projeção
-    projection = d3.geoNaturalEarth1()
-      .scale(150)
-      .translate([width / 2, height / 2]);
-    path = d3.geoPath(projection);
+onMount(async () => {
+  // Configura projeção
+  projection = d3.geoNaturalEarth1()
+    .scale(150)
+    .translate([width / 2, height / 2]);
+  path = d3.geoPath(projection);
 
-    // 1) Carrega TopoJSON
-    try {
-      const world = await d3.json(MAP_URL);
-      landFeatures = topojson.feature(world, world.objects.countries);
-    } catch {
-      landFeatures = { features: [] };
+  // 1) Carrega TopoJSON
+  try {
+    const world = await d3.json(MAP_URL);
+    landFeatures = topojson.feature(world, world.objects.countries);
+  } catch {
+    landFeatures = { features: [] };
+  }
+
+  // 2) Carrega dados de biografias
+  try {
+    const raw = await d3.json(DATA_URL);
+    allPoints = raw
+      .map(d => {
+        let year = null;
+        const yn = (d.ano_nascimento || "").trim();
+        if (yn.endsWith("BC")) {
+          const n = parseInt(yn.replace("BC", "").trim());
+          year = isNaN(n) ? null : -n;
+        } else {
+          const n = parseInt(yn);
+          year = isNaN(n) ? null : n;
+        }
+
+        if (
+          d.coords_nascimento &&
+          typeof d.coords_nascimento.lat === "number" &&
+          typeof d.coords_nascimento.lon === "number" &&
+          year !== null
+        ) {
+          return {
+            nome_completo: d.nome_completo,
+            nome_curto: d.nome_curto || d.nome_completo,
+            pais_nascimento: d.lugar_nascimento || "Desconhecido",
+            biografia: d.biografia || "",
+            link: d.link,
+            coords: [d.coords_nascimento.lon, d.coords_nascimento.lat],
+            birthYear: year
+          };
+        }
+        return null;
+      })
+      .filter(d => d !== null);
+
+    if (allPoints.length) {
+      minYear = Math.min(...allPoints.map(d => d.birthYear));
+      selectedYear = currentYear;
     }
+  } catch {
+    allPoints = [];
+  }
 
-    // 2) Carrega dados de biografias
-    try {
-      const raw = await d3.json(DATA_URL);
-      // Extrai birthYear numérico de raw.ano_nascimento
-      allPoints = raw
-        .map(d => {
-          let year = null;
-          const yn = (d.ano_nascimento || "").trim();
-          if (yn.endsWith("BC")) {
-            const n = parseInt(yn.replace("BC", "").trim());
-            year = isNaN(n) ? null : -n;
-          } else {
-            const n = parseInt(yn);
-            year = isNaN(n) ? null : n;
-          }
+  // 3) Desenha mapa e pontos iniciais
+  drawMap();
 
-          if (
-            d.coords_nascimento &&
-            typeof d.coords_nascimento.lat === "number" &&
-            typeof d.coords_nascimento.lon === "number" &&
-            year !== null
-          ) {
-            return {
-              nome_completo: d.nome_completo,
-              nome_curto: d.nome_curto || d.nome_completo,
-              pais_nascimento: d.lugar_nascimento || "Desconhecido",
-              biografia: d.biografia || "",
-              link: d.link,
-              coords: [d.coords_nascimento.lon, d.coords_nascimento.lat],
-              birthYear: year
-            };
-          }
-          return null;
-        })
-        .filter(d => d !== null);
+  // 4) Comportamento de zoom
+  const zoom = d3.zoom()
+    .scaleExtent([0.5, 8])
+    .on("zoom", (event) => {
+      currentTransform = event.transform;
+      scaleFactor = currentTransform.k;
 
-      // Determina ano mínimo entre todos os birthYear
-      if (allPoints.length) {
-        minYear = Math.min(...allPoints.map(d => d.birthYear));
-        selectedYear = currentYear;
-      }
-    } catch {
-      allPoints = [];
-    }
-    
-    const zoom = d3.zoom()
-      .scaleExtent([0.5, 8])
-      .on("zoom", (event) => {
-        currentTransform = event.transform;
-        zoomGroup.attr("transform", currentTransform);
-      });
+      // Aplica o zoom ao grupo todo
+      zoomGroup.attr("transform", currentTransform);
 
-    d3.select(svgEl).call(zoom);
+      // Atualiza o raio dos círculos proporcionalmente ao zoom
+      zoomGroup.selectAll("circle.point")
+        .attr("r", 3 / scaleFactor);  // <-- ajusta o tamanho visual
+    });
 
-    // 3) Desenha mapa e pontos iniciais
-    drawMap();
-  });
+  d3.select(svgEl).call(zoom);
+
+});
+
 </script>
 
 <style>
