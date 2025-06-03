@@ -5,7 +5,7 @@
 
   let containerEl, svgEl, tooltipEl;
   let projection, path, g, svg;
-  let land;
+  let land, countriesById;
 
   const MAP_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
   const DATA_URL = 'data/biografias_com_coords.json';
@@ -25,23 +25,21 @@
       .attr('fill', '#eaeaea')
       .attr('stroke', '#aaa')
       .attr('stroke-width', 0.5);
-
-    // ❌ Removido: nomes dos países
   }
 
   function showTooltip(e, d) {
-  const bounds = containerEl.getBoundingClientRect();
-  tooltipEl.innerHTML = `
-    <strong>${d.nome_completo}</strong><br/>
-    <span><strong>País:</strong> ${d.lugar_nascimento || 'Desconhecido'}</span><br/>
-    <span><strong>Nasc.:</strong> ${d.ano_nascimento || 'Desconhecido'}</span><br/>
-    <a href="${d.link}" target="_blank">Ver biografia</a>
-  `;
-  tooltipEl.style.opacity = '1';
-  tooltipEl.style.pointerEvents = 'auto';
-  tooltipEl.style.left = (e.clientX - bounds.left + 10) + 'px';
-  tooltipEl.style.top = (e.clientY - bounds.top - 28) + 'px';
-}
+    const bounds = containerEl.getBoundingClientRect();
+    tooltipEl.innerHTML = `
+      <strong>${d.nome_completo}</strong><br/>
+      <span><strong>País:</strong> ${d.lugar_nascimento || 'Desconhecido'}</span><br/>
+      <span><strong>Nasc.:</strong> ${d.ano_nascimento || 'Desconhecido'}</span><br/>
+      <a href="${d.link}" target="_blank">Ver biografia</a>
+    `;
+    tooltipEl.style.opacity = '1';
+    tooltipEl.style.pointerEvents = 'auto';
+    tooltipEl.style.left = (e.clientX - bounds.left + 10) + 'px';
+    tooltipEl.style.top = (e.clientY - bounds.top - 28) + 'px';
+  }
 
   function hideTooltip() {
     tooltipEl.style.opacity = '0';
@@ -51,7 +49,6 @@
 
   function drawPoints() {
     g.selectAll('circle').remove();
-
     g.selectAll('circle')
       .data(pontos, d => d.link)
       .enter()
@@ -90,7 +87,6 @@
     svg
       .attr('viewBox', `0 0 ${width} ${height}`)
       .attr('preserveAspectRatio', 'xMidYMid meet');
-
     projection.fitSize([width, height], land);
     path = d3.geoPath(projection);
     render();
@@ -98,7 +94,6 @@
 
   function atualizarPontosFiltrados() {
     const maxAno = seculoAtual * 100;
-
     pontos = raw
       .filter(d =>
         d.lat_nasc != null &&
@@ -108,10 +103,9 @@
       )
       .map(d => ({
         ...d,
-        ano_nasc: +d.ano_nascimento,
-        coords: [d.lon_nasc, d.lat_nasc]
+        coords: [d.lon_nasc, d.lat_nasc],
+        ano_nasc: +d.ano_nascimento
       }));
-
     drawPoints();
   }
 
@@ -143,6 +137,15 @@
     }
   }
 
+  function inferCountry(lat, lon) {
+    for (const f of land.features) {
+      if (d3.geoContains(f, [lon, lat])) {
+        return countriesById.get(f.id) || 'Desconhecido';
+      }
+    }
+    return 'Desconhecido';
+  }
+
   onMount(async () => {
     window.addEventListener('click', handleClickOutside);
     svg = d3.select(svgEl);
@@ -151,12 +154,23 @@
     path = d3.geoPath(projection);
 
     const world = await d3.json(MAP_URL);
-    land = topojson.feature(world, world.objects.countries);
+    const countries = world.objects.countries;
+    land = topojson.feature(world, countries);
+    countriesById = new Map(world.objects.countries.geometries.map(d => [d.id, d.properties.name]));
 
-    raw = await d3.json(DATA_URL);
+    const biografias = await d3.json(DATA_URL);
+    raw = biografias.map(d => {
+      const lugar = (d.lat_nasc != null && d.lon_nasc != null)
+        ? inferCountry(d.lat_nasc, d.lon_nasc)
+        : 'Desconhecido';
+      return {
+        ...d,
+        lugar_nascimento: lugar
+      };
+    });
+
     atualizarPontosFiltrados();
 
-    // ✅ Zoom e pan
     svg.call(
       d3.zoom()
         .scaleExtent([1, 8])
