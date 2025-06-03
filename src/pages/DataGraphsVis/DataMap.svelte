@@ -1,302 +1,428 @@
 <script>
-  import { onMount, onDestroy } from 'svelte';
-  import * as d3 from 'd3';
-  import * as topojson from 'topojson-client';
+  import { onMount } from "svelte";
+  import * as d3 from "d3";
+  import * as topojson from "topojson-client";
 
-  let containerEl, svgEl, tooltipEl;
-  let projection, path, g, svg;
-  let land, countriesById;
+  // Dimensões fixas do SVG
+  const width = 800;
+  const height = 450;
 
-  const MAP_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
-  const DATA_URL = 'data/biografias_com_coords.json';
+  let svgEl;
+  // URLs dos dados
+  const MAP_URL = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
+  const DATA_URL = "public/data/biografias_coords.json";
 
-  let raw = [];
-  let pontos = [];
-
-  let seculoAtual = 17;
-  let playing = false;
-  let intervaloAnimacao = null;
+  let projection;
+  let path;
+  let landFeatures;
+  let allPoints = [];      // todos os pontos com birthYear
+  let filteredPoints = []; // só os que satisfazem o filtro de ano
   let fixedTooltipData = null;
+  let hoveredData = null;
+  // Slider: vai de minYear até currentYear
+  let minYear = 0;
+  const currentYear = new Date().getFullYear();
+  let selectedYear = currentYear;
+  let zoomGroup; // o grupo <g> onde aplicamos zoom
+  let currentTransform = d3.zoomIdentity;
+  let scaleFactor = 1;
+  let searchTerm = "";
+  let suggestions = [];
+  let showSuggestions = false;
+
+  // Formata ano (ex: -280 => "280 BC", 1893 => "1893")
+  function formatYear(y) {
+    if (y < 0) return `${-y} BC`;
+    return `${y}`;
+  }
 
   function drawLand() {
-    g.append('path')
-      .datum(land)
-      .attr('d', path)
-      .attr('fill', '#eaeaea')
-      .attr('stroke', '#aaa')
-      .attr('stroke-width', 0.5);
-  }
-
-  function showTooltip(e, d) {
-    const bounds = containerEl.getBoundingClientRect();
-    tooltipEl.innerHTML = `
-      <strong>${d.nome_completo}</strong><br/>
-      <span><strong>País:</strong> ${d.lugar_nascimento || 'Desconhecido'}</span><br/>
-      <span><strong>Nasc.:</strong> ${d.ano_nascimento || 'Desconhecido'}</span><br/>
-      <a href="${d.link}" target="_blank">Ver biografia</a>
-    `;
-    tooltipEl.style.opacity = '1';
-    tooltipEl.style.pointerEvents = 'auto';
-    tooltipEl.style.left = (e.clientX - bounds.left + 10) + 'px';
-    tooltipEl.style.top = (e.clientY - bounds.top - 28) + 'px';
-  }
-
-  function hideTooltip() {
-    tooltipEl.style.opacity = '0';
-    tooltipEl.style.pointerEvents = 'none';
-    tooltipEl.innerHTML = '';
+    zoomGroup.append("g")
+      .selectAll("path")
+      .data(landFeatures.features)
+      .join("path")
+      .attr("d", path)
+      .attr("fill", "#e0e0e0")
+      .attr("stroke", "#888")
+      .attr("stroke-width", 0.4);
   }
 
   function drawPoints() {
-    g.selectAll('circle').remove();
-    g.selectAll('circle')
-      .data(pontos, d => d.link)
-      .enter()
-      .append('circle')
-      .attr('cx', d => projection(d.coords)[0])
-      .attr('cy', d => projection(d.coords)[1])
-      .attr('r', 4)
-      .attr('fill', '#d62828')
-      .attr('stroke', '#fff')
-      .attr('stroke-width', 1)
-      .on('mouseover', (e, d) => {
-        if (!fixedTooltipData) showTooltip(e, d);
+    zoomGroup.selectAll("circle.point").remove();
+
+    zoomGroup.append("g")
+      .selectAll("circle")
+      .data(filteredPoints)
+      .join("circle")
+      .attr("class", "point")
+      .attr("cx", d => projection(d.coords)[0])
+      .attr("cy", d => projection(d.coords)[1])
+      .attr("r", 3 / scaleFactor) // raio ajustado
+      .attr("fill", "crimson")
+      .attr("stroke", "#000")
+      .attr("stroke-width", 0.5 / scaleFactor) // <-- borda ajustada
+      .on("mouseover", (event, d) => {
+        if (!fixedTooltipData) hoveredData = d;
       })
-      .on('mouseout', () => {
-        if (!fixedTooltipData) hideTooltip();
+      .on("mouseout", () => {
+        if (!fixedTooltipData) hoveredData = null;
       })
-      .on('click', (e, d) => {
+      .on("click", (event, d) => {
         if (fixedTooltipData && fixedTooltipData.link === d.link) {
           fixedTooltipData = null;
-          hideTooltip();
+          hoveredData = null;
         } else {
           fixedTooltipData = d;
-          showTooltip(e, d);
+          hoveredData = d;
         }
       });
   }
 
-  function render() {
-    g.selectAll('*').remove();
+  function updateFiltered() {
+    filteredPoints = allPoints.filter(d => {
+      const nome = d.nome_curto.toLowerCase() + " " + d.nome_completo.toLowerCase();
+      return (
+        d.birthYear <= selectedYear &&
+        nome.includes(searchTerm.toLowerCase())
+      );
+    });
+
+    drawPoints();
+  }
+  function onSearchInput() {
+    const term = searchTerm.trim().toLowerCase();
+
+    suggestions = allPoints.filter(p =>
+      p.nome_curto.toLowerCase().includes(term) ||
+      p.nome_completo.toLowerCase().includes(term)
+    ).slice(0, 10); // limite de sugestões
+
+    updateFiltered();
+  }
+
+  function selectSuggestion(person) {
+    hoveredData = person;
+    fixedTooltipData = person;
+    searchTerm = person.nome_curto;
+    suggestions = [];
+    showSuggestions = false;
+
+    // Centraliza o ponto no mapa (animando a projeção)
+    const [x, y] = projection(person.coords);
+    svgEl.scrollIntoView({ behavior: "smooth" });
+  }
+
+  function drawMap() {
+    const svg = d3.select(svgEl);
+    svg.selectAll("*").remove();
+    zoomGroup = svg.append("g").attr("class", "zoom-group");
+    zoomGroup.attr("transform", currentTransform);
+
+    // Fundo
+    svg.append("rect")
+      .attr("width", width)
+      .attr("height", height)
+      .attr("fill", "#f0f0f0")
+      .lower()  // Garante que fique atrás de tudo
+      .on("click", () => {
+        fixedTooltipData = null;
+        hoveredData = null;
+      });
+
+    if (!landFeatures || !landFeatures.features.length) {
+      svg.append("text")
+        .attr("x", width / 2)
+        .attr("y", height / 2)
+        .attr("text-anchor", "middle")
+        .attr("fill", "red")
+        .style("font-size", "16px")
+        .text("Erro: não foram carregadas features de país.");
+      return;
+    }
+
     drawLand();
-    drawPoints();
+    updateFiltered();
   }
 
-  function resize() {
-    const { width, height } = containerEl.getBoundingClientRect();
-    svg
-      .attr('viewBox', `0 0 ${width} ${height}`)
-      .attr('preserveAspectRatio', 'xMidYMid meet');
-    projection.fitSize([width, height], land);
-    path = d3.geoPath(projection);
-    render();
-  }
+onMount(async () => {
+  // Configura projeção
+  projection = d3.geoNaturalEarth1()
+    .scale(150)
+    .translate([width / 2, height / 2]);
+  path = d3.geoPath(projection);
 
-  function atualizarPontosFiltrados() {
-    const maxAno = seculoAtual * 100;
-    pontos = raw
-      .filter(d =>
-        d.lat_nasc != null &&
-        d.lon_nasc != null &&
-        d.ano_nasc != null &&
-        d.ano_nasc <= maxAno
-      )
-      .map(d => ({
-        ...d,
-        coords: [d.lon_nasc, d.lat_nasc]
-      }));
-    drawPoints();
-  }
-
-  function togglePlay() {
-    playing = !playing;
-    if (playing) {
-      intervaloAnimacao = setInterval(() => {
-        seculoAtual++;
-        if (seculoAtual > 21) {
-          clearInterval(intervaloAnimacao);
-          playing = false;
-          return;
-        }
-        atualizarPontosFiltrados();
-      }, 800);
-    } else {
-      clearInterval(intervaloAnimacao);
-    }
-  }
-
-  function handleClickOutside(e) {
-    if (
-      fixedTooltipData &&
-      !tooltipEl.contains(e.target) &&
-      !e.target.closest('circle')
-    ) {
-      fixedTooltipData = null;
-      hideTooltip();
-    }
-  }
-
-  function inferCountry(lat, lon) {
-    for (const f of land.features) {
-      if (d3.geoContains(f, [lon, lat])) {
-        return countriesById.get(f.id) || 'Desconhecido';
-      }
-    }
-    return 'Desconhecido';
-  }
-
-  onMount(async () => {
-    window.addEventListener('click', handleClickOutside);
-    svg = d3.select(svgEl);
-    g = svg.append('g');
-    projection = d3.geoNaturalEarth1();
-    path = d3.geoPath(projection);
-
+  // 1) Carrega TopoJSON
+  try {
     const world = await d3.json(MAP_URL);
-    const countries = world.objects.countries;
-    land = topojson.feature(world, countries);
-    countriesById = new Map(world.objects.countries.geometries.map(d => [d.id, d.properties.name]));
+    landFeatures = topojson.feature(world, world.objects.countries);
+  } catch {
+    landFeatures = { features: [] };
+  }
 
-    const biografias = await d3.json(DATA_URL);
-    raw = biografias.map(d => {
-      const lugar = (d.lat_nasc != null && d.lon_nasc != null)
-        ? inferCountry(d.lat_nasc, d.lon_nasc)
-        : 'Desconhecido';
+  // 2) Carrega dados de biografias
+  try {
+    const raw = await d3.json(DATA_URL);
+    allPoints = raw
+      .map(d => {
+        let year = null;
+        const yn = (d.ano_nascimento || "").trim();
+        if (yn.endsWith("BC")) {
+          const n = parseInt(yn.replace("BC", "").trim());
+          year = isNaN(n) ? null : -n;
+        } else {
+          const n = parseInt(yn);
+          year = isNaN(n) ? null : n;
+        }
 
-      let ano_raw = (d.ano_nascimento || '').toString().trim();
-      let ano_nasc = null;
+        if (
+          d.coords_nascimento &&
+          typeof d.coords_nascimento.lat === "number" &&
+          typeof d.coords_nascimento.lon === "number" &&
+          year !== null
+        ) {
+          return {
+            nome_completo: d.nome_completo,
+            nome_curto: d.nome_curto || d.nome_completo,
+            pais_nascimento: d.lugar_nascimento || "Desconhecido",
+            biografia: d.biografia || "",
+            link: d.link,
+            coords: [d.coords_nascimento.lon, d.coords_nascimento.lat],
+            birthYear: year
+          };
+        }
+        return null;
+      })
+      .filter(d => d !== null);
 
-      if (/BC/i.test(ano_raw)) {
-        ano_nasc = -parseInt(ano_raw.replace(/[^0-9]/g, ''), 10);
-      } else if (!isNaN(+ano_raw)) {
-        ano_nasc = +ano_raw;
-      }
+    if (allPoints.length) {
+      minYear = Math.min(...allPoints.map(d => d.birthYear));
+      selectedYear = currentYear;
+    }
+  } catch {
+    allPoints = [];
+  }
 
-      return {
-        ...d,
-        lugar_nascimento: lugar,
-        ano_nascimento: ano_raw,
-        ano_nasc: ano_nasc
-      };
+  // 3) Desenha mapa e pontos iniciais
+  drawMap();
+
+  // 4) Comportamento de zoom
+  const zoom = d3.zoom()
+    .scaleExtent([0.5, 8])
+    .on("zoom", (event) => {
+      currentTransform = event.transform;
+      scaleFactor = currentTransform.k;
+
+      // Aplica o zoom ao grupo todo
+      zoomGroup.attr("transform", currentTransform);
+
+      // Atualiza o raio dos círculos proporcionalmente ao zoom
+      zoomGroup.selectAll("circle.point")
+        .attr("r", 3 / scaleFactor)
+        .attr("stroke-width", 0.5 / scaleFactor); // <-- ajusta borda dinamicamente
+        // <-- ajusta o tamanho visual
     });
 
-    atualizarPontosFiltrados();
+  d3.select(svgEl).call(zoom);
 
-    svg.call(
-      d3.zoom()
-        .scaleExtent([1, 8])
-        .on('zoom', ({ transform }) => {
-          g.attr('transform', transform);
-        })
-    );
+});
 
-    const ro = new ResizeObserver(resize);
-    ro.observe(containerEl);
-
-    onDestroy(() => {
-      ro.disconnect();
-      clearInterval(intervaloAnimacao);
-      window.removeEventListener('click', handleClickOutside);
-    });
-
-    resize();
-  });
 </script>
 
-<!-- MAPA -->
-<div class="map-wrapper">
-  <div class="map-container" bind:this={containerEl}>
-    <svg bind:this={svgEl}></svg>
-    <div bind:this={tooltipEl} id="tooltip"></div>
+<style>.map-layout {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  justify-content: center;
+  padding: 1rem;
+  flex-wrap: wrap;
+}
+
+.map-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+}
+
+svg {
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.info-panel {
+  width: 280px;
+  min-height: 300px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  font-family: sans-serif;
+  font-size: 0.95rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  flex-shrink: 0;
+}
+
+.info-card h2 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.info-card p {
+  margin: 0.3rem 0;
+}
+
+.info-card.muted {
+  color: #666;
+  font-style: italic;
+}
+
+.bio-scroll {
+  max-height: 320px;
+  overflow-y: auto;
+  margin-top: 0.5rem;
+  padding-right: 6px;
+  white-space: pre-wrap;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.bio-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.bio-scroll::-webkit-scrollbar-thumb {
+  background-color: #bbb;
+  border-radius: 3px;
+}
+
+.timeline-container {
+  margin-top: 1rem;
+  width: 100%;
+  text-align: center;
+}
+
+input[type="range"] {
+  width: 100%;
+  max-width: 600px;
+}
+
+.year-label {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+
+.search-container {
+  position: relative;
+  margin: 1rem auto;
+  width: 80%;
+  max-width: 500px;
+  text-align: center;
+}
+
+.search-container input {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.suggestions-list {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-left: 0.5rem;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  max-height: 300px;
+  overflow-y: auto;
+  width: 250px;
+  z-index: 1000;
+  list-style: none;
+  padding: 0;
+}
+
+.suggestions-list li {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.suggestions-list li:hover {
+  background: #f0f0f0;
+}
+
+:global(a) {
+  color: steelblue;
+  text-decoration: underline;
+}
+
+</style>
+
+<!-- Barra de busca centralizada -->
+<div class="search-container">
+  <input
+    type="text"
+    placeholder="Buscar por nome..."
+    bind:value={searchTerm}
+    on:input={onSearchInput}
+    on:focus={() => showSuggestions = true}
+    on:blur={() => setTimeout(() => showSuggestions = false, 100)}  
+  />
+
+  {#if showSuggestions && suggestions.length > 0}
+    <ul class="suggestions-list">
+      {#each suggestions as s}
+        <li on:click={() => selectSuggestion(s)}>{s.nome_curto}</li>
+      {/each}
+    </ul>
+  {/if}
+</div>
+
+<!-- Painel lateral e Mapa -->
+<div class="map-layout">
+  <!-- Lateral esquerda: painel -->
+  <div class="info-panel">
+    {#if hoveredData}
+      <div class="info-card">
+        <h2>{hoveredData.nome_curto}</h2>
+        <p><strong>Nascimento:</strong> {formatYear(hoveredData.birthYear)}</p>
+        <p><strong>Local:</strong> {hoveredData.pais_nascimento}</p>
+
+        <div class="bio-scroll">
+          <pre>{hoveredData.biografia}</pre>
+        </div>
+
+        <p style="margin-top: 0.5rem;">
+          <a href={hoveredData.link} target="_blank" rel="noopener">
+            Ver biografia completa
+          </a>
+        </p>
+      </div>
+    {:else}
+      <div class="info-card muted">
+        Passe o mouse sobre um ponto
+      </div>
+    {/if}
+  </div>
+
+  <!-- Centro: Mapa + Slider -->
+  <div class="map-wrapper">
+    <svg bind:this={svgEl} width={width} height={height}></svg>
+
+    <div class="timeline-container">
+      <input
+        type="range"
+        min={minYear}
+        max={currentYear}
+        bind:value={selectedYear}
+        on:input={updateFiltered}
+      />
+      <div class="year-label">Ano selecionado: {formatYear(selectedYear)}</div>
+      <div class="year-range">
+        <small>{formatYear(minYear)} → {formatYear(currentYear)}</small>
+      </div>
+    </div>
   </div>
 </div>
-
-<!-- CONTROLES -->
-<div class="controls">
-  <label>
-    Século:
-    <input type="range" min="9" max="21" bind:value={seculoAtual} on:input={atualizarPontosFiltrados} />
-    <span>{seculoAtual}º</span>
-  </label>
-  <button class="play-button" on:click={togglePlay}>
-    {playing ? '⏸ Pausar' : '▶️ Play'}
-  </button>
-</div>
-
-<!-- ESTILO -->
-<style>
-  .map-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 85vh;
-    background: #f5f5f5;
-  }
-
-  .map-container {
-    width: 90vw;
-    height: 90vh;
-    position: relative;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 12px;
-    overflow: hidden;
-  }
-
-  svg {
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(to bottom, #f0f4f8, #d9e2ec);
-  }
-
-  #tooltip {
-    color: black;
-    position: absolute;
-    pointer-events: auto;
-    background: white;
-    padding: 8px 12px;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-    font-size: 0.85rem;
-    opacity: 0;
-    transition: opacity 0.2s ease;
-    z-index: 10;
-  }
-
-  .controls {
-    text-align: center;
-    margin-top: 18px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-
-  .controls label {
-    font-size: 1rem;
-    margin-right: 1rem;
-  }
-
-  .controls input[type="range"] {
-    vertical-align: middle;
-    accent-color: steelblue;
-  }
-
-  .play-button {
-    background-color: steelblue;
-    color: white;
-    border: none;
-    border-radius: 20px;
-    padding: 8px 20px;
-    font-size: 1rem;
-    cursor: pointer;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    transition: background-color 0.2s;
-  }
-
-  .play-button:hover {
-    background-color: #336699;
-  }
-
-  :global(a) {
-    color: steelblue;
-    text-decoration: underline;
-  }
-</style>

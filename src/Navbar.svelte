@@ -11,7 +11,7 @@
   <!-- Lado esquerdo: Logo + GitHub -->
   <div class="left-section">
     <button class="logo" on:click={() => navigateTo('home')}>Logo</button>
-    <a class="github" href="https://github.com/SEU_REPO" target="_blank">GitHub</a>
+    <a class="github" href="https://github.com/FGV-VIS-2025/final-project-mathemagraphia" target="_blank">GitHub</a>
   </div>
 
   <!-- Lado direito: Navegação -->
