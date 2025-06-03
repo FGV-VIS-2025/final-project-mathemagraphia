@@ -1,0 +1,17 @@
+{
+  "nome_completo": "August Yulevich Davidov",
+  "nome_curto": "August Yulevich Davidov",
+  "ano_nascimento": "1823",
+  "ano_morte": "1885",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Davidov/",
+  "lugar_nascimento": "Libav, Russia (now Liepaja, Latvia)",
+  "lugar_morte": "Moscow, Russia",
+  "biografia": "August Yulevich Davidov\n's father was a medical doctor. Davidov studied at the University of Moscow, enrolling in\n1841\nand graduating four years later.\nIn\n1845\nDavidov submitted a thesis\nThe theory of equilibrium of bodies immersed in a liquid\nfor his Master's degree. It is worth noting that the Russian Master's degree was of a similar standard to the current PhD in Britain or the United States. The thesis continued work on the equilibrium of floating bodies which had been started by\nEuler\n,\nPoisson\nand\nDupin\n. Grigorian write in\n[\n1\n]\nthat in this thesis:-\n[\nDavidov\n]\nwas the first to give a general analytic method for determining the position of equilibrium of a floating body, applied his method to the determination of positions of equilibrium of bodies, explained the analytic theory by geometric constructions, and investigated the stability of equilibrium of floating bodies.\nHe began teaching at Moscow University in\n1850\n, and he obtained a doctorate in\n1851\nfor another thesis on fluids, this time on\nThe theory of capillary phenomena\n. Again we should note that the level of the Russian doctorate was close to the German\nhabilitation\n. He was promoted to Professor after being awarded his doctorate and worked at Moscow university for the whole of his life.\nBefore leaving the topic of Davidov's two theses on fluids we note that the quality of these can be judged by the fact that they were both awarded the Demidov Prize by the\nSt Petersburg Academy of Sciences\n. One of Davidov's colleagues at the Moscow University was Nikolai Dmetrievich\nBrashman\n(\nwho had himself been awarded the Demidov Prize fifteen years earlier\n)\n. He had been appointed to the university in\n1834\nand was a senior figure there in the area of applied mathematics, in particular mechanics. He greatly influenced Davidov's career and his mathematical research.\nTogether Davidov and\nBrashman\nwere joint founders of the\nMoscow Mathematical Society\nin\n1866\n, the year of\nBrashman\n's death. Davidov the became the first president of the Society and held this role for nearly twenty years until his death in\n1885\n. He also did fine work for the Faculty of Physics and Mathematics at Moscow University being its head for twelve years.\nAs well as his work on the equilibrium of a floating body, Davidov also worked on\npartial differential equations\n,\nelliptic functions\nand the application of\nprobability\nto statistics. He wrote\n[\n1\n]\n:-\n... a number of excellent texts for secondary schools. Of these, the geometry and algebra textbooks enjoyed special success and were republished many times. Through the next half century the geometry text underwent thirty-nine editions and the algebra text twenty-four.",
+  "math_areas": [
+    "Algebra",
+    "Analysis",
+    "Calculus",
+    "Geometry",
+    "Statistics"
+  ]
+}

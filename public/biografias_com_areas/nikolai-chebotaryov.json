@@ -1,0 +1,15 @@
+{
+  "nome_completo": "Nikolai Grigorievich Chebotaryov",
+  "nome_curto": "Nikolai Chebotaryov",
+  "ano_nascimento": "1894",
+  "ano_morte": "1947",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Chebotaryov/",
+  "lugar_nascimento": "Kamianets-Podilskyi, Ukraine",
+  "lugar_morte": "Moscow, USSR",
+  "biografia": "Nikolai Chebotaryov\n(\nor ChebotarÃ«v\n)\nlove of mathematics started at about the age of\n15\nyears. His mother was a strong influence on his education and her lack of knowledge of mathematics seems to have been one of the main reasons that Nikolai went in that direction. Ill health disrupted his education and he spent the winter of\n1910\n-\n11\nin Italy with his mother recovering from pneumonia.\nNikolai entered the University of Kiev in\n1912\nwhere he became a student of\nGrave\n. He was awarded his degree in\n1916\n, then a master's degree in\n1918\n. At this time he earned a living giving private tuition and teaching in schools.\nIn\n1921\nhe moved to Odessa to help his parents, and the following year his father died. In this same year,\n1922\n, Nikolai was to prove the theorem for which he is best known, the density theorem, which had been conjectured by\nFrobenius\nin a paper written in\n1880\nbut only published in\n1896\n. The density theorem generalised\nDirichlet\n's theorem on\nprimes\nin an\narithmetical progression\ngiving a method used by\nArtin\nin\n1927\nin his reciprocity law, a result considered the main result of class field theory.\nBy\n1924\nNikolai had a permanent job in Moscow but he had been appointed to the post\nEgorov\nhad been dismissed from for political reasons. It was an unhappy situation and Chebotaryov resigned after a few months. He returned to Odessa and found a poorly paid secretarial post. He did manage to attend a meeting of the\nGerman Mathematical Society\nin Danzig in\n1925\nwhere he met\nEmmy Noether\n,\nHensel\nand\nHasse\n. After the meeting he met\nSchur\nin Berlin then visited GÃ¶ttingen.\nChebotaryov received his doctorate from the\nUkrainian Academy of Sciences\nwith a doctoral thesis based on his\n1922\nresult, the density theorem. He became professor at Kazan University in\n1928\nhaving been offered posts at both Kazan and Leningrad. He remained in Kazan all his life.\nChebotaryov worked on the algebra of polynomials, in particular examining the distribution of the zeros. He also studied\nGalois theory\nwriting a two volume textbook\nBasic Galois Theory\n(1934\n,\n1937)\nand being the moving force in having the first translation of\nGalois\n's works into Russian in\n1936\n. Other important work was on\nLie groups\n, and on this topic he wrote the first Russian text\nTheory of Lie Groups\n(1940)\n, He also did important work on the inverse\nGalois\nproblem and the theory of resolvants.",
+  "math_areas": [
+    "Algebra",
+    "Logic",
+    "Number Theory"
+  ]
+}
