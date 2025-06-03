@@ -18,8 +18,6 @@ KEYWORDS_MAP = {
     " groups ": "Algebra",
     " rings ": "Algebra",
     " ring ": "Algebra",
-    " fields ": "Algebra",
-    " field ": "Algebra",
     " vector space ": "Algebra",
     " matrices ": "Algebra",
     " matrix theory ": "Algebra",
@@ -69,7 +67,6 @@ KEYWORDS_MAP = {
     " continuity ": "Analysis",
     " function ": "Analysis",
     " functions ": "Analysis",
-    " limits ": "Analysis",
 
     # Number Theory
     " number theory ": "Number Theory",
