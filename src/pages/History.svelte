@@ -1,11 +1,34 @@
 <script>
-  // Se quiser deixar dinâmico:
+  import { createEventDispatcher } from 'svelte';
+  const dispatch = createEventDispatcher();
+
   const cards = [
-    { img: "exemplo1.jpg", title: "Guerra do Cálculo" },
-    { img: "exemplo2.jpg", title: "Último Teorema de Fermat" },
-    { img: "", title: "Outro conteúdo" }
+    { img: "icons/EuclidesGPT.png", title: "Euclides", page: "euclides" }
   ];
+
+  function goTo(page) {
+    dispatch("navigate", page);
+  }
 </script>
+
+<div class="page">
+  <div class="content">
+    {#each cards as { img, title, page }}
+      <div
+        class="card"
+        role="button"
+        tabindex="0"
+        on:click={() => goTo(page)}
+        on:keydown={(e) => e.key === 'Enter' && goTo(page)}
+      >
+        {#if img}
+          <img src={img} alt={title} />
+        {/if}
+        <p>{title}</p>
+      </div>
+    {/each}
+  </div>
+</div>
 
 
 <style>
@@ -27,8 +50,8 @@
   }
 
   .card {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     background-color: #e4e4e4;
     display: flex;
     flex-direction: column;
@@ -48,26 +71,12 @@
     background-color: #dcdcdc;
   }
 
-  .card img {
-    width: 80px;
-    height: 80px;
-    object-fit: cover;
-    margin-bottom: 0.5rem;
-  }
+.card img {
+  width: 100%;
+  height: auto;
+  max-height: 140px;
+  object-fit: contain;
+  padding: 0.5rem;
+}
+
 </style>
-
-
-<div class="page">
-  <div class="content">
-    {#each cards as { img, title }}
-      <div class="card">
-        {#if img}
-          <img src={img} alt={title} />
-        {/if}
-        <p>{title}</p>
-      </div>
-    {/each}
-  </div>
-
-
-</div>

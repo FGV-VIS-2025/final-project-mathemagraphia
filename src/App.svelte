@@ -6,6 +6,7 @@
   import Charts from './pages/Charts.svelte';
   import DataMap from './pages/DataGraphsVis/DataMap.svelte';
   import GrafMaths from './pages/DataGraphsVis/GrafMaths.svelte';
+  import Euclides from './pages/HistoryGraphsVis/Euclides.svelte';
   let currentPage = 'home';
 
 function goTo(page) {
@@ -19,19 +20,22 @@ function goTo(page) {
 
 <div class="content">
   {#if currentPage === 'home'}
-    <Home />
+    <Home on:navigate={(e) => goTo(e.detail)} />
   {:else if currentPage === 'people'}
     <People />
   {:else if currentPage === 'history'}
-    <History />
+    <History on:navigate={(e) => goTo(e.detail)} />
   {:else if currentPage === 'charts'}
     <Charts on:navigate={(e) => goTo(e.detail)} />
   {:else if currentPage === 'datamap'}
     <DataMap />
   {:else if currentPage === 'grafmaths'}
     <GrafMaths />
+  {:else if currentPage === 'euclides'}
+    <Euclides />
   {/if}
 </div>
+
 
 <style>
   .content {
