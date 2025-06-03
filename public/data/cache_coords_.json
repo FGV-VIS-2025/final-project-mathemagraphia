@@ -1,0 +1,5787 @@
+{
+  "Attipattu, Chingleput district, Tamil Nadu, India": null,
+  "Chicago, Illinois, USA": {
+    "lat": 41.8755616,
+    "lon": -87.6244212
+  },
+  "Manhattan, New York, USA": {
+    "lat": 40.7896239,
+    "lon": -73.9598939
+  },
+  "Sanbo, Dairout, Assiut, Egypt": null,
+  "Bessemer, Alabama, USA": {
+    "lat": 33.4017766,
+    "lon": -86.954437
+  },
+  "Norwalk, Connecticut, USA": {
+    "lat": 41.1175966,
+    "lon": -73.4078968
+  },
+  "Barcelona (now Spain)": null,
+  "Vitry-le-FranÃ§ois, Champagne, France": null,
+  "Munich, Germany": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "Paterson, New Jersey, USA": {
+    "lat": 40.9167654,
+    "lon": -74.171811
+  },
+  "Leipzig, Germany": {
+    "lat": 51.3406321,
+    "lon": 12.3747329
+  },
+  "LÃ³dz, Russian Empire (now Poland)": null,
+  "Waldenburg, Germany (now WaÅbrzych, Poland)": null,
+  "Washington, D.C., USA": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+  },
+  "Little Horton, near Bradford, Yorkshire, England": null,
+  "KolozsvÃ¡r, Hungary (now Cluj, Romania)": null,
+  "Kalinovo, Sverdlovsk oblast, USSR (now Russia)": null,
+  "Berdyansk, Russian Empire (now Ukraine)": null,
+  "Buzjan (near Jam), Khorasan region (now in Iran)": null,
+  "Paris, France": {
+    "lat": 48.8588897,
+    "lon": 2.320041
+  },
+  "Millhurst, New Jersey, USA": {
+    "lat": 40.2537219,
+    "lon": -74.3415369
+  },
+  "Piccadilly, Middlesex (now in London), England": null,
+  "Nuremberg, Germany": {
+    "lat": 49.453872,
+    "lon": 11.077298
+  },
+  "Staffelstein (near Bamberg), Upper Franconia (now Germany)": null,
+  "Orin Ekiti, Ondo State, Nigeria": null,
+  "Bath, England": {
+    "lat": 51.3813864,
+    "lon": -2.3596963
+  },
+  "Santiago de Chile, Chile": {
+    "lat": -33.4377756,
+    "lon": -70.6504502
+  },
+  "Ijebu-Ode, Ogun State, Nigeria": {
+    "lat": 6.8140077,
+    "lon": 3.9151668
+  },
+  "Hildesheim, Lower Saxony, Germany": {
+    "lat": 52.1527188,
+    "lon": 9.9518083
+  },
+  "Selzach, Solothurn canton, Switzerland": null,
+  "GrÃ¼ssow, Mecklenburg, Germany": {
+    "lat": 54.3203281,
+    "lon": 13.0552275
+  },
+  "Warsaw, Russian Empire (now Poland)": null,
+  "Winterthur, ZÃ¼rich canton, Switzerland": null,
+  "Rostock, Germany": {
+    "lat": 54.0886707,
+    "lon": 12.1400211
+  },
+  "Odessa, Ukraine": {
+    "lat": 46.4843023,
+    "lon": 30.7322878
+  },
+  "Ghent, French Empire, (now Belgium)": null,
+  "Stavelot, Belgium": {
+    "lat": 50.3942409,
+    "lon": 5.9310335
+  },
+  "Chalon-sur-SaÃ´ne, France": null,
+  "Lanzac, Lot, France": {
+    "lat": 44.8744335,
+    "lon": 1.4828127
+  },
+  "Amiens, France": {
+    "lat": 49.8941708,
+    "lon": 2.2956951
+  },
+  "LiÃ¨ge, Belgium": null,
+  "Rotterdam, The Netherlands": {
+    "lat": 51.9244424,
+    "lon": 4.47775
+  },
+  "Leuven, Spanish Netherlands (now Belgium)": null,
+  "Gouda, Netherlands": {
+    "lat": 52.0114922,
+    "lon": 4.7106094
+  },
+  "Rouen, France": {
+    "lat": 49.4404591,
+    "lon": 1.0939658
+  },
+  "Lonborg (near Tarm), Jutland, Denmark": null,
+  "Halifax, Nova Scotia, Canada": {
+    "lat": 44.648618,
+    "lon": -63.5859487
+  },
+  "Skibbereen, Co. Cork, Ireland": {
+    "lat": 51.55,
+    "lon": -9.2666753
+  },
+  "Jersey": {
+    "lat": 49.2214561,
+    "lon": -2.1358386
+  },
+  "Saginaw, Michigan, USA": {
+    "lat": 43.4200387,
+    "lon": -83.9490365
+  },
+  "Kotterbach, Zips district, Austro-Hungary (now Rudnany, Slovakia)": null,
+  "Baghdad, Iraq": {
+    "lat": 33.3061701,
+    "lon": 44.3872213
+  },
+  "Baghdad (now in Iraq)": null,
+  "Yamagata, Japan": {
+    "lat": 38.4746705,
+    "lon": 140.083237
+  },
+  "Johannes parish, Stockholm, Sweden": null,
+  "Budapest, Hungary": {
+    "lat": 47.4813896,
+    "lon": 19.1460941
+  },
+  "Harran (near Urfa), Mesopotamia (now Turkey)": null,
+  "Kath, Khwarazm (now Kara-Kalpakskaya, Uzbekistan)": null,
+  "possibly Baghdad, Iraq": null,
+  "Cordoba, Andalusia (now Spain)": null,
+  "Kashan, Iran": {
+    "lat": 33.9876533,
+    "lon": 51.4428856
+  },
+  "possibly Damascus, Syria": null,
+  "Khurasan (eastern Iran)": null,
+  "Khujand, Tajikistan": {
+    "lat": 40.2844189,
+    "lon": 69.6191669
+  },
+  "possibly Baghdad (now in Iraq)": null,
+  "Kufa, Iraq": {
+    "lat": 32.03444,
+    "lon": 44.4031125
+  },
+  "Mahan, Kerman, Persia (now Iran)": null,
+  "possibly Nasa, Khurasan,Iran": null,
+  "possibly Nayriz, Iran": null,
+  "Bastah (now Baza, Spain)": null,
+  "Tabaristan (now Mazanderan), Persia (now Iran)": null,
+  "Sijistan, Persia (now Iran)": null,
+  "CÃ³rdoba, Spain": null,
+  "SkagafjÃ¶rÃ°ur, Iceland": null,
+  "Draguignan, Var, France": {
+    "lat": 43.5374662,
+    "lon": 6.4627333
+  },
+  "London, England": {
+    "lat": 51.4893335,
+    "lon": -0.1440551
+  },
+  "Consett, County Durham, England": {
+    "lat": 54.8518781,
+    "lon": -1.8333741
+  },
+  "Sault Ste Marie, Ontario, Canada": {
+    "lat": 46.5126554,
+    "lon": -84.3330301
+  },
+  "Stocksbridge, Yorkshire, England": {
+    "lat": 53.4824835,
+    "lon": -1.5901625
+  },
+  "Hampton, Virginia, USA": {
+    "lat": 37.0264414,
+    "lon": -76.3442846
+  },
+  "Valhuon, Pas-de-Calais, France": {
+    "lat": 50.4354194,
+    "lon": 2.3754446
+  },
+  "Ulm, WÃ¼rttemberg, Germany": null,
+  "St Mihiel, France": {
+    "lat": 48.891207,
+    "lon": 5.5423046
+  },
+  "Northampton, England": {
+    "lat": 52.2343367,
+    "lon": -0.9028073
+  },
+  "Eindhoven, The Netherlands": {
+    "lat": 51.4392648,
+    "lon": 5.478633
+  },
+  "Rickensdorf, Helmstedt, Lower Saxony (now Germany)": null,
+  "Oshawa, Ontario, Canada": {
+    "lat": 43.8975558,
+    "lon": -78.8635324
+  },
+  "Greiffenberg, Prussia, Germany": null,
+  "Mexico City, Mexico": {
+    "lat": 19.3207722,
+    "lon": -99.1514678
+  },
+  "Mendoza, Argentina": {
+    "lat": -34.787093,
+    "lon": -68.4381868
+  },
+  "Asti, Piemonte (now Italy)": null,
+  "Olot, Spain": {
+    "lat": 42.1822177,
+    "lon": 2.4890211
+  },
+  "Lauingen an der Donau, Swabia (now Germany)": null,
+  "Homburg, Thurgau canton, Switzerland": null,
+  "Imperial Free City of NÃ¼rnberg (now in Germany)": null,
+  "York, Yorkshire, England": {
+    "lat": 53.9590555,
+    "lon": -1.0815361
+  },
+  "Florence, Italy": {
+    "lat": 43.7697955,
+    "lon": 11.2556404
+  },
+  "Turin, Italy": {
+    "lat": 45.0677551,
+    "lon": 7.6824892
+  },
+  "Dunedin, New Zealand": {
+    "lat": -45.8740984,
+    "lon": 170.5035755
+  },
+  "Volyn, Ryazan, Russia": {
+    "lat": 54.7767678,
+    "lon": 39.6263678
+  },
+  "Yartsevo (near Smolensk), Russia": null,
+  "Yaroslavl, Russia": {
+    "lat": 57.6263877,
+    "lon": 39.8933705
+  },
+  "Moscow, Russia": {
+    "lat": 55.625578,
+    "lon": 37.6063916
+  },
+  "Zhidovinovo, Tot'ma, Vologda, Russia": null,
+  "St Petersburg, Russia": {
+    "lat": 59.938732,
+    "lon": 30.316229
+  },
+  "Kazan, Russia": {
+    "lat": 55.7823547,
+    "lon": 49.1242266
+  },
+  "Kondrovo, Kaluzhskaya guberniya, Russia": null,
+  "Poltava, Ukraine": {
+    "lat": 49.8607809,
+    "lon": 33.7498787
+  },
+  "Moscow, USSR (now Russia)": null,
+  "Bolshoi Morets, Yelan district, Volgograd, Russia": null,
+  "Visyaga, Simbirskoy (now Ulyanovskaya), Russia": null,
+  "Korocha, now Belgorod Oblast, Russia": null,
+  "Chiampo, Vicenza, Italy": {
+    "lat": 45.5445732,
+    "lon": 11.2808956
+  },
+  "Venice, Italy": {
+    "lat": 45.4371908,
+    "lon": 12.3345898
+  },
+  "Turin, Piedmont, Italy": {
+    "lat": 45.0677551,
+    "lon": 7.6824892
+  },
+  "Brechin, Angus, Scotland": {
+    "lat": 56.7315193,
+    "lon": -2.6600193
+  },
+  "Moscow, USSR, (now Russia)": null,
+  "Amvrosiivka, Donetsk, Ukraine": {
+    "lat": 47.7952806,
+    "lon": 38.4798317
+  },
+  "Oba, Idemili South Local Government Area of Anambra State, Nigeria": null,
+  "Aberfeldy, Scotland": {
+    "lat": 56.6193213,
+    "lon": -3.86509
+  },
+  "Dalkeith, near Edinburgh, Scotland": null,
+  "Edinburgh, Scotland": {
+    "lat": 55.9533456,
+    "lon": -3.1883749
+  },
+  "Wishaw, Lanarkshire, Scotland": {
+    "lat": 55.7743458,
+    "lon": -3.9184134
+  },
+  "Smyrna (now Izmir), Turkey": null,
+  "Berlin, Germany": {
+    "lat": 52.510885,
+    "lon": 13.3989367
+  },
+  "Leningrad, USSR (now St Petersburg, Russia)": null,
+  "Blairgowrie, Scotland": {
+    "lat": 56.5903642,
+    "lon": -3.3409023
+  },
+  "North Berwick, Scotland": {
+    "lat": 56.0581178,
+    "lon": -2.7209129
+  },
+  "Leith, Edinburgh, Scotland": {
+    "lat": 55.9725499,
+    "lon": -3.1709492
+  },
+  "Salford, Lancashire, England": {
+    "lat": 53.7484822,
+    "lon": -2.4804005
+  },
+  "Kiev, Russian Empire (now Kyiv, Ukraine)": null,
+  "Darmstadt, Germany": {
+    "lat": 49.8851869,
+    "lon": 8.6736295
+  },
+  "Saratov, Russia": {
+    "lat": 51.530018,
+    "lon": 46.034683
+  },
+  "St Andrews, Scotland": {
+    "lat": 56.3403902,
+    "lon": -2.7955844
+  },
+  "Cargill, near Perth, Scotland": null,
+  "Arad, Romania": {
+    "lat": 46.1753793,
+    "lon": 21.3196342
+  },
+  "Contamines, Haute-Savoie, France": {
+    "lat": 45.8210905,
+    "lon": 6.72751
+  },
+  "Claveyson, DrÃ´me, France": null,
+  "Vesoul, Haute-SaÃ´ne, France": null,
+  "Calitri, Avellino, Kingdom of the Two Sicilies (now Italy)": null,
+  "Cuernavaca, Morelos, Mexico": {
+    "lat": 18.9331321,
+    "lon": -99.2599579
+  },
+  "KÃ¶nigsberg, East Prussia (now Kaliningrad, Russia)": null,
+  "Northallerton, Yorkshire, England": {
+    "lat": 54.3404812,
+    "lon": -1.4344936
+  },
+  "New York City, New York, USA": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "Coseley, Staffordshire, England": null,
+  "St Louis, Missouri, USA": {
+    "lat": 38.6280278,
+    "lon": -90.1910154
+  },
+  "Kensington, London, England": {
+    "lat": 51.4989948,
+    "lon": -0.1991229
+  },
+  "Rawitsch, Germany (now Rawicz, Poland)": null,
+  "Ramsgate, Isle of Thanet, Kent, England": null,
+  "Ohlau, Lower Silesia (now OÅawa, Poland)": null,
+  "KrakÃ³w, Austro-Hungarian Empire (now Poland)": null,
+  "Pressburg (now Bratislava), Slovakia": null,
+  "Widnes, Lancashire, England": null,
+  "Milan, Lombardo-Veneto (now Italy)": null,
+  "Riga, Latvia": {
+    "lat": 56.9493977,
+    "lon": 24.1051846
+  },
+  "Damietta, Egypt": {
+    "lat": 31.4167427,
+    "lon": 31.8213657
+  },
+  "Samarkand, Timurid Empire, now Uzbekistan": null,
+  "Cambridge, Massachusetts, USA": {
+    "lat": 42.3656347,
+    "lon": -71.1040018
+  },
+  "Glasgow, Scotland": {
+    "lat": 55.861155,
+    "lon": -4.2501687
+  },
+  "Dedham, Essex, England": {
+    "lat": 51.9582605,
+    "lon": 0.9945379
+  },
+  "Richmond, Virginia, USA": {
+    "lat": 37.5385087,
+    "lon": -77.43428
+  },
+  "Cork, Ireland": {
+    "lat": 51.8985136,
+    "lon": -8.4726423
+  },
+  "Dolomieu (near ChambÃ©ry), Savoie, RhÃ´ne-Alpes, France": null,
+  "Newington, Edinburgh, Scotland": {
+    "lat": 55.9328287,
+    "lon": -3.1732062
+  },
+  "New York City, USA": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "Runcorn, Cheshire, England": {
+    "lat": 53.3425642,
+    "lon": -2.7080627
+  },
+  "Rockford, Illinois, USA": {
+    "lat": 42.2713945,
+    "lon": -89.093966
+  },
+  "Basel, Switzerland": {
+    "lat": 47.5581077,
+    "lon": 7.5878261
+  },
+  "Cambridge, England": {
+    "lat": 52.2055314,
+    "lon": 0.1186637
+  },
+  "Boston, Massachusetts, USA": {
+    "lat": 42.3554334,
+    "lon": -71.060511
+  },
+  "Saint Affrique, Aveyron, Midi-PyrÃ©nÃ©es, France": null,
+  "Lagrange-aux-Bois, France": {
+    "lat": 48.6152289,
+    "lon": 6.630646
+  },
+  "Quimper, FinistÃ¨re, France": null,
+  "Metz, France": {
+    "lat": 49.1196964,
+    "lon": 6.1763552
+  },
+  "Wellingborough, Northampton, England": {
+    "lat": 52.2436826,
+    "lon": -0.8723092
+  },
+  "AnÄank', Å irak province, Armenia": null,
+  "Lisbon, Portugal": {
+    "lat": 38.7077507,
+    "lon": -9.1365919
+  },
+  "Kiev, Ukranian SSR (now Kyiv, Ukraine)": null,
+  "Nikopol, Dnipropetrovsk region, Ukraine": null,
+  "Misheronsky (near Moscow), Russia": null,
+  "Potiivka, Radomyshl, Zhytomyr oblast, Ukraine": null,
+  "Clazomenae (30 km west of Izmir), Lydia (now Turkey)": null,
+  "Miletus near SÃ¶ke, Turkey": null,
+  "Uppsala, Sweden": {
+    "lat": 59.8586126,
+    "lon": 17.6387436
+  },
+  "Ãbo, Sweden (now Turku, Finland)": null,
+  "HammarlÃ¶v, Skane County, MalmÃ¶hus, Sweden": null,
+  "Gyula, Hungary": {
+    "lat": 46.6438656,
+    "lon": 21.2747575
+  },
+  "BesanÃ§on, France": null,
+  "Bourbon-l'Archambault, Allier, France": {
+    "lat": 46.5857669,
+    "lon": 3.05804
+  },
+  "Lyon, France": {
+    "lat": 45.7578137,
+    "lon": 4.8320114
+  },
+  "Saint Martin de Curton, Lot-et-Garonne, Aquitaine, France": {
+    "lat": 44.3304649,
+    "lon": 0.0097616
+  },
+  "Szeged, Hungary": {
+    "lat": 46.2546312,
+    "lon": 20.1486016
+  },
+  "HÃ³dmezÃ¶vÃ¡sÃ¡rhely, Hungary": null,
+  "Montguyon, Charentes Maritime, France": {
+    "lat": 45.2158078,
+    "lon": -0.18603
+  },
+  "Antwerp, Dutch Republic (now Belgium)": null,
+  "Duisburg, Germany": {
+    "lat": 51.434999,
+    "lon": 6.759562
+  },
+  "Ryazan, Russia": {
+    "lat": 54.6295687,
+    "lon": 39.7425039
+  },
+  "Mtsensk, Oryol Gubernia, Russia": null,
+  "Chkhenisi, Russia (now Samtredia, Georgia)": null,
+  "Gzhatska, Smolensk, Russia": null,
+  "Fresno, California, USA": {
+    "lat": 36.7394421,
+    "lon": -119.78483
+  },
+  "Lochgelly, Fife, Scotland": {
+    "lat": 56.1348998,
+    "lon": -3.3134751
+  },
+  "Limerick, Ireland": {
+    "lat": 52.661252,
+    "lon": -8.6301239
+  },
+  "Hawick, Roxburghshire, Scotland": null,
+  "Lanton, Jedburgh, Roxburghshire, Scotland": null,
+  "Tambov, Tambov province, Russia": null,
+  "Lemberg, Galicia, Austrian Empire (later LwÃ³w, Poland, now Lviv, Ukraine)": null,
+  "GiÅ¼ycko, Poland": null,
+  "Przeworsk, Galicia, Austrian Empire (now Poland)": null,
+  "Renmark, South Australia, Australia": {
+    "lat": -34.1743516,
+    "lon": 140.7468863
+  },
+  "Zaragoza, Spain": {
+    "lat": 41.6521342,
+    "lon": -0.8809428
+  },
+  "Piacenza, Habsburg Empire (now Italy)": null,
+  "Calliope (now Hawarden), Iowa, USA": null,
+  "Baltimore, Maryland, USA": {
+    "lat": 39.2908816,
+    "lon": -76.610759
+  },
+  "Woonsocket, Rhode Island, USA": {
+    "lat": 42.0028761,
+    "lon": -71.5147839
+  },
+  "Colworth, Sharnbrook, Bedfordshire, England": null,
+  "Katowice, Poland": {
+    "lat": 50.2137321,
+    "lon": 19.0058878
+  },
+  "Udine, Austrian Empire (now Italy)": null,
+  "Astalonga, San Giuseppe d'Ottajano, Kingdom of Naples (now San Giuseppe Vesuviano,  Italy)": null,
+  "Hanford, California, USA": {
+    "lat": 36.3277959,
+    "lon": -119.6461565
+  },
+  "Woodstock, Ontario, Canada": {
+    "lat": 43.1301111,
+    "lon": -80.7562977
+  },
+  "Dover, Delaware, USA": {
+    "lat": 39.158168,
+    "lon": -75.5243682
+  },
+  "Strabane, County Tyrone, Ireland": {
+    "lat": 54.826115,
+    "lon": -7.4627993
+  },
+  "(possibly) Tralles (near Aydin in southwest Turkey)": null,
+  "Birmingham, England": {
+    "lat": 52.4796992,
+    "lon": -1.9026911
+  },
+  "(possibly) Athens, Greece": null,
+  "Clotet-de-Cessous, France": null,
+  "Luxembourg City, Luxembourg": {
+    "lat": 49.5999681,
+    "lon": 6.1342493
+  },
+  "RosiÃ¨res-aux-Salines, France": null,
+  "BÃ¢rlad, Vaslui County, Romania": null,
+  "Zhytomyr, Zhytomyrs'ka oblast, Ukraine": null,
+  "Borisoglebsk, Russia": {
+    "lat": 51.368015,
+    "lon": 42.075169
+  },
+  "TarnÃ³w, Galicia, Austrian Empire (now Poland)": null,
+  "Mezzana Corti, now Cava Manara, Savoy,": null,
+  "Cerea (now Italy)": null,
+  "TomaszÃ³w Mazowiecki, Poland": null,
+  "Perga, Pamphylia, Greek Ionia (now Murtina, Antalya, Turkey)": null,
+  "Armadale, West Lothian, Scotland": {
+    "lat": 55.898767,
+    "lon": -3.7001955
+  },
+  "Sheffield, Yorkshire, England": {
+    "lat": 53.3806626,
+    "lon": -1.4702278
+  },
+  "Ottumwa, Iowa, USA": {
+    "lat": 41.0195659,
+    "lon": -92.4116886
+  },
+  "Tsipa, Georgia": {
+    "lat": 42.0463041,
+    "lon": 42.9494167
+  },
+  "Syracuse, Sicily (now Italy)": null,
+  "Tarentum, Magna Graecia (now Taranto, Italy)": null,
+  "Amsterdam, Netherlands": {
+    "lat": 52.3730796,
+    "lon": 4.8924534
+  },
+  "Geneva, Switzerland": {
+    "lat": 46.2017559,
+    "lon": 6.1466014
+  },
+  "Havana, Cuba": {
+    "lat": 23.135305,
+    "lon": -82.3589631
+  },
+  "Samos, Greece": {
+    "lat": 37.7246162,
+    "lon": 26.8192919
+  },
+  "Stagirus, Macedonia, Greece": null,
+  "La Chaux-de-Fonds, Switzerland": {
+    "lat": 47.1031321,
+    "lon": 6.8325778
+  },
+  "Auch, Gers, France": {
+    "lat": 43.6463558,
+    "lon": 0.5850507
+  },
+  "Gothenburg, Sweden": {
+    "lat": 57.7072326,
+    "lon": 11.9670171
+  },
+  "Baerum, Norway": {
+    "lat": 59.9289639,
+    "lon": 10.4997108
+  },
+  "Charlottenburg, Berlin, Germany": {
+    "lat": 52.5050484,
+    "lon": 13.3045162
+  },
+  "KÃ¶nigsberg, Prussia (now Kaliningrad, Russia)": null,
+  "TauragÄ, Lithuania": null,
+  "Steuben County, New York, USA": {
+    "lat": 42.2359045,
+    "lon": -77.3750862
+  },
+  "Bristol, England": {
+    "lat": 51.4538022,
+    "lon": -2.5972985
+  },
+  "Richmond, Surrey, England": null,
+  "Williamstown, Pennsylvania, USA": {
+    "lat": 40.5800868,
+    "lon": -76.617742
+  },
+  "Wexford, Ireland": {
+    "lat": 52.3367671,
+    "lon": -6.4601397
+  },
+  "Carlow, Ireland": {
+    "lat": 52.8408344,
+    "lon": -6.9261131
+  },
+  "Kendal, Westmorland, England": {
+    "lat": 54.3289795,
+    "lon": -2.747183
+  },
+  "Pickering, Yorkshire, England": {
+    "lat": 54.2452377,
+    "lon": -0.7793593
+  },
+  "Sydney, New South Wales, Australia": {
+    "lat": -33.8698439,
+    "lon": 151.2082848
+  },
+  "Landsberg an der Warthe, Prussia (now GorzÃ³w-Wielkopolski, Poland)": null,
+  "Rio de Janeiro, Brazil": {
+    "lat": -22.9110137,
+    "lon": -43.2093727
+  },
+  "Kusumapura (now Patna), India": null,
+  "Khorol, Ukraine": {
+    "lat": 49.7831496,
+    "lon": 33.2719474
+  },
+  "Copenhagen, Denmark": {
+    "lat": 55.6867243,
+    "lon": 12.5700724
+  },
+  "Cerisiers, France": {
+    "lat": 48.1342328,
+    "lon": 3.4832297
+  },
+  "Nemours, France": {
+    "lat": 48.268026,
+    "lon": 2.6953079
+  },
+  "Lons-le-Saunier, France": {
+    "lat": 46.6727037,
+    "lon": 5.5589973
+  },
+  "Clermont (now Clermont-Ferrand), Auvergne, France": null,
+  "Langesund, Norway": {
+    "lat": 59.000697,
+    "lon": 9.7484437
+  },
+  "Opava, Austrian Silesia (now Czech Republic)": null,
+  "Eichwerder, (near Wriezen) Prussia (now Germany)": null,
+  "Neu-Roddahn, near Neustadt an der Dosse, Prussia (now Germany)": null,
+  "Schulpforta, Saxony (now Germany)": null,
+  "Libav, Russia (now Liepaja, Latvia)": null,
+  "Gray, Haute-SaÃ´ne, Franche-ComtÃ©, France": null,
+  "Broglie, France": {
+    "lat": 49.0087429,
+    "lon": 0.5280377
+  },
+  "Ljubljana, Carniola (now Slovenia)": null,
+  "Madura, Madras Presidency, India (now Madurai, Tamil Nadu, India)": null,
+  "Weston-super-Mare, England": {
+    "lat": 51.3471927,
+    "lon": -2.9778916
+  },
+  "PloieÈti, Prahova County, Romania": null,
+  "Majske Poljane near Glina, Austria-Hungarian Empire (now Croatia)": null,
+  "Pitane, Aeolis, Asia Minor (now Turkey)": null,
+  "Bourg La Reine (near Paris), France": null,
+  "Haifa, Israel": {
+    "lat": 32.8191218,
+    "lon": 34.9983856
+  },
+  "Kharmaithen (near Bukhara), Central Asia (now Uzbekistan)": null,
+  "Dorpat, Russian Empire (now Tartu, Estonia)": null,
+  "TÃ¶nsberg, Norway": null,
+  "Kristiania (now Oslo), Norway": null,
+  "Zagreb, Austria-Hungarian Empire (now Croatia)": null,
+  "Azamgarh, India": {
+    "lat": 26.023639,
+    "lon": 83.0293105
+  },
+  "Baalbek, now in Lebanon": null,
+  "Cambuslang, Lanarkshire, Scotland": {
+    "lat": 55.8191936,
+    "lon": -4.1685904
+  },
+  "Utrecht, The Netherlands": {
+    "lat": 52.0907006,
+    "lon": 5.1215634
+  },
+  "Baghdad, (now in Iraq)": null,
+  "Woolwich, London, England": {
+    "lat": 51.4919328,
+    "lon": 0.0703949
+  },
+  "New York, New York, USA": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "GrÃ¼nberg, Bohemia (now Zielona GÃ³ra, Poland)": null,
+  "New Ross, County Wexford, Ireland": {
+    "lat": 52.3955671,
+    "lon": -6.9446066
+  },
+  "Streatham Common, London, England": {
+    "lat": 51.4216468,
+    "lon": -0.1250177
+  },
+  "Chester, England": {
+    "lat": 53.1908873,
+    "lon": -2.8908955
+  },
+  "Navasota, Texas, USA": {
+    "lat": 30.3885033,
+    "lon": -96.0880028
+  },
+  "Brescia (now Italy)": null,
+  "Felsberg, Germany": {
+    "lat": 51.1502197,
+    "lon": 9.451222
+  },
+  "Shavli, Kovno (now Kaunas, Lithuania)": null,
+  "Amanda, Fairfield County, Ohio, USA": {
+    "lat": 39.649508,
+    "lon": -82.7443367
+  },
+  "Boston, Massachusetts, British colony": null,
+  "Romford, London, England": {
+    "lat": 51.5747271,
+    "lon": 0.1826107
+  },
+  "Beverly, Massachusetts, USA": {
+    "lat": 42.5489744,
+    "lon": -70.8781883
+  },
+  "Salem, Massachusetts, USA": {
+    "lat": 42.5195292,
+    "lon": -70.8967226
+  },
+  "Berne, Switzerland": {
+    "lat": 46.9484742,
+    "lon": 7.4521749
+  },
+  "Marcq-en-Baroeul, Hauts-de-France, France": {
+    "lat": 50.6767018,
+    "lon": 3.1043032
+  },
+  "Warsaw, Poland": {
+    "lat": 52.2337172,
+    "lon": 21.0714322
+  },
+  "Aalborg, Denmark": {
+    "lat": 57.0462626,
+    "lon": 9.9215263
+  },
+  "Vila ViÃ§osa, Portugal": null,
+  "Les Vans, ArdÃ¨che, France": null,
+  "Prague, Bohemia, Austrian Habsburg domain (now Czech Republic)": null,
+  "Wandsworth, London, England": {
+    "lat": 51.4570271,
+    "lon": -0.1932607
+  },
+  "Le Mans, France": {
+    "lat": 48.0073849,
+    "lon": 0.1967849
+  },
+  "Breselenz, Hanover (now Germany)": null,
+  "Vang, Valdres, Oppland, Norway": null,
+  "Ravenscroft, Trelleck, Monmouthshire, Wales": null,
+  "Boxville, Union County, Kentucky,Â USA": null,
+  "Canonbury, London, England": {
+    "lat": 51.5435136,
+    "lon": -0.1004038
+  },
+  "Madras, (now Chennai) India": null,
+  "(possibly) Saurastra (modern Gujarat state), India": null,
+  "Vijayapura, India": {
+    "lat": 16.814415,
+    "lon": 75.8933856
+  },
+  "Kanungoyapara village, Chittagong (now in Bangladesh)": null,
+  "Cincinnati, Ohio, USA": {
+    "lat": 39.1014537,
+    "lon": -84.5124602
+  },
+  "Ipswich, England": {
+    "lat": 52.0579324,
+    "lon": 1.1528095
+  },
+  "Gibraltar": {
+    "lat": 36.1285933,
+    "lon": -5.3474761
+  },
+  "Kochani, Serbia (now North Macedonia)": null,
+  "Tulsa, Oklahoma, USA": {
+    "lat": 36.1563122,
+    "lon": -95.9927516
+  },
+  "in or near Rome, Byzantine Empire (now Italy)": null,
+  "Milan, Duchy of Milan, Habsburg Empire (now Italy)": null,
+  "Polotsk, Belarus": {
+    "lat": 55.4854656,
+    "lon": 28.7682339
+  },
+  "Briceva, Northern Bessarabia (now Moldova)": null,
+  "Simbirsk (now Ulyanovskaya), Russia": null,
+  "Lgov, Kursk gubernia, Russia": null,
+  "Odessa, Russia (now Ukraine)": null,
+  "(possibly) Mathura, India": null,
+  "(possibly) Ujjain, India": null,
+  "Osijek, Yugoslavia (now Croatia)": null,
+  "Horwich, Lancashire, England": {
+    "lat": 53.6010572,
+    "lon": -2.556926
+  },
+  "Accrington, Lancashire, England": {
+    "lat": 53.7541156,
+    "lon": -2.3655434
+  },
+  "Chingford, Essex, England": {
+    "lat": 51.6369347,
+    "lon": 0.0189909
+  },
+  "IciÅ«nai, near VaÅ¡kai, Lithuania": null,
+  "Edmonton, Middlesex, England": null,
+  "Wallasey, Cheshire, England": null,
+  "Innsbruck, Austria": {
+    "lat": 47.2654296,
+    "lon": 11.3927685
+  },
+  "Aberdeen, Scotland": {
+    "lat": 57.1482429,
+    "lon": -2.0928095
+  },
+  "Tarentum, Heraclea (now Taranto, Italy)": null,
+  "Pingyang County, Zhejiang Province China": null,
+  "Triplicane, Madras,  (now Chennai) India": null,
+  "Valay, Haute-SÃ¢one, France": null,
+  "Lund, Sweden": {
+    "lat": 55.7029296,
+    "lon": 13.1929449
+  },
+  "Thury, near Clermont, Oise, France": null,
+  "Mococa, SÃ£o Paulo, Brazil": null,
+  "Salonika, Ottoman Empire (now Thessaloniki, Greece)": null,
+  "Alexandria, Egypt": {
+    "lat": 31.1991806,
+    "lon": 29.8951716
+  },
+  "Cyzicus, Asia Minor (now Turkey)": null,
+  "Agrigento, Sicily, Italy": {
+    "lat": 37.3122991,
+    "lon": 13.57465
+  },
+  "Hoovinna Hadagali, Karnataka State, India": null,
+  "La Croix-Rousse, Lyon, France": {
+    "lat": 45.7766432,
+    "lon": 4.8287408
+  },
+  "Penicuik, Midlothian, Scotland": {
+    "lat": 55.827236,
+    "lon": -3.2218145
+  },
+  "Christiania (now Oslo), Norway": null,
+  "Hellertown, Pennsylvania, USA": {
+    "lat": 40.5794426,
+    "lon": -75.3405529
+  },
+  "Brunswick, Duchy of Brunswick (now Germany)": null,
+  "Dresden, Germany": {
+    "lat": 51.0493286,
+    "lon": 13.7381437
+  },
+  "Potsdam, Prussia (now Germany)": null,
+  "Laucha (Unstrut), Germany": {
+    "lat": 51.2219966,
+    "lon": 11.6789059
+  },
+  "KÃ¶nigsberg, Germany (now Kaliningrad, Russia)": null,
+  "Bremen, Germany": {
+    "lat": 53.0758196,
+    "lon": 8.8071646
+  },
+  "Bittelschiess, near Messkirch, Germany": null,
+  "Skien, Norway": {
+    "lat": 59.2662883,
+    "lon": 9.5311354
+  },
+  "Bergamo, Italy": {
+    "lat": 45.7566557,
+    "lon": 9.7542192
+  },
+  "Teulada, Sardinia, Italy": {
+    "lat": 38.96743,
+    "lon": 8.772242
+  },
+  "Ventimiglia, Italy": {
+    "lat": 43.7917623,
+    "lon": 7.6033131
+  },
+  "Naples, Italy": {
+    "lat": 40.8358846,
+    "lon": 14.2487679
+  },
+  "Recife, Pernambuco, Brazil": {
+    "lat": -8.0584933,
+    "lon": -34.8848193
+  },
+  "GuanacevÃ­, Durango, Mexico": null,
+  "Forest Grove, Ottawa County, Michigan, USA": {
+    "lat": 42.7966937,
+    "lon": -85.8617002
+  },
+  "Hannover, Hanover (now Germany)": null,
+  "The Bronx, New York City, USA": {
+    "lat": 40.8466508,
+    "lon": -73.8785937
+  },
+  "Waterbeck, Dumfriesshire, Scotland": null,
+  "Vestby (near DrÃ¶bak), Norway": null,
+  "West Calder, West Lothian, Scotland": {
+    "lat": 55.8537711,
+    "lon": -3.566816
+  },
+  "Toronto, Canada": {
+    "lat": 43.6534817,
+    "lon": -79.3839347
+  },
+  "Vilnius, Poland (now Lithuania)": null,
+  "JasÅo, Galicia, Austrian Empire (now Poland)": null,
+  "Wendover, England": {
+    "lat": 51.7676884,
+    "lon": -0.7443215
+  },
+  "GÃ¶ttingen, Germany": null,
+  "Santo Stefano di Magra, La Spezia (now Italy)": null,
+  "Arezzo, Italy": {
+    "lat": 43.5171442,
+    "lon": 11.7639282
+  },
+  "Berhampur, Orissa, (now Brahmapur, Odisha) India": null,
+  "CrÃ©cy-en-Brie (near Paris), France": null,
+  "AngoulÃªme, France": null,
+  "New Orleans, Louisiana, USA": {
+    "lat": 29.9759983,
+    "lon": -90.0782127
+  },
+  "Tartaras (near Rive de Gier), RhÃ´ne-et-Loire, France": null,
+  "Wing, Rutland, England": {
+    "lat": 52.6180039,
+    "lon": -0.6847683
+  },
+  "St Hippolyte, Doubs, Franche-ComtÃ©, France": null,
+  "Lintrathen, Angus, Scotland": {
+    "lat": 56.6772434,
+    "lon": -3.1717281
+  },
+  "Kingston, Jamaica": {
+    "lat": 17.9712148,
+    "lon": -76.7928128
+  },
+  "Dudley, near Birmingham, England": null,
+  "Soyecourt, near Amiens, Picardy, France": null,
+  "Louvain, Belgium": {
+    "lat": 50.879202,
+    "lon": 4.7011675
+  },
+  "Varzy, France": {
+    "lat": 47.3589895,
+    "lon": 3.3864431
+  },
+  "StraÃburg, Germany (now Strasbourg, France)": null,
+  "Lusigny-sur-Barse, France": {
+    "lat": 48.2550945,
+    "lon": 4.2686395
+  },
+  "Silver Spring, Maryland, USA": {
+    "lat": 38.9997621,
+    "lon": -77.0240371
+  },
+  "Newnham Grange, Cambridge, England": {
+    "lat": 52.200907,
+    "lon": 0.1140995
+  },
+  "Dublin, Ireland": {
+    "lat": 53.3493795,
+    "lon": -6.2605593
+  },
+  "Dieuze, Lorraine, France": {
+    "lat": 48.8104847,
+    "lon": 6.7179948
+  },
+  "Cuddalore, Tamil Nadu, India": {
+    "lat": 11.520207,
+    "lon": 79.3396356
+  },
+  "Newcastle-upon-Tyne, England": {
+    "lat": 54.9738474,
+    "lon": -1.6131572
+  },
+  "Tullamore, County Offaly, Ireland": {
+    "lat": 53.2743768,
+    "lon": -7.4927486
+  },
+  "SÃ¨vres, France": null,
+  "Lany, Bohemia (now Czech Republic)": null,
+  "Daresbury, England": {
+    "lat": 53.3401912,
+    "lon": -2.6329929
+  },
+  "Portmore, Peeblesshire, Scotland": null,
+  "Southwark, London, England": {
+    "lat": 51.5061349,
+    "lon": -0.1011379
+  },
+  "Peterhead, Scotland": {
+    "lat": 57.5052909,
+    "lon": -1.7813194
+  },
+  "Soquel, Santa Cruz, California, USA": {
+    "lat": 36.992568,
+    "lon": -121.9428597
+  },
+  "Obernai, Alsace-Moselle, Germany (now France)": null,
+  "Brissac, Maine-et-Loire, France": {
+    "lat": 47.3410667,
+    "lon": -0.4425197
+  },
+  "Kippen, Stirlingshire, Scotland": null,
+  "Elkhart, Indiana, USA": {
+    "lat": 41.6012796,
+    "lon": -85.8590603
+  },
+  "Swinton, Berwickshire, Scotland": {
+    "lat": 55.7198452,
+    "lon": -2.26405
+  },
+  "Chippendale, Sydney, Australia": {
+    "lat": -33.8863291,
+    "lon": 151.1998211
+  },
+  "Marylebone, London, England": {
+    "lat": 51.5232789,
+    "lon": -0.155596
+  },
+  "Lincoln, England": {
+    "lat": 53.2293545,
+    "lon": -0.5404819
+  },
+  "Juda, Wisconsin, USA": {
+    "lat": 42.590225,
+    "lon": -89.5087235
+  },
+  "Fuzhou, Fujian province, China": {
+    "lat": 26.0774954,
+    "lon": 119.2918215
+  },
+  "Toowoomba, Queensland, Australia": {
+    "lat": -27.5610193,
+    "lon": 151.953351
+  },
+  "Madras,  (now Chennai) India": null,
+  "Zaria, Nigeria": {
+    "lat": 11.0248119,
+    "lon": 7.6518533
+  },
+  "Chopyeong-myeon, Jincheon-gun, South Korea": {
+    "lat": 36.8423027,
+    "lon": 127.5371066
+  },
+  "Yokohama, Japan": {
+    "lat": 35.4503381,
+    "lon": 139.6343802
+  },
+  "The Hague, Netherlands": {
+    "lat": 52.0749456,
+    "lon": 4.2696802
+  },
+  "ZÃ¼rich, Switzerland": null,
+  "Salzburg, Austria": {
+    "lat": 47.7981346,
+    "lon": 13.0464806
+  },
+  "KÃ¶nigsberg, Brandenburg-Prussia (now Kaliningrad, Russia)": null,
+  "Stuttgart, Germany": {
+    "lat": 48.7784485,
+    "lon": 9.1800132
+  },
+  "Randers, Denmark": {
+    "lat": 56.4617545,
+    "lon": 10.0371476
+  },
+  "Strasbourg, France": {
+    "lat": 48.584614,
+    "lon": 7.7507127
+  },
+  "Windsor, Connecticut, USA": {
+    "lat": 41.8525984,
+    "lon": -72.6437022
+  },
+  "Jauer, Silesia (now Jawor, Poland)": null,
+  "Vienenburg (near Hildesheim), Germany": null,
+  "Markt Wald, near Mindelheim in Swabia (now in Germany)": null,
+  "Bamberg (now in Germany)": null,
+  "East Knoyle, Wiltshire, England": {
+    "lat": 51.0790674,
+    "lon": -2.1740851
+  },
+  "Soli, Cilicia, Asia Minor (now Soloi, Turkey)": null,
+  "Shefong, Jiangsi, China": null,
+  "Ogwashi-Ukwu, Delta State, Nigeria": {
+    "lat": 6.1817718,
+    "lon": 6.532877
+  },
+  "Saint-Leu-la-ForÃªt, Ãle-de-France, France": null,
+  "Hills Grove,  (now Tennessee Township) Illinois, USA": null,
+  "Gaffney, South Carolina, USA": {
+    "lat": 35.0717945,
+    "lon": -81.6498195
+  },
+  "Stoneham, Massachusetts, USA": {
+    "lat": 42.4802635,
+    "lon": -71.0993581
+  },
+  "Johannesburg, Transvaal, South Africa": null,
+  "ChambÃ©ry, France": {
+    "lat": -20.9769029,
+    "lon": 55.3173555
+  },
+  "Gaylord, Michigan,  USA": {
+    "lat": 45.027513,
+    "lon": -84.674752
+  },
+  "Bourg-en-Bresse, France": {
+    "lat": 46.2051192,
+    "lon": 5.2250324
+  },
+  "MÃ¢con, France": {
+    "lat": 45.1050804,
+    "lon": 4.9147112
+  },
+  "Dijon, France": {
+    "lat": 47.3215806,
+    "lon": 5.0414701
+  },
+  "Fulbourn, near Cambridge, England": null,
+  "possibly Lysimachia, Hellespont, Greece (now Turkey)": null,
+  "Los Angeles, California, USA": {
+    "lat": 34.0536909,
+    "lon": -118.242766
+  },
+  "Rochester, New York, USA": {
+    "lat": 43.157285,
+    "lon": -77.615214
+  },
+  "Epping, Essex, England": {
+    "lat": 51.6982689,
+    "lon": 0.1102918
+  },
+  "St Albans, England": {
+    "lat": 51.753051,
+    "lon": -0.3379675
+  },
+  "Kilmodan (12 km N of Tighnabruaich), Cowal, Argyllshire, Scotland": null,
+  "Buenos Aires, Argentina": {
+    "lat": -34.6083696,
+    "lon": -58.4440583
+  },
+  "SzÃ©kesfehÃ©rvÃ¡r, Hungary": null,
+  "Motta di Livenza, near Treviso, Italy": null,
+  "Saluzzo, Italy": {
+    "lat": 44.6446052,
+    "lon": 7.4926009
+  },
+  "Cardiff, Wales": {
+    "lat": 51.4816546,
+    "lon": -3.1791934
+  },
+  "Sassari, Sardinia, Italy": {
+    "lat": 40.7234746,
+    "lon": 8.5612674
+  },
+  "Stratford on Avon, Warwickshire, England": {
+    "lat": 52.1927803,
+    "lon": -1.70634
+  },
+  "Berkeley, California, USA": {
+    "lat": 37.8708393,
+    "lon": -122.272863
+  },
+  "Hackforth, Yorkshire, England": {
+    "lat": 54.3343499,
+    "lon": -1.6254387
+  },
+  "Oneida, New York, USA": {
+    "lat": 43.2144051,
+    "lon": -75.4039155
+  },
+  "PiÅczÃ³w, Poland": null,
+  "Kosben, Goa, now India": null,
+  "Dahanu, India": {
+    "lat": 19.9887244,
+    "lon": 72.733848
+  },
+  "Boston, Massachusetts, U.S.A.": null,
+  "Senya Beraku, British Gold Coast (now Ghana)": null,
+  "Groningen, Netherlands": {
+    "lat": 53.2190652,
+    "lon": 6.5680077
+  },
+  "Sosa (near Eibenstock), Saxony (now Germany)": null,
+  "Rugby, England": {
+    "lat": 52.3726682,
+    "lon": -1.2620038
+  },
+  "Orange, New Jersey, USA": {
+    "lat": 40.7709499,
+    "lon": -74.2264601
+  },
+  "Sheridan, Wyoming, USA": {
+    "lat": 44.7947537,
+    "lon": -106.8222688
+  },
+  "Stirling, Scotland": {
+    "lat": 56.1181242,
+    "lon": -3.9360012
+  },
+  "KrakÃ³w, Galicia, Austrian Empire (now Poland)": null,
+  "Omagh, County Tyrone, Ireland": {
+    "lat": 54.5992486,
+    "lon": -7.3029907
+  },
+  "Centralia, Illinois, USA": {
+    "lat": 38.5250491,
+    "lon": -89.1334037
+  },
+  "Kaunas, Lithuania": {
+    "lat": 54.8982139,
+    "lon": 23.9044817
+  },
+  "Leeds, England": {
+    "lat": 53.7974185,
+    "lon": -1.5437941
+  },
+  "Padua, Italy": {
+    "lat": 45.4077172,
+    "lon": 11.8734455
+  },
+  "Oxford, England": {
+    "lat": 51.7520131,
+    "lon": -1.2578499
+  },
+  "Llandudno, Wales": {
+    "lat": 53.322475,
+    "lon": -3.8243251
+  },
+  "Dunfermline, Fife, Scotland": {
+    "lat": 56.0713724,
+    "lon": -3.4616183
+  },
+  "VÃ¤stra Ãmtervik, VÃ¤rmland, Sweden": null,
+  "Cortland, New York, USA": {
+    "lat": 42.5842136,
+    "lon": -76.0704906
+  },
+  "Hinsdale, Illinois, USA": {
+    "lat": 41.8024604,
+    "lon": -87.9299841
+  },
+  "Blackburn, Lancashire, England": {
+    "lat": 53.749326,
+    "lon": -2.4840566
+  },
+  "Methil, Fife, Scotland": {
+    "lat": 56.1848771,
+    "lon": -3.0132612
+  },
+  "Boston, Massachussets, USA": null,
+  "Raleigh, North Carolina, USA": {
+    "lat": 35.7803977,
+    "lon": -78.6390989
+  },
+  "Wehlau, near KÃ¶nigsberg, Prussia (now Kaliningrad, Russia)": null,
+  "Scarfskerry, Caithness, Scotland": {
+    "lat": 58.6488025,
+    "lon": -3.2694539
+  },
+  "Ripon, Yorkshire, England": {
+    "lat": 54.1362169,
+    "lon": -1.5238006
+  },
+  "Worth, Sussex, England": {
+    "lat": 51.1117058,
+    "lon": -0.1417616
+  },
+  "Dennistoun, Glasgow, Scotland": {
+    "lat": 55.8617362,
+    "lon": -4.2190097
+  },
+  "Abergavenny, Monmouthshire, Wales": {
+    "lat": 51.8213212,
+    "lon": -3.0147935
+  },
+  "Paper Mill Run, near Germantown, Pennsylvania, USA": null,
+  "Ferguson, St Louis, Missouri, USA": {
+    "lat": 38.7398692,
+    "lon": -90.3310647
+  },
+  "Auckland, New Zealand": {
+    "lat": -36.852095,
+    "lon": 174.7631803
+  },
+  "Swinton School House, Swinton, Berwickshire, Scotland": null,
+  "Harrisburg, Pennsylvania, USA": {
+    "lat": 40.2663107,
+    "lon": -76.8861122
+  },
+  "Weaver, Minnesota, USA": {
+    "lat": 44.2149646,
+    "lon": -91.9287717
+  },
+  "Lodi (now Italy)": null,
+  "Athens, Greece": {
+    "lat": 37.9755648,
+    "lon": 23.7348324
+  },
+  "Lidoriki, Greece": {
+    "lat": 38.5276063,
+    "lon": 22.2030735
+  },
+  "Euboia Island, Greece": {
+    "lat": 38.4941723,
+    "lon": 23.9110844
+  },
+  "Abdera, Thrace, Greece": {
+    "lat": 40.9815562,
+    "lon": 24.9515371
+  },
+  "Blois, France": {
+    "lat": 47.5876861,
+    "lon": 1.3337639
+  },
+  "Port Huron, Michigan, USA": {
+    "lat": 42.9760854,
+    "lon": -82.4333742
+  },
+  "Dinnington, near Sheffield, South Yorkshire, England": null,
+  "Somerset, Indiana, USA": {
+    "lat": 40.6692082,
+    "lon": -85.8283175
+  },
+  "'sHertogenbosch, Netherlands": null,
+  "Calacea, Timis county, Romania": null,
+  "Brosca, near Dorohoi, Romania": null,
+  "Savona, Italy": {
+    "lat": 44.2334238,
+    "lon": 8.2525727
+  },
+  "Caunus, Caria, Asia Minor (now in Turkey)": null,
+  "(probably) Alexandria, Egypt": null,
+  "Rotterdam, Netherlands": {
+    "lat": 51.9244424,
+    "lon": 4.47775
+  },
+  "Yukhnov, Smolensk, now Kaluga, Russia": null,
+  "Viatka (now Kirov), Russia": null,
+  "Kirillov, Novgorod gubernia, Russia": null,
+  "Potenza, Basilicata, Italy": {
+    "lat": 40.5173119,
+    "lon": 15.8216088
+  },
+  "Larissa (now Shaizar), Syria": null,
+  "Tampico, Illinois, USA": {
+    "lat": 41.6324811,
+    "lon": -89.7850393
+  },
+  "Boulder, Colorado, USA": {
+    "lat": 40.0149856,
+    "lon": -105.270545
+  },
+  "Treorchy, Rhondda Valley, Wales": null,
+  "Gunnersbury, Middlesex, England": null,
+  "Brooklyn, New York, USA": {
+    "lat": 40.6526006,
+    "lon": -73.9497211
+  },
+  "Vancouver, British Columbia, Canada": {
+    "lat": 49.2608724,
+    "lon": -123.113952
+  },
+  "Milwaukee, Wisconsin, USA": {
+    "lat": 43.0386475,
+    "lon": -87.9090751
+  },
+  "Kintail, Scotland": {
+    "lat": 57.1983161,
+    "lon": -5.2868254
+  },
+  "Kirkmichael, Tomintoul, Banffshire, Scotland": null,
+  "New York, USA": {
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  "Higham Ferrers, Northamptonshire, England": {
+    "lat": 52.3060303,
+    "lon": -0.5923318
+  },
+  "Dewsbury, Yorkshire, England": {
+    "lat": 53.6909103,
+    "lon": -1.6302142
+  },
+  "Bitola, Yugoslavia, now North Macedonia": null,
+  "Tuffley, Gloucester, England": {
+    "lat": 51.8474679,
+    "lon": -2.2529125
+  },
+  "Staten Island, New York City, New York, USA": {
+    "lat": 40.5834557,
+    "lon": -74.1496048
+  },
+  "Darlington, County Durham, England": {
+    "lat": 54.5242081,
+    "lon": -1.5555812
+  },
+  "Rosario, Argentina": {
+    "lat": -32.9593609,
+    "lon": -60.6617024
+  },
+  "Inverkip, Renfrew, Scotland": null,
+  "Corby, Northamptonshire, England": {
+    "lat": 52.4877341,
+    "lon": -0.7032713
+  },
+  "Kilbarchan, Renfrewshire, Scotland": {
+    "lat": 55.8362999,
+    "lon": -4.5532607
+  },
+  "Motele, Russian Empire, now Motal, Belarus": null,
+  "Galveston, Texas, USA": {
+    "lat": 29.3872254,
+    "lon": -94.992736
+  },
+  "Sansepolcro, Alta Valle del Tevere, Italy": null,
+  "Beawar, Rajasthan, India": {
+    "lat": 26.0992137,
+    "lon": 74.3127044
+  },
+  "Bridgewater, Massachusetts, USA": {
+    "lat": 41.9902206,
+    "lon": -70.9754432
+  },
+  "Hull, Yorkshire, England": {
+    "lat": 53.7623862,
+    "lon": -0.3301214
+  },
+  "Union City, Randolph, Indiana, USA": {
+    "lat": 40.201991,
+    "lon": -84.8091287
+  },
+  "Hackney, London, England": {
+    "lat": 51.5432402,
+    "lon": -0.0493621
+  },
+  "Nyon, Switzerland": {
+    "lat": 46.3820585,
+    "lon": 6.2402791
+  },
+  "Brzeziny, Poland": {
+    "lat": 51.8006607,
+    "lon": 19.7446206
+  },
+  "Gray, Haute-SaÃ´ne, France": null,
+  "Haggerston, Shoreditch (near London), England": null,
+  "Bar-le-Duc, France": {
+    "lat": 48.7712673,
+    "lon": 5.1623805
+  },
+  "Bruck an der Mur, Styria, Austria": {
+    "lat": 47.4121987,
+    "lon": 15.2721668
+  },
+  "St Andrews, Fife, Scotland": {
+    "lat": 56.3403902,
+    "lon": -2.7955844
+  },
+  "Inverary, Scotland": {
+    "lat": 55.9188429,
+    "lon": -4.2151048
+  },
+  "Southport, Lancashire, England": {
+    "lat": 53.6248844,
+    "lon": -2.9622333
+  },
+  "Los Angeles, USA": {
+    "lat": 34.0536909,
+    "lon": -118.242766
+  },
+  "Stracov, Bohemia (now Czech Republic)": null,
+  "Wila, ZÃ¼rich canton, Switzerland": null,
+  "Vienna, Austria": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "Tilburg, Netherlands": {
+    "lat": 51.5856184,
+    "lon": 5.0660616
+  },
+  "Sorau, Brandenburg, Prussia (now Å»ary, Poland)": null,
+  "Coburg, Germany": {
+    "lat": 50.2582226,
+    "lon": 10.964561
+  },
+  "Prague, Bohemia (now Czech Republic)": null,
+  "Worms, Germany": {
+    "lat": 49.6302618,
+    "lon": 8.3620898
+  },
+  "Ãrebro, Sweden": {
+    "lat": 57.0026492,
+    "lon": 15.1582668
+  },
+  "New Haven, Connecticut, USA": {
+    "lat": 41.3082138,
+    "lon": -72.9250518
+  },
+  "Alnwick, Northumberland, England": {
+    "lat": 55.4133398,
+    "lon": -1.7072354
+  },
+  "Coventry, England": {
+    "lat": 52.4081812,
+    "lon": -1.510477
+  },
+  "Clinton, New York, USA": {
+    "lat": 40.7652778,
+    "lon": -73.993889
+  },
+  "Amblecote, Stourbridge, Staffordshire, England": null,
+  "Buckden": {
+    "lat": 52.2965726,
+    "lon": -0.2517052
+  },
+  "West Hartford, Connecticut, USA": {
+    "lat": 41.7620447,
+    "lon": -72.7420399
+  },
+  "Farnley, near Leeds, England": null,
+  "Maud, Aberdeenshire, Scotland": {
+    "lat": 57.521428,
+    "lon": -2.1295694
+  },
+  "Quebec, Canada": {
+    "lat": 52.4760892,
+    "lon": -71.8258668
+  },
+  "Kirkcaldy, Fife, Scotland": {
+    "lat": 56.1110218,
+    "lon": -3.1582296
+  },
+  "Newbury, Berkshire, England": {
+    "lat": 51.4020243,
+    "lon": -1.3242212
+  },
+  "Corney, Cumberland, England": {
+    "lat": 54.3093611,
+    "lon": -3.365647
+  },
+  "Middletown, Connecticut, USA": {
+    "lat": 41.5623178,
+    "lon": -72.6509061
+  },
+  "Old Heath (near Shrewsbury), Shropshire, England": null,
+  "Marylebone, Middlesex, England": null,
+  "Dallas, Texas, USA": {
+    "lat": 32.7762719,
+    "lon": -96.7968559
+  },
+  "Everett, Snohomish, Washington, USA": {
+    "lat": 47.9793437,
+    "lon": -122.2127011
+  },
+  "Marshfield, Missouri, USA": {
+    "lat": 37.3302192,
+    "lon": -92.9068984
+  },
+  "Buffalo, Erie, New York, USA": {
+    "lat": 42.8867166,
+    "lon": -78.8783922
+  },
+  "Prague, Bohemia, Austro-Hungary (now Czech Republic)": null,
+  "Melbourne, Victoria, Australia": {
+    "lat": -37.8142454,
+    "lon": 144.9631732
+  },
+  "Hartford, Connecticut, USA": {
+    "lat": 41.764582,
+    "lon": -72.6908547
+  },
+  "Khabarovsk, USSR (now Russia)": null,
+  "Berchem, Antwerp, Belgium": {
+    "lat": 51.1943524,
+    "lon": 4.4329972
+  },
+  "Perugia (now Italy)": null,
+  "Hampstead (near London), England": null,
+  "Kieslingswalde (near GÃ¶rlitz), Germany (now SÅawnikowice, Poland)": null,
+  "Vecbaizas (near Valmiera), Latvia": null,
+  "Krasnoyarsk, Krasnoyarsk kray, Russia": null,
+  "BrÄila, Romania": {
+    "lat": 45.2716092,
+    "lon": 27.9742932
+  },
+  "Evansville, Indiana, USA": {
+    "lat": 37.970495,
+    "lon": -87.5715641
+  },
+  "Broomieknowe, Lasswade, near Edinburgh, Scotland": null,
+  "BraÅov, Romania": null,
+  "Cluj, Romania": {
+    "lat": 46.769379,
+    "lon": 23.5899542
+  },
+  "Jacksonville, Florida, USA": {
+    "lat": 30.3321838,
+    "lon": -81.655651
+  },
+  "Marietta, Ohio, USA": {
+    "lat": 39.4167742,
+    "lon": -81.4548392
+  },
+  "Antwerp, Belgium": {
+    "lat": 51.2211097,
+    "lon": 4.3997081
+  },
+  "Danzig, now GdaÅsk, Poland": null,
+  "Winfield, Kansas, USA": {
+    "lat": 37.2397486,
+    "lon": -96.9955919
+  },
+  "Fort Sill, Oklahoma, USA": {
+    "lat": 34.7027408,
+    "lon": -98.5074309
+  },
+  "Bergen, Norway": {
+    "lat": 60.3943055,
+    "lon": 5.3259192
+  },
+  "Tula, Russia": {
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  "Granville, Ohio, USA": {
+    "lat": 40.0681192,
+    "lon": -82.5196037
+  },
+  "Kelso, Roxburghshire, Scotland": null,
+  "Pittsburg, Pennsylvania, USA": {
+    "lat": 40.9328397,
+    "lon": -80.3633981
+  },
+  "MaceiÃ³, Alagoas, Brazil": null,
+  "Montjoie Aachen (now Monschau), Germany": null,
+  "SÃ£o Paulo, Brazil": null,
+  "Berlinchen, Prussia (now Barlinek, Poland)": null,
+  "Waltdorf, Upper Silesia (now Poland)": null,
+  "Bucharest, Romania": {
+    "lat": 44.4378654,
+    "lon": 26.0863631
+  },
+  "Lanskron, Austrian Empire (now Czech Republic)": null,
+  "AugustÃ³w, Russian Empire (now Poland)": null,
+  "Elizabeth, New Jersey, USA": {
+    "lat": 40.6639916,
+    "lon": -74.2107006
+  },
+  "Tunis, Tunisia": {
+    "lat": 33.8439408,
+    "lon": 9.400138
+  },
+  "Lecce, Italy": {
+    "lat": 40.1522173,
+    "lon": 18.2260628
+  },
+  "Rome, Italy": {
+    "lat": 41.8933203,
+    "lon": 12.4829321
+  },
+  "Samara, Russia": {
+    "lat": 53.1956255,
+    "lon": 50.1014927
+  },
+  "Erlangen, Bavaria, Germany": {
+    "lat": 49.5891571,
+    "lon": 10.9812072
+  },
+  "Carlisle, Pennsylvania , USA": {
+    "lat": 40.201499,
+    "lon": -77.1890783
+  },
+  "Acragas (now Agrigento, Sicily, Italy)": null,
+  "Tartu, Estonia": {
+    "lat": 58.3801207,
+    "lon": 26.72245
+  },
+  "Lecce, Puglia, Italy": {
+    "lat": 40.1522173,
+    "lon": 18.2260628
+  },
+  "Eilsum, Frisia, Germany": null,
+  "Rush Creek Township, Fairfield County, Ohio, USA": {
+    "lat": 39.7070255,
+    "lon": -82.4276303
+  },
+  "Pistoia, Tuscany (now Italy)": null,
+  "Milan, Italy": {
+    "lat": 45.4641943,
+    "lon": 9.1896346
+  },
+  "Campobasso, Molise, Kingdom of the Two Sicilies (now Italy)": null,
+  "Caracas, Venezuela": {
+    "lat": 10.5060934,
+    "lon": -66.9146008
+  },
+  "Pescia, Pistoia, Tuscany, Italy": {
+    "lat": 43.90171,
+    "lon": 10.6897811
+  },
+  "Roskilde, Denmark": {
+    "lat": 55.6433478,
+    "lon": 12.0819247
+  },
+  "Saalfeld, Thuringia (now Germany)": null,
+  "Watertown, Connecticut, USA": {
+    "lat": 41.6062078,
+    "lon": -73.1181658
+  },
+  "Cyrene, North Africa (now Shahhat, Libya)": null,
+  "Bow, London, England": {
+    "lat": 51.5309383,
+    "lon": -0.0274853
+  },
+  "Peterhead,  Aberdeenshire, Scotland": {
+    "lat": 57.5052909,
+    "lon": -1.7813194
+  },
+  "Buk, Posen, Germany (now PoznaÅ, Poland)": null,
+  "AusÃ¥s, Ãngelholm, Sweden": null,
+  "Barcelona, Spain": {
+    "lat": 41.3825802,
+    "lon": 2.177073
+  },
+  "Carpentras, France": {
+    "lat": 44.0554043,
+    "lon": 5.0487681
+  },
+  "Misson (N of Sisteron), Alpes-de-Haute-Provence, France": null,
+  "Derby, England": {
+    "lat": 52.9142235,
+    "lon": -1.4719885
+  },
+  "Marseilles, France": {
+    "lat": 47.0706778,
+    "lon": 3.0029271
+  },
+  "Abbeyside, County Waterford, Ireland": {
+    "lat": 52.0935412,
+    "lon": -7.606386
+  },
+  "Hamburg, Germany": {
+    "lat": 53.550341,
+    "lon": 10.000654
+  },
+  "Naples, Kingdom of the Two Sicilies (now Italy)": null,
+  "Nigrande, Saldus, Latvia": {
+    "lat": 56.4843061,
+    "lon": 22.0917854
+  },
+  "Eisenach, Grand Duchy of Saxe-Weimar-Eisenach (now in Germany)": null,
+  "Kunda, Russian Empire (now Estonia)": null,
+  "Chemnitz, Saxony, Germany": {
+    "lat": 50.8323531,
+    "lon": 12.918914
+  },
+  "Striegau, German Empire (now Strzegom, Poland)": null,
+  "Helsingfors, Russian Empire (now Helsinki, Finland)": null,
+  "Neustadt-Eberswalde, Brandenburg, Prussia (now Germany)": null,
+  "Ebersbach an der Fils, WÃ¼rttemberg, Germany": null,
+  "Passau, Germany": {
+    "lat": 48.5748229,
+    "lon": 13.4609744
+  },
+  "Mannheim, Baden (now Germany)": null,
+  "LaurahÃ¼tte, Silesia, Germany (now Siemianowice ÅlÄskie, Poland)": null,
+  "Alsen (German Baltic island) (now Als, Denmark)": null,
+  "Newton, Kansas, USA": {
+    "lat": 38.0469166,
+    "lon": -97.3447244
+  },
+  "Waldheim, Saskatchewan, Canada": {
+    "lat": 52.6186624,
+    "lon": -106.649761
+  },
+  "Erdberg, Vienna, Austria": {
+    "lat": 48.1914136,
+    "lon": 16.4141569
+  },
+  "Fulham, London, England": {
+    "lat": 51.474408,
+    "lon": -0.206809
+  },
+  "Tupelo, Mississippi, USA": {
+    "lat": 34.2576067,
+    "lon": -88.7033859
+  },
+  "Bologna, Kingdom of Sardinia (now Italy)": null,
+  "Rhodes, Greece": {
+    "lat": 36.1725297,
+    "lon": 27.9194016
+  },
+  "Cnidus (on Resadiye peninsula), Asia Minor (now Knidos, Turkey)": null,
+  "Bruges, French Empire (now Belgium)": null,
+  "SommiÃ¨res, Occitanie, Languedoc, France": null,
+  "Halle, Germany": {
+    "lat": 51.4824354,
+    "lon": 11.9712985
+  },
+  "Philadelphia, Pennsylvania, USA": {
+    "lat": 39.9527237,
+    "lon": -75.1635262
+  },
+  "Szombathely, Hungary": {
+    "lat": 47.2291184,
+    "lon": 16.6187625
+  },
+  "Cremona, Lombardy, Austrian Empire (now Italy)": null,
+  "Forli (now  Italy)": null,
+  "Orbassano, Turin, Piedmont, Italy": {
+    "lat": 45.0072629,
+    "lon": 7.5369192
+  },
+  "Bologna, Papal States (now Italy)": null,
+  "Kuna, near Haisyn, Russian Empire (now Ukraine)": null,
+  "Ascalon, Palestine (now Ashqelon, Israel)": null,
+  "Pencader, Carmarthenshire, Wales": {
+    "lat": 52.0001337,
+    "lon": -4.2685111
+  },
+  "Cwmsychbant, Ceredigion, Wales": null,
+  "Faenza, Romagna (now Italy)": null,
+  "Washington D.C., USA": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+  },
+  "Hamilton, Ontario, Canada": {
+    "lat": 43.2560802,
+    "lon": -79.8728583
+  },
+  "Kharkov, Ukraine": {
+    "lat": 49.9923181,
+    "lon": 36.2310146
+  },
+  "Novoe, Yaroslavl guberniya, Russia": null,
+  "Mstsislau, Mahiliou gubernia, Belarus": null,
+  "Odessa, Russian Empire (now Ukraine)": null,
+  "Tonbridge, Kent, England": {
+    "lat": 51.1955494,
+    "lon": 0.2750712
+  },
+  "San Mateo Atenco, Mexico": {
+    "lat": 19.2621168,
+    "lon": -99.537009
+  },
+  "MÃ©ziÃ¨res, France": null,
+  "Nuits-St-Georges, CÃ´te-d'Or, France": null,
+  "Eger, Heves County, Hungary": null,
+  "Trieste, Austro-Hungary (now Italy)": null,
+  "Kaohsiung, Taiwan": {
+    "lat": 22.6203348,
+    "lon": 120.3120375
+  },
+  "Bolya (near Nagyszeben), Transylvania, Hungary (now Sibiu, Romania)": null,
+  "Cockermouth, Cumbria, England": null,
+  "Riposto, Catania, Sicily": {
+    "lat": 37.7318901,
+    "lon": 15.2042214
+  },
+  "Leghorn (now Livorno), Tuscany, Italy": null,
+  "Pavia (now Italy)": null,
+  "Breslau, Prussia (now WrocÅaw, Poland)": null,
+  "DÃ¼sseldorf, Prussia (now Germany)": null,
+  "Gunzenhausen, Germany": {
+    "lat": 49.1147095,
+    "lon": 10.7545933
+  },
+  "Goldberg, Prussian Silesia (now ZÅotoryja, Poland)": null,
+  "Kalisz, Russian Empire (now Poland)": null,
+  "Wiesbaden, Germany": {
+    "lat": 50.0820384,
+    "lon": 8.2416556
+  },
+  "Pittem, Flanders, Spanish Netherlands (now Belgium)": null,
+  "TimiÅoara, Romania": null,
+  "Pisa (now Italy)": null,
+  "Figueres, Girona, Spain": {
+    "lat": 42.2666314,
+    "lon": 2.9638434
+  },
+  "(probably) Pisa (now Italy)": null,
+  "Lentini, near Syracuse, Sicily": null,
+  "Florence (now Italy)": null,
+  "Biebrich, Germany": {
+    "lat": 50.3030289,
+    "lon": 7.9544958
+  },
+  "Georgetown, Washington DC, USA": {
+    "lat": 38.9087133,
+    "lon": -77.0653494
+  },
+  "Tobermory, Isle of Mull, Argyle, Scotland": null,
+  "Horicon, Wisconsin, USA": {
+    "lat": 43.4513819,
+    "lon": -88.6312139
+  },
+  "Ivington, near Leominster, England": null,
+  "St Aignan (near Thusis), GraubÃ¼nden, Switzerland": null,
+  "Cisco, Texas, USA": {
+    "lat": 32.3828077,
+    "lon": -98.9797165
+  },
+  "Le Roy, Michigan, USA": {
+    "lat": 44.0376598,
+    "lon": -85.4525886
+  },
+  "Estagel, Roussillon, France": null,
+  "Limonade, Cap-FranÃ§ais, Saint-Domingue (now Haiti)": null,
+  "Douai, France": {
+    "lat": 50.3675677,
+    "lon": 3.0804641
+  },
+  "Venlo, Belgium (now Netherlands)": null,
+  "Saverne, Bas-Rhin, France": {
+    "lat": 48.7419909,
+    "lon": 7.3625953
+  },
+  "Mont-de-Laval (N of Morteau), Doubs, France": null,
+  "Fontenay-le-Comte, Poitou (now VendÃ©e), France": null,
+  "Cerkno, Austrian Empire (now Slovenia)": null,
+  "Writtle, Essex, England": {
+    "lat": 51.7284758,
+    "lon": 0.4115666
+  },
+  "Candia (now IrÃ¡klion), Crete": null,
+  "Palermo, Sicily, Italy": {
+    "lat": 38.1112268,
+    "lon": 13.3524434
+  },
+  "Livorno, Italy": {
+    "lat": 42.7902379,
+    "lon": 10.3402239
+  },
+  "Alessandria, Piemonte (now Italy)": null,
+  "La Spezia (now Italy)": null,
+  "Messina, Kingdom of Sicily (now Italy)": null,
+  "Arezzo, Tuscany, Italy": {
+    "lat": 43.5171442,
+    "lon": 11.7639282
+  },
+  "Rome (now Italy)": null,
+  "Saltpond, Gold Coast (now Ghana)": null,
+  "Thurnscoe, near Doncaster, Yorkshire, England": null,
+  "Edgeworthstown, County Longford, Ireland": {
+    "lat": 53.6887624,
+    "lon": -7.6031144
+  },
+  "Sparkbrook (near Birmingham), England": null,
+  "Witney, England": {
+    "lat": 51.7838848,
+    "lon": -1.4852861
+  },
+  "Omagh, Co. Tyrone, Ireland": {
+    "lat": 54.5992486,
+    "lon": -7.3029907
+  },
+  "Peabody, Massachusetts, USA": {
+    "lat": 42.5278731,
+    "lon": -70.9286609
+  },
+  "Tampico, Tamaulipas, MÃ©xico": null,
+  "Maracaibo, Venezuela": {
+    "lat": 10.6498095,
+    "lon": -71.6443596
+  },
+  "Grodzisk GÃ³rny, Galicia, Austrian Empire (now Poland)": null,
+  "ÅwiÄtochÅowice, Upper Silesia, Poland": null,
+  "New Hartford, Connecticut, USA": {
+    "lat": 41.8788343,
+    "lon": -72.9796173
+  },
+  "Crouch End, London, England": {
+    "lat": 51.5796918,
+    "lon": -0.1236831
+  },
+  "Pill St George, Easton-in-Gordano, Somerset, England": null,
+  "Ashland, Massachusetts, USA": {
+    "lat": 42.2606614,
+    "lon": -71.4641337
+  },
+  "Hull, England": {
+    "lat": 53.7623862,
+    "lon": -0.3301214
+  },
+  "Dayton, Ohio, USA": {
+    "lat": 39.7589478,
+    "lon": -84.1916069
+  },
+  "Woodbridge, Suffolk, England": {
+    "lat": 52.0941323,
+    "lon": 1.3199383
+  },
+  "San Francisco, California, USA": {
+    "lat": 37.7792588,
+    "lon": -122.4193286
+  },
+  "Manchester, England": {
+    "lat": 53.4794892,
+    "lon": -2.2451148
+  },
+  "Leiden, Netherlands": {
+    "lat": 52.1594747,
+    "lon": 4.4908843
+  },
+  "Chomutov, Bohemia, now Czech Republic": null,
+  "Prostejov, Moravia, Austro-Hungary (now Czech Republic)": null,
+  "Bad KÃ¶nig, German": null,
+  "Rostock, Mecklenberg-Schwerin (now Germany)": null,
+  "Nuremberg, Bayern, Germany": {
+    "lat": 49.453872,
+    "lon": 11.077298
+  },
+  "Schroda, Posen, Prussia (now Åroda Wielkopolska, Poland)": null,
+  "Joachimsthal, Germany (now Jachymov, Czech Republic)": null,
+  "Tramin, South Tirol, Austro-Hungarian Empire (now Italy)": null,
+  "Bingley, Yorkshire, England": {
+    "lat": 53.8479533,
+    "lon": -1.8384526
+  },
+  "Roanoke, Virginia, USA": {
+    "lat": 37.270973,
+    "lon": -79.9414313
+  },
+  "Pinner, Middlesex, England": null,
+  "Islington, London, England": {
+    "lat": 51.5384287,
+    "lon": -0.0999051
+  },
+  "Birmingham, Alabama, USA": {
+    "lat": 33.5206824,
+    "lon": -86.8024326
+  },
+  "Clarksburg, West Virginia, USA": {
+    "lat": 39.2806451,
+    "lon": -80.3445341
+  },
+  "Urbino (now Italy)": null,
+  "Crowthorne, Berkshire, England": {
+    "lat": 51.3708551,
+    "lon": -0.7950262
+  },
+  "Cottbus, Brandenburg, Germany": {
+    "lat": 51.7567447,
+    "lon": 14.3357307
+  },
+  "Wernigerode, Germany": {
+    "lat": 51.8344172,
+    "lon": 10.7862526
+  },
+  "Lugau (near Chemnitz), Germany": null,
+  "Brussels, Belgium": {
+    "lat": 50.8465573,
+    "lon": 4.351697
+  },
+  "Hamm, Westphalia, Germany": {
+    "lat": 51.681281,
+    "lon": 7.8191185
+  },
+  "DÃ¼sseldorf, Germany": null,
+  "GyÃ¶r, Austria-Hungary (now Hungary)": null,
+  "Vimmerby, Sweden": {
+    "lat": 57.683333,
+    "lon": 15.833333
+  },
+  "Bleienbach, Bern canton, Switzerland": {
+    "lat": 47.1856551,
+    "lon": 7.7561202
+  },
+  "Bad Kreuznach, Germany": {
+    "lat": 49.8490413,
+    "lon": 7.8626661
+  },
+  "Erlangen, Middle Franconia, Bavaria, Germany": null,
+  "Varna, Bulgaria": {
+    "lat": 43.2052135,
+    "lon": 27.8602025
+  },
+  "Toronto, Ontario, Canada": {
+    "lat": 43.6534817,
+    "lon": -79.3839347
+  },
+  "Cranleigh, Surrey, England": {
+    "lat": 51.1407587,
+    "lon": -0.4865787
+  },
+  "Kunhegyes, Hungary": {
+    "lat": 47.3699089,
+    "lon": 20.6318292
+  },
+  "Tokyo, Japan": {
+    "lat": 35.6768601,
+    "lon": 139.7638947
+  },
+  "Frankfurt an Main, Germany": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "Toulouse, France": {
+    "lat": 43.6044622,
+    "lon": 1.4442469
+  },
+  "Tours, France": {
+    "lat": 47.3900474,
+    "lon": 0.6889268
+  },
+  "Acireale, Catania, Sicily, Italy": {
+    "lat": 37.6127773,
+    "lon": 15.1658804
+  },
+  "Morano Calabro, Cosenza, Calabria, Italy": {
+    "lat": 39.8439407,
+    "lon": 16.135613
+  },
+  "Pisa (now  Italy)": null,
+  "Zagazig, El Sharkia, Egypt": null,
+  "Kumla, NÃ¤rke, Sweden": null,
+  "Stockholm, Sweden": {
+    "lat": 59.3251172,
+    "lon": 18.0710935
+  },
+  "Princeton, New Jersey, USA": {
+    "lat": 40.3496953,
+    "lon": -74.6597376
+  },
+  "Penpedairheol, South Wales": null,
+  "Sarinena, Aragon (now Spain)": null,
+  "Chamelet, Beaujolais, France": null,
+  "Beaune, Bourgogne, France": {
+    "lat": 47.0239064,
+    "lon": 4.8380426
+  },
+  "Nimes, Gard, Languedoc, France": {
+    "lat": 43.8173307,
+    "lon": 4.3618782
+  },
+  "Ãpinal, France": null,
+  "Sidi bel AbbÃ¨s, Algeria": null,
+  "Villefranche-de-Rouergue, Aveyron, France": {
+    "lat": 44.3517623,
+    "lon": 2.0375431
+  },
+  "Lundin Links, Fife, Scotland": {
+    "lat": 56.2126211,
+    "lon": -2.9544147
+  },
+  "(possibly) Rhodes, Greece": null,
+  "Dokkum, Friesland, The Netherlands": {
+    "lat": 53.3243515,
+    "lon": 5.9992306
+  },
+  "Chicago, USA": {
+    "lat": 41.8755616,
+    "lon": -87.6244212
+  },
+  "Clerkenwell, Middlesex, England": null,
+  "Kippax, near Castleford, Yorkshire, England": null,
+  "Brentford, Middlesex, England": null,
+  "St John's Wood, London, England": {
+    "lat": 51.531726,
+    "lon": -0.1741901
+  },
+  "Bradford, Yorkshire, England": {
+    "lat": 53.7944229,
+    "lon": -1.7519186
+  },
+  "Watford, Hertfordshire, England": {
+    "lat": 51.6553875,
+    "lon": -0.3957425
+  },
+  "Kaiserslautern, Germany": {
+    "lat": 49.4432174,
+    "lon": 7.7689951
+  },
+  "Berlin-Charlottenburg, Prussia (now Germany)": null,
+  "DÃ¼ren, Rhineland, Germany": null,
+  "Feldkirch, Austria": {
+    "lat": 47.2375671,
+    "lon": 9.5981724
+  },
+  "Graz, Austria": {
+    "lat": 47.0708678,
+    "lon": 15.4382786
+  },
+  "Peuerbach, Austria": {
+    "lat": 48.3438653,
+    "lon": 13.7710445
+  },
+  "Vienna , Austria": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "Altendorf (near Holzminden), Germany": null,
+  "Zug, Switzerland": {
+    "lat": 47.1486137,
+    "lon": 8.5539378
+  },
+  "Erlangen, Bavaria (now Germany)": null,
+  "Zagorica, Ljubljana, Austrian Empire (now Slovenia)": null,
+  "Darmstadt-Bessungen, Darmstadt, Grand Duchy of Hesse, now Germany": null,
+  "Westminster, London, England": {
+    "lat": 51.5004439,
+    "lon": -0.1265398
+  },
+  "Melbourne, Australia": {
+    "lat": -37.8142454,
+    "lon": 144.9631732
+  },
+  "Kilkenny, County Kilkenny, Ireland": {
+    "lat": 52.6506255,
+    "lon": -7.2514438
+  },
+  "Overisel, Michigan, USA": {
+    "lat": 42.7283593,
+    "lon": -86.0097593
+  },
+  "Lincoln, Lincolnshire, England": {
+    "lat": 53.2293545,
+    "lon": -0.5404819
+  },
+  "Gravesend, England": {
+    "lat": 51.4424747,
+    "lon": 0.3694468
+  },
+  "Millinocket, Maine, USA": {
+    "lat": 45.6565049,
+    "lon": -68.7091349
+  },
+  "Old Meldrum (near Aberdeen), Scotland": null,
+  "Portland, Oregon, USA": {
+    "lat": 45.5202471,
+    "lon": -122.674194
+  },
+  "Downe, Kent, England": null,
+  "Salem, Oregon, USA": {
+    "lat": 44.9391565,
+    "lon": -123.033121
+  },
+  "Kill-o'-the Grange, Monkstown, Co. Dublin, Ireland": {
+    "lat": 53.2822873,
+    "lon": -6.1498845
+  },
+  "State College, Center, Pennsylvania, USA": null,
+  "Greenlaw, Berwickshire, Scotland": {
+    "lat": 55.7068575,
+    "lon": -2.4607056
+  },
+  "Sneinton, Nottingham, England": {
+    "lat": 52.9533392,
+    "lon": -1.1254612
+  },
+  "Twickenham, London, England": {
+    "lat": 51.4505786,
+    "lon": -0.3288402
+  },
+  "Newark, New Jersey, USA": {
+    "lat": 40.735657,
+    "lon": -74.1723667
+  },
+  "Bodmin, Cornwall, England": {
+    "lat": 50.470725,
+    "lon": -4.7243205
+  },
+  "Culross, Fife, Scotland": {
+    "lat": 56.0556633,
+    "lon": -3.6283699
+  },
+  "Lynnville, Pennsylvania, USA": {
+    "lat": 40.6470389,
+    "lon": -75.7515802
+  },
+  "Leith (near Edinburgh), Scotland": null,
+  "Aba, Nigeria": {
+    "lat": 5.1128008,
+    "lon": 7.3651376
+  },
+  "Thornton Hall, Denton, County Durham, England": null,
+  "Ngong, near Nairobi, Kenya": null,
+  "Midgley, Yorkshire, England": {
+    "lat": 53.7340724,
+    "lon": -1.9571824
+  },
+  "Skreen, County Sligo, Ireland": {
+    "lat": 54.222979,
+    "lon": -8.7337948
+  },
+  "Forgue near Huntly, Scotland": null,
+  "Morham (near Haddington), Scotland": null,
+  "Batavia, Java (now Jakarta, Indonesia)": null,
+  "Memphis, Tennessee, USA": {
+    "lat": 35.1460249,
+    "lon": -90.0517638
+  },
+  "Montbard, CÃ´te d'Or, France": null,
+  "Ãply, Meurthe-et-Moselle, France": null,
+  "Roche, Canton Vaud, Switzerland": {
+    "lat": 46.3610602,
+    "lon": 6.9309298
+  },
+  "Charleroi, Belgium": {
+    "lat": 50.4116233,
+    "lon": 4.444528
+  },
+  "Panagyurishte, Bulgaria": {
+    "lat": 42.5043065,
+    "lon": 24.1888411
+  },
+  "Youngstown, Ohio, USA": {
+    "lat": 41.1035786,
+    "lon": -80.6520161
+  },
+  "Transbaikal, Russia": {
+    "lat": 52.248521,
+    "lon": 115.956325
+  },
+  "Sokyryntsi, Chernihiv Oblast, Ukraine, Russian Empire": null,
+  "Zhuravka, Poltava guberniya, Russia (now Ukraine)": null,
+  "Kimmeridge, Dorset, England": {
+    "lat": 50.6078572,
+    "lon": -2.1139493
+  },
+  "Rupelmonde, Burgundian Netherlands (now Belgium)": null,
+  "Drimnagh, Dublin, Ireland": {
+    "lat": 53.3299263,
+    "lon": -6.3236515
+  },
+  "Belliac, (now St-Simon) Auvergne, France": null,
+  "Gelsenkirchen-Buer, Germany": {
+    "lat": 51.5611041,
+    "lon": 7.0607256
+  },
+  "Greifswald, Germany": {
+    "lat": 54.095791,
+    "lon": 13.3815238
+  },
+  "Le Bourget, near Paris, France": null,
+  "Kolno, Russian Empire (now Poland)": null,
+  "Dayton, Iowa, USA": {
+    "lat": 42.2613645,
+    "lon": -94.0685672
+  },
+  "Iasi, Romania": {
+    "lat": 47.1615598,
+    "lon": 27.5837814
+  },
+  "Turnu-Severin, Oltenia, Kingdom of Romania (now Romania)": null,
+  "Szczakowa, Jaworzno, Upper Silesia (now Poland)": null,
+  "Valea Hogii, Vaslui, Romania": null,
+  "Cremona (now Italy)": null,
+  "Novara (now Italy)": null,
+  "Geraci Siculo (near Palermo), Italy": null,
+  "Vico Equense near Naples, Kingdom of Naples (now Italy)": null,
+  "Vigevano, Italy": {
+    "lat": 45.3170942,
+    "lon": 8.858603
+  },
+  "Ala, Trento (now Italy)": null,
+  "Johannesburg, South Africa": {
+    "lat": -26.205,
+    "lon": 28.049722
+  },
+  "Rochdale, Lancashire, England": {
+    "lat": 53.6673085,
+    "lon": -2.3015062
+  },
+  "NoumÃ©a, New Caledonia": null,
+  "NoÃ«l-Saint-Martin, Villeneuve-sur-Verberie, Oise, France": null,
+  "Mantua, Italy": {
+    "lat": 45.1692628,
+    "lon": 10.6708365
+  },
+  "Mantua, Austrian Empire (now Italy)": null,
+  "Nola near Naples, Kingdom of Naples (now Italy)": null,
+  "Castelfranco, Veneto (now Italy)": null,
+  "Rosano, Casalnoceto, Tortona, Piedmont, now Italy": null,
+  "Naples, Kingdom of Naples (now Italy)": null,
+  "Ferrara (now Italy)": null,
+  "Venice, Venetian States (now Italy)": null,
+  "Perinaldo, Republic of Genoa (now Italy)": null,
+  "Milan, Hapsburg Empire (now Italy)": null,
+  "Sinigaglia (now Senigallia, Italy)": null,
+  "Palermo, Kingdom of the Two Sicilies (now Italy)": null,
+  "Padua, Venetian States (now Italy)": null,
+  "Voghera (now Italy)": null,
+  "Scandiano, Emilia-Romagna, Italy": {
+    "lat": 44.5993449,
+    "lon": 10.6878385
+  },
+  "San Remo, Genoa (now Italy)": null,
+  "Porto Empedocle, Italy": {
+    "lat": 37.2883127,
+    "lon": 13.52755
+  },
+  "Genoa, Italy": {
+    "lat": 44.40726,
+    "lon": 8.9338624
+  },
+  "Crema, Italy": {
+    "lat": 45.362828,
+    "lon": 9.6874573
+  },
+  "Pavia, Duchy of Milan (now Italy)": null,
+  "Mantua, Kingdom of Lombardy-Venetia, Austria (now Italy)": null,
+  "Bagheria, Sicily,  Italy": {
+    "lat": 38.079351,
+    "lon": 13.509349
+  },
+  "Chivasso, Turin, Kingdom of Sardinia (now Italy)": null,
+  "Mondovi (now Italy)": null,
+  "Cuneo, Piemonte, Kingdom of Sardinia (now Italy)": null,
+  "Ponte in Valtellina, now in Italy": null,
+  "Chioggia (now Italy)": null,
+  "Ravenna, Italy": {
+    "lat": 44.3640607,
+    "lon": 12.0590095
+  },
+  "Bassano, Vicenza (now Italy)": null,
+  "Ararat, Victoria, Australia": {
+    "lat": -37.2834165,
+    "lon": 142.9319447
+  },
+  "Sumter, South Carolina, USA": {
+    "lat": 33.9204354,
+    "lon": -80.3414693
+  },
+  "SÃ£o Cosmado, Armamar, Viseu, Portugal": null,
+  "Carmelo, Uruguay": {
+    "lat": -33.9967827,
+    "lon": -58.2836485
+  },
+  "Workington, England": {
+    "lat": 54.6415716,
+    "lon": -3.5459287
+  },
+  "Fishponds, near Bristol, England": null,
+  "Lewisville, Texas, USA": {
+    "lat": 33.046233,
+    "lon": -96.994174
+  },
+  "Hamamatsu, Japan": {
+    "lat": 34.7109786,
+    "lon": 137.7259431
+  },
+  "Leipzig, Saxony (now Germany)": null,
+  "Wismar, Mecklenburg-Schwerin (now Germany)": null,
+  "Warri, Nigeria": {
+    "lat": 5.5186186,
+    "lon": 5.7480196
+  },
+  "Haslemere (near London), England": null,
+  "HoctÃºn, Yucatan, Mexico": null,
+  "Southgate, Middlesex, England": null,
+  "Louth, Lincolnshire, England": {
+    "lat": 53.3675163,
+    "lon": -0.0022381
+  },
+  "Lugo, Papal States (now Italy)": null,
+  "Alexandria, Virginia, USA": {
+    "lat": 38.8051095,
+    "lon": -77.0470229
+  },
+  "Bondi, New South Wales, Australia": {
+    "lat": -33.8930556,
+    "lon": 151.2633333
+  },
+  "Bruges, Spanish Netherlands (now Belgium)": null,
+  "Llandwrog, Caernarvonshire (now Gwynedd), Wales": null,
+  "Tulcea, Romania": {
+    "lat": 45.177518,
+    "lon": 28.8016348
+  },
+  "Modena (now Italy)": null,
+  "Castelfranco Veneto, Italy": {
+    "lat": 45.671139,
+    "lon": 11.9265624
+  },
+  "Pesaro (now Italy)": null,
+  "Sistels, Tarn-et-Garonne, France": {
+    "lat": 44.0607957,
+    "lon": 0.783465
+  },
+  "Xingtai, Hebei province, China": {
+    "lat": 37.0616519,
+    "lon": 114.499746
+  },
+  "Petro-Khersonets, Grachevka district, Orenburg, Russia": null,
+  "Ust, Novgorod guberniya, Russia": null,
+  "Amsterdam, The Netherlands": {
+    "lat": 52.3730796,
+    "lon": 4.8924534
+  },
+  "Cologne (KÃ¶ln), Germany": null,
+  "Helsinki, Finland": {
+    "lat": 60.1674881,
+    "lon": 24.9427473
+  },
+  "Wallern, Bohemia (now Volary, Czech Republic)": null,
+  "Solesmes, near Valenciennes, Nord, France": null,
+  "L'Etivaz, Vaud canton, Switzerland": {
+    "lat": 46.4240286,
+    "lon": 7.1460271
+  },
+  "SÃ¡rosd, FejÃ©r County, Hungary": null,
+  "TÃ¢rnÄveni, Romania": null,
+  "MarosvÃ¡sÃ¡rhely, Transylvania, Hungary (now TÃ¢rgu-MureÈ, Romania)": null,
+  "Tel Aviv": {
+    "lat": 32.0852997,
+    "lon": 34.7818064
+  },
+  "Lankwitz, Berlin, Germany": {
+    "lat": 52.4387852,
+    "lon": 13.3420633
+  },
+  "NorrkÃ¶ping, Sweden": null,
+  "Schwerin, Germany": {
+    "lat": 53.6288297,
+    "lon": 11.4148038
+  },
+  "Illar, SÃ¸nderborg, Denmark": null,
+  "MÃ¼nchen Gladbach (now MÃ¶nchengladbach), Germany": null,
+  "Luckenwalde, Germany": {
+    "lat": 52.0902045,
+    "lon": 13.1741882
+  },
+  "Haren-Ems, Niedersachsen, Germany": {
+    "lat": 52.7905619,
+    "lon": 7.2400267
+  },
+  "Free City of Danzig (now GdaÅsk, Poland)": null,
+  "Breslau, Germany (now WrocÅaw, Poland)": null,
+  "MÃ¼hlhausen, Thuringia, Germany": null,
+  "Bentschen, Posen, Germany (now PoznaÅ, Poland)": null,
+  "Wandsbeck (part of Hamburg), Schleswig-Holstein, Germany": null,
+  "Altenburg, Germany": {
+    "lat": 50.9852411,
+    "lon": 12.4340988
+  },
+  "Weida, ThÃ¼ringen Germany": null,
+  "Waldheim, Germany": {
+    "lat": 51.0770643,
+    "lon": 13.0157798
+  },
+  "Koblenz-Moselweiss, Germany": {
+    "lat": 50.3495621,
+    "lon": 7.5609004
+  },
+  "Kanpur, Uttar Pradesh, India": {
+    "lat": 26.4609135,
+    "lon": 80.3217588
+  },
+  "near Nashville, Missouri, USA": null,
+  "Huncoat, Lancashire, England": {
+    "lat": 53.7722434,
+    "lon": -2.3470472
+  },
+  "Fulda, Minnesota, USA": {
+    "lat": 43.8705186,
+    "lon": -95.6002856
+  },
+  "Fatfield (near Durham), England": null,
+  "Hastings, England": {
+    "lat": 50.8553888,
+    "lon": 0.5824703
+  },
+  "Everek, Ottoman Empire (now Develi, Turkey)": null,
+  "Waterbury, Connecticut, USA": {
+    "lat": 41.5538091,
+    "lon": -73.0438362
+  },
+  "Greets Green, West Bromwich, Staffordshire, England": null,
+  "Millis, Massachusetts, USA": {
+    "lat": 42.1675082,
+    "lon": -71.3572763
+  },
+  "Schweinfurt, Germany": {
+    "lat": 50.0518552,
+    "lon": 10.2220921
+  },
+  "Magdala, Thuringia, Germany": {
+    "lat": 50.9065543,
+    "lon": 11.4463291
+  },
+  "Essen, Germany": {
+    "lat": 51.4582235,
+    "lon": 7.0158171
+  },
+  "Free Imperial City of Hamburg (now Germany)": null,
+  "Posen, Prussia (now PoznaÅ, Poland)": null,
+  "Hedingen (2 km N of Affoltern), ZÃ¼rich Canton, Switzerland": null,
+  "Schleinz (E of Neunkirchen), Austria": null,
+  "Heidelberg, Germany": {
+    "lat": 49.4093582,
+    "lon": 8.694724
+  },
+  "Schwerin, Mecklenburg, Germany": {
+    "lat": 53.6288297,
+    "lon": 11.4148038
+  },
+  "GrÃ¤bschen (near Breslau), Germany (now WrocÅaw, Poland)": null,
+  "Wilhelmshaven, Germany": {
+    "lat": 53.5278793,
+    "lon": 8.106301
+  },
+  "Weinfelden, Switzerland": {
+    "lat": 47.5669187,
+    "lon": 9.1097539
+  },
+  "Yamaguchi, Japan": {
+    "lat": 34.2379614,
+    "lon": 131.5873845
+  },
+  "Aalen, WÃ¼rttemberg, Germany": null,
+  "Kassel, Germany": {
+    "lat": 51.3157833,
+    "lon": 9.4978479
+  },
+  "Niedereggenen, LÃ¶rrach, Germany": null,
+  "Dhandhuka, Gujarat, India": {
+    "lat": 22.3816365,
+    "lon": 71.9791414
+  },
+  "Rottevalle, The Netherlands": {
+    "lat": 53.1452083,
+    "lon": 6.1030877
+  },
+  "Arnhem, Netherlands": {
+    "lat": 52.0056642,
+    "lon": 5.8762345
+  },
+  "Haarlem, Netherlands": {
+    "lat": 52.3837058,
+    "lon": 4.6435597
+  },
+  "Vignot (part of Commercy), France": null,
+  "Montpellier, HÃ©rault, France": null,
+  "Nancy, France": {
+    "lat": 48.6937223,
+    "lon": 6.1834097
+  },
+  "Bourbonne-les-Bains, Haute-Marne, France": {
+    "lat": 47.9538267,
+    "lon": 5.7512344
+  },
+  "Zurich, Switzerland": {
+    "lat": 47.3744489,
+    "lon": 8.5410422
+  },
+  "Jemeppe sur Meuse, near LiÃ¨ge, Belgium": null,
+  "Beauvais, Oise, Picardie, France": {
+    "lat": 49.4300997,
+    "lon": 2.0823355
+  },
+  "Lille, France": {
+    "lat": 50.6365654,
+    "lon": 3.0635282
+  },
+  "Abbeville, Picardy, France,": {
+    "lat": 50.1060835,
+    "lon": 1.8337029
+  },
+  "Nancy, Lorraine, France": {
+    "lat": 48.6937223,
+    "lon": 6.1834097
+  },
+  "Lancaster, Worcester County, Massachusetts, USA": {
+    "lat": 42.4569773,
+    "lon": -71.6731246
+  },
+  "Warleywood, Yorkshire, England": null,
+  "Dunkirk, New York, USA": {
+    "lat": 42.483224,
+    "lon": -79.3345605
+  },
+  "Mayfield, Sussex, England": {
+    "lat": 51.0193508,
+    "lon": 0.2619784
+  },
+  "Chambersburg, Pennsylvania , USA": {
+    "lat": 39.9375112,
+    "lon": -77.6612586
+  },
+  "Shotesham All Saints, near Norwich, England": null,
+  "Melbury Sampford, Dorset, England": {
+    "lat": 50.8549661,
+    "lon": -2.6051383
+  },
+  "Aldersgate, London, England": {
+    "lat": 51.5201501,
+    "lon": -0.0986832
+  },
+  "Millsboro, Washington County, Pennsylvania, USA": {
+    "lat": 39.9853002,
+    "lon": -79.9936635
+  },
+  "Menzieshill, near Dundee, Scotland": null,
+  "Grantham, Lincolnshire, England": {
+    "lat": 52.913192,
+    "lon": -0.6438974
+  },
+  "Long Buckby, Northamptonshire, England": {
+    "lat": 52.3029316,
+    "lon": -1.0804568
+  },
+  "Newington, Southwark, London, England": {
+    "lat": 51.4852627,
+    "lon": -0.101583
+  },
+  "Bradley (near Halifax), Yorkshire, England": null,
+  "Nutley, Essex, New Jersey, USA": {
+    "lat": 40.8223223,
+    "lon": -74.1598663
+  },
+  "Cazenovia, New York, USA": {
+    "lat": 42.9300668,
+    "lon": -75.8526969
+  },
+  "Posen, German Empire (now PoznaÅ, Poland)": null,
+  "Heraclea Pontica (now Eregli, Turkey)": null,
+  "Brixton, London, England": {
+    "lat": 51.4633914,
+    "lon": -0.1148023
+  },
+  "Watkins, New York, USA": {
+    "lat": 42.3363805,
+    "lon": -76.9250488
+  },
+  "Krefeld, Germany": {
+    "lat": 51.3331205,
+    "lon": 6.5623343
+  },
+  "Tottenham, Middlesex, England": null,
+  "New Castle, Pennsylvania, USA": {
+    "lat": 40.9999202,
+    "lon": -80.3471856
+  },
+  "Bernstadt, Saxony, Germany": {
+    "lat": 51.0474279,
+    "lon": 14.8269241
+  },
+  "Tettenhall, Wolverhampton, England": {
+    "lat": 52.5986015,
+    "lon": -2.1665631
+  },
+  "Buffalo, New York, USA": {
+    "lat": 42.8867166,
+    "lon": -78.8783922
+  },
+  "Colchester, England": {
+    "lat": 51.8896903,
+    "lon": 0.8994651
+  },
+  "Hottingen, ZÃ¼rich, Switzerland": null,
+  "Stettin, Prussia (now Szczecin, Poland)": null,
+  "Beuthen (now Bytom), Upper Silesia (now Poland)": null,
+  "Echternach, Luxembourg": {
+    "lat": 49.8120961,
+    "lon": 6.4214859
+  },
+  "GÃ¶ggingen near Augsburg, Bavaria, Germany": null,
+  "Alexotas, Russian Empire (now Lithuania)": null,
+  "Saulgau, Swabia, Germany": null,
+  "Potsdam,Prussia (now  Germany)": null,
+  "Hermsdorf am Kynast, Silesia (now SobieszÃ³w, Jelenia GÃ³ra, Poland)": null,
+  "Potsdam, Prussia (now  Germany)": null,
+  "Elmshorn (near Hamburg), Schleswig-Holstein, Germany": null,
+  "Karlsruhe, Germany": {
+    "lat": 49.0068705,
+    "lon": 8.4034195
+  },
+  "(possibly) Alexandria, Egypt": null,
+  "Portsea, near Portsmouth, England": null,
+  "Ashiya, near Osaka, Japan": null,
+  "Osaka, Japan": {
+    "lat": 34.6937569,
+    "lon": 135.5014539
+  },
+  "Grimstrup, West Jutland, Denmark": null,
+  "Bibra, Saxony, Germany": {
+    "lat": 51.2064665,
+    "lon": 11.5835806
+  },
+  "Nicaea (now Iznik), Bithynia (now Turkey)": null,
+  "Elis, Peloponnese, Greece": {
+    "lat": 37.8830916,
+    "lon": 21.3847776
+  },
+  "Chios, Greece": {
+    "lat": 38.3758131,
+    "lon": 26.0646552
+  },
+  "Arita, Wakayama Prefecture, Japan": {
+    "lat": 33.4908417,
+    "lon": 135.7357177
+  },
+  "Liminka, Northern Ostrobothnia, Finland": {
+    "lat": 64.8106448,
+    "lon": 25.4084842
+  },
+  "Xuan DÃ i village, DiÃªn BÃ n, Vietnam": null,
+  "Le Grand Abergement, Ain, France": {
+    "lat": 46.0727448,
+    "lon": 5.6831857
+  },
+  "Stockport, England": {
+    "lat": 53.407901,
+    "lon": -2.160243
+  },
+  "Helensburgh, Dumbartonshire, Scotland": null,
+  "Magdeburg, Germany": {
+    "lat": 52.1315889,
+    "lon": 11.6399609
+  },
+  "Hoboken, New Jersey, USA": {
+    "lat": 40.7433066,
+    "lon": -74.0323752
+  },
+  "Hoquiam, Washington, USA": {
+    "lat": 46.980929,
+    "lon": -123.889335
+  },
+  "Peking (now Beijing), China": null,
+  "Jintan, Jiangsu Province, China": {
+    "lat": 31.7233197,
+    "lon": 119.5825196
+  },
+  "Sheffield, England": {
+    "lat": 53.3806626,
+    "lon": -1.4702278
+  },
+  "Rockwell City, Calhoun County, Iowa, USA": {
+    "lat": 42.3952576,
+    "lon": -94.6338671
+  },
+  "Craigflower, Fife, Scotland": {
+    "lat": 56.0568331,
+    "lon": -3.5670514
+  },
+  "Parkhill, Western Ontario, Canada": null,
+  "Strontian, Argyllshire, Scotland": null,
+  "Al-Hirah (now in Iraq)": null,
+  "Houston, Texas, USA": {
+    "lat": 29.7589382,
+    "lon": -95.3676974
+  },
+  "Dundee, Scotland": {
+    "lat": 56.4605938,
+    "lon": -2.97019
+  },
+  "Marrakesh, Morocco": {
+    "lat": 31.6258257,
+    "lon": -7.9891608
+  },
+  "(possibly) Basra, Persia (now Iraq)": null,
+  "Plumstead, Kent, England": null,
+  "Kamianets-Podilskyi, Russian Empire (now Ukraine)": null,
+  "KoÅ¡ice, Czechoslovakia (now Slovakia)": null,
+  "Zhytomyr, Ukraine": {
+    "lat": 50.9080532,
+    "lon": 28.3867504
+  },
+  "Shesheleti, Kutaisi Governorate, Russian Empire (now Ochamchira District, Abkhazia, breakaway region of Georgia)": null,
+  "Debrecen, Hungary": {
+    "lat": 47.531399,
+    "lon": 21.6259782
+  },
+  "Houthalen, Belgium": {
+    "lat": 51.031137,
+    "lon": 5.3720755
+  },
+  "Croydon, Surrey, England": {
+    "lat": 51.2973191,
+    "lon": -0.0708474
+  },
+  "Stoienoaia, Creata, Ilfov, Romania": null,
+  "Dnepropetrovsk, Ukraine": {
+    "lat": 48.4680221,
+    "lon": 35.0417711
+  },
+  "Hameln, Germany": {
+    "lat": 52.1039941,
+    "lon": 9.3561569
+  },
+  "Bronx, New York, USA": {
+    "lat": 40.8466508,
+    "lon": -73.8785937
+  },
+  "Yorkshire Centre, now Delevan, Cattaraugus County, New York, USA": null,
+  "Woolsthorpe, Lincolnshire, England": {
+    "lat": 52.8096267,
+    "lon": -0.6322203
+  },
+  "Galatz, Romania": {
+    "lat": 45.4338215,
+    "lon": 28.0549395
+  },
+  "Rye, Sussex, England": {
+    "lat": 50.9511871,
+    "lon": 0.7327667
+  },
+  "Detroit, Michigan, USA": {
+    "lat": 42.3315509,
+    "lon": -83.0466403
+  },
+  "Loudun, France": {
+    "lat": 47.0102263,
+    "lon": 0.081826
+  },
+  "Barkly East, Eastern Cape, South Africa": {
+    "lat": -30.967953,
+    "lon": 27.595701
+  },
+  "Oxford, North Carolina, USA": {
+    "lat": 36.3107004,
+    "lon": -78.5908345
+  },
+  "Tarutino, Romania (now Tarutyne, Ukraine)": null,
+  "Okny, Russian Empire (now Ukraine)": null,
+  "Mogilev, Russian Empire (now Belarus)": null,
+  "Rimaszombat, Hungary (now RimavskÃ¡ Sobota, Slovakia)": null,
+  "Lysianka, Cherkasy Oblast, Ukraine": {
+    "lat": 49.2526497,
+    "lon": 30.8275126
+  },
+  "Sevsk, Orlov guberniya, Russia": null,
+  "Nizhny Lomov, Penza guberniya (now oblast), Russia": null,
+  "Milolyub, Velikie Luki, Pskov province, Russia": null,
+  "Opcine, near Trieste, Italy": null,
+  "Arkhangelsk, Russia": {
+    "lat": 64.543022,
+    "lon": 40.537121
+  },
+  "Bergshyddan, DjurgÃ¥rden, Sweden": null,
+  "Prague, Czechoslovakia (now Czech Republic)": null,
+  "Strukljeva vas near Cerknica, Austrian Empire (now Slovenia)": null,
+  "Lewisham, Kent, England": {
+    "lat": 51.1393943,
+    "lon": 1.285979
+  },
+  "Bakewell, Derbyshire, England": {
+    "lat": 53.2148429,
+    "lon": -1.6758613
+  },
+  "LutosÅawice, near PiotrkÃ³w Trybunalski, Russian Empire (now Poland)": null,
+  "St Nicholas, Aberdeen, Scotland": {
+    "lat": 57.1474916,
+    "lon": -2.0994084
+  },
+  "Holt, Norfolk, England": {
+    "lat": 52.9054382,
+    "lon": 1.0928322
+  },
+  "Rochester, Kent, England": {
+    "lat": 51.3883811,
+    "lon": 0.504925
+  },
+  "Philadelphia, Pennsylvania , USA": {
+    "lat": 39.9527237,
+    "lon": -75.1635262
+  },
+  "Durham, England": {
+    "lat": 54.666667,
+    "lon": -1.75
+  },
+  "McDowall Street, Edinburgh, Scotland": null,
+  "Travers, NeuchÃ¢tel canton, Switzerland": null,
+  "Bourg-en-Bresse, Ain, France": {
+    "lat": 46.2051192,
+    "lon": 5.2250324
+  },
+  "ApÃ¡ca, Transylvania, Hungary (now Romania)": null,
+  "Cimoszka, Bialystok, Poland": null,
+  "Nowy MartynÃ³w, Galicia, Austrian Empire (now MartynÃ³w Nowy Ukraine)": null,
+  "SpisskÃ¡ BelÃ¡, Hungary (now in Slovakia)": null,
+  "Buda (now part of Budapest), Hungary": null,
+  "The Hague, The Netherlands": {
+    "lat": 52.0799838,
+    "lon": 4.3113461
+  },
+  "possibly Seville (now Spain)": null,
+  "Rouxville, Orange Free State, South Africa": null,
+  "Carnacally, Co Down, Ireland": {
+    "lat": 54.2213996,
+    "lon": -6.2856466
+  },
+  "Bandoeng, Netherlands East Indies, now Indonesia": null,
+  "Stalden bei Brugg, Switzerland": null,
+  "Marseilles, Spain (now France)": null,
+  "ÅÃ³dÅº, Russian Empire (now Poland)": null,
+  "Kherson, Ukraine": {
+    "lat": 46.5421715,
+    "lon": 33.4079326
+  },
+  "Uberaba, Minas Gerais, Brazil": {
+    "lat": -19.750833,
+    "lon": -47.936666
+  },
+  "Venice, Venetian Republic (now Italy)": null,
+  "Rostov-on-Don, Russia": {
+    "lat": 47.2610441,
+    "lon": 39.7249086
+  },
+  "AlÃ¨s, France": {
+    "lat": 43.5007482,
+    "lon": 2.4384748
+  },
+  "Rennes, Bretagne, France": {
+    "lat": 48.1113387,
+    "lon": -1.6800198
+  },
+  "CompiÃ¨gne, France": null,
+  "Saint-Ãtienne, France": null,
+  "Versailles, France": {
+    "lat": 48.8035403,
+    "lon": 2.1266886
+  },
+  "Grasse, Alpes-Maritimes, France": {
+    "lat": 43.6589011,
+    "lon": 6.9239103
+  },
+  "Watermael-Boitsfort, near Brussels, Belgium": null,
+  "Sainte-Olive, Bresse, France": {
+    "lat": 46.0188678,
+    "lon": 4.9315723
+  },
+  "Uccle, Belgium": {
+    "lat": 50.8035441,
+    "lon": 4.3338445
+  },
+  "Amber (now Jaipur), India": null,
+  "La Paz, Bolivia": {
+    "lat": -16.4955455,
+    "lon": -68.1336229
+  },
+  "Mjels, Als, Schleswig (now Denmark)": null,
+  "TÃ¶ss, ZÃ¼rich canton, Switzerland": null,
+  "Brody, Austria-Hungary (now Ukraine)": null,
+  "Utzenstorf, Switzerland": {
+    "lat": 47.1293896,
+    "lon": 7.5577607
+  },
+  "Sea Bright, New Jersey, USA": {
+    "lat": 40.3615488,
+    "lon": -73.9742051
+  },
+  "Newcastle, England": {
+    "lat": 54.9738474,
+    "lon": -1.6131572
+  },
+  "Lavagh, County Leitrim, Ireland": {
+    "lat": 53.9403594,
+    "lon": -7.993263
+  },
+  "Sherborne, Gloucestershire, England": {
+    "lat": 51.8313924,
+    "lon": -1.7530327
+  },
+  "Ayr, Scotland": {
+    "lat": 55.4628044,
+    "lon": -4.6302502
+  },
+  "Great Oakley, Essex, England": {
+    "lat": 51.9045677,
+    "lon": 1.1906148
+  },
+  "Buckhaven, Fife, Scotland": {
+    "lat": 56.1710696,
+    "lon": -3.0333966
+  },
+  "Cleveland, Ohio, USA": {
+    "lat": 41.4996574,
+    "lon": -81.6936772
+  },
+  "Nanka, Orumba North Local Government Area, Anambra State, Nigeria": null,
+  "Leslie, Fife, Scotland": {
+    "lat": 56.2013764,
+    "lon": -3.215211
+  },
+  "Peoria, Illinois, USA": {
+    "lat": 40.6938609,
+    "lon": -89.5891008
+  },
+  "Drumoak (near Aberdeen), Scotland": null,
+  "Ormskirk, Lancashire, England": {
+    "lat": 53.5673603,
+    "lon": -2.8859603
+  },
+  "Carmyllie, Angus, Scotland": {
+    "lat": 56.5731444,
+    "lon": -2.7348882
+  },
+  "Landahussy (near Strabane), Ireland": null,
+  "Portsoy, Scotland": {
+    "lat": 57.6815502,
+    "lon": -2.6907423
+  },
+  "Broughshane, Co. Antrim, Ireland": {
+    "lat": 54.8936924,
+    "lon": -6.2037804
+  },
+  "Bootle, Liverpool, England": {
+    "lat": 53.4506931,
+    "lon": -2.9948834
+  },
+  "Moffat, Scotland": {
+    "lat": 55.3332407,
+    "lon": -3.444357
+  },
+  "Cowdenbeath, Fife, Scotland": {
+    "lat": 56.1110634,
+    "lon": -3.3438843
+  },
+  "Garden (near Stirling), Scotland": {
+    "lat": 56.1174629,
+    "lon": -3.9392773
+  },
+  "Balgonie, Fife, Scotland": {
+    "lat": 56.1934278,
+    "lon": -3.0979458
+  },
+  "Keith, Scotland": {
+    "lat": 57.5427292,
+    "lon": -2.9523291
+  },
+  "Annaghmore, near Ballynahinch, Co. Down, Ireland": null,
+  "Trecennydd, near Caerphilly, Wales": null,
+  "Nieuwer Amstel (now part of Amsterdam), Netherlands": null,
+  "Dordrecht, Netherlands": {
+    "lat": 51.7689546,
+    "lon": 4.6867891
+  },
+  "StanislawÃ³w, Austrian-Hungarian Empire (now Ivano-Frankivsk, Ukraine)": null,
+  "Hijkersmilde, near Smilde, Netherlands": null,
+  "Ashwood, Woking, Surrey, England": {
+    "lat": 51.3135426,
+    "lon": -0.551607
+  },
+  "Podebrady, Bohemia (now Czech Republic)": null,
+  "Smyrna, (now Izmir) Turkey": null,
+  "Valenciennes, France": {
+    "lat": 50.3579317,
+    "lon": 3.5234846
+  },
+  "Esch-sur-Alzette, French Empire (now Luxembourg)": null,
+  "Villefranche, Beaujolais, France": {
+    "lat": 46.127867,
+    "lon": 4.6237966
+  },
+  "Alanthus Grove, Gentry County, Missouri, USA": {
+    "lat": 40.3069365,
+    "lon": -94.5441279
+  },
+  "Ostend, Belgium": {
+    "lat": 51.2258565,
+    "lon": 2.919496
+  },
+  "Dax, France": {
+    "lat": 43.7084065,
+    "lon": -1.0518771
+  },
+  "Villefranche-sur-SaÃ´ne, France": null,
+  "Morteau, Doubs, France": {
+    "lat": 47.0569367,
+    "lon": 6.6047189
+  },
+  "Villiers-en-BiÃ¨re, Seine-et-Marne, France": null,
+  "Fourmies (Nord), France": {
+    "lat": 50.0171741,
+    "lon": 4.0458492
+  },
+  "Figeac, Lot, France": {
+    "lat": 44.6092335,
+    "lon": 2.0324321
+  },
+  "Morlaix, France": {
+    "lat": 48.5824932,
+    "lon": -3.8331972
+  },
+  "PÃ©rigueux, France": null,
+  "Lisieux, France": {
+    "lat": 49.1460831,
+    "lon": 0.2255168
+  },
+  "Chantenay, near Nantes, Loire-InfÃ©rieure, France": null,
+  "Strasbourg, Bas-Rhin, France": {
+    "lat": 48.584614,
+    "lon": 7.7507127
+  },
+  "Le Pouliguen, Pays de la Loire, France": {
+    "lat": 47.2714307,
+    "lon": -2.4310663
+  },
+  "St Malo, France": {
+    "lat": 48.649518,
+    "lon": -2.0260409
+  },
+  "Prat, CÃ´tes-d'Armor, France": null,
+  "Cluses, Savoy, France": {
+    "lat": 46.0603171,
+    "lon": 6.5804218
+  },
+  "MÃ©ziÃ¨res, Ardennes, France": null,
+  "Esch-sur-Alzette, Luxembourg": {
+    "lat": 49.4959628,
+    "lon": 5.9850306
+  },
+  "La FlÃ¨che, France": null,
+  "Bages, PyrÃ©nÃ©es Orientales, France": null,
+  "Metz, Lorraine, France": {
+    "lat": 49.1196964,
+    "lon": 6.1763552
+  },
+  "Lipniki, Volhynia, Russian Empire (now in Volyn Oblast, Ukraine)": null,
+  "Pest, Hungary": {
+    "lat": 47.4942216,
+    "lon": 19.0529846
+  },
+  "Toxteth, Liverpool, England": {
+    "lat": 53.3912422,
+    "lon": -2.9662407
+  },
+  "Seattle, Washington, USA": {
+    "lat": 47.6038321,
+    "lon": -122.330062
+  },
+  "LwÃ³w, Poland (now Lviv, Ukraine)": null,
+  "Bendery, Bessarabia, Russian Empire (now Transnistria, Moldova)": null,
+  "Olszana, Russian Empire  (now Vilshana, Ukraine)": null,
+  "Harbin, Manchuria, (now China)": null,
+  "Salterhebble, near Halifax, Yorkshire, England": null,
+  "Strood, Kent, England": {
+    "lat": 51.058574,
+    "lon": 0.6470424
+  },
+  "LÃ¼beck, Holstein (now Germany)": null,
+  "Belgard, Germany (now BiaÅogard, Poland)": null,
+  "Lagos, Portugal": {
+    "lat": 37.1027964,
+    "lon": -8.6728689
+  },
+  "Itapecuru-Mirim, Maranhao, Brazil": {
+    "lat": -3.3973569,
+    "lon": -44.3560724
+  },
+  "Te Kuiti, New Zealand": {
+    "lat": -38.3341925,
+    "lon": 175.1657117
+  },
+  "Hilltown, Bucks county, Pennsylvania, USA": {
+    "lat": 40.3421754,
+    "lon": -75.2345751
+  },
+  "Nakskov, Denmark": {
+    "lat": 54.8304979,
+    "lon": 11.1493517
+  },
+  "Lausen, Basel-Land, Switzerland": {
+    "lat": 47.4736459,
+    "lon": 7.7591139
+  },
+  "Frankfurt am Main, Germany": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "Castiglione, Tuscany (now Italy)": null,
+  "Ulm, Germany": {
+    "lat": 48.3984968,
+    "lon": 9.9912458
+  },
+  "Stuttgart, WÃ¼rttemberg (now Germany)": null,
+  "TÃ¶ss, ZÃ¼rich, Switzerland": null,
+  "MÃ¼lhausen, Alsace (now Mulhouse, France)": null,
+  "Leipzig, Saxony, now Germany": null,
+  "Tetschen, Bohemia (now Decin, Czech Republic)": null,
+  "Pozsony, Hungary (now Bratislava, Slovakia)": null,
+  "Marrum, The Netherlands": {
+    "lat": 53.3235573,
+    "lon": 5.8017153
+  },
+  "Garrelsweer, The Netherlands": {
+    "lat": 53.3112224,
+    "lon": 6.7700401
+  },
+  "Itens, Friesland, Netherlands": {
+    "lat": 53.1009875,
+    "lon": 5.6433419
+  },
+  "Weil der Stadt, WÃ¼rttemberg, Holy Roman Empire (now Germany)": null,
+  "Halmstad, Sweden": {
+    "lat": 56.6739826,
+    "lon": 12.8574827
+  },
+  "TetenbÃ¼ll (near TÃ¶nning), South Schleswig (now Germany)": null,
+  "Eger, Bohemia (now Cheb, Czech Republic)": null,
+  "Hunslet, Leeds, England": {
+    "lat": 53.7786185,
+    "lon": -1.5282492
+  },
+  "East Linton, East Lothian, Scotland": {
+    "lat": 55.9871488,
+    "lon": -2.6628247
+  },
+  "Liverpool, England": {
+    "lat": 53.4071991,
+    "lon": -2.99168
+  },
+  "Inverbervie, Kincardine, Scotland": null,
+  "Belfast, Northern Ireland": {
+    "lat": 54.5975804,
+    "lon": -5.9277097
+  },
+  "Hardwick, Buckinghamshire, England": {
+    "lat": 51.8623915,
+    "lon": -0.8433467
+  },
+  "Cottingham (near Hull), England": null,
+  "Lisburn, Co Antrim, Ireland": {
+    "lat": 54.5112856,
+    "lon": -6.046717
+  },
+  "East Heddon, Northumberland, England": {
+    "lat": 54.9958357,
+    "lon": -1.8039476
+  },
+  "Coolattin, Kilbehenny, Co. Limerick, Ireland": null,
+  "West Linton, Peebleshire, Scotland": null,
+  "Possum Brush, Manning Valley, New South Wales, Australia": null,
+  "St Austell, Cornwall, England": {
+    "lat": 50.338466,
+    "lon": -4.7882104
+  },
+  "Wood Eaton (4km north of Oxford), England": null,
+  "Lichfield, Staffordshire, England": {
+    "lat": 52.6843696,
+    "lon": -1.8275286
+  },
+  "Lidcott, near Launceston, Cornwall, England": null,
+  "Hoddom, Dumfries, Scotland": {
+    "lat": 55.0443434,
+    "lon": -3.3226939
+  },
+  "Hindley, Lancashire, England": {
+    "lat": 53.7922469,
+    "lon": -2.6785745
+  },
+  "Milltown of Rothiemay, Moray, Scotland": {
+    "lat": 57.5225539,
+    "lon": -2.7566902
+  },
+  "Tower Ward, London, England": {
+    "lat": 51.5105025,
+    "lon": -0.0785173
+  },
+  "Bluefield, West Virginia, USA": {
+    "lat": 37.2698395,
+    "lon": -81.2223195
+  },
+  "Woburn, Bedfordshire, England": {
+    "lat": 51.9887486,
+    "lon": -0.6192052
+  },
+  "Denby (near Derby), Derbyshire, England": null,
+  "Westhoughton, near Bolton, Greater Manchester, England": null,
+  "Alresford, Hampshire, England": {
+    "lat": 51.0895586,
+    "lon": -1.1629772
+  },
+  "Bloomsbury, London, England": {
+    "lat": 51.5210963,
+    "lon": -0.1289635
+  },
+  "Helensburgh, Dunbartonshire, Scotland": null,
+  "North Tawton, Devon, England": {
+    "lat": 50.7982054,
+    "lon": -3.8841822
+  },
+  "Maldon, Victoria, Australia": {
+    "lat": -36.9963144,
+    "lon": 144.0689457
+  },
+  "Belfast, Ireland": {
+    "lat": 54.5975804,
+    "lon": -5.9277097
+  },
+  "Slough, Buckinghamshire, England": {
+    "lat": 51.5098978,
+    "lon": -0.5357882
+  },
+  "Bartlesville, Oklahoma, USA": {
+    "lat": 36.7421089,
+    "lon": -95.9528877
+  },
+  "Chryston, Lanarkshire, Scotland": {
+    "lat": 55.9064621,
+    "lon": -4.0993107
+  },
+  "Ormesby, Yorkshire, England": {
+    "lat": 53.7905912,
+    "lon": -1.419482
+  },
+  "Paisley, Renfrewshire, Scotland": {
+    "lat": 55.8455828,
+    "lon": -4.4239646
+  },
+  "Kennington, Surrey, England": null,
+  "Merriam near Kansas City, Kansas, USA": null,
+  "Girvan, Ayrshire, Scotland": {
+    "lat": 55.2413151,
+    "lon": -4.8553579
+  },
+  "Bodicote, near Banbury, Oxfordshire, England": null,
+  "Beckenham, Kent, England": {
+    "lat": 51.3751615,
+    "lon": 0.6282967
+  },
+  "Peakirk (near Peterborough), England": null,
+  "Weybridge, Surrey, England": {
+    "lat": 51.3727175,
+    "lon": -0.4549297
+  },
+  "Largo, Fife, Scotland": null,
+  "Swansea, Wales": {
+    "lat": 51.6195955,
+    "lon": -3.9459248
+  },
+  "Leith, near Edinburgh, Scotland": null,
+  "Gleghornie (near Haddington), Scotland": null,
+  "Bridge of Allan, near Stirling, Scotland": null,
+  "Cambuslang, Glasgow, Scotland": {
+    "lat": 55.8285194,
+    "lon": -4.1708171
+  },
+  "Weydale, Thurso, Caithness, Scotland": null,
+  "Rabat, Morocco": {
+    "lat": 34.0218454,
+    "lon": -6.8408929
+  },
+  "Muthill, Perthshire, Scotland": null,
+  "Merchiston Castle, Edinburgh, Scotland": {
+    "lat": 55.9333409,
+    "lon": -3.2138918
+  },
+  "Luton, Bedfordshire, England": {
+    "lat": 51.9059247,
+    "lon": -0.3940818
+  },
+  "Southwick, Sussex, England": {
+    "lat": 50.8345258,
+    "lon": -0.2383308
+  },
+  "Benvie (near Dundee), Scotland": null,
+  "Burnham-on-Sea, Somerset, England": {
+    "lat": 51.2377356,
+    "lon": -2.998695
+  },
+  "St Mary Woolnoth, London, England": {
+    "lat": 51.5127597,
+    "lon": -0.0880229
+  },
+  "Caputh, Perthshire, Scotland": null,
+  "Belfast (Port Fairy), Victoria, Australia": {
+    "lat": -38.3607231,
+    "lon": 142.259777
+  },
+  "Edmonton, London, England": {
+    "lat": 51.6267968,
+    "lon": -0.0769118
+  },
+  "Auchencairn near Kirkcudbright, Kirkcudbrightshire, Scotland": null,
+  "(possibly) Halifax, Yorkshire, England": null,
+  "Parkhead, near Glasgow, Scotland": null,
+  "Huddersfield, Yorkshire, England": {
+    "lat": 53.6466645,
+    "lon": -1.7822482
+  },
+  "Kilmarnock, Scotland": {
+    "lat": 55.6100589,
+    "lon": -4.4964652
+  },
+  "Morrilton, Arkansas, USA": {
+    "lat": 35.154026,
+    "lon": -92.7429266
+  },
+  "Ottawa, Kansas, USA": {
+    "lat": 39.1273653,
+    "lon": -97.6568094
+  },
+  "Minneapolis, Minnesota, USA": {
+    "lat": 44.9772995,
+    "lon": -93.2654692
+  },
+  "New Bedford, Massachusetts, USA": {
+    "lat": 41.6362152,
+    "lon": -70.934205
+  },
+  "Bridge-of-Weir, Kilbarchan (near Paisley), Scotland": null,
+  "Ashford, Kent, England": {
+    "lat": 51.148555,
+    "lon": 0.8722566
+  },
+  "Shandrum, County Limerick, Ireland": null,
+  "Logie (near Cupar), Scotland": null,
+  "Fawsley (4 km S of Daventry), Northamptonshire, England": null,
+  "Langford Grove (near Maldon), Essex, England": null,
+  "Kinross, Scotland": {
+    "lat": 56.2033706,
+    "lon": -3.4214864
+  },
+  "Montrose, Angus, Scotland": {
+    "lat": 56.7114295,
+    "lon": -2.4681544
+  },
+  "Montrose, Scotland": {
+    "lat": 56.7114295,
+    "lon": -2.4681544
+  },
+  "Morley, Yorkshire, England": {
+    "lat": 53.7440745,
+    "lon": -1.5988598
+  },
+  "Fermos, Erzvilkas, Jurbarkas, Lithuania": null,
+  "Whitelee, Pendle Forest, Lancashire, England": null,
+  "Tel Aviv, British Mandate for Palestine (now Israel)": null,
+  "Borgentreich (near Warburg), Germany": null,
+  "Tulancingo, Hidalgo, Mexico": {
+    "lat": 20.0839585,
+    "lon": -98.3635381
+  },
+  "Novelda, Alicante, Spain": {
+    "lat": 38.3842144,
+    "lon": -0.7674146
+  },
+  "Nustrup (18 km W of Haderslev), Denmark": null,
+  "Tuxpan, Veracruz, Mexico": {
+    "lat": 20.9298337,
+    "lon": -97.3936617
+  },
+  "Manizales, Colombia": {
+    "lat": 5.0743694,
+    "lon": -75.5081167
+  },
+  "CÃ¡diz, Spain": {
+    "lat": 42.8734659,
+    "lon": -8.9156122
+  },
+  "MÃ©rtola, Alentejo, Portugal": null,
+  "St Peter (near Klagenfurt), Austria": null,
+  "St Hilaire-Cottes, Pas-de-Calais, France": {
+    "lat": 50.5703444,
+    "lon": 2.4140311
+  },
+  "Saint-AndrÃ© de Sangonis, HÃ©rault, France": null,
+  "Whichford, near Chipping Norton, Warwickshire, England": null,
+  "Gainsville, Florida, USA": {
+    "lat": 29.6194176,
+    "lon": -82.3601179
+  },
+  "Auxerre, Bourgogne, France": {
+    "lat": 47.7961287,
+    "lon": 3.570579
+  },
+  "Magheragall, County Antrim, Ireland": {
+    "lat": 54.5312753,
+    "lon": -6.1324913
+  },
+  "Saint-Omer, France": {
+    "lat": 50.7515771,
+    "lon": 2.2534183
+  },
+  "Turin, Sardinia-Piedmont (now Italy)": null,
+  "Clermont-Ferrand, France": {
+    "lat": 45.7774551,
+    "lon": 3.0819427
+  },
+  "Waycross, Ware County, Georgia, USA": {
+    "lat": 31.2135511,
+    "lon": -82.3540178
+  },
+  "Brussels, French Empire (now Belgium)": null,
+  "Tarascon, Bouches-du-RhÃ´ne, France": null,
+  "Unsworth, near Bury, Lancashire, England": null,
+  "Brody, Galicia (now Ukraine)": null,
+  "CourthÃ©zon, Vaucluse, France": null,
+  "Ypres, Belgium": {
+    "lat": 50.8521947,
+    "lon": 2.8846047
+  },
+  "Forfar, Angus, Scotland": {
+    "lat": 56.6443013,
+    "lon": -2.888212
+  },
+  "Shelby County, Kentucky, USA": {
+    "lat": 38.2215625,
+    "lon": -85.2111267
+  },
+  "Eccles (near Manchester), England": null,
+  "Savannah-La-Mar, Jamaica": {
+    "lat": 18.2257105,
+    "lon": -78.1291844
+  },
+  "Skomorokhy, Sokal, Galicia (now Ukraine)": null,
+  "Grad on Bled, Austrian Empire (now Slovenia)": null,
+  "Lichtensteig, St Gallen, Switzerland": {
+    "lat": 47.3231436,
+    "lon": 9.0874862
+  },
+  "Wolsztyn, Poland": {
+    "lat": 52.11725,
+    "lon": 16.1126622
+  },
+  "Madrid, Spain": {
+    "lat": 40.4167047,
+    "lon": -3.7035825
+  },
+  "Palencia (now Spain)": null,
+  "Barcelona, Venezuela": {
+    "lat": 10.1325951,
+    "lon": -64.6819583
+  },
+  "Vrsac, Vojvodina, Yugoslavia (now Serbia)": null,
+  "Toivakka, Finland": {
+    "lat": 62.0962173,
+    "lon": 26.0804935
+  },
+  "Sainte-Marie-aux-Mines (near Colmar), France": null,
+  "Thaon, Calvados, France": {
+    "lat": 49.2576169,
+    "lon": -0.4541322
+  },
+  "Blet, Cher, France": {
+    "lat": 46.8956307,
+    "lon": 2.7315391
+  },
+  "Mantes-sur-Seine, France": {
+    "lat": 48.998991,
+    "lon": 1.6502747
+  },
+  "Brookline, Boston, Massachusetts, USA": {
+    "lat": 42.3461245,
+    "lon": -71.1002643
+  },
+  "BogotÃ¡, Colombia": {
+    "lat": 4.6534109,
+    "lon": -74.0836547
+  },
+  "Logrono, Spain": {
+    "lat": 42.4661196,
+    "lon": -2.4396676
+  },
+  "Wilchingen (Schaffhausen canton), Switzerland": null,
+  "GyÃ¶r, Hungary": null,
+  "Soro, Denmark": {
+    "lat": 55.4365822,
+    "lon": 11.5629363
+  },
+  "Elberfeld (now Wuppertal), Duchy of Berg (now Germany)": null,
+  "Mittelschmiedeberg (near Annaberg), Germany": null,
+  "Gocovo, Roznava District, Kingdom of Hungary (now Slovakia)": null,
+  "Schoterland, now Heerenveen, The Netherlands": null,
+  "Kerala, India": {
+    "lat": 10.3528744,
+    "lon": 76.5120396
+  },
+  "Benares (now Varanasi), India": null,
+  "BeneÅ¡ov, Austria-Hungary (now Czech Republic)": null,
+  "Red Bank, New Jersey, USA": {
+    "lat": 40.3470543,
+    "lon": -74.0643065
+  },
+  "Kristiania, now Oslo, Norway": null,
+  "MÃ¼llerdorf, near Halle, Saxony, Germany": null,
+  "Jena, Germany": {
+    "lat": 50.9281717,
+    "lon": 11.5879359
+  },
+  "Langenthal, Bern, Switzerland": {
+    "lat": 47.2116019,
+    "lon": 7.788786
+  },
+  "Brunswick, Germany": {
+    "lat": 52.2646577,
+    "lon": 10.5236066
+  },
+  "Gera, ThÃ¼ringen, Germany": null,
+  "Chemnitz, Germany": {
+    "lat": 50.8323531,
+    "lon": 12.918914
+  },
+  "WolfenbÃ¼ttel, Brunswick, now Germany": null,
+  "Riga, Russia (now Latvia)": null,
+  "Schwanheim (near Bensheim), Hesse, Germany": null,
+  "Gars am Kamp, Lower Austria, Austria": {
+    "lat": 48.5951053,
+    "lon": 15.6594592
+  },
+  "Kasko, Vaasa, Finland": {
+    "lat": 63.0735016,
+    "lon": 21.6592281
+  },
+  "Imperial Free City of Rothenburg (now Rothenburg ob der Tauber, Germany)": null,
+  "Ostenfelde, Westphalia (now Germany)": null,
+  "Burtnieki, Latvia": {
+    "lat": 57.6951865,
+    "lon": 25.2751955
+  },
+  "White Sulphur Springs, Greenbrier County, West Virginia, USA": {
+    "lat": 37.7965149,
+    "lon": -80.2975734
+  },
+  "Stourbridge, Worcestershire, England": {
+    "lat": 52.3969858,
+    "lon": -2.2424269
+  },
+  "Creeslough, County Donegal, Ireland": {
+    "lat": 55.122438,
+    "lon": -7.9078234
+  },
+  "Szczuczyn, Poland (now Shchuchyn, Belarus)": null,
+  "Brzeziny, ÅÃ³dÅº Voivodeship, Russian Empire (now Poland)": null,
+  "Krzemieniec, Poland (now Kremenets, Ukraine)": null,
+  "CzÄstochowa, Russian Empire (now Poland)": null,
+  "Barnsley, Yorkshire, England": {
+    "lat": 53.5527719,
+    "lon": -1.4827755
+  },
+  "Winnsboro, South Carolina, USA": {
+    "lat": 34.3807012,
+    "lon": -81.0864776
+  },
+  "Tatebayashi, Gunma Prefecture, Japan": {
+    "lat": 36.2454338,
+    "lon": 139.5421576
+  },
+  "Shinshuku-mura (near Kiryu), Gumma Prefecture, Japan": null,
+  "Anju, South Pyongan, Korea (now North Korea)": null,
+  "Osaka, Wakayama Prefecture, Japan": {
+    "lat": 34.2547407,
+    "lon": 135.1395119
+  },
+  "Hokusei-cho (now Inabe, Mie Prefecture), Japan": null,
+  "RÃ¼sselsheim, Germany": null,
+  "Hyderabad, India": {
+    "lat": 17.360589,
+    "lon": 78.4740613
+  },
+  "Berlin-Wilmersdorf, Germany": {
+    "lat": 52.48137,
+    "lon": 13.3077406
+  },
+  "Hiroshima, Japan": {
+    "lat": 34.3917241,
+    "lon": 132.4517589
+  },
+  "Oslo, Norway": {
+    "lat": 59.9133301,
+    "lon": 10.7389701
+  },
+  "TarnÃ³w, Poland": null,
+  "Chekiang (now Zhejiang), China": null,
+  "Kiel, Germany": {
+    "lat": 54.3227085,
+    "lon": 10.135555
+  },
+  "BrÃ¼nn, Austria-Hungary (now Brno, Czech Republic)": null,
+  "Krefeld, Prussian Rhineland": null,
+  "Gilan (now in Iran)": null,
+  "Overschie (now a suburb of Rotterdam), Netherlands": null,
+  "Csaszlo, Szabolcs-Szatmar-Bereg, Hungary": {
+    "lat": 47.9142421,
+    "lon": 22.7224995
+  },
+  "Edde (N of Kaposvar), Hungary": null,
+  "RÃ¡koskeresztur, Budapest, Hungary": null,
+  "Sopron, Hungary": {
+    "lat": 47.6803063,
+    "lon": 16.5983457
+  },
+  "Duc Tho District, Ha Tinh Province, Vietnam": {
+    "lat": 18.4886823,
+    "lon": 105.6052929
+  },
+  "Hong Kong, now China": null,
+  "KolozsvÃ¡r, Hungary (now Cluj-Napoca, Romania)": null,
+  "Buda, Hungary": {
+    "lat": 47.4938673,
+    "lon": 19.0417582
+  },
+  "Bologna, Italy": {
+    "lat": 44.4938203,
+    "lon": 11.3426327
+  },
+  "Southsea, Portsmouth, Hampshire, England": {
+    "lat": 50.7804271,
+    "lon": -1.0871556
+  },
+  "Helsingfors, Finland, Russian Empire (now Helsinki, Finland)": null,
+  "Hedemora, Dalarna, Sweden": {
+    "lat": 60.2777918,
+    "lon": 15.9885408
+  },
+  "MjÃ¤llby, Blekinge, Sweden": null,
+  "Atlanta, Georgia, USA": {
+    "lat": 33.7544657,
+    "lon": -84.3898151
+  },
+  "Antony, Hauts-de-Seine, France": {
+    "lat": 48.753613,
+    "lon": 2.2958034
+  },
+  "Artemovsk (now Bakhmut) Donetsk Province, Ukraine": null,
+  "Nolay, Burgundy, France": null,
+  "Moschin (near Posen), Prussia (now PoznaÅ, Poland)": null,
+  "Lundarreykjadalur, Iceland": null,
+  "DÃ¼ren, French Empire (now Germany)": null,
+  "Vejle, Denmark": {
+    "lat": 55.707931,
+    "lon": 9.5329419
+  },
+  "Juva, Finland": {
+    "lat": 61.8961369,
+    "lon": 27.859727
+  },
+  "Adelaide, South Australia, Australia": {
+    "lat": -34.9281805,
+    "lon": 138.5999312
+  },
+  "Independence, Iowa, USA": {
+    "lat": 42.4685661,
+    "lon": -91.8891187
+  },
+  "Vinci, near Empolia  (now Italy)": null,
+  "Genoa, French Empire (now Italy)": null,
+  "Sydney, Australia": {
+    "lat": -33.8698439,
+    "lon": 151.2082848
+  },
+  "Vinnytsya, Ukraine": {
+    "lat": 49.2394952,
+    "lon": 28.5113787
+  },
+  "Gallipoli, Lecce, Italy": {
+    "lat": 40.05672,
+    "lon": 17.996423
+  },
+  "Ostashkov, Russia": {
+    "lat": 57.1557583,
+    "lon": 33.1013213
+  },
+  "Asperhofen (E of Herzogenburg), Austria": null,
+  "KrakÃ³w, Austria-Hungary (now Poland)": null,
+  "GyÃ¶ngyÃ¶s, Hungary": null,
+  "Liegnitz, Prussia (now Legnica, Poland)": null,
+  "Krefeld, German": {
+    "lat": 51.3331205,
+    "lon": 6.5623343
+  },
+  "Whittlesford (8km south of Cambridge), England": null,
+  "Bad Radkersburg, Styria, Austria": {
+    "lat": 46.6880556,
+    "lon": 15.9880546
+  },
+  "Reporoa, New Zealand": {
+    "lat": -38.4346745,
+    "lon": 176.3466687
+  },
+  "Rich Hill, Bates, Missouri, USA": {
+    "lat": 38.0964191,
+    "lon": -94.3610616
+  },
+  "(possibly) Miletus, Asia Minor": null,
+  "Baku, Azerbaijan, Russian Empire": null,
+  "Gomel, Belarus": {
+    "lat": 52.4238936,
+    "lon": 31.0131698
+  },
+  "Kutaisi, Georgia": {
+    "lat": 42.2596791,
+    "lon": 42.6633738
+  },
+  "Akhal-Senaki, Georgia": null,
+  "Bagnols now Bagnols sur CÃ¨ze, Provence, France": null,
+  "Newcastle upon Tyne, Northumberland, England": {
+    "lat": 54.9751136,
+    "lon": -1.6117595
+  },
+  "Shaanxi province, China": {
+    "lat": 35.5895959,
+    "lon": 109.3013107
+  },
+  "Yuanhe (now Suzhou, Jiangsu province), China": null,
+  "Haining, Zhejiang Province, China": null,
+  "Ta-hsing (now Beijing), China": null,
+  "Beaufort West, Cape Province, South Africa": {
+    "lat": -32.353611,
+    "lon": 22.580556
+  },
+  "PÃ©cs, Hungary": null,
+  "Lo-yang,(now Luoyang), China": null,
+  "Bennington, Oklahoma, USA": {
+    "lat": 34.0045412,
+    "lon": -96.0377597
+  },
+  "Clontarf, Dublin, Ireland": {
+    "lat": 53.3608138,
+    "lon": -6.1968538
+  },
+  "Chagrin Falls, Ohio, USA": {
+    "lat": 41.436589,
+    "lon": -81.3855058
+  },
+  "Pest (now part of Budapest), Hungary": null,
+  "Bergamo, Lombardo-Veneto (now Italy)": null,
+  "Hampstead, London, England": {
+    "lat": 51.5566155,
+    "lon": -0.1782918
+  },
+  "Arnsberg, Westphalia, Germany": {
+    "lat": 51.4002384,
+    "lon": 8.0605908
+  },
+  "Mirecourt, Vosges, France": {
+    "lat": 48.3005302,
+    "lon": 6.1312974
+  },
+  "Mutzig, Alsace": {
+    "lat": 48.5395474,
+    "lon": 7.4555778
+  },
+  "Le Havre, France": {
+    "lat": 49.4938975,
+    "lon": 0.1079732
+  },
+  "Colfontaine, near Nangis, Brie, France": null,
+  "Montpellier, France": {
+    "lat": 43.6112422,
+    "lon": 3.8767337
+  },
+  "Ris-Orangis (near Paris), France": null,
+  "Neuilly-sur-Seine, Paris, France": {
+    "lat": 48.8777548,
+    "lon": 2.2603775
+  },
+  "Dieppe, France": {
+    "lat": 49.9246182,
+    "lon": 1.0791444
+  },
+  "Port-au-Prince, Saint-Domingue, now Haiti": null,
+  "Ealing, London, England": {
+    "lat": 51.5126553,
+    "lon": -0.3051952
+  },
+  "Saint Cloud, near Paris, France": null,
+  "Toulouse, Haute-Garonne, France": {
+    "lat": 43.6044622,
+    "lon": 1.4442469
+  },
+  "Rennes, France": {
+    "lat": 48.1113387,
+    "lon": -1.6800198
+  },
+  "Girona, Spain": {
+    "lat": 41.9793006,
+    "lon": 2.8199439
+  },
+  "Sansepolcro (now Italy)": null,
+  "Morlanwelz, Belgium": {
+    "lat": 50.4550743,
+    "lon": 4.2425425
+  },
+  "Croze, Creuse, France": {
+    "lat": 45.8176703,
+    "lon": 2.1608842
+  },
+  "Hildesheim, Germany": {
+    "lat": 52.1527188,
+    "lon": 9.9518083
+  },
+  "Goddelau, Darmstadt in Hessen, Germany": null,
+  "Leningrad (now St Petersburg), Russia": null,
+  "Freising, near Munich, Germany": null,
+  "Grasswil, Bern, Switzerland": {
+    "lat": 47.1423921,
+    "lon": 7.6671445
+  },
+  "Nagyszombat, Hungary (now Trnava, Slovakia)": null,
+  "Parma (now Italy)": null,
+  "Pavia, Italy": {
+    "lat": 45.0368546,
+    "lon": 9.1378251
+  },
+  "Pavia, Lombardy (now Italy)": null,
+  "Viterbo, Italy": {
+    "lat": 42.4929522,
+    "lon": 11.9488136
+  },
+  "ChambÃ©ry, Savoy, France": null,
+  "Bucksport, South Carolina, USA": {
+    "lat": 33.672867,
+    "lon": -79.1125629
+  },
+  "York, Pennsylvania, USA": {
+    "lat": 39.962493,
+    "lon": -76.7276989
+  },
+  "Toledo, Ohio, USA": {
+    "lat": 41.6529143,
+    "lon": -83.5378173
+  },
+  "Orenburg, Russia": {
+    "lat": 51.7671248,
+    "lon": 55.0978517
+  },
+  "NagykÃ¶rÃ¶s, Hungary": null,
+  "Watergraafsmeer, near Amsterdam, Netherlands": null,
+  "Sialkot, India (now Pakistan)": null,
+  "Sangamagrama (near Cochin), Kerala, India": null,
+  "PehuajÃ³, Argentina": null,
+  "Park Falls, Wisconsin, USA": {
+    "lat": 45.9338249,
+    "lon": -90.4517454
+  },
+  "possibly Mysore, India": null,
+  "Maseru, Basutoland (now Lesotho)": null,
+  "(possibly) Khwarazm (now Kara-Kalpakskaya, Uzbekistan)": null,
+  "Martos, JaÃ©n, Spain": null,
+  "Asturias, Spain": {
+    "lat": 43.3133868,
+    "lon": -5.94192
+  },
+  "Sant'Ana do Livramento, Rio Grande do Sul, Brazil": {
+    "lat": -30.8894097,
+    "lon": -55.5317694
+  },
+  "Melle, Deux-SÃ¨vres, France": null,
+  "Cairneyhill, Fife, Scotland": {
+    "lat": 56.0601071,
+    "lon": -3.5331476
+  },
+  "Letham, Angus, Scotland": {
+    "lat": 56.6288329,
+    "lon": -2.7695401
+  },
+  "Halifax, Yorkshire, England": {
+    "lat": 53.7229229,
+    "lon": -1.8604874
+  },
+  "Tamworth, Stafordshire, England": null,
+  "Milan, Habsburg Empire (now Italy)": null,
+  "Schweidnitz, Silesia (now Åwidnica, Poland)": null,
+  "Nantucket, Massachusetts, USA": {
+    "lat": 41.2727997,
+    "lon": -70.0951867
+  },
+  "Panitzsch, near Leipzig, Germany": null,
+  "Turda, Romania": {
+    "lat": 46.5685214,
+    "lon": 23.7853643
+  },
+  "Bromberg, Prussian partition of Poland (now Bydgoszcz, Poland)": null,
+  "VorderbrÃ¼hl, near Vienna, Austria": null,
+  "Ouagadougou, Burkina Faso": {
+    "lat": 12.3681873,
+    "lon": -1.5270944
+  },
+  "OizÃ©, Maine, France": null,
+  "Ragusa, Dalmatia (now Dubrovnik, Croatia)": null,
+  "Neapolis, Palestine (called Shechem in Bible, now Nablus, Israel)": null,
+  "Lucca, Tuscany (now Italy)": null,
+  "Montevideo, Uruguay": {
+    "lat": -34.9058916,
+    "lon": -56.1913095
+  },
+  "Lausanne, Switzerland": {
+    "lat": 46.5218269,
+    "lon": 6.6327025
+  },
+  "Krzemieniec, Poland, Russian Empire (now Kremenets, Ukraine)": null,
+  "Starokonstantinov, Ukraine": {
+    "lat": 49.7528457,
+    "lon": 27.1653412
+  },
+  "Ribemont, France": {
+    "lat": 49.7959192,
+    "lon": 3.4588395
+  },
+  "Waterville, Maine, USA": {
+    "lat": 44.5524176,
+    "lon": -69.6313607
+  },
+  "Kansas City, Jackson County, Missouri, USA": {
+    "lat": 39.100105,
+    "lon": -94.5781416
+  },
+  "Brunswick, Brunswick-LÃ¼neburg, Germany": null,
+  "Pinnow, Germany": {
+    "lat": 53.6097486,
+    "lon": 13.1424367
+  },
+  "Le Roy, Calhoun, Michigan, USA": null,
+  "Aynho, Northamptonshire, England": {
+    "lat": 51.9948605,
+    "lon": -1.2520728
+  },
+  "Hillsboro, Texas, USA": {
+    "lat": 32.0108506,
+    "lon": -97.1303744
+  },
+  "Wickwar, Gloucestershire, England": {
+    "lat": 51.5853895,
+    "lon": -2.4129632
+  },
+  "Crown, Pennsylvania, USA": {
+    "lat": 41.3897854,
+    "lon": -79.270876
+  },
+  "Hastings, Nebraska, USA": {
+    "lat": 40.5861322,
+    "lon": -98.3898883
+  },
+  "Gateshead-on-Tyne, England": {
+    "lat": 54.9612513,
+    "lon": -1.6855298
+  },
+  "Jedburgh, Roxburghshire, Scotland": null,
+  "Carmarthen, Wales": {
+    "lat": 51.8591257,
+    "lon": -4.3115907
+  },
+  "Waltham, Massachusetts, USA": {
+    "lat": 42.3756401,
+    "lon": -71.2358004
+  },
+  "Forreston, Illinois, USA": {
+    "lat": 42.1261742,
+    "lon": -89.579115
+  },
+  "Tehran, Iran": {
+    "lat": 35.6892523,
+    "lon": 51.3896004
+  },
+  "Obu, Aichi Prefecture, Japan": {
+    "lat": 35.0165825,
+    "lon": 136.954545
+  },
+  "Chiusa di Pesio (Cuneo), Italy": {
+    "lat": 44.32643,
+    "lon": 7.675436
+  },
+  "Macerata, Papal States (now Italy)": null,
+  "Ennis, County Clare, Ireland": {
+    "lat": 52.8435152,
+    "lon": -8.983747
+  },
+  "Rothesay, Isle of Bute, Scotland": {
+    "lat": 55.8327525,
+    "lon": -5.0470975
+  },
+  "MilÃ­nov (near SuÅ¡ice), South Bohemia (now Czech Republic)": null,
+  "Fortaleza, CearÃ¡, Brazil": {
+    "lat": -3.7304512,
+    "lon": -38.5217989
+  },
+  "BÃ©ja, Tunisia": {
+    "lat": 9.05293,
+    "lon": 38.743065
+  },
+  "Chiswick, London, England": {
+    "lat": 51.4811465,
+    "lon": -0.2681753
+  },
+  "Maligny, Yonne, Bourgogne, France": {
+    "lat": 47.8695165,
+    "lon": 3.7643034
+  },
+  "Kettering, Northamptonshire, England": {
+    "lat": 52.3994233,
+    "lon": -0.728004
+  },
+  "Leeuwarden, Netherlands": {
+    "lat": 53.2005936,
+    "lon": 5.7918548
+  },
+  "Handog, Lit Parish, JÃ¤mtland Province, Sweden": null,
+  "Lercara Friddi, Palermo, Italy": {
+    "lat": 37.746946,
+    "lon": 13.604854
+  },
+  "Danzig, Germany (now GdaÅsk, Poland)": null,
+  "Baku, Azerbaijan": {
+    "lat": 40.3755885,
+    "lon": 49.8328009
+  },
+  "Madison, Wisconsin, USA": {
+    "lat": 43.074761,
+    "lon": -89.3837613
+  },
+  "Chelsea, London, England": {
+    "lat": 51.4875167,
+    "lon": -0.1687007
+  },
+  "Mannheim, Baden, Germany": {
+    "lat": 49.4892913,
+    "lon": 8.4673098
+  },
+  "Kiel, Schleswig-Holstein (now  Germany)": null,
+  "Khimki, near Moscow, USSR (now Russia)": null,
+  "Xuangcheng, now Xuanzhou City, Anhui province, China": null,
+  "Xuangcheng, now Xuanzhou, Anhui province, China": null,
+  "Alopeconnesus, Asia Minor (now Turkey)": null,
+  "Berhampur, Bengal (now Odisha), India": null,
+  "Little Rock, Arkansas, USA": {
+    "lat": 34.7465071,
+    "lon": -92.2896267
+  },
+  "Newington Butts, Surrey (now London) England": null,
+  "Zenta, BÃ¡cska, Austria-Hungary (now Senta, Serbia)": null,
+  "GÃ¶ppingen, Baden-WÃ¼rtemberg, Germany": null,
+  "Esslingen, Germany": {
+    "lat": 48.7427584,
+    "lon": 9.3071685
+  },
+  "Epernon, France": {
+    "lat": 48.6101745,
+    "lon": 1.677222
+  },
+  "Bussy, Kanton Freiburg, Switzerland": {
+    "lat": 46.8353706,
+    "lon": 6.8879852
+  },
+  "Ambert, Basse-Auvergne, France": {
+    "lat": 45.7466869,
+    "lon": 3.5460281
+  },
+  "Palermo, Italy": {
+    "lat": 38.1112268,
+    "lon": 13.3524434
+  },
+  "Chiba, Japan": {
+    "lat": 35.549399,
+    "lon": 140.2647303
+  },
+  "Belgrade, Serbia": {
+    "lat": 44.8178131,
+    "lon": 20.4568974
+  },
+  "Boksitogorsk, Russia": {
+    "lat": 59.4729021,
+    "lon": 33.8489952
+  },
+  "Maliivka, Zolotonosha, Cherkasy Oblast, Ukraine": {
+    "lat": 49.6591709,
+    "lon": 32.177711
+  },
+  "Ostrolenka, Russian Empire (now OstroÅÄka, Poland)": null,
+  "Kiev, Soviet Empire (now Kyiv, Ukraine)": null,
+  "Chovnitsy, (now Kivertsi) Ukraine": null,
+  "Shatura, Russia": {
+    "lat": 55.578403,
+    "lon": 39.5437584
+  },
+  "Pashennaya (now Poltava oblast), Ukraine": null,
+  "Krasavka, Balashov, Saratov Oblast, Russia": null,
+  "Sedbergh, Yorkshire, England": {
+    "lat": 53.7930111,
+    "lon": -1.4856044
+  },
+  "Kostenica, Yugoslavia (now Montenegro)": null,
+  "Dundee, Angus, Scotland": {
+    "lat": 56.5479596,
+    "lon": -2.6160637
+  },
+  "Massa, Tuscany, Italy": {
+    "lat": 44.0359323,
+    "lon": 10.1395519
+  },
+  "Sarny, Ukraine": {
+    "lat": 51.3350028,
+    "lon": 26.6171275
+  },
+  "Philadelphia, USA": {
+    "lat": 39.9527237,
+    "lon": -75.1635262
+  },
+  "Bronx, New York City, USA": {
+    "lat": 40.8466508,
+    "lon": -73.8785937
+  },
+  "Canaveses, Portugal": {
+    "lat": 41.5042599,
+    "lon": -7.36286
+  },
+  "Brooklyn, New York City, New York, USA": {
+    "lat": 40.6526006,
+    "lon": -73.9497211
+  },
+  "Pokotilova (near Uman), Ukraine": null,
+  "Shiba, Edo (now Tokyo), Japan": null,
+  "Tus, Khorasan (now Iran)": null,
+  "Amioun, Lebanon": {
+    "lat": 34.3004082,
+    "lon": 35.816685
+  },
+  "Winnipeg, Manitoba, Canada": {
+    "lat": 49.8955367,
+    "lon": -97.1384584
+  },
+  "Bisley, Gloucester, England": {
+    "lat": 51.827454,
+    "lon": -2.2472037
+  },
+  "Cherikov, Russian Empire (now Belarus)": null,
+  "Melitopol, Zaporozhye oblast, Ukraine": null,
+  "West Loch Tarbert, Argyll, Scotland": {
+    "lat": 55.8009606,
+    "lon": -5.5040941
+  },
+  "Ballarat, Victoria, Australia": {
+    "lat": -37.5623013,
+    "lon": 143.8605645
+  },
+  "Kensington Gore, London, England": {
+    "lat": 51.5014958,
+    "lon": -0.1798971
+  },
+  "Westward Ho!, Devon, England": {
+    "lat": 51.0411656,
+    "lon": -4.2315065
+  },
+  "Sunderland, Tyne & Wear, England": {
+    "lat": 54.9541136,
+    "lon": -1.408561
+  },
+  "Kues, Trier (now Germany)": null,
+  "Allemagne (west of Riez), France": null,
+  "Thurlstone, Yorkshire, England": {
+    "lat": 53.5285625,
+    "lon": -1.6481335
+  },
+  "TÃ¢rgoviÈte, Dambovita County, Romania": null,
+  "Dusheti Russian Empire (now Georgia)": null,
+  "SÃ©zanne, Haute Marne, France": null,
+  "Rumigny-en-ThiÃ©rache, France": null,
+  "Ferryport-on-Tay, now Tayport, Scotland": null,
+  "ToruÅ, Poland": null,
+  "Eutin, Holstein, Holy Roman Empire (now Germany)": null,
+  "Gerasa, Roman Syria (possibly now Jarash, Jordan)": null,
+  "FrindÃ¶e (near Stavanger), Norway": null,
+  "Orslev, Denmark": {
+    "lat": 55.0414258,
+    "lon": 11.9638538
+  },
+  "Slagelse, near Soro, Sjaelland, Denmark": null,
+  "Holbrook, Derbyshire, England": {
+    "lat": 52.9998136,
+    "lon": -1.4588781
+  },
+  "Bromley, Kent, England": {
+    "lat": 51.0938993,
+    "lon": 0.8528776
+  },
+  "Kamianets-Podilskyi, Ukraine": {
+    "lat": 48.6781294,
+    "lon": 26.5854027
+  },
+  "Rassnova: near BrÃ¼nn, Austria-Hungary (now Brno, Czech Republic)": null,
+  "Orekhovo, Vladimir gubernia, Russia": null,
+  "Lysovsk, Novo-Burassk, Saratov, Russia": null,
+  "Nizhny Novgorod (was Gorky from 1932-1990), Russia": null,
+  "Irkutsk, Russia": {
+    "lat": 52.2891225,
+    "lon": 104.279829
+  },
+  "Nizhny Novgorod, Russia": {
+    "lat": 56.2769292,
+    "lon": 43.9212981
+  },
+  "Sverdlovsk, now Yekaterinburg, Russia": null,
+  "Ustyuzhna near Vologda, Russia": null,
+  "Tiflis, Russian Empire (now Tbilisi, Georgia)": null,
+  "Trikkantiyur (near Tirur), Kerala, India": null,
+  "Enugu, Nigeria": {
+    "lat": 6.4499833,
+    "lon": 7.5000007
+  },
+  "Blairgowrie, Perthshire, Scotland": null,
+  "Columbia, Missouri, USA": {
+    "lat": 38.951883,
+    "lon": -92.3337366
+  },
+  "Prinknash Park, Upton St Leonards, Gloucestershire, England": {
+    "lat": 51.821667,
+    "lon": -2.1728164
+  },
+  "Lynn, Massachusetts, USA": {
+    "lat": 42.466763,
+    "lon": -70.9494939
+  },
+  "BotoÈani, North Moldavia (now Romania)": null,
+  "Jerusalem, Israel": {
+    "lat": 31.7788242,
+    "lon": 35.2257626
+  },
+  "Lagos, Nigeria": {
+    "lat": 6.4550575,
+    "lon": 3.3941795
+  },
+  "Meldorf, Holstein (now Germany)": null,
+  "Fredrikstad, Norway": {
+    "lat": 59.1862012,
+    "lon": 10.8680241
+  },
+  "Kologriv, Kostroma province, Russia": null,
+  "OlmÃ¼tz, Austro-Hungarian Empire (now Olomouc, Czech Republic)": null,
+  "Bordeaux, France": {
+    "lat": 44.841225,
+    "lon": -0.5800364
+  },
+  "Yaxley, Huntingdonshire (now Cambridgeshire), England": null,
+  "Avoca, County Wicklow, Ireland": {
+    "lat": 52.8230209,
+    "lon": -6.2096184
+  },
+  "Camden Town, London, England": {
+    "lat": 51.5394397,
+    "lon": -0.1426957
+  },
+  "Linwood, Pennsylvania, USA": {
+    "lat": 39.8265655,
+    "lon": -75.4250468
+  },
+  "Cwmcarn, Monmouthshire, Wales": null,
+  "Santos, Brazil": {
+    "lat": -23.9335988,
+    "lon": -46.3286399
+  },
+  "Nishapur, Persia (now Iran)": null,
+  "Rieti, Lazio, Italy": {
+    "lat": 42.4147363,
+    "lon": 12.8858881
+  },
+  "BrianÃ§on, France": null,
+  "Village No 2, Kounrad district, Karaganda region, Russian Empire (now Kazakhstan)": null,
+  "Weimar, Germany": {
+    "lat": 50.9793301,
+    "lon": 11.3297921
+  },
+  "Kobrin, Russian Empire (now Belarus)": null,
+  "Otrada, Moscow gubernia (now oblast), Russia": null,
+  "Minsk, Russian Empire (now Belarus)": null,
+  "Bergzabern, Rhenish Palatinate (now Germany)": null,
+  "Nowy DwÃ³r Mazowiecki (near Warsaw), Russian Empire (now Poland)": null,
+  "MÃ¶rby, Stockholm, Sweden": null,
+  "GÃ¶rlitz, Germany": null,
+  "Frankenthal, Pfalz, Germany": {
+    "lat": 49.5353466,
+    "lon": 8.3541391
+  },
+  "Nordhausen im Harz, Germany": null,
+  "Decorah, Iowa, USA": {
+    "lat": 43.3041609,
+    "lon": -91.7859098
+  },
+  "Uhersky Ostroh, Austria-Hungary (now Czech Republic)": null,
+  "Frankfurt (Main), Germany": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "Szarvas, Hungary": {
+    "lat": 46.8621434,
+    "lon": 20.5521466
+  },
+  "Szepetnek, Hungary": {
+    "lat": 46.4335412,
+    "lon": 16.8994777
+  },
+  "WÃ¼rzburg, Germany": null,
+  "Hall (now Solbad Hall in Tirol), Austria": null,
+  "AlsÃ³szÃºcs, Hungary (now DolnÃ¡ SÃºÄa, Slovakia)": null,
+  "Mogilev, Russian Empire, now Belarus": null,
+  "ZabÅotÃ³w, Galicia, Austria-Hungary (now Ukraine)": null,
+  "Dalkeith, Midlothian, Scotland": {
+    "lat": 55.8943361,
+    "lon": -3.0700445
+  },
+  "Newport, Shropshire, England": {
+    "lat": 52.6895102,
+    "lon": -2.727743
+  },
+  "Clarecastle, County Clare, Ireland": {
+    "lat": 52.8155649,
+    "lon": -8.9664844
+  },
+  "Okatovo, Kaluga Region, Russia": null,
+  "Frederiksberg, Copenhagen, Denmark": {
+    "lat": 55.6726162,
+    "lon": 12.5499232
+  },
+  "Zervata, Kefalonia, Greece": null,
+  "possibly Alexandria, Egypt": null,
+  "Shalatula (near Attock), now Pakistan": null,
+  "Beijing, China": {
+    "lat": 40.190632,
+    "lon": 116.412144
+  },
+  "Milan, Austrian Habsburg (now Italy)": null,
+  "Valentano, Papal States (now Italy)": null,
+  "Alattur, Kerala, India": null,
+  "Constantinople (now Istanbul), Turkey": null,
+  "Hannover, Germany": {
+    "lat": 52.3744779,
+    "lon": 9.7385532
+  },
+  "Kiltullagh near Athenry, County Galway, Ireland": null,
+  "Cheadle Hulme (near Manchester), Cheshire, England": null,
+  "Broxburn, West Lothian, Scotland": {
+    "lat": 55.9343917,
+    "lon": -3.4693866
+  },
+  "Kings Cross, Sydney, New South Wales, Australia": {
+    "lat": -33.8744874,
+    "lon": 151.2222308
+  },
+  "Boulogne-Billancourt, near Paris, France": null,
+  "MÃ¼lheim an der Ruhr, Ruhr, Germany": null,
+  "Long Branch, New Jersey, USA": {
+    "lat": 40.3042778,
+    "lon": -73.9923596
+  },
+  "Tokaj, Hungary": {
+    "lat": 48.1235534,
+    "lon": 21.4113895
+  },
+  "Le Mans, Maine, France": {
+    "lat": 47.4838944,
+    "lon": -0.3468242
+  },
+  "Frankfurt, Germany": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "Heilbronn, Neckar, Germany": {
+    "lat": 49.4720238,
+    "lon": 8.6581539
+  },
+  "St Gall (now Sankt Gallen), Switzerland": null,
+  "Riverside, California, USA": {
+    "lat": 33.9824949,
+    "lon": -117.374238
+  },
+  "Belle-Maison, Marchin, near Huy, Belgium": null,
+  "Nice, France": {
+    "lat": 43.7009358,
+    "lon": 7.2683912
+  },
+  "Berlin, Prussia (now Germany)": null,
+  "Mantes-la-Jolie, Yvelines, France": {
+    "lat": 48.9891971,
+    "lon": 1.7140683
+  },
+  "Breslau, Hapsburg Empire (now WrocÅaw, Poland)": null,
+  "Bogorodsk (also called Noginsk), Russia": null,
+  "Decin, Czechoslovakia (now Czech Republic)": null,
+  "Brno, Czechoslovakia (now Czech Republic)": null,
+  "AlcÃ¡cer do Sal, Portugal": null,
+  "Astrakhan, Russia": {
+    "lat": 46.3498308,
+    "lon": 48.0326203
+  },
+  "Sculcoates, Kingston upon Hull, England": {
+    "lat": 53.761411,
+    "lon": -0.3444597
+  },
+  "Valparaiso, Chile": {
+    "lat": -32.5976089,
+    "lon": -70.8529753
+  },
+  "Sliema, Malta": {
+    "lat": 35.9127609,
+    "lon": 14.5020708
+  },
+  "Norwich, England": {
+    "lat": 52.6285576,
+    "lon": 1.2923954
+  },
+  "Muthill, near Crieff, Perthshire, Scotland": null,
+  "Cuts (near Noyon), Vermandois, France": null,
+  "Bratislava, Czechoslovakia (now Slovakia)": null,
+  "Leisnig, Saxony (now Germany)": null,
+  "Ashbourne, Derbyshire, England": {
+    "lat": 53.0173327,
+    "lon": -1.7342725
+  },
+  "Dunster, Somerset, England": {
+    "lat": 51.1834143,
+    "lon": -3.4439792
+  },
+  "Magherafelt, County Londonderry, Northern Ireland": {
+    "lat": 54.7544757,
+    "lon": -6.6078073
+  },
+  "Germeneitz (near Å vÄkÅ¡na), Å ilutÄ District Municipality, Klaipeda County, Lithuania": null,
+  "Ghent, Spanish Netherlands (now Belgium)": null,
+  "Elze, Hanover, Prussia, now Germany": null,
+  "ZweibrÃ¼cken, Germany": null,
+  "Byzantium (Turkey)": {
+    "lat": 41.006381,
+    "lon": 28.9758715
+  },
+  "Macclesfield, England": {
+    "lat": 53.2606635,
+    "lon": -2.1255158
+  },
+  "Borgo San Sepolcro (now Sansepolcro, Italy)": null,
+  "Le Croisic, France": {
+    "lat": 47.2933971,
+    "lon": -2.5094404
+  },
+  "Sedan, Ardennes, France": {
+    "lat": 49.7033759,
+    "lon": 4.9433409
+  },
+  "Etterbeek, Brussels, Belgium": {
+    "lat": 50.8361447,
+    "lon": 4.3861737
+  },
+  "Lorient, France": {
+    "lat": 47.7477336,
+    "lon": -3.3660907
+  },
+  "Beaumont-de-Lomagne, France": {
+    "lat": 43.8817933,
+    "lon": 0.9875923
+  },
+  "Champtercier, Provence, France": {
+    "lat": 44.0957817,
+    "lon": 6.161969
+  },
+  "Lauterbourg, France": {
+    "lat": 48.9751103,
+    "lon": 8.1767166
+  },
+  "Saint Malo, France": {
+    "lat": 48.649518,
+    "lon": -2.0260409
+  },
+  "Laon, France": {
+    "lat": 49.564665,
+    "lon": 3.620686
+  },
+  "MontluÃ§on, France": null,
+  "Caen, France": {
+    "lat": 49.1813403,
+    "lon": -0.3635615
+  },
+  "Beaumont-en-Auge, Normandy, France": {
+    "lat": 49.2782545,
+    "lon": 0.1109445
+  },
+  "Ornans, Franche-ComtÃ©, Spanish Habsburgs (now France)": null,
+  "Walka, Livonia (now Valka, Latvia)": null,
+  "Wormerveer, Netherlands": {
+    "lat": 52.4952218,
+    "lon": 4.7876566
+  },
+  "Modena, Duchy of Modena and Reggio (now Italy)": null,
+  "Pescia, Pistoia (now Italy)": null,
+  "Livorno (now Italy)": null,
+  "Elisavetgrad (now Kropyvnytskyi), Ukraine": null,
+  "Tyre (now Sur, Lebanon)": null,
+  "Apameia, near Shaizar, Syria": null,
+  "Calcutta (now Kolkata), India": null,
+  "Constantinople (now Istanbul), Byzantium (now Turkey)": null,
+  "Samos, Ionia": null,
+  "Klina, Yugoslavia (now Kosovo)": null,
+  "Bursa, Turkey": {
+    "lat": 39.9895878,
+    "lon": 28.8944669
+  },
+  "Sheikhupura, Pakistan": {
+    "lat": 31.7085285,
+    "lon": 73.9864014
+  },
+  "GjakovÃ«, Yugoslavia (now Kosovo)": null,
+  "Puzhou (Anyue), Szechwan province, China": null,
+  "Milton, Massachusetts, USA": {
+    "lat": 42.2501425,
+    "lon": -71.065573
+  },
+  "Oakwood, Texas, USA": {
+    "lat": 31.5850881,
+    "lon": -95.8497596
+  },
+  "Tudela, Emirate of Saragossa (now Spain)": null,
+  "CarÃºpano, Sucre state, Venezuela": null,
+  "Hoshangabad, Madhya Pradesh, India": {
+    "lat": 22.7545538,
+    "lon": 77.7198249
+  },
+  "Jammu, Jammu and Kashmir, India": {
+    "lat": 32.7185614,
+    "lon": 74.8580917
+  },
+  "Walla Walla, Washington, USA": {
+    "lat": 46.2055155,
+    "lon": -118.5174284
+  },
+  "Fedsden, Roydon, Essex, England": {
+    "lat": 51.7715253,
+    "lon": 0.0485571
+  },
+  "Morrisville, Pennsylvania, USA": {
+    "lat": 40.20824,
+    "lon": -74.7755065
+  },
+  "Overton, Yarmouth County, Nova Scotia, Canada": {
+    "lat": 43.8401302,
+    "lon": -66.1430115
+  },
+  "Schull, Co Cork, Ireland": {
+    "lat": 51.5271026,
+    "lon": -9.5469428
+  },
+  "Panipat, India": {
+    "lat": 29.3912753,
+    "lon": 76.9771675
+  },
+  "Brescia, Venetian Republic (now Italy)": null,
+  "Majorca (now Spain)": null,
+  "Saloniki, Ottoman Empire (now Thessaloniki, Greece)": null,
+  "National City, California, USA": {
+    "lat": 32.6781085,
+    "lon": -117.0991967
+  },
+  "Highgate, London, England": {
+    "lat": 51.5706446,
+    "lon": -0.1492397
+  },
+  "Owen Sound, Ontario, Canada": {
+    "lat": 44.5678105,
+    "lon": -80.9430094
+  },
+  "Stewiacke, Colchester County, Nova Scotia, Canada": {
+    "lat": 45.1371295,
+    "lon": -63.3483698
+  },
+  "Bournemouth, England": {
+    "lat": 50.7201514,
+    "lon": -1.8799118
+  },
+  "Far Rockaway, New York, USA": {
+    "lat": 40.6053825,
+    "lon": -73.7551326
+  },
+  "Palmer, Massachusetts, USA": {
+    "lat": 42.1574489,
+    "lon": -72.3299783
+  },
+  "Avellaneda, Buenos Aires, Argentina": {
+    "lat": -34.6648394,
+    "lon": -58.3628061
+  },
+  "Unfinden (near KÃ¶nigsberg, Lower Franconia (now in Bavaria) Germany)": null,
+  "Paderborn, Roman Empire, now Germany": null,
+  "VisÃ©, Spanish Netherlands (now Belgium)": null,
+  "La Haye (now Descartes),Touraine, France": null,
+  "Vitry-le-FranÃ§ois, Marne, France": null,
+  "MontbÃ©liard, Doubs, France": null,
+  "Adelaide, Australia": {
+    "lat": -34.9281805,
+    "lon": 138.5999312
+  },
+  "Fairfax, Virginia, USA": {
+    "lat": 38.8462236,
+    "lon": -77.3063733
+  },
+  "Brooklyn, New York City, USA": {
+    "lat": 40.6526006,
+    "lon": -73.9497211
+  },
+  "Cape Town, South Africa": {
+    "lat": -33.9288301,
+    "lon": 18.4172197
+  },
+  "Berlin-Charlottenburg, Germany": {
+    "lat": 52.5043157,
+    "lon": 13.3026447
+  },
+  "Lublinitz, Germany (now Lubliniec, Poland)": null,
+  "Braunschweig, duchy of Braunschweig (now Germany)": null,
+  "Greifswald, Prussia now Germany": null,
+  "Tyn-ton, Llangeinor, Glamorgan, Wales": null,
+  "Kansas City, Missouri, USA": {
+    "lat": 39.100105,
+    "lon": -94.5781416
+  },
+  "Celina, Ohio, USA": {
+    "lat": 40.5489358,
+    "lon": -84.5702338
+  },
+  "Manhattan, New York City, New York, USA": {
+    "lat": 40.7896239,
+    "lon": -73.9598939
+  },
+  "Santa Monica, California, USA": {
+    "lat": 34.0194704,
+    "lon": -118.491227
+  },
+  "Hamhung, South Hamgyong Province, Korea (now North Korea)": null,
+  "Carrickfergus, Ireland": {
+    "lat": 54.7136165,
+    "lon": -5.8073112
+  },
+  "Madeley, Shropshire, England": {
+    "lat": 52.6148489,
+    "lon": -2.3905408
+  },
+  "Lismore, County Waterford, Ireland": {
+    "lat": 52.1368018,
+    "lon": -7.9330526
+  },
+  "Goodwater, Coosa County, Alabama, USA": {
+    "lat": 33.0637706,
+    "lon": -86.0538692
+  },
+  "Saint Hippolyte-du-Fort, Gard, France": {
+    "lat": 43.9643602,
+    "lon": 3.8564364
+  },
+  "Villeurbanne, RhÃ´ne, France": null,
+  "Hemet, California, USA": {
+    "lat": 33.7475203,
+    "lon": -116.9719684
+  },
+  "Broughty Ferry, Angus, Scotland": {
+    "lat": 56.4684091,
+    "lon": -2.85034
+  },
+  "Vallejo, California, USA": {
+    "lat": 38.1040864,
+    "lon": -122.2566367
+  },
+  "Airdrie, Lanarkshire, Scotland": {
+    "lat": 55.8661181,
+    "lon": -3.9804785
+  },
+  "Helmstedt, Germany": {
+    "lat": 52.2089226,
+    "lon": 11.0028882
+  },
+  "Drumcondra, Dublin, Ireland": {
+    "lat": 53.3680988,
+    "lon": -6.2554727
+  },
+  "Johnstone, Renfrewshire, Scotland": {
+    "lat": 55.836517,
+    "lon": -4.5122831
+  },
+  "Stradbroke, Suffolk, England": {
+    "lat": 52.3175951,
+    "lon": 1.2728286
+  },
+  "Overton, Lecropt, Perthshire, Scotland": null,
+  "George Street, Edinburgh, Scotland": {
+    "lat": 55.9530151,
+    "lon": -3.2002351
+  },
+  "Freshwater, Isle of Wight, England": {
+    "lat": 50.6814402,
+    "lon": -1.5231372
+  },
+  "Falkirk, Stirlingshire, Scotland": {
+    "lat": 56.0858872,
+    "lon": -3.9054034
+  },
+  "Shawlands, Glasgow, Scotland": {
+    "lat": 55.8293953,
+    "lon": -4.2924269
+  },
+  "Mallow, Cork County, Ireland": {
+    "lat": 52.138912,
+    "lon": -8.6551101
+  },
+  "New Westminster, British Columbia, Canada": {
+    "lat": 49.2067726,
+    "lon": -122.9108818
+  },
+  "Garlieston, Wigtownshire, Scotland": null,
+  "Tenby, Wales": {
+    "lat": 51.6726128,
+    "lon": -4.7050443
+  },
+  "West Kilbride, Ayrshire, Scotland": {
+    "lat": 55.6964342,
+    "lon": -4.8513782
+  },
+  "Walworth, Surrey, England": null,
+  "Rochester, Oakland County, Michigan, USA": {
+    "lat": 42.680588,
+    "lon": -83.1338214
+  },
+  "BrÃ¼nn, Austria-Hungary, now Brno, Czech Republic": null,
+  "Ilchester, Somerset, England": {
+    "lat": 51.0029053,
+    "lon": -2.6823645
+  },
+  "Diocese of Durham, England": null,
+  "Burbage, Leicestershire, England": {
+    "lat": 52.5279306,
+    "lon": -1.3486528
+  },
+  "Calais, Maine, USA": {
+    "lat": 45.1890175,
+    "lon": -67.2781391
+  },
+  "Colchester, Essex, England": {
+    "lat": 51.8896903,
+    "lon": 0.8994651
+  },
+  "Dartmouth, Halifax, Nova Scotia, Canada": {
+    "lat": 44.6799707,
+    "lon": -63.5720232
+  },
+  "Joensuu, Russian Empire (now Finland)": null,
+  "NeuchÃ¢tel, Switzerland": null,
+  "Zakopane, Poland": {
+    "lat": 49.2969114,
+    "lon": 19.9504753
+  },
+  "MszczonÃ³w, Poland": null,
+  "Taft, California, USA": {
+    "lat": 35.1424671,
+    "lon": -119.456507
+  },
+  "Kurow, New Zealand": {
+    "lat": -44.7338879,
+    "lon": 170.4694561
+  },
+  "Yangzhou, Jiangsu province, China": {
+    "lat": 32.3968554,
+    "lon": 119.4077658
+  },
+  "Koslin, Prussia (now Koszalin, Poland)": null,
+  "Opocno, Bohemia, now Czech Republic": null,
+  "FÃ¤llanden (near ZÃ¼rich), Switzerland": null,
+  "Ragusa, Dubrovnik Republic (now Dubrovnik, Croatia)": null,
+  "Stilesville, Hendricks County, Indiana, USA": {
+    "lat": 39.6383798,
+    "lon": -86.6336135
+  },
+  "Ithaca, New York, USA": {
+    "lat": 42.4374175,
+    "lon": -76.5483724
+  },
+  "Jerusalem, British Mandate for Palestine (now Israel)": null,
+  "Podgorze, near KrakÃ³w, Austria-Hungary (now Poland)": null,
+  "Trieste, Austria (now Italy)": null,
+  "Calcutta, (now Kolkata) India": null,
+  "CuauhtÃ©moc, Mexico City, Mexico": null,
+  "BÃ¼dingen, Germany": {
+    "lat": 52.6086554,
+    "lon": 11.6412903
+  },
+  "Chester, Cheshire, England": {
+    "lat": 53.1908873,
+    "lon": -2.8908955
+  },
+  "Horncastle, Lincolnshire, England": {
+    "lat": 53.2087265,
+    "lon": -0.1169525
+  },
+  "Whitechapel, London, England": {
+    "lat": 51.5174861,
+    "lon": -0.0659685
+  },
+  "Fressingfield, Suffolk, England": {
+    "lat": 52.3468235,
+    "lon": 1.3177377
+  },
+  "Little Elm, Texas, USA": {
+    "lat": 33.1626194,
+    "lon": -96.9375051
+  },
+  "Velyka Znamianka, Tavricheskaya gubernia, Ukraine": null,
+  "Nagoya, Japan": {
+    "lat": 35.1851045,
+    "lon": 136.8998438
+  },
+  "Norwich, Connecticut, USA": {
+    "lat": 41.5243537,
+    "lon": -72.0759008
+  },
+  "Norfolk, Virginia, USA": {
+    "lat": 36.8493695,
+    "lon": -76.2899539
+  },
+  "Bologna (now Italy)": null,
+  "Cork City, Ireland": {
+    "lat": 51.8897794,
+    "lon": -8.4653846
+  },
+  "Olviopol, Pervomaisk, Russian Empire (now Ukraine)": null,
+  "Pruzhany, Russian Empire (now Belarus)": null,
+  "Antinopolis, Egypt": null,
+  "Saint-Germain-en-Laye, near Paris, France": null,
+  "Zavod Talitsa, Perm Province, Russian Empire": null,
+  "Ranenburg (now Chaplygin), Russia": null,
+  "Zagorsk, Russia": {
+    "lat": 51.8620618,
+    "lon": 107.7356314
+  },
+  "Kushchi, Dashkesan District, Azerbaijan Soviet Republic": null,
+  "Gorky (now Nizhny Novgorod), Russia": null,
+  "Aspenden, Hertfordshire, England": {
+    "lat": 51.9385107,
+    "lon": -0.042312
+  },
+  "Melrose, Massachusetts, USA": {
+    "lat": 42.4564323,
+    "lon": -71.064182
+  },
+  "Samarkand, Uzbekistan": {
+    "lat": 39.6550017,
+    "lon": 66.9756954
+  },
+  "Saunasi, Mainpuri, India": null,
+  "Kingston, Kent, England": {
+    "lat": 51.2183887,
+    "lon": 1.1488036
+  },
+  "Galway, Ireland": {
+    "lat": 53.2744122,
+    "lon": -9.0490601
+  },
+  "Hangzhou, Zhejiang province, China": null,
+  "Yamagata Prefecture, Japan": {
+    "lat": 38.4746705,
+    "lon": 140.083237
+  },
+  "Chia-hsing (or Jiaxing), Chekiang province (now Zhejiang), China": null,
+  "Jeruselem, Palestine (now Israel)": null,
+  "Kwuntung (now Guangdong), China": null,
+  "Chao Xian, (now Chaohu, Anhui Province), China": null,
+  "Ujjain, India": {
+    "lat": 23.1885131,
+    "lon": 75.7716562
+  },
+  "Chevithorne, Devon, England": {
+    "lat": 50.9282935,
+    "lon": -3.4606904
+  },
+  "Angerburg, East Prussia (now WÄgorzewo, Poland)": null,
+  "Akureyri, Iceland": {
+    "lat": 65.6839035,
+    "lon": -18.1121756
+  },
+  "Ningbo, China": {
+    "lat": 29.8622194,
+    "lon": 121.6203873
+  },
+  "Pithiviers, France": {
+    "lat": 48.1738051,
+    "lon": 2.2544871
+  },
+  "Gunzenhausen, Bavaria, Germany": {
+    "lat": 49.1147095,
+    "lon": 10.7545933
+  },
+  "Wallace, Nova Scotia, Canada": {
+    "lat": 45.8136444,
+    "lon": -63.473214
+  },
+  "Bruges, Burgundian Netherlands (now Belgium)": null,
+  "Cilicia, Anatolia (now Turkey)": null,
+  "Macroom, County Cork, Ireland": {
+    "lat": 51.9049705,
+    "lon": -8.9599195
+  },
+  "PelahustÃ¡n, Toledo, Spain": null,
+  "Tulungagung, East Java, Indonesia": {
+    "lat": -8.0729035,
+    "lon": 111.8996408
+  },
+  "Kholmech, Belarus": null,
+  "Sandymount, near Dublin, Ireland": null,
+  "Nordfjordeide, Norway": null,
+  "Guadalajara, Jalisco, Mexico": {
+    "lat": 20.6720375,
+    "lon": -103.338396
+  },
+  "(possibly) Nicaea (now Iznik), Bithynia (now Turkey)": null,
+  "Erode, Tamil Nadu state, India": {
+    "lat": 10.9742885,
+    "lon": 78.0388464
+  },
+  "(probably) Rohinikhanda, Maharashtra, India": null,
+  "Travnik, Austro-Hungarian Empire (now Bosnia)": null,
+  "PoznaÅ, Poland": null,
+  "Serpukhov (near Ivanovo-Vosniesiensk), Russia": null,
+  "Kolomea, Galicia, Austrian Empire (now Kolomyia in Ukraine)": null,
+  "RomanÃ³wka, Trembowla, Galicia, Austria-Hungary (now Ukraine)": null,
+  "KrakÃ³w, Austrian Empire (now Poland)": null,
+  "Breslau, Germany, now WrocÅaw, Poland": null,
+  "Sambor, LwÃ³w, Austria-Hungary (now Sambir, Ukraine)": null,
+  "NovÃ© Mesto nad VÃ¡hom, Austria-Hungarian Empire (now Slovakia)": null,
+  "Lida, Russia Empire (now Belarus)": null,
+  "St. Stephen's-by-Saltash, Cornwall, England": null,
+  "Mitcham, Surrey, England": {
+    "lat": 51.351463,
+    "lon": -0.7163732
+  },
+  "Keighley, Yorkshire, England": {
+    "lat": 53.8684021,
+    "lon": -1.9020456
+  },
+  "Flint, Michigan, USA": {
+    "lat": 43.0161693,
+    "lon": -83.6900211
+  },
+  "Bennington, Vermont, USA": {
+    "lat": 42.8788667,
+    "lon": -73.1968205
+  },
+  "Trichur (now Trissur), Kerala State, India": null,
+  "Lahore, India (now Pakistan)": null,
+  "Xi-an, China": {
+    "lat": 34.261004,
+    "lon": 108.9423363
+  },
+  "Benin City, Edo State, Nigeria": {
+    "lat": 6.3330586,
+    "lon": 5.6221058
+  },
+  "Montgomery City, Missouri": {
+    "lat": 38.9775406,
+    "lon": -91.5048844
+  },
+  "Komorowice, Poland": {
+    "lat": 51.0159371,
+    "lon": 17.0021085
+  },
+  "Wygnanka, Galicia, Austria Empire (now Horishnia Vyhnanka, Ukraine)": null,
+  "Dracia, Kragujevac, Serbia": null,
+  "Fukui, Japan": {
+    "lat": 35.9263502,
+    "lon": 136.6068127
+  },
+  "Fujioka (now Gunma), Kozuke, Japan": null,
+  "Edo (now Tokyo), Japan": null,
+  "Frankfort, Indiana, USA": {
+    "lat": 40.2797657,
+    "lon": -86.5108244
+  },
+  "Wakayama, Japan": {
+    "lat": 33.8070292,
+    "lon": 135.5930743
+  },
+  "Brescia, Republic of Venice (now Italy)": null,
+  "Kazuya Village (near Gifu), Japan": null,
+  "Harran, Mesopotamia (now Turkey)": null,
+  "Miletus, Asia Minor (now Turkey)": null,
+  "Adam, Tutova county, Romania": null,
+  "Neubrandenburg, Germany": {
+    "lat": 53.5574458,
+    "lon": 13.2602781
+  },
+  "Opeln, Germany (now Opole, Poland)": null,
+  "RitzebÃ¼ttel, near Cuxhaven, Germany": null,
+  "Brighton, England": {
+    "lat": 50.8214626,
+    "lon": -0.1400561
+  },
+  "South Hadley, Massachusetts, USA": {
+    "lat": 42.2591392,
+    "lon": -72.5751341
+  },
+  "Astakos, Aetolia-Acarnania, Greece": {
+    "lat": 38.5355305,
+    "lon": 21.0815098
+  },
+  "Cyrene (now Shahhat, Libya)": null,
+  "Bithynia, Anatolia (now Turkey)": null,
+  "BÃ©ziers, France": {
+    "lat": 48.3260792,
+    "lon": 5.8872578
+  },
+  "Uttoxeter, Staffordshire, England": {
+    "lat": 52.8980321,
+    "lon": -1.8649214
+  },
+  "Murcar, Old Machar, Aberdeen, Scotland": null,
+  "Chichester, England": {
+    "lat": 50.8364862,
+    "lon": -0.7791721
+  },
+  "Wolverhampton, England": {
+    "lat": 52.5847651,
+    "lon": -2.127567
+  },
+  "Ecclefechan, Dumfriesshire, Scotland": null,
+  "Glen Iris, Melbourne, Australia": {
+    "lat": -37.855814,
+    "lon": 145.0646117
+  },
+  "Snogbaek, Denmark": {
+    "lat": 55.5011573,
+    "lon": 12.1560677
+  },
+  "Pittston, Luzerne county, Pennsylvania, USA": {
+    "lat": 41.3259134,
+    "lon": -75.7893604
+  },
+  "Wootton, Kent, England": {
+    "lat": 51.1736897,
+    "lon": 1.1797025
+  },
+  "Flensburg, Schleswig (now Germany)": null,
+  "Stepps, near Glasgow, Scotland": null,
+  "Dylta bruk, Sweden": {
+    "lat": 59.386664,
+    "lon": 15.263459
+  },
+  "Barnetby le Wold, Lincoln, England": null,
+  "Heckmondwike, Yorkshire, England": {
+    "lat": 53.7074371,
+    "lon": -1.6754499
+  },
+  "Westport, Malmesbury, Wiltshire, England": null,
+  "Bolton (near Manchester), England": {
+    "lat": 53.5365675,
+    "lon": -2.0960234
+  },
+  "Dreghorn, Ayrshire, Scotland": {
+    "lat": 55.6096497,
+    "lon": -4.6164949
+  },
+  "Stonebyres, Falls of Clyde, Lanarkshire, Scotland": null,
+  "Camberwell, London, England": {
+    "lat": 51.4745706,
+    "lon": -0.0925416
+  },
+  "Market Bosworth, Leicestershire, England": {
+    "lat": 52.6217051,
+    "lon": -1.4149268
+  },
+  "Zwolle, Overijssel, The Netherlands": {
+    "lat": 52.5145653,
+    "lon": 6.0977204
+  },
+  "Milverton, Somerset, England": {
+    "lat": 51.0251275,
+    "lon": -3.2548397
+  },
+  "Sandsvaer, Buskerud, Norway": {
+    "lat": 59.60287,
+    "lon": 9.75526
+  },
+  "Paros, Greece": {
+    "lat": 37.0651494,
+    "lon": 25.1919784
+  },
+  "Arad, Transylvania (now Romania)": null,
+  "Osipovo, Vladimir gubernia, Russia": null,
+  "Marlborough, Wiltshire, England": {
+    "lat": 51.420633,
+    "lon": -1.7251743
+  },
+  "Leicester, England": {
+    "lat": 52.6362,
+    "lon": -1.1331969
+  },
+  "'sGraveland, Netherlands": null,
+  "Marbach, WÃ¼rttemberg, Germany": null,
+  "Helper, Carbon County, Utah, USA": {
+    "lat": 39.6841305,
+    "lon": -110.854605
+  },
+  "Newburgh, Fife, Scotland": {
+    "lat": 56.3510044,
+    "lon": -3.237601
+  },
+  "Blackpool, England": {
+    "lat": 53.8179442,
+    "lon": -3.0509812
+  },
+  "Hong Kong (now China)": null,
+  "Valperga Canavese, Italy": null,
+  "Visseltofta, Sweden": {
+    "lat": 56.4255316,
+    "lon": 13.8621608
+  },
+  "Kanuma City, Tochigi-ken, Japan": null,
+  "Padua, Veneto, Italy": {
+    "lat": 45.4077172,
+    "lon": 11.8734455
+  },
+  "Knutstorp, Skane, Denmark (now SvalÃ¶v, Sweden": null,
+  "Benares (now Varanasi) India": null,
+  "Verona, Italy": {
+    "lat": 45.4424977,
+    "lon": 10.9857377
+  },
+  "Trieste, Austrian Empire (now Italy)": null,
+  "Soltaniyeh, Timurid, Persia (now Iran)": null,
+  "Karaoba, Sarykol district, Kostanay region, Kazakh SSR, USSR (now Kazakhstan)": null,
+  "Saint-LÃ´, France": {
+    "lat": 44.0634514,
+    "lon": 0.9976884
+  },
+  "Satyamangalam, Coimbatore district, India": null,
+  "Kolodeje, Pardubice, Czech Republic": {
+    "lat": 50.0526069,
+    "lon": 15.8764824
+  },
+  "Huejutla de Reyes, Hidalgo, Mexico": {
+    "lat": 21.1433802,
+    "lon": -98.3883787
+  },
+  "Kapitthaka, India": null,
+  "Dyaglevo, Volkhovsk, near Petrograd, Russia": null,
+  "Gisborne, New Zealand": {
+    "lat": -38.661326,
+    "lon": 178.0206487
+  },
+  "Krokino, Vologda Oblast, Russia": null,
+  "Tambov, Russia": {
+    "lat": 52.7216164,
+    "lon": 41.4523988
+  },
+  "Bukoba, Tanganyika (now Tanzania)": null,
+  "Worcester, England": {
+    "lat": 52.1911849,
+    "lon": -2.2206585
+  },
+  "Grandvilliers, Oise, France": {
+    "lat": 49.6647765,
+    "lon": 1.9428278
+  },
+  "Tiflis, Russian Empire, now Tbilisi, Georgia": null,
+  "VÃ¤sby, MalmÃ¶hus County, Sweden": null,
+  "Ibadan, Nigeria": {
+    "lat": 7.3786064,
+    "lon": 3.8969928
+  },
+  "Argenteuil, Val-d'Oise, France": {
+    "lat": 48.9479069,
+    "lon": 2.2481797
+  },
+  "Lier, Hordaland County, Norway": null,
+  "Guna, Madhya Pradesh, India": {
+    "lat": 24.5001772,
+    "lon": 77.2600959
+  },
+  "Kela, Lanchkhuti, Georgia": {
+    "lat": 42.031664,
+    "lon": 41.9470773
+  },
+  "Bar, Russian Empire, (now Ukraine)": null,
+  "Columbia, South Carolina, USA": {
+    "lat": 34.000754,
+    "lon": -81.0352313
+  },
+  "Castelfranco Veneto near Treviso (now Italy)": null,
+  "Dixon, Iowa, USA": {
+    "lat": 41.7427867,
+    "lon": -90.782347
+  },
+  "Ancona, Papal States (now Italy)": null,
+  "possibly Fundi, Campania (now Italy)": null,
+  "Waco, Texas, USA": {
+    "lat": 31.5491899,
+    "lon": -97.1474628
+  },
+  "Baku, Russian Empire (now Azerbaijan)": null,
+  "Odessa, USSR (now Ukraine)": null,
+  "DÃ¼sseldorf-Gerresheim, Germany": null,
+  "Ternopil, Galicia (now Ukraine)": null,
+  "Liashky Murovani, LwÃ³w, Poland (now Murovane, Lviv, Ukraine)": null,
+  "Smolensk, Russia": {
+    "lat": 54.77897,
+    "lon": 32.0471812
+  },
+  "Pysznica, Galicia, Austrian Empire (now Poland)": null,
+  "Okocim, Galicia, Austria-Hungary (now Poland)": null,
+  "Chandler, Oklahoma, USA": {
+    "lat": 35.7032002,
+    "lon": -96.880011
+  },
+  "Pittsburgh, Pennsylvania, USA": {
+    "lat": 40.4416941,
+    "lon": -79.9900861
+  },
+  "Oberuzwil, St Gallen Canton, Switzerland": {
+    "lat": 47.4299725,
+    "lon": 9.1224313
+  },
+  "Cologne, Germany": {
+    "lat": 50.938361,
+    "lon": 6.959974
+  },
+  "Pittsburgh, USA": {
+    "lat": 40.4416941,
+    "lon": -79.9900861
+  },
+  "Ore City, Upshure County, Texas, USA": null,
+  "New Canton Illinois, USA": {
+    "lat": 39.6361576,
+    "lon": -91.0959713
+  },
+  "Lanxi, Zhejiang province, China": null,
+  "Gettysburg, Pennsylvania, USA": {
+    "lat": 39.8308973,
+    "lon": -77.231012
+  },
+  "Talladega, Alabama, USA": {
+    "lat": 33.3967079,
+    "lon": -86.1597137
+  },
+  "Reedsburg, Wisconsin, USA": {
+    "lat": 43.5325234,
+    "lon": -90.0080595
+  },
+  "St Ives, Huntingdonshire, (now Cambridgeshire) England": null,
+  "MustamÃ¤ki, Finland  (now Mukhino, Russia)": null,
+  "JaworÃ³w, Galicia, Austrian Empire (now Yavoriv, Ukraine)": null,
+  "Medina, Michigan, USA": {
+    "lat": 41.8081046,
+    "lon": -84.2638354
+  },
+  "Shanghai, China": {
+    "lat": 31.2312707,
+    "lon": 121.4700152
+  },
+  "GuapÃ©, Minas Gerais, Brazil": null,
+  "Neubrandenburg, Mecklenburg-Strelitz, Germany": null,
+  "Richmond Hill, New York, USA": {
+    "lat": 40.6994253,
+    "lon": -73.8309672
+  },
+  "SchÃ¶nebeck (Kr. Altena), Germany": null,
+  "LÃ¼bz an der Elde, Mecklenburg, Germany": null,
+  "Minden, Westphalia (now Germany)": null,
+  "Graz, Austria-Hungary (now Austria)": null,
+  "Greiz, Thuringia, Germany": {
+    "lat": 50.7783814,
+    "lon": 12.0763533
+  },
+  "Burbach (near Siegen), Westphalia, Germany": null,
+  "Rostock, Mecklenburg, Germany": {
+    "lat": 54.0886707,
+    "lon": 12.1400211
+  },
+  "Pitschen, Upper Silesia (now Byczyna, Poland)": null,
+  "Eschweiler (near Aachen), Germany": null,
+  "Herrenberg (near TÃ¼bingen), WÃ¼rttemberg (now Germany)": null,
+  "Rastatt, Baden, Germany": {
+    "lat": 48.8574209,
+    "lon": 8.2088088
+  },
+  "Wittenberg, Saxony (now Germany)": null,
+  "Gaffken, near Fischhausen, East Prussia (now Primorsk Kaliningrad Oblast Russia)": null,
+  "Prague, Bohemia, Austro-Hungarian Empire (now Czech Republic)": null,
+  "Ybbs an der Donau, Melk, NiederÃ¶sterreich, Austria": null,
+  "Akron, Ohio, USA": {
+    "lat": 41.083064,
+    "lon": -81.518485
+  },
+  "Sneek, Netherlands": {
+    "lat": 53.033548,
+    "lon": 5.6611029
+  },
+  "Fergushill School House, Kilwinning, Ayrshire, Scotland": null,
+  "Kinghorn, Fife, Scotland": {
+    "lat": 56.0707374,
+    "lon": -3.1742285
+  },
+  "Dudley Hill (near Bradford), England": null,
+  "West Calder, Scotland": {
+    "lat": 55.8537711,
+    "lon": -3.566816
+  },
+  "Castlelyons (N of Cork), Ireland": {
+    "lat": 52.0889073,
+    "lon": -8.2338663
+  },
+  "Paddington, London, England": {
+    "lat": 51.5163047,
+    "lon": -0.1792423
+  },
+  "Milford, Pennsylvania, USA": {
+    "lat": 41.322316,
+    "lon": -74.8023882
+  },
+  "Exeter, Devon, England": {
+    "lat": 50.7256138,
+    "lon": -3.5269209
+  },
+  "Rutherglen, Scotland": {
+    "lat": 55.8284315,
+    "lon": -4.2134405
+  },
+  "Bishop Burton, Yorkshire, England": {
+    "lat": 53.8414315,
+    "lon": -0.5135522
+  },
+  "Hurworth, near Darlington, England": null,
+  "Bedford (now Fulton) County, Pennsylvania, USA": null,
+  "Canterbury, England": {
+    "lat": 51.2800275,
+    "lon": 1.0802533
+  },
+  "Barbados, West Indies": {
+    "lat": 13.1232663,
+    "lon": -59.6313854
+  },
+  "Hanover, Electorate of Holy Roman Empire (now Germany)": null,
+  "Kingston-on-Soar, Derbyshire, England": null,
+  "Shorncliffe, Folkestone, Kent, England": {
+    "lat": 51.0811616,
+    "lon": 1.1714612
+  },
+  "Stewarton, Ayrshire, Scotland": {
+    "lat": 55.680265,
+    "lon": -4.5153023
+  },
+  "Huntly, Aberdeenshire, Scotland": {
+    "lat": 57.4474806,
+    "lon": -2.7864246
+  },
+  "Llanfihangel Tre'r Beirdd, Anglesey, Wales": {
+    "lat": 53.3322633,
+    "lon": -4.3137286
+  },
+  "Kirriemuir, Angus, Scotland": {
+    "lat": 56.6731057,
+    "lon": -3.0043927
+  },
+  "Selkirk, Scotland": {
+    "lat": 55.5470714,
+    "lon": -2.8415411
+  },
+  "Ballystockhart, Comber, County Down, Ireland": null,
+  "Odessa, Ontario, Canada": {
+    "lat": 44.276984,
+    "lon": -76.722712
+  },
+  "Longside, Aberdeenshire, Scotland": {
+    "lat": 57.5166732,
+    "lon": -1.9387955
+  },
+  "Bridgend, Wales": {
+    "lat": 51.5049859,
+    "lon": -3.5756674
+  },
+  "Winnipeg, Canada": {
+    "lat": 49.8955367,
+    "lon": -97.1384584
+  },
+  "Bishopsthorpe (near York), England": null,
+  "Ockham (near Ripley, Surrey), England": null,
+  "Eton, Buckinghamshire, England": {
+    "lat": 51.4958064,
+    "lon": -0.6355365
+  },
+  "Papa Westray, Orkney, Scotland": {
+    "lat": 59.3548383,
+    "lon": -2.8974154
+  },
+  "Corsenside (8 km NE of Bellingham), Northumberland, England": null,
+  "Greenock, Scotland": {
+    "lat": 55.9473423,
+    "lon": -4.7564721
+  },
+  "Kirkton of Mailer, Perthshire, Scotland": null,
+  "Logie, near Montrose, Scotland": null,
+  "Newmarket, Suffolk, England": {
+    "lat": 52.2443103,
+    "lon": 0.4065503
+  },
+  "Dysart, Fife, Scotland": {
+    "lat": 56.1264515,
+    "lon": -3.1209817
+  },
+  "Musselburgh, East Lothian, Scotland": {
+    "lat": 55.9421202,
+    "lon": -3.0538516
+  },
+  "Lancaster, Lancashire, England": {
+    "lat": 54.0484068,
+    "lon": -2.7990345
+  },
+  "Norton-juxta-Twycross, Leicestershire, England": {
+    "lat": 52.6598693,
+    "lon": -1.5238611
+  },
+  "Lewisville, Denton County, Texas, USA": {
+    "lat": 33.046233,
+    "lon": -96.994174
+  },
+  "Townsville, Australia": {
+    "lat": -19.2569391,
+    "lon": 146.8239537
+  },
+  "Leeuwarden, The Netherlands": {
+    "lat": 53.2005936,
+    "lon": 5.7918548
+  },
+  "New Milton, Hampshire, England": {
+    "lat": 50.7531006,
+    "lon": -1.6550682
+  },
+  "Ripon, Wisconsin, USA": {
+    "lat": 43.8442406,
+    "lon": -88.8387158
+  },
+  "Ambergate, Derbyshire, England": {
+    "lat": 53.0604187,
+    "lon": -1.4808654
+  },
+  "Hilden, Mettmann, Germany": {
+    "lat": 51.1674417,
+    "lon": 6.9307271
+  },
+  "Karlshof, Germany": {
+    "lat": 51.7195188,
+    "lon": 14.3889215
+  },
+  "Gotha, Thuringia, Germany": {
+    "lat": 50.9494849,
+    "lon": 10.7014435
+  },
+  "Potsdam, Germany": {
+    "lat": 52.4009309,
+    "lon": 13.0591397
+  },
+  "Baden-Baden, Germany": {
+    "lat": 48.7610716,
+    "lon": 8.239959
+  },
+  "Owego, Tioga County, New York,USA": {
+    "lat": 42.1034528,
+    "lon": -76.2622669
+  },
+  "Chalcedon (now KadikÃ¶y, near Istanbul), Bithynia (now Turkey)": null,
+  "Xizhai village, Mile County, Yunnan, China": null,
+  "Donglai, Shandong province, China": {
+    "lat": 37.6494078,
+    "lon": 120.5113613
+  },
+  "Chernigov, Ukraine": {
+    "lat": 51.494099,
+    "lon": 31.294332
+  },
+  "Qiantang (now Hangzhou), Chekiang province, China": null,
+  "Lublin, Poland": {
+    "lat": 51.2181945,
+    "lon": 22.5546776
+  },
+  "Sakai, Osaka Prefecture, Japan": {
+    "lat": 34.5737364,
+    "lon": 135.4828866
+  },
+  "Simferopol, Crimean Autonomous Soviet Republic (now Ukraine -- occupied by Russia)": null,
+  "Belaya Tserkov, Ukraine": null,
+  "Charnyshivka, Shyshats'kyi, Poltava gubernia, Ukraine": null,
+  "Labinskaya Stanitsa (now Labinsk), Russia": null,
+  "Kisai (north of Tokyo), Japan": null,
+  "Vannes, France": {
+    "lat": 47.6586772,
+    "lon": -2.7599079
+  },
+  "ÅÃ³dÅº, Poland": null,
+  "Elea, Lucania (now southern Italy)": null,
+  "Sidon (now Saida in Lebanon)": null,
+  "Nan-yang, China": {
+    "lat": 31.7816716,
+    "lon": 117.227389
+  },
+  "Poyang, now Jiangxi province, China": null,
+  "Yan-shan, near Peking (now Beijing) China": null,
+  "Jiankang, (now Nanjing, Kiangsu province), China": null,
+  "Kunisaki, South Island, Japan": null
+}
