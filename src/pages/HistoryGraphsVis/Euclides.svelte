@@ -6,6 +6,7 @@
   let links = [];
   let selectedTitle = "";
   let selectedId = "";
+  let selectedImagens = [];
 
   function toRoman(input) {
     const num = Number(input);
@@ -55,7 +56,8 @@
         const num = matchNum[1].toUpperCase();
         if (!mapa.has(num)) {
           mapa.set(num, id);
-          nodes.push({ id, title: p.conteudo });
+          // Supondo que p.conteudo é a string do texto, e p.imagens é um array de URLs
+          nodes.push({ id, title: p.conteudo, imagens: p.imagens || [] });
         }
       }
     });
@@ -151,45 +153,36 @@
 
     // ─────────── CALCULAR GRAU (arestas incidentes) ───────────
 
-    // Inicializa contagem de grau (incidentes) para cada nó
     const degCounts = new Map();
     nodes.forEach(d => degCounts.set(d.id, 0));
     links.forEach(link => {
-      // Incrementa para source e para target (arestas incidentes)
       degCounts.set(link.source, degCounts.get(link.source) + 1);
       degCounts.set(link.target, degCounts.get(link.target) + 1);
     });
-    // Anexa a propriedade 'deg' (grau) a cada nó
     nodes.forEach(d => {
       d.deg = degCounts.get(d.id) || 0;
     });
 
-    // Determina o valor máximo de grau
     const maxDeg = d3.max(nodes, d => d.deg);
 
-    // Cria uma escala para o raio dos nós: quanto maior o grau, maior o círculo
     const radiusScale = d3
       .scaleLinear()
       .domain([0, maxDeg])
-      .range([4, 12]); // nó com grau 0 terá raio 4, nó com grau = maxDeg terá raio 12
+      .range([4, 12]);
 
     // ─────────── CALCULAR OUT-DEGREE E ESCALA DE CORES ───────────
 
-    // Inicializa contagem de saída (out-degree) para cada nó
     const outCounts = new Map();
     nodes.forEach(d => outCounts.set(d.id, 0));
     links.forEach(link => {
       outCounts.set(link.source, outCounts.get(link.source) + 1);
     });
-    // Anexa a propriedade 'out' a cada nó
     nodes.forEach(d => {
       d.out = outCounts.get(d.id) || 0;
     });
 
-    // Determina o valor máximo de out-degree
     const maxOut = d3.max(nodes, d => d.out);
 
-    // Cria uma escala contínua cinza → vinho mais claro
     const colorScale = d3
       .scaleLinear()
       .domain([0, maxOut])
@@ -209,7 +202,6 @@
           })
       );
 
-    // Definição do marcador de seta usando currentColor
     svg
       .append("defs")
       .append("marker")
@@ -226,7 +218,7 @@
 
     const g = svg.append("g");
 
-    // 5.5) Desenha a “sombra” da espiral por trás (agora mais larga e roxa)
+    // 5.5) Desenha a “sombra” da espiral por trás
     const spiralSamples = d3.range(0, N, 0.5).map(i => {
       const r = scale * Math.sqrt(i);
       const theta = i * goldenAngle;
@@ -263,12 +255,12 @@
       })
       .attr("fill", "none")
       .attr("stroke", "#999")
-      .attr("color", "#999")      // cor inicial do marcador
+      .attr("color", "#999")
       .attr("stroke-width", 1.2)
-      .attr("opacity", 0.2)
+      .attr("opacity", 0.05)
       .attr("marker-end", "url(#arrow)");
 
-    // 7) Desenha os nós (círculos), tamanho e preenchimento de acordo com grau e out-degree
+    // 7) Desenha os nós (círculos)
     g.append("g")
       .attr("class", "nodes")
       .selectAll("circle")
@@ -283,6 +275,7 @@
       .on("click", (_, d) => {
         selectedTitle = d.title;
         selectedId = d.id;
+        selectedImagens = d.imagens || [];
 
         g.selectAll("path.link")
           .attr("stroke", link => {
@@ -300,7 +293,7 @@
           );
       })
       .on("mouseover", (_, d) => {
-        if (selectedId) return; // se já clicou em algo, não faz hover
+        if (selectedId) return;
         g.selectAll("path.link")
           .attr("opacity", link =>
             link.source === d.id || link.target === d.id ? 0.8 : 0
@@ -310,7 +303,7 @@
           );
       })
       .on("mouseout", () => {
-        if (selectedId) return; // mantém o que foi clicado
+        if (selectedId) return;
         g.selectAll("path.link")
           .attr("opacity", 0.05)
           .attr("stroke-width", 1.2);
@@ -336,9 +329,11 @@
         g.selectAll("path.link")
           .attr("stroke", "#999")
           .attr("color", "#999")
-          .attr("opacity", 0.05);
+          .attr("opacity", 0.05)
+          .attr("stroke-width", 1.2);
         selectedTitle = "";
         selectedId = "";
+        selectedImagens = [];
       }
     });
   });
@@ -351,7 +346,7 @@
     font-family: Arial, sans-serif;
   }
   .sidebar {
-    width: 300px;
+    width: 400px;
     background: #fafafa;
     border-right: 1px solid #ddd;
     display: flex;
@@ -376,6 +371,13 @@
     line-height: 1.5;
     font-size: 0.95rem;
     color: #333;
+  }
+  .sidebar-image {
+    max-width: 100%;
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   .placeholder {
     color: #777;
@@ -404,6 +406,12 @@
       {/if}
     </div>
     <div class="sidebar-content">
+      {#if selectedImagens.length}
+        {#each selectedImagens as imgSrc}
+          <img src={imgSrc} alt="Figura da proposição" class="sidebar-image" />
+        {/each}
+      {/if}
+
       {#if selectedTitle}
         {#each selectedTitle.split("\n\n") as paragraph}
           <p>{paragraph.trim()}</p>
