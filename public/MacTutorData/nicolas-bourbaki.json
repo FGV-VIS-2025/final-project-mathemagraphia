@@ -1,0 +1,27 @@
+{
+  "nome_completo": "Nicolas Bourbaki",
+  "nome_curto": "Nicolas Bourbaki",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Bourbaki/",
+  "data_nascimento": "1935",
+  "local_nascimento": "Paris, France",
+  "data_morte": null,
+  "local_morte": null,
+  "summary": null,
+  "biografia": "Nicolas Bourbaki\nis the pseudonym of a group of\n(\nmainly\n)\nFrench mathematicians who publish an authoritative account of contemporary mathematics.\nMore information is available in two articles:\nBourbaki: the pre-war years\nand\nBourbaki: the post-war years\nThe founding members of the organisation were:\nHenri Cartan\nClaude Chevalley\nJean Coulomb\nJean Delsarte\nJean Dieudonné\nCharles Ehresmann\nSzolem Mandelbrojt\nRené de Possel\nAndré Weil",
+  "matematicos_citados_na_biografia": [
+    "Bourbaki: the pre-war years",
+    "Bourbaki: the post-war years",
+    "Henri Cartan",
+    "Claude Chevalley",
+    "Jean Coulomb",
+    "Jean Delsarte",
+    "Jean Dieudonné",
+    "Charles Ehresmann",
+    "Szolem Mandelbrojt",
+    "René de Possel",
+    "André Weil"
+  ],
+  "imagens": [
+    "bourbaki.jpg"
+  ]
+}

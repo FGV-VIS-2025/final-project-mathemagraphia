@@ -1,0 +1,15 @@
+{
+  "nome_completo": "Govindasvami",
+  "nome_curto": "Govindasvami",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Govindasvami/",
+  "data_nascimento": "about 800",
+  "local_nascimento": "India",
+  "data_morte": "about 860",
+  "local_morte": "India",
+  "summary": "Govindasvami was an Indian mathematical astronomer whose most famous treatise was a commentary on work of Bhaskara I.",
+  "biografia": "Govindasvami\n(\nor Govindasvamin\n)\nwas an Indian mathematical astronomer whose most famous treatise was a commentary on the\nMahabhaskariya\nⓉ\n(\nThe big book of Bhaskara\n)\nof\nBhaskara I\n.\nBhaskara I\nwrote the\nMahabhaskariya\nⓉ\n(\nThe big book of Bhaskara\n)\nin about\n600\nA. D. It is an eight chapter work on Indian mathematical astronomy and includes topics which were fairly standard for such works at this time. It discussed topics such as the longitudes of the planets, conjunctions of the planets with each other and with bright stars, eclipses of the sun and the moon, risings and settings, and the lunar crescent.\nGovindasvami wrote the\nBhasya\nin about\n830\nwhich was a commentary on the\nMahabhaskariya\nⓉ\n(\nThe big book of Bhaskara\n)\n. In Govindasvami's commentary there appear many examples of using a place-value Sanskrit system of numerals. One of the most interesting aspects of the commentary, however, is Govindasvami's construction of a sine table.\nIndian mathematicians and astronomers constructed sine table with great precision. They were used to calculate the positions of the planets as accurately as possible so had to be computed with high degrees of accuracy. Govindasvami considered the sexagesimal fractional parts of the twenty-four tabular sine differences from the\nAryabhatiya\nⓉ\n(\nThe work of Aryabhata\n)\n. These lead to more correct sine values at intervals of\n90\n°\n24\n\\large\\frac{90 °}{24}\\normalsize\n2\n4\n9\n0\n°\n​\n=\n3\n°\n45\n'. In the commentary Govindasvami found certain other empirical rules relating to computations of sine differences in the argumental range of\n60\nto\n90\ndegrees. Both of the references\n[\n1\n]\nand\n[\n2\n]\nare concerned with the sine tables in Govindasvami's work.",
+  "matematicos_citados_na_biografia": [
+    "Bhaskara I"
+  ],
+  "imagens": []
+}

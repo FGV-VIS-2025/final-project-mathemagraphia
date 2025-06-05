@@ -1,0 +1,18 @@
+{
+  "nome_completo": "Katyayana",
+  "nome_curto": "Katyayana",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Katyayana/",
+  "data_nascimento": "about 200 BC",
+  "local_nascimento": "India",
+  "data_morte": "about 200 BC",
+  "local_morte": "India",
+  "summary": "Katyayana was the author of one of the Sulbasutras: documents containing some of the earliest Indian mathematics.",
+  "biografia": "We cannot attempt to write a biography of\nKatyayana\nsince essentially nothing is known of him except that he was the author of a Sulbasutra which is much later than the Sulbasutras of\nBaudhayana\nand\nApastamba\n. It would also be fair to say that Katyayana's Sulbasutra is the least interesting from a mathematical point of view of the three best known Sulbasutras. It adds very little to that of\nApastamba\nwritten several hundreds of years earlier. We do not know Katyayana's dates accurately enough to even guess at a life span for him, which is why we have given the same approximate birth year as death year.\nKatyayana was neither a mathematician in the sense that we would understand it today, nor a scribe who simply copied manuscripts like\nAhmes\n. He would certainly have been a man of very considerable learning but probably not interested in mathematics for its own sake, merely interested in using it for religious purposes. Undoubtedly he wrote the Sulbasutra to provide rules for religious rites and to improve and expand on the rules which had been given by his predecessors. Katyayana would have been a priest instructing the people in the ways of conducting the religious rites he describes.\nKatyayana lived in a period when the religious rites that the Sulbasutras were written to support were becoming less influential. People were turning to other religions and perhaps this lack of vigour in the religion at this time partly explains why several hundreds of years after\nApastamba\nKatyayana adds little of importance to the Sulbasutra which he wrote.\nSee the article\nIndian Sulbasutras\nfor more information on the Sulbasutras in general and the mathematical results which they contain.",
+  "matematicos_citados_na_biografia": [
+    "Baudhayana",
+    "Apastamba",
+    "Ahmes",
+    "Indian Sulbasutras"
+  ],
+  "imagens": []
+}

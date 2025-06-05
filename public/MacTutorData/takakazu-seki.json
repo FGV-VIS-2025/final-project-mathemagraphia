@@ -1,0 +1,25 @@
+{
+  "nome_completo": "Takakazu Shinsuke Seki",
+  "nome_curto": "Takakazu Seki",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Seki/",
+  "data_nascimento": "March 1642",
+  "local_nascimento": "Fujioka (now Gunma), Kozuke, Japan",
+  "data_morte": "5 December 1708",
+  "local_morte": "Edo (now Tokyo), Japan",
+  "summary": "Takakazu Seki was a Japanese mathematician who was the first person to study determinants. He also discovered Bernoulli numbers before Jacob Bernoulli.",
+  "biografia": "Takakazu Seki\nwas born into a samurai warrior family. However at an early age he was adopted by a noble family named Seki Gorozayemon. The name by which he is now known, Seki, derives from the family who adopted him rather than from his natural parents.\nSeki was an infant prodigy in mathematics. He was self-educated in mathematics having been introduced to the topic by a servant in the household who, when Seki was nine years old, realised the talent of the young boy.\nSeki soon built up a library of Japanese and Chinese books on mathematics and became acknowledged as an expert. He was known as 'The Arithmetical Sage', a term which is carved on his tombstone, and soon had many pupils. His position in life is described in\n[\n18\n]\nas follows:-\nIn due time he, as a descendant of the samurai class, served in public capacity, his office being that of examiner of accounts to the Lord of Koshu, just as\nNewton\nbecame master of the mint under Queen Anne. When his lord became heir to the Shogun, Seki became Shogunate samurai and in\n1704\nwas given a position of honour as master of ceremonies in the Shogun's household.\nIn\n1674\nSeki published\nHatsubi Sampo\nin which he solved fifteen problems which had been posed four years earlier. The work is remarkable for the careful analysis of the problems which Seki made and this certainly was one of the reasons for his great success as a teacher.\nSeki anticipated many of the discoveries of Western mathematics.\nSeki was the first person to study\ndeterminants\nin\n1683\n. Ten years later\nLeibniz\n, independently, used determinants to solve simultaneous equations although Seki's version was the more general.\nSeki also discovered\nBernoulli numbers\nbefore\nJacob Bernoulli\n. He studied equations treating both positive and negative roots but had no concept of complex numbers. He wrote on\nmagic squares\n, again in his work of\n1683\n, having studied a Chinese work by Yank Hui on the topic in\n1661\n. This was the first treatment of the topic in Japan.\nIn\n1685\n, he solved the cubic equation\n30\n+\n14\nx\n−\n5\nx\n2\n−\nx\n3\n=\n0\n30 + 14x - 5x^{2} - x^{3} = 0\n3\n0\n+\n1\n4\nx\n−\n5\nx\n2\n−\nx\n3\n=\n0\nusing the same method as\nHorner\na hundred years later.\nHe discovered the\nNewton\nor\nNewton\n-\nRaphson\nmethod for solving equations and also had a version of the\nNewton\ninterpolation formula.\nAmong other problems studied by Seki were\nDiophantine equations\n. For example, in\n1683\n, he considered integer solutions of\na\nx\n−\nb\ny\n=\n1\nax - by = 1\na\nx\n−\nb\ny\n=\n1\nwhere\na\n,\nb\na, b\na\n,\nb\nare integers.\nSecrecy surrounded the schools in Japan so it is hard to determine the contributions made by Seki, but he is also credited with major discoveries in the calculus which he passed on to his pupils.",
+  "matematicos_citados_na_biografia": [
+    "Newton",
+    "determinants",
+    "Leibniz",
+    "Bernoulli numbers",
+    "Jacob Bernoulli",
+    "magic squares",
+    "Horner",
+    "Raphson",
+    "Diophantine equations"
+  ],
+  "imagens": [
+    "seki.jpg"
+  ]
+}

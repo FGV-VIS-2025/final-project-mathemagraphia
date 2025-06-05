@@ -1,0 +1,21 @@
+{
+  "nome_completo": "John Wilson",
+  "nome_curto": "John Wilson",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Wilson_John/",
+  "data_nascimento": "6 August 1741",
+  "local_nascimento": "Applethwaite, Westmoreland, England",
+  "data_morte": "18 October 1793",
+  "local_morte": "Kendal, Westmoreland, England",
+  "summary": "John Wilson is best known  for Wilson's theorem: If p is prime then 1 + ( p - 1) ! is divisible by p .",
+  "biografia": "John Wilson\n's father was also called John Wilson and he lived at The How in Applethwaite where his son was born. John Junior, the subject of this biography, attended school at Staveley, near Kendal. From there he entered Peterhouse, Cambridge matriculating on\n29\nJune\n1757\n, and he was the Senior\nWrangler\nin\n1761\n. This means that he was the best of all the First Class students to graduate after taking the Mathematical Tripos.\nBefore he took his final examinations Wilson had already gained a strong reputation and he had also attracted considerable attention by defending\nWaring\n, who was the Lucasian Professor of Mathematics, from strong attacks which had been made on him as a result of his text\nMiscellanea analytica\nⓉ\n(\nMiscellaneous analysis\n)\n.\nOn\n7\nJuly\n1764\nWilson was elected a Fellow of Peterhouse and he taught mathematics at Cambridge with great skill, quickly gaining an outstanding reputation for himself. However, he was not to continue in the world of university teaching, for in\n1766\nhe was called to the bar having begun a legal career on\n22\nJanuary\n1763\nwhen he was admitted to the Middle Temple. It was a highly successful career, too.\nHe is best known among mathematicians for Wilson's theorem which states that:-\n... if p is prime then\n1\n+\n(\np\n−\n1\n)\n!\n1 + (p - 1)!\n1\n+\n(\np\n−\n1\n)\n!\nis divisible by p\nThis result was first published by\nWaring\n, without proof, and attributed to Wilson.\nLeibniz\nappears to have known the result. It was first proved by\nLagrange\nin\n1773\nwho showed that the converse is true, namely:-\n... if\nn\nn\nn\ndivides\n1\n+\n(\nn\n−\n1\n)\n!\n1 + (n - 1)!\n1\n+\n(\nn\n−\n1\n)\n!\nthen\nn\nn\nn\nis prime.\nAlmost certainly Wilson's theorem was a guess made by him, based on the evidence of a number of special cases, which neither he nor\nWaring\nknew how to prove.\nAlmost certainly Wilson's interest in mathematics continued during his legal career for he was elected a fellow of the\nRoyal Society\non\n13\nMarch\n1782\n. He was appointed king's counsel on\n24\nApril\n1782\n, and became a bencher of the Middle Temple a couple of weeks later on\n10\nMay. He became a member of the Court of Common Pleas on\n6\nNovember\n1786\nwhich had been set up to make judgements in cases of civil disputes between individuals. At the time that Wilson served on this body it was one of three courts which dealt with common-law business. He was called as a sergeant-at-law, also on\n6\nNovember\n1786\n. Just over a week later, on\n15\nNovember, he was knighted.\nOn\n7\nApril\n1788\nWilson married Mary Ann Adair, who was the daughter of a sergeant-at-law; John and Mary Wilson had a son and two daughters. The marriage, however, was not to be a long one for Wilson died only five years after his marriage. Many considered that his health had suffered through overwork. Certainly he pressed on with his duties with great vigour and he was appointed a commissioner of the great seal on\n15\nJune\n1792\n. He held this position until\n28\nJanuary\n1793\nbut, shortly after this, his health deteriorated badly and he decided to make a visit to Lisbon in an attempt to recover. With little signs of improvement he returned to England going to live in Kendall where he had been brought up.\nWilson was held in high regard by his contemporaries as the following quote shows\n(\nsee\n[\n2\n]\n)\n:-\n... no man of the profession is held in superior estimation, either on account of his professional abilities, amiableness of manners, or benevolence of heart.",
+  "matematicos_citados_na_biografia": [
+    "Wrangler",
+    "Waring",
+    "Leibniz",
+    "Lagrange",
+    "Royal Society"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

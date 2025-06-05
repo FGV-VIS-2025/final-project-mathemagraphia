@@ -1,0 +1,25 @@
+{
+  "nome_completo": "Claude Mylon",
+  "nome_curto": "Claude Mylon",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Mylon/",
+  "data_nascimento": "1618",
+  "local_nascimento": "Paris, France",
+  "data_morte": "1660",
+  "local_morte": "Paris, France",
+  "summary": "Claude Mylon was a French mathematician important because of his correspondence with the leading mathematicians of the day.",
+  "biografia": "Claude Mylon\n's father, Benoist Mylon, was a counsellor to Louis XIII and Controller-General of Finance. Claude was his parent's third son and he was brought up in a well-off family. He made the law his profession and Costabel writes\n[\n1\n]\nthat he:-\n... was admitted to the bar as an advocate before Parlement in\n1641\n, even though he lacked two years of being twenty-five, the legal age of majority.\nMylon is important in the history of mathematics, not for his own achievements, but for his role in the\nAcadémie Parisienne\n, the group of scholars which was a continuation of the group formed in Paris by\nMersenne\n, which was to form the foundation on which the Paris\nAcademy of Sciences\nwas formed. Mylon joined\nMersenne\n's mathematical circle in around\n1645\nwhen he began to take careful notes of mathematical discussions in the group. At this time\nMersenne\nwas still in control of the group but on\nMersenne\n's death in\n1648\nLe Pailleur took over the role of director of the Académie Parisienne. Mylon took on the role of secretary of the academy.\nAfter the death of Le Pailleur in\n1654\n, Mylon had access to all the correspondence between members of the Académie Parisienne and the numerous scientist with whom they had corresponded. At this stage Mylon carried on the important task of making the discoveries of mathematicians available to other mathematicians. He sent information on\nFermat\n's and\nFrenicle de Bessy\n's\nnumber theory\nproblems to Holland.\nFermat\nhad asked for a cube\nn\nn\nn\nsuch that the sum of the divisors of\nn\nn\nn\nis a square, and a square\nn\nn\nn\nsuch that the sum of the divisors of\nn\nn\nn\nis a cube.\nFrenicle de Bessy\nhad asked for an integer\nn\nn\nn\nsuch that the sum of the divisors of\nn\nn\nn\nis\n5\nn\n5n\n5\nn\nand the sum of the divisors of\n5\nn\n5n\n5\nn\nis\n25\nn\n25n\n2\n5\nn\n. Similarly he asked for an integer\nn\nn\nn\nsuch that the sum of the divisors of\nn\nn\nn\nis\n7\nn\n7n\n7\nn\nand the sum of the divisors of\n7\nn\n7n\n7\nn\nis\n49\nn\n49n\n4\n9\nn\n.\nMylon also corresponded with\nvan Schooten\nabout the problems on games of chance, in particular the dice and points problems, that\nFermat\nand\nPascal\nwere considering. The dice problem asks how many times one must throw a pair of dice before one expects a double six, while the problem of points asks how to divide the stakes if a game of dice is incomplete. Mylon maintained contact with\nPascal\nafter he gave up his mathematical studies and corresponded with\nRoberval\n.\nMylon's attempts to contribute to mathematics were much less successful than he was as a communicator of the results of others. He attempted to find the area enclosed by the curve known as the\nPearls of Sluze\n. He also attempted to prove the result found by\nWren\nconcerning the length of the arc of the\ncycloid\n. As Costabel writes\n[\n1\n]\n:-\nThese efforts stand as a monument to his inadequacies as a mathematician ...",
+  "matematicos_citados_na_biografia": [
+    "Mersenne",
+    "Academy of Sciences",
+    "Fermat",
+    "Frenicle de Bessy",
+    "number theory",
+    "van Schooten",
+    "Pascal",
+    "Roberval",
+    "Pearls of Sluze",
+    "Wren",
+    "cycloid"
+  ],
+  "imagens": []
+}

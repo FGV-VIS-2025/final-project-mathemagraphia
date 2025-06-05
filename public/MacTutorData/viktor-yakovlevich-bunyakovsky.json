@@ -1,0 +1,32 @@
+{
+  "nome_completo": "Viktor Yakovlevich Bunyakovsky",
+  "nome_curto": "Viktor Yakovlevich Bunyakovsky",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Bunyakovsky/",
+  "data_nascimento": "16 December 1804",
+  "local_nascimento": "Bar, Russian Empire, (now Ukraine)",
+  "data_morte": "12 December 1889",
+  "local_morte": "St Petersburg, Russia",
+  "summary": "Viktor Bunyakovsky worked on Number Theory as well as geometry, mechanics and hydrostatics. He discovered the Cauchy-Schwarz inequality 25 years before Cauchy or Schwarz.",
+  "biografia": "Viktor Yakovlevich Bunyakovsky\n's father, Yakov Vasilievich Bunyakovsky, was a colonel. Bunyakovsky was first educated at home and then went abroad, obtaining a doctorate from Paris in\n1825\nafter working under\nCauchy\n. Bunyakovsky submitted three doctoral theses in the spring of\n1825\n. The first two were submitted together:\nRotary motion in a resistant medium of a set of plates of constant thickness and defined contour around an axis inclined with respect to the horizon\nand\nDetermination of the radius-vector in elliptical motion of planets\n. The third\nHeat propagation in solids\nwas submitted later and accepted three weeks after the first two. More details of these works are given in\n[\n4\n]\n, see also\n[\n5\n]\n.\nIn\n1826\nBunyakovsky left Paris and returned to St Petersburg. In this he played an important role in the development of mathematics in the Russian Empire for he brought back with him an expertise in applying\nCauchy\n's theory of residues which were at that time unknown in the Russia Empire. See\n[\n5\n]\nfor details. He also brought French probabilistic ideas which formed a basis for the development of probability in the Empire prior to the work of\nChebyshev\n; details are given in\n[\n9\n]\n.\nBunyakovsky studied and taught in St Petersburg for many years. He taught at a number of different institutions in St Petersburg, including the First Cadet Corps, the Communications Academy and later the Naval Academy. The courses he offered were on mathematics and mechanics. He was a professor at the University in St Petersburg from\n1846\nuntil\n1880\n. His scientific research work, however, was not done at these institutions, but was carried out at the\nSt Petersburg Academy of Sciences\n.\nTwo years after his return to St Petersburg from Paris, Bunyakovsky became an adjunct in mathematics at the Academy, then he was named an extraordinary academician in\n1830\n(\nhere extraordinary means the same as in the German system, the equivalent of an associate professor in the present American system\n)\n. Then in\n1841\nhe was promoted to an ordinary academician at the Academy. In\n1864\nhe became vice-president of the\nSt Petersburg Academy of Sciences\n, a post which he held until his death.\nBunyakovsky published over\n150\nworks on mathematics and mechanics. He is best known for his discovery of the\nCauchy\n-\nSchwarz\ninequality, published in a monograph in\n1859\non inequalities between integrals. This is twenty-five years before\nSchwarz\n's work. In the monograph Bunyakovsky gave some results on the functional form of the inequality. There are many reasons why certain theorems are not named after their discoverer but after a later rediscoverer. However, in the case of Bunyakovsky there seems no good reason at all why he should not have the credit for his discovery. One would have to note, however, that the terminology of mathematics is not universal and in some countries his theorem is correctly named, or named after\nCauchy\n, Bunyakovsky and\nSchwarz\n. A history of the\nCauchy\n-Bunyakovsky-\nSchwarz\ninequality is given in\n[\n8\n]\n.\nBunyakovsky worked on\nnumber theory\n, geometry and applied mathematics. His work in number theory was important and he gave a new proof of\nGauss\n's law of\nquadratic reciprocity\n.\nDickson\n, in his book on the history of number theory, gives\n40\nreferences to papers of Bunyakovsky. In\n1846\nBunyakovsky wrote a number theory work\n[\n1\n]\n:-\n... in which he gave an original exposition of this science and its application to insurance and demography.\nBunyakovsky also worked on geometry. In\n1853\nhe examined\nEuclid\n's\nfifth postulate\n, giving a critical account of previous attempts to prove it. He then attempted his own proof, unaware that\nLobachevsky\nhad invented\nnon-euclidean geometry\n25\nyears before and, although it was published, it had been rejected by\nOstrogradski\nwhen it had been submitted for publication in the\nSt Petersburg Academy of Sciences\n.\nHis work in applied mechanics and hydrostatistics are probably not his most important, but are still a good contribution to the subject. His\n1846\nbook on probability\nFoundations of the mathematical theory of\nprobability\nis usually recognised as providing the development of Russian probabilistic terminology. Bunyakovsky's book also attempts to make\nLaplace\n's\nThéorie analytique des probabilites\n(1812)\nmore accessible.\nBunyakovsky is remembered in many ways other than for the formula which fails to bear his name. A medal and prize was instituted by the\nSt Petersburg Academy of Sciences\nin\n1875\nfor outstanding mathematical work. For example\nVoronoy\nis one of the recipients of the prize.",
+  "matematicos_citados_na_biografia": [
+    "Cauchy",
+    "Chebyshev",
+    "St Petersburg Academy of Sciences",
+    "Schwarz",
+    "number theory",
+    "Gauss",
+    "quadratic reciprocity",
+    "Dickson",
+    "Euclid",
+    "fifth postulate",
+    "Lobachevsky",
+    "non-euclidean geometry",
+    "Ostrogradski",
+    "probability",
+    "Laplace",
+    "Voronoy"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

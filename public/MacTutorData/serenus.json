@@ -1,0 +1,19 @@
+{
+  "nome_completo": "Serenus",
+  "nome_curto": "Serenus",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serenus/",
+  "data_nascimento": "about 300",
+  "local_nascimento": "Antinopolis, Egypt",
+  "data_morte": "about 360",
+  "local_morte": null,
+  "summary": "Serenus was a Greek geometer who wrote commentaries on other mathematicians' work as well as proving some geometric theorems of his own.",
+  "biografia": "Very little is known of\nSerenus\n's life. In fact the article\n[\n4\n]\nclaims that Serenus was born in Antissa but this has been shown by more recent historians of mathematics to be based on an error. That he was born in Antinopolis is confirmed from two sources. The information has been added to one of the manuscripts of his works by at a later stage but we have no reason to doubt the authority of the addition. It can also be deduced from a copy of the second treatise of Serenus which has survived.\nSerenus was a commentator on the texts of others but, unlike some commentators, he was a fine mathematician in his own right. He wrote two original mathematical works which show that he was indeed a mathematician of considerable ability.\nThe two treatises by Serenus are\nOn the Section of a Cylinder\nand\nOn the Section of a Cone\nboth of which have survived. In the preface to the first of these Serenus gives his reasons for writing the work\n[\n2\n]\n:-\n... many persons who were students of geometry were under the erroneous impression that the oblique section of a cylinder was different from the oblique section of a cone known as an\nellipse\n, whereas it is of course the same curve.\nThe work consists of\n33\npropositions. Typical of these are the following two problems.\n(\ni\n)\nSuppose we are given a cone and an ellipse\nE\nE\nE\non the cone. Serenus shows how to find the cylinder which is cut in the ellipse\nE\nE\nE\n.\n(\nii\n)\nGiven a cone, find a cylinder so that when both are cut by the same plane the sections of the cuts form similar ellipses.\nThe final five propositions, involving rays of light, are designed to support his friend Peithon who wrote a tract giving what he considered a better definition of parallels to that given by\nEuclid\n. It appears that Peithon's work treated as a bit of a joke and Serenus tries to in these propositions to show that Peithon's ideas are mathematically sound. Peithon\n[\n1\n]\n:-\n... had defined parallels to be such lines as are cast on a wall or a roof by a pillar with a light behind it.\nAs Heiberg comments in\n[\n3\n]\n, even though Greek geometry was in decline by this time mathematicians were sufficiently knowledgeable to find this definition funny.\nIn the first\n57\npropositions in\nOn the Section of a Cone\nSerenus examined triangular sections of right and scalene cones made by planes passing through the vertex. He also considered some problems relating to maximising areas. The remaining\n12\npropositions deal with the volumes of right cones given its height, its base, and the area of a triangular section through its axis.\nSerenus wrote a commentary on\nApollonius\n's\nConics\nunfortunately is lost, except for a fragment preserved by\nTheon of Smyrna\n. That he wrote such a work is confirmed by Serenus in his own writings. The result described by\nTheon of Smyrna\nis introduced with the words\n(\nsee for example\n[\n1\n]\n)\n:-\nFrom Serenus the philosopher out of the lemmas.\nThe result is that if a number of angles are subtended at points on a diameter of a circle so that the arcs of the circle subtended by the angles are all equal, then the closer to the centre of the circle is the point on the diameter, the greater is the angle.",
+  "matematicos_citados_na_biografia": [
+    "ellipse",
+    "Euclid",
+    "Apollonius",
+    "Conics",
+    "Theon of Smyrna"
+  ],
+  "imagens": []
+}

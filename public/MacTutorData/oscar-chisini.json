@@ -1,0 +1,29 @@
+{
+  "nome_completo": "Oscar Chisini",
+  "nome_curto": "Oscar Chisini",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Chisini/",
+  "data_nascimento": "14 March 1889",
+  "local_nascimento": "Bergamo, Italy",
+  "data_morte": "10 April 1967",
+  "local_morte": "Milan, Italy",
+  "summary": "Oscar Chisini was an Italian mathematician who worked in algebraic geometry.",
+  "biografia": "Oscar Chisini\nwas the third son of a noble Venetian family. His father, who held a degree in law, was a professional soldier and as his family accompanied him along the path of his career. The young Oscar received a classical education, first in Ravenna and then in Bologna. This was to leave its mark on him, as we know from Carlo Felice Manara\n[\n1\n]\nthat Professor Chisini enjoyed quoting long passages from Dante's\nDivina Commedia\n.\nLater, enrolled as an engineering student at the University of Bologna, Oscar Chisini met\nFederigo Enriques\nin a meeting that was to change his life. Indeed,\nEnriques\nimmediately recognised his talent, led him to obtain a degree in mathematics in\n1912\n, and engaged him as assistant and coauthor in the writing of the treatise\nLezioni sulla teoria geometrica delle equazioni e delle funzioni algebriche\nⓉ\n(\nLessons on the geometric theory of equations and algebraic functions\n)\n. The four volumes of this monograph, started in\n1915\nand finished in\n1934\n, were conceived in what Chisini called a peripatetic way, that is walking under the porches of Bologna with\nEnriques\npossibly stopping to write on the flooring with the tip of his umbrella. This could be related with the origin of Chisini's idea that:-\nGeometry teaches you how to carry out the correct reasoning on the wrong picture.\nThe four volumes appeared in\n1915\n,\n1918\n,\n1924\nand\n1934\nand were reprinted as two books, of two volumes each, in\n1985\n.\nDu Val\n, reviewing Chisini's\n1960\npaper\nSingolarità delle curve algebriche piane: Schemi rappresentativi e questioni connesse\nⓉ\n(\nSingularity of plane algebraic curves: representative diagrams and related matters\n)\n,  writes:-\nThis is a sort of mature meditation on the theory of the singularities of a plane curve, classically laid down by\nEnriques\nand\n[\nChisini\n]\n, over half a century ago.\nThe Great War marked a break in Chisini's academic career, as he volunteered in the alpine artillery. On the other hand, it gave him an opportunity to display his versatility by applying mathematics to solve technical military problems. In particular, he invented a telemeter that was patented. After the war, he first became a professor in Cagliari in\n1923\n, then in\n1925\nhe moved to Milan where he remained until he retired in\n1959\n. At the time of his death, he was professor emeritus and also a member of the\nAccademia dei Lincei\n.\nAccording to\nEugenio Giuseppe Togliatti\n[\n2\n]\n, the activity of Oscar Chisini in the mathematical sciences was threefold: scientific research in the field of\nalgebraic geometry\n, high level original reconstruction of mathematical theories, and active involvement in the teaching of mathematics at secondary school level. It was the latter that led him to reflect on the notion of mean, eventually giving an original definition that was first appreciated by\nBruno de Finetti\nand then became a point of reference in statistics. Also as part of his work on mathematical education he was associated over a period of\n46\nyears with the journal\nPeriodico di Matematiche\nand wrote many articles and books on various aspects of elementary mathematics. For example he published in this journal:\nSul principio di continuità\nⓉ\n(\nOn the principle of continuity\n)\n(1956)\nwhich is an expository lecture on the principle of continuity in algebraic geometry, beginning with the ideas of\nKepler\n;\nLa superficie cubica\nⓉ\n(\nThe cubic surface\n)\n(1957)\nwhich gives a clear and original treatment of the principal properties of cubic surfaces, presenting it as a preliminary introduction to the study of algebraic geometry; and\nIsoperimetri\nⓉ\n(\nIsoperimetry\n)\n(1960)\nwhich contains elementary thoughts on the plane isoperimetric problem.\nAs an algebraic geometry researcher, Oscar Chisini is to be considered part of the so-called Italian school, featuring among others\nLuigi Cremona\n,\nCorrado Segre\n,\nGuido Castelnuovo\n,\nFrancesco Severi\n,\nBeniamino Segre\nand, of course,\nFederigo Enriques\n. Extended bibliographies of Chisini's works are given by Carlo Felice Manara\n[\n1\n]\nand\nEugenio Giuseppe Togliatti\n[\n2\n]\n.\nCarlo Felice Manara\n[\n3\n]\nidentifies three main traits of the intellectual personality of Oscar Chisini: the liveliness of his imagination, his ability to deal with generality by means of special cases, and a radical critical spirit that allowed him to avoid the pitfalls of this kind of reasoning. Manara writes\n[\n3\n]\n:-\n... the uncommon qualities of his mind, both in the creative process and in criticism, are well apparent in his work.\nOverall, Chisini expressed a dynamic vision of science in which history and mistakes are to play a prominent role. For example, he believed that theorems should be presented as raw minerals rather than polished gems.",
+  "matematicos_citados_na_biografia": [
+    "Federigo Enriques",
+    "Enriques",
+    "Du Val",
+    "Accademia dei Lincei",
+    "Eugenio Giuseppe Togliatti",
+    "algebraic geometry",
+    "Bruno de Finetti",
+    "Kepler",
+    "Luigi Cremona",
+    "Corrado Segre",
+    "Guido Castelnuovo",
+    "Francesco Severi",
+    "Beniamino Segre"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

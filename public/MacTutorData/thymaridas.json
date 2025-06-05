@@ -1,0 +1,16 @@
+{
+  "nome_completo": "Thymaridas of Paros",
+  "nome_curto": "Thymaridas",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Thymaridas/",
+  "data_nascimento": "about 400 BC",
+  "local_nascimento": "Paros, Greece",
+  "data_morte": "about 350 BC",
+  "local_morte": null,
+  "summary": "Thymaridas was a Greek follower of Pythagoras who wrote on prime numbers and gave methods for solving simultaneous linear equations .",
+  "biografia": "We are told a little about\nThymaridas'\nlife. He was apparently a rich man but, for some reason we are not told about, he fell into poverty. Thestor of Poseidonia sailed to Paros to help him with money specially collected for his benefit.\nThymaridas was a Pythagorean and a number theorist who wrote on\nprime numbers\n.\nIamblichus\ntells us that Thymaridas called a prime number rectilinear since it can only be represented one-dimensionally. Non-primes such as\n6\nare represented by rectangles of sides\n2\nand\n3\n. We are also told that he called 'one' a 'limiting quantity' or a 'limit of fewness'.\nThymaridas also gave methods for solving simultaneous linear equations which became known as the 'flower of Thymaridas'. For the\nn\nn\nn\nequations in\nn\nn\nn\nunknowns\nx\n+\nx\n1\n+\nx\n2\n+\n.\n.\n.\n+\nx\nn\n−\n1\n=\nS\nx + x_{1} + x_{2} + ... + x_{n-1} = S\nx\n+\nx\n1\n​\n+\nx\n2\n​\n+\n.\n.\n.\n+\nx\nn\n−\n1\n​\n=\nS\nx\n+\nx\n1\n=\na\n1\nx + x_{1} = a_{1}\nx\n+\nx\n1\n​\n=\na\n1\n​\nx\n+\nx\n2\n=\na\n2\nx + x_{2} = a_{2}\nx\n+\nx\n2\n​\n=\na\n2\n​\n.\n.\n.\nx\n+\nx\nn\n−\n1\n=\na\nn\n−\n1\nx + x_{n-1} = a_{n-1}\nx\n+\nx\nn\n−\n1\n​\n=\na\nn\n−\n1\n​\nthen Thymaridas gives the solution\nx\n=\na\n1\n+\na\n2\n+\n.\n.\n.\n.\n+\na\nn\n−\n1\n−\nS\nn\n−\n2\nx = \\Large\\frac {a_{1} + a_{2} + .... + a_{n-1} - S}{n - 2}\nx\n=\nn\n−\n2\na\n1\n​\n+\na\n2\n​\n+\n.\n.\n.\n.\n+\na\nn\n−\n1\n​\n−\nS\n​\n.\nHe also shows how certain other types of equations can be put into this form.",
+  "matematicos_citados_na_biografia": [
+    "prime numbers",
+    "Iamblichus"
+  ],
+  "imagens": []
+}

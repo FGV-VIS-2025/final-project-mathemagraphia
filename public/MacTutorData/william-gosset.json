@@ -1,0 +1,23 @@
+{
+  "nome_completo": "William Sealy Gosset",
+  "nome_curto": "William Gosset",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Gosset/",
+  "data_nascimento": "13 June 1876",
+  "local_nascimento": "Canterbury, England",
+  "data_morte": "16 October 1937",
+  "local_morte": "Beaconsfield, England",
+  "summary": "Gosset invented the t -test to handle small samples for quality control in brewing. He wrote under the name \"Student\".",
+  "biografia": "William Gosset\nwas the eldest son of Agnes Sealy Vidal and Colonel Frederic Gosset who came from Watlington in Oxfordshire. William was educated at Winchester, where his favourite hobby was shooting, then entered New College Oxford where he studied chemistry and mathematics. While there he studied under\nAiry\n. He obtained a First Class degree in both subjects, being awarded his mathematics degree in\n1897\nand his chemistry degree two years later.\nGosset obtained a post as a chemist with Arthur Guinness Son and Company in\n1899\n. Working in the Guinness brewery in Dublin he did important work on statistics. In\n1905\nhe contacted\nKarl Pearson\nand arranged to go to London to study at\nPearson\n's laboratory, the\nGalton\nEugenics Laboratory, at University College in session\n1906\n-\n07\n. At this time he worked on the\nPoisson\nlimit to the binomial and the sampling distribution of the mean, standard deviation, and correlation coefficient. He later published three important papers on the work he had undertaken during this year working in\nPearson\n's laboratory.\nMany people are familiar with the name \"Student\" but not with the name Gosset. In fact Gosset wrote under the name \"Student\" which explains why his name may be less well known than his important results in statistics. He invented the\nt\nt\nt\n-test to handle small samples for quality control in brewing. Gosset discovered the form of the\nt\nt\nt\ndistribution by a combination of mathematical and empirical work with random numbers, an early application of the Monte-Carlo method.\nWriting in\n[\n8\n]\n, McMullen says:-\nTo many in the statistical world \"Student\" was regarded as a statistical advisor to Guinness's brewery, to others he appeared to be a brewer devoting his spare time to statistics. ... though there is some truth in both these ideas they miss the central point, which was the intimate connection between his statistical research and the practical problems on which he was engaged. ... \"Student\" did a very large quantity of ordinary routine as well as his statistical work in the brewery, and all that in addition to consultative statistical work and to preparing his various published papers.\nFrom\n1922\nhe acquired a statistical assistant at the brewery, and he slowly built up a small statistics department which he ran until\n1934\n.\nGosset certainly did not work in isolation. He corresponded with a large number of statisticians and he often visited his father in Watlington in England and on these occasions he would visit University College, London, and the Rothamsted Agricultural Experiment Station. He would discuss statistical problems with\nFisher\n,\nNeyman\nand\nPearson\n.\nIn\n1934\nGosset had a motor accident, described in\n[\n8\n]\n:-\n...he ran into a lamp-post on a straight road, through looking down to adjust some stuff he was carrying...\nIn fact when confined to bed for three months after the accident he was able to concentrate on statistics. It was a year before he was recovered but he retained a limp for the remaining few years of his life.\nAt the end of\n1935\nGosset left Ireland to take charge of the new Guinness brewery in London. Despite the hard work involved in this venture he continued to publish statistics papers.\nMcMullen, who was a personal friend, describes Gosset in\n[\n8\n]\nas follows:-\n... he was very kindly and tolerant and absolutely devoid of malice. He rarely spoke about personal matters but when he did his opinion was well worth listening to and not in the least superficial.\nHe is described in\n[\n2\n]\nas follows:-\nHe was much beloved by all those with whom he worked and by a select circle of professional and personal friends, who revered him as one of the most modest, gentle, and brave of men, unconventional, yet abundantly tolerant in all his thoughts and ways. Also he loved sailing and fishing, and invented the angler's self-controlled craft described in the 'Field' of March\n28\n,\n1936\n.",
+  "matematicos_citados_na_biografia": [
+    "Airy",
+    "Karl Pearson",
+    "Pearson",
+    "Galton",
+    "Poisson",
+    "Fisher",
+    "Neyman"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

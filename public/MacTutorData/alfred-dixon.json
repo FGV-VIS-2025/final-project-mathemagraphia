@@ -1,0 +1,36 @@
+{
+  "nome_completo": "Alfred Cardew Dixon",
+  "nome_curto": "Alfred Dixon",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Dixon/",
+  "data_nascimento": "22 May 1865",
+  "local_nascimento": "Northallerton, Yorkshire, England",
+  "data_morte": "4 May 1936",
+  "local_morte": "Northwood, Middlesex, England",
+  "summary": "Alfred Dixon graduated from London and Cambridge and then had professorial appointments in Galway and Belfast. He worked on ordinary and partial differential equations.",
+  "biografia": "Alfred Dixon\nwas the son of the Rev George Thomas Dixon\n(\nborn Brigg, Lincolnshire about\n1838)\n, who was the Wesleyan Minister of Northallerton. His mother was Ellen Cardew\n(\nborn Alford, Lincolnshire about\n1842)\n. He was the older brother of\nArthur Dixon\n. Alfred was educated at the Quaker School in Kendal. From Kendal he went to Bath where he attended Kingswood School.\nWhittaker\n, in\n[\n4\n]\n, describes him as a prodigy:-\n... the school examiner, finding that\n[\nDixon\n]\nobtained the maximum marks in papers set at the annual examination, one year deliberately set a problem that could not be done, only to receive from Dixon an elaborate proof of its impossibility.\nIn\n1881\nhe was attending the Wesleyan College For Wesleyan Ministers Sons in Bath. He attended London University, graduating with an M.A., then in\n1883\nhe entered Trinity College, Cambridge. He graduated in\n1886\nas Senior\nWrangler\nin the Mathematical Tripos\n(\nranked first in the list of students with First Class degrees\n)\n. He had been taught by a number of famous mathematicians at Cambridge, including\nGlaisher\n,\nRouse Ball\n,\nForsyth\n, and he attended lectures by\nCayley\n. Dixon was appointed a Fellow of Trinity College in\n1888\nand was awarded the second Smith's prize.\nDixon was appointed to the Chair of Mathematics at Queen's College, Galway, Ireland in\n1893\n.\n(\nThis university is now named University College, Galway.\n)\nDixon's appointment was to fill the chair left vacant when George J Allman, a noted historian of mathematics, retired. The appointment to Galway seems to have been good for Dixon since his mathematical output improved both in quantity and in quality from this time.\nIn\n1901\nDixon was appointed to the chair of mathematics at Queen's College, Belfast. His chair at Galway was filled one year later by another equally outstanding mathematician when\nBromwich\nwas appointed.\nDixon's main area of research was in\ndifferential equations\nand he did early work on\nFredholm\nintegrals independently of\nFredholm\n. He worked both on ordinary differential equations and on\npartial differential equations\nstudying\nabelian integrals\n, automorphic functions, and functional equations.\nWhittaker\ndescribes his research as follows:-\nDixon was never content with formal results, but always took care to investigate carefully the conditions under which his results were valid. In this respect his analysis is comparable in thoroughness with that of Carleman,\nHardy\n,\nHilbert\nand\nSchmidt\n.\nSoon after his appointment at Galway Dixon published his only textbook\nThe Elementary Properties of Elliptic Functions\n(1894)\n. During his time in Galway, Dixon proved a combinatorial identity which was later generalised by Fjelsted in\n1954\n. Dixon's identity states that:-\nThe sum from\nk\nk\nk\n=\n0\nto\nn\nn\nn\nof\n(\n−\n1\n)\nk\n(\nn\nC\nk\n)\n3\n(-1)^{k}(_{n}C_{k})^{3}\n(\n−\n1\n)\nk\n(\nn\n​\nC\nk\n​\n)\n3\nis\n0\nif\nn\nn\nn\nis not\n2\nm\n2m\n2\nm\nand is\n(\n−\n1\n)\nm\n(\n3\nm\n)\n!\n/\n(\nm\n!\n)\n3\n(-1)^{m}(3m)!/(m!)^{3}\n(\n−\n1\n)\nm\n(\n3\nm\n)\n!\n/\n(\nm\n!\n)\n3\nif\nn\n=\n2\nm\nn = 2m\nn\n=\n2\nm\n.\nAs J Ward notes in\n[\n2\n]\n:-\nIn general there are few known identities involving sums of products of several\nbinomial coefficients\n. A spectacular generalisation of Dixon's beautiful identity is given by equation .\n31\non page\n171\nof\n[\nR L Graham\n,\nD E Knuth\nand O Patashnik, Concrete Mathematics\n(1989)]\nwhich must surely be the non plus ultra of the species.\nLater in his career Dixon worked on the problem of a loaded elastic rectangular plate. The problem was proposed to him first by the professor of engineering at Belfast. In its original form the question was to study the effect produced by placing a weight on a thin uniform rectangular plate which was clamped round the edges.\nA devout Methodist Dixon was active in the Philharmonic Orchestra. He was elected to the\nRoyal Society\nin\n1904\n. After he retired from his chair in Belfast in\n1930\nhe served as president of the\nLondon Mathematical Society\nfrom\n1931\nuntil\n1933\n. He did not wish to retire but\n[\n4\n]\n:-\n... his retirement was made inevitable by eye trouble which culminated ... in an operation involving the loss of one eye. However, he recovered after a time and undertook such a burst of examination work that he complained of being more overworked in retirement than he had ever been in office. ... His death ... came as a shock to his friends: he had a sudden seizure and died from heart failure in an hour.",
+  "matematicos_citados_na_biografia": [
+    "Arthur Dixon",
+    "Whittaker",
+    "Wrangler",
+    "Glaisher",
+    "Rouse Ball",
+    "Forsyth",
+    "Cayley",
+    "Bromwich",
+    "differential equations",
+    "Fredholm",
+    "partial differential equations",
+    "abelian integrals",
+    "Hardy",
+    "Hilbert",
+    "Schmidt",
+    "binomial coefficients",
+    "R L Graham",
+    "D E Knuth",
+    "Royal Society",
+    "London Mathematical Society"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}
