@@ -1,0 +1,31 @@
+{
+  "nome_completo": "Hermann Hankel",
+  "nome_curto": "Hermann Hankel",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Hankel/",
+  "data_nascimento": "14 February 1839",
+  "local_nascimento": "Halle, Germany",
+  "data_morte": "29 August 1873",
+  "local_morte": "Schramberg (near Tübingen), Germany",
+  "summary": "Hermann Hankel was a German mathematician who worked on the theory of complex numbers, the theory of functions and the history of mathematics. He is remembered for the Hankel transform and the Hankel matrix.",
+  "biografia": "Hermann Hankel\n's father was Wilhelm Gottlieb Hankel who was a physicist at Halle at the time Hermann was born. Hermann began his education in Halle but, in\n1849\nWilhelm was appointed to the chair of physics at Leipzig so the family moved to Leipzig where Hermann attended the Nicolai\nGymnasium\n. At the gymnasium he\n[\n1\n]\n:-\n... improved his Greek by reading the ancient mathematicians in the original.\nIn\n1857\nHankel entered the University of Leipzig where he studied mathematics with\nMöbius\nand physics with his own father. Following the tradition in Germany at that time Hankel did not complete his studies at one university, but moved to several different universities during the course of his studies. From Leipzig he went to Göttingen in\n1860\nwhere he became a student of\nRiemann\nand then, in the following year, he worked with\nWeierstrass\nand\nKronecker\nin Berlin. He received his doctorate for a thesis\nÜber eine besondere Classe der symmetrischen Determinanten\nⓉ\n(\nOn a special class of symmetric determinants\n)\nin\n1862\n.\nHankel's\nhabilitation\nwas accepted in\n1863\nand he began teaching at Leipzig where he was appointed extraordinary professor in\n1867\n. The appointment as extraordinary professor had been in the spring but by the autumn of the same year Hankel was at Erlangen to take up an appointment as ordinary professor. He married Marie Dippe in Erlangen but again he would move fairly soon, accepting the chair at Tübingen in\n1869\n.\nHe worked on the theory of complex numbers, the theory of functions and the history of mathematics. His work on complex analysis, however, is not considered of the first rank and in\n[\n8\n]\nhe is included with those who contributed but whose:-\n... influence on the foundations of complex analysis was not as essential as that of those mathematicians discussed in more detail\n[\nRiemann\n,\nWeierstrass\n,\nHurwitz\n,\nBieberbach\n...\n]\nHankel made a systematic study of the rules of arithmetic with his\nPrinzip der Permanenz der formalen Gesetze\nⓉ\n(\nThe principle of permanence of formal laws\n)\n(1867)\n, see\n[\n7\n]\n. He wrote another important work which was also published in\n1867\nTheorie der complexen Zahlensysteme\nⓉ\n(\nTheory of complex number systems\n)\nwhich did much to make\nGrassmann\n's ideas better known. This work\n[\n1\n]\n:-\n... constitutes a lengthy presentation of much of what was then known of the real, complex, and hypercomplex number systems. Beginning with a revised statement of\nGeorge Peacock\n's principle of permanence of formal laws, he developed complex numbers as well as such higher algebraic systems as\nMöbius\n's barycentric calculus, some of\nHermann Grassmann\n's algebras, and\nW R Hamilton\n's\nquaternions\n. Hankel was the first to recognise the significance of\nGrassmann\n's long-neglected writings ...\nHankel looked at\nRiemann\n's integration theory and restated it in terms of measure theoretic concepts. This, and other work he did in this area, constitutes progress towards our current integration theories. He is remembered for the Hankel transformation which occurs in the study of functions which depend only on the distance from the origin. He also studied functions, now named Hankel functions or\nBessel functions\nof the third kind, in a series of papers which appeared in\nMathematische Annalen\n.\nHis historical writings are rather hard to evaluate since they contain many errors, yet they are filled with brilliant insight. In the same way that he saw the importance of\nGrassmann\n's work, Hankel also must have considerable credit for seeing the importance of\nBolzano\n's work on infinite series.",
+  "matematicos_citados_na_biografia": [
+    "Gymnasium",
+    "Möbius",
+    "Riemann",
+    "Weierstrass",
+    "Kronecker",
+    "habilitation",
+    "Hurwitz",
+    "Bieberbach",
+    "Grassmann",
+    "George Peacock",
+    "Hermann Grassmann",
+    "W R Hamilton",
+    "quaternions",
+    "Bessel functions",
+    "Bolzano"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

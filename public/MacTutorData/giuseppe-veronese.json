@@ -1,0 +1,26 @@
+{
+  "nome_completo": "Giuseppe Veronese",
+  "nome_curto": "Giuseppe Veronese",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Veronese/",
+  "data_nascimento": "7 May 1854",
+  "local_nascimento": "Chioggia (now Italy)",
+  "data_morte": "17 July 1917",
+  "local_morte": "Padua, Italy",
+  "summary": "Giuseppe Veronese was an Italian mathematician who worked on the geometry of multidimensional spaces, model theory and transfinite numbers.",
+  "biografia": "Giuseppe Veronese\nwas born and brought up in Chioggia which was a small fishing village not far from Venice. His father was a house painter and his mother Elenora Duse was related to a famous actress. However, it was a poor family and they could not afford to finance Giuseppe through university. In\n1872\n, at age eighteen, Veronese had give up his education to take a job in Vienna.\nVeronese was fortunate, however, and the following year he was able to begin his studies again. He found himself a patron in Count Nicolò Papadopoli who supported him financially so that he could go to Zürich Polytechnic in\n1873\n. There he set out on a course of study which involved both engineering and mathematics. However, he began to correspond with\nCremona\n, who was at the University of Rome, on mathematical topics. He started work on a paper on\nPascal\n's hexagram but, following\nCremona\n's advice, he moved to Rome to complete his undergraduate degree.\nIn\n1876\nVeronese was appointed as assistant in analytical geometry on the strength of his paper on\nPascal\n's hexagram which he had completed by this time. This is quite remarkable for one should remember that at this point Veronese was still studying the undergraduate course in Rome. He graduated in\n1877\nand continued to work for his doctorate in Rome. Veronese was in contact with\nKlein\nwho was about to take up a chair of geometry at the University of Leipzig. It was arranged that Veronese would go to Leipzig in\n1880\nand to spend the year\n1880\n-\n81\nundertaking research under\nKlein\n.\nBellavitis\ndied in November\n1880\nand his chair of\nalgebraic geometry\nin Padua became vacant. The chair was filled by holding a competition which Veronese won and he was appointed to the chair in\n1881\n. He held this chair throughout his life.\nFreguglia, in\n[\n5\n]\n, describes Veronese's study of geometry in higher dimensions. In\n1880\nVeronese described an\nn\nn\nn\n-dimensional\nprojective geometry\n, showing that simplifications could be obtained in passing to higher dimensions. He illustrated the fact that difficulties arose when a simple surface in high dimension was projected onto\n3\n-space. This was a very original approach to higher-dimensional projective geometry that Veronese developed. He is certainly considered to be one of the founders of that topic for with him what others had considered as linear algebra viewed geometrically became geometry.\nThis original approach was based on the supremacy of geometric intuitive techniques over the analytic and algebraic viewpoints. Veronese provided both logical and psychological motivations for his approach which greatly influenced the Italian school of geometry for many years.\nVeronese invented non-Archimedean geometries which he proposed around\n1890\n. However\nPeano\nstrongly criticised the notion due to the lack of rigour of Veronese's description and also for the fact that he did not justify his use of infinitesimal and infinite segments. The resulting argument was extremely useful to mathematics since it helped to clarify the notion of the continuum. Any fears that non-Archimedean systems would not be consistent were shown to unnecessary soon after this when\nHilbert\nproved that indeed they were consistent.\nWe should mention one or two further aspects of Veronese's life. He wrote a number of useful secondary school texts on mathematics and he also became involved in politics. He served as a member of the Parliament of Chioggia from\n1897\nto\n1900\n, then later he served as a member of the Padua City Council, finally being a Senator from\n1904\nuntil his death.\nHe had two particularly famous pupils.\nCastelnuovo\n, one of the greatest algebraic geometers of the Italian school, was his pupil in the mid\n1880\ns and\nLevi-Civita\nwas one of his pupils about ten years later.",
+  "matematicos_citados_na_biografia": [
+    "Cremona",
+    "Pascal",
+    "Klein",
+    "Bellavitis",
+    "algebraic geometry",
+    "projective geometry",
+    "Peano",
+    "Hilbert",
+    "Castelnuovo",
+    "Levi-Civita"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

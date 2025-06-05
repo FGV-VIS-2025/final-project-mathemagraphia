@@ -1,0 +1,18 @@
+{
+  "nome_completo": "Vijayanandi",
+  "nome_curto": "Vijayanandi",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Vijayanandi/",
+  "data_nascimento": "about 940",
+  "local_nascimento": "Benares (now Varanasi), India",
+  "data_morte": "about 1010",
+  "local_morte": "India",
+  "summary": "Vijayanandi was an Indian mathematician and astronomer who made some contributions to trigonometry.",
+  "biografia": "Vijayanandi\n(\nor Vijayanandin\n)\nwas the son of Jayananda. He was born into the Brahman caste which meant he was from the highest ranking caste of Hindu priests. He was an Indian mathematician and astronomer whose most famous work was the\nKaranatilaka\n. We should note that there was another astronomer named Vijayanandi who was mentioned by\nVarahamihira\nin one of his works. Since\nVarahamihira\nwrote around\n550\nand the\nKaranatilaka\nwas written around\n966\n, there must be two astronomers both named \"Vijayanandi\".\nThe\nKaranatilaka\nhas not survived in its original form but we know of the text through an Arabic translation by\nal-Biruni\n. It is a work in fourteen chapters covering the standard topics of Indian astronomy. It deals with the topics of: units of time measurement; mean and true longitudes of the sun and moon; the length of daylight; mean longitudes of the five planets; true longitudes of the five planets; the three problems of diurnal rotation; lunar eclipses, solar eclipses; the projection of eclipses; first visibility of the planets; conjunctions of the planets with each other and with fixed stars; the moon's crescent; and the patas of the moon and sun.\nThe Indians had a cosmology which was based on long periods of time with astronomical events occurring a certain whole number of times within the cycles. This system led to much work on integer solutions of equations and their application to astronomy. In particular there was, according to\nAryabhata I\n, a basic period of\n4320000\nyears called a mahayuga and it was assumed that the sun, the moon, their apsis and node, and the planets reached perfect conjunctions after this period. Hence it was assumed that the periods were\nrational\nmultiples of each other.\nAll the planets and the node and apsis of the moon and sun had to have an integer number of revolutions in the mahayuga. Many Indian astronomers proposed different values for these integral numbers of revolutions. For the number of revolutions of the apsis and node of the moon per mahayuga,\nAryabhata I\nproposed\n488219\nand\n232226\n, respectively.\nHowever Vijayanandi changed these numbers to\n488211\nand\n232234\n. The reasons for giving the new numbers is unclear. Like other Indian astronomers, Vijayanandi made contributions to trigonometry and it appears that his calculation of the periods was computed by using tables of sines and versed sines. It is significant that accuracy was need in trigonometric tables to give accurate astronomical theories and this motivated many of the Indian mathematicians to produce more accurate methods of approximating entries in tables.",
+  "matematicos_citados_na_biografia": [
+    "Varahamihira",
+    "al-Biruni",
+    "Aryabhata I",
+    "rational"
+  ],
+  "imagens": []
+}

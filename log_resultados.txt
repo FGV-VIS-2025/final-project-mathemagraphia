@@ -1,0 +1,3279 @@
+Manava: ok
+Apastamba: ok
+Panini: ok
+Ahmes: ok
+Anaximander: ok
+Baudhayana: ok
+Pythagoras: ok
+Thales of Miletus: ok
+Oenopides: ok
+Anaxagoras: ok
+Empedocles: ok
+Leucippus: ok
+Antiphon: ok
+Hippocrates: ok
+Zeno of Elea: ok
+Theodorus: ok
+Bryson: ok
+Hippias: ok
+Democritus: ok
+Plato: ok
+Archytas: ok
+Theaetetus: ok
+Gan De: ok
+Eudoxus: ok
+Dinostratus: ok
+Thymaridas: ok
+Xenocrates: ok
+Heraclides: ok
+Menaechmus: ok
+Aristotle: ok
+Aristaeus: ok
+Autolycus: ok
+Callippus: ok
+Eudemus: ok
+Aristarchus: ok
+Euclid: ok
+Conon: ok
+Chrysippus: ok
+Nicomedes: ok
+Eratosthenes: ok
+Philon: ok
+Archimedes: ok
+Apollonius: ok
+Dionysodorus: ok
+Diocles: ok
+Katyayana: ok
+Zenodorus: ok
+Perseus: ok
+Hipparchus: ok
+Hypsicles: ok
+Theodosius: ok
+Zeno of Sidon: ok
+Posidonius: ok
+Vitruvius: ok
+Luoxia Hong: ok
+Geminus: ok
+: ok
+: ok
+: ok
+: ok
+: ok
+: ok
+: ok
+: ok
+Cleomedes: ok
+: ok
+Heron of Alexandria: ok
+: ok
+Nicomachus: ok
+Menelaus: ok
+Theon of Smyrna: ok
+Zhang Heng: ok
+Ptolemy: ok
+Yavanesvara: ok
+Liu Hong: ok
+Xu Yue: ok
+Diophantus: ok
+Porphyry: ok
+Sporus: ok
+Liu Hui: ok
+Serenus: ok
+Pappus: ok
+Pandrosion: ok
+Sun Zi: ok
+Hypatia: ok
+Theon of Alexandria: ok
+Xiahou Yang: ok
+Proclus: ok
+Domninus: ok
+Anthemius: ok
+Zu Chongzhi: ok
+Zu Geng: ok
+Zhang Qiujian: ok
+Marinus: ok
+Boethius: ok
+Aryabhata: ok
+Eutocius: ok
+Yativrsabha: ok
+Simplicius: ok
+Brahmagupta: ok
+Bhaskara I: ok
+Varahamihira: ok
+Wang Xiaotong: ok
+Ananias of Shirak: ok
+Li Chunfeng: ok
+Alcuin: ok
+Lalla: ok
+Banu Musa brothers: ok
+Jafar Muhammad Banu Musa: ok
+al-Jawhari: ok
+Govindasvami: ok
+Al-Khwarizmi: ok
+Mahāvīra: ok
+Ahmad Banu Musa: ok
+Al-Kindi: ok
+Hunayn ibn Ishaq: ok
+al-Hasan Banu Musa: ok
+al-Mahani: ok
+Ahmed ibn Yusuf: ok
+Prthudakasvami: ok
+Thabit: ok
+Sankara Narayana: ok
+Abu Kamil Shuja: ok
+Sinan ibn Thabit ibn Qurra: ok
+Sridhara: ok
+Al-Battani: ok
+Al-Nayrizi: ok
+al-Khazin: ok
+Ibrahim ibn Sinan: ok
+Aryabhata II: ok
+Al-Uqlidisi: ok
+al-Khujandi: ok
+Al-Quhi: ok
+Vijayanandi: ok
+Abu'l-Wafa: ok
+Gerbert of Aurillac: ok
+Al-Sijzi: ok
+Ibn Yunus: ok
+Ibn al-Haytham: ok
+Kushyar ibn Labban: ok
+al-Karaji: ok
+Mansur: ok
+Al-Baghdadi: ok
+Al-Biruni: ok
+al-Jayyani: ok
+Avicenna: ok
+Hermann of Reichenau: ok
+al-Nasawi: ok
+Jia Xian: ok
+Sripati: ok
+al-Zarqali: ok
+Shen Kua: ok
+Brahmadeva: ok
+Omar Khayyam: ok
+Hemchandra: ok
+Abraham bar Hiyya: ok
+Adelard: ok
+Rabbi Ben Ezra: ok
+Jabir ibn Aflah: ok
+Gherard: ok
+Al-Samawal: ok
+Sharaf al-Din al-Tusi: ok
+Bhaskara II: ok
+Reinher of Paderborn: ok
+Fibonacci: ok
+Li Zhi: ok
+Robert Grosseteste: ok
+Michael Scot: ok
+John Sacrobosco: ok
+Albertus: ok
+Roger Bacon: ok
+Qin Jiushao: ok
+Nasir al-Din al-Tusi: ok
+Johannes Campanus: ok
+Jordanus Nemorarius: ok
+Muhyi l'din al-Maghribi: ok
+Guo Shoujing: ok
+Ramon Llull: ok
+Jacob ben Tibbon: ok
+Yang Hui: ok
+Shams al-Din al-Samarqandi: ok
+Zhao Youqin: ok
+Ibn al-Banna: ok
+Al-Farisi: ok
+Thomas Bradwardine: ok
+William of Ockham: ok
+Levi ben Gerson: ok
+Albert of Saxony: ok
+Zhu Shijie: ok
+Al-Khalili: ok
+Mahendra Suri: ok
+Nicholas Oresme: ok
+Narayana: ok
+Qadi Zada: ok
+Paramesvara: ok
+Filippo Brunelleschi: ok
+Madhava: ok
+al-Kashi: ok
+Ulugh Beg: ok
+Al-Umawi: ok
+Nicholas Kryffs: ok
+Georg Peurbach: ok
+Al-Qalasadi: ok
+Ali Qushji: ok
+Leone Battista Alberti: ok
+Piero della Francesca: ok
+Piero Borgi: ok
+Nilakantha: ok
+Regiomontanus: ok
+Luca Pacioli: ok
+Leonardo da Vinci: ok
+Nicolas Chuquet: ok
+Johannes Widman: ok
+Scipione del Ferro: ok
+Johann Werner: ok
+John Maior: ok
+Estienne de la Roche: ok
+Albrecht Dürer: ok
+Charles de Bouvelles: ok
+Juan de Ortega: ok
+Cuthbert Tunstall: ok
+Nicolaus Copernicus: ok
+Gaspar Lax: ok
+Michael Stifel: ok
+Francesco Maurolico: ok
+Roger Collingwood: ok
+Adam Ries: ok
+Oronce Fine: ok
+Petrus Apianus: ok
+Tartaglia: ok
+Jyesthadeva: ok
+Christoff Rudolff: ok
+Pedro Nunes: ok
+Girolamo Cardano: ok
+Gemma Frisius: ok
+Frederico Commandino: ok
+Gerard Mercator: ok
+Robert Recorde: ok
+Erasmus Reinhold: ok
+Georg Joachim Rheticus: ok
+Lodovico Ferrari: ok
+Peter Ramus: ok
+John Dee: ok
+Rafael Bombelli: ok
+Giovanni Benedetti: ok
+Cheng Dawei: ok
+Egnatio Danti: ok
+Giambattista della Porta: ok
+Francesco Barozzi: ok
+Christopher Clavius: ok
+François Viète: ok
+Guidobaldo del Monte: ok
+Ludolph Van Ceulen: ok
+Thomas Allen: ok
+Thomas Digges: ok
+Paul Wittich: ok
+Tycho Brahe: ok
+Baha' al-Din al-Amili: ok
+Giordano Bruno: ok
+Pietro Cataldi: ok
+Michael Mästlin: ok
+John Napier: ok
+Henry Savile: ok
+Simon Stevin: ok
+Jost Bürgi: ok
+Luca Valerio: ok
+Matteo Ricci: ok
+João Delgado: ok
+Adriaan van Roomen: ok
+Bartholomeo Pitiscus: ok
+Giovanni Magini: ok
+João Baptista Lavanha: ok
+Duncan Liddel: ok
+Thomas Harriot: ok
+Thomas Fincke: ok
+Henry Briggs: ok
+Giuseppe Biancani: ok
+Xu Guang-qi: ok
+Philip van Lansberge: ok
+Marino Ghetaldi: ok
+Galileo Galilei: ok
+Christoph Scheiner: ok
+Paul Guldin: ok
+Simon Mayr: ok
+Johannes Kepler: ok
+Benedetto Castelli: ok
+William Oughtred: ok
+Johann Faulhaber: ok
+Pierre Hérigone: ok
+Willebrord Snell: ok
+Claude Gaspar Bachet: ok
+Edmund Gunter: ok
+Jean-Baptiste Morin: ok
+Pierre Vernier: ok
+Gregory of Saint-Vincent: ok
+Claude Mydorge: ok
+Peter Turner: ok
+Joachim Jungius: ok
+Benjamin Bramer: ok
+Étienne Pascal: ok
+Marin Mersenne: ok
+Thomas Hobbes: ok
+Jean Beaugrand: ok
+Girard Desargues: ok
+Pierre Petit: ok
+Wilhelm Schickard: ok
+Pierre Gassendi: ok
+Albert Girard: ok
+Jacob Gool: ok
+Henry Gellibrand: ok
+Jan-Karel della Faille: ok
+Claude Hardy: ok
+René Descartes: ok
+Bonaventura Cavalieri: ok
+Giovanni Battista Riccioli: ok
+Adriaan Vlacq: ok
+Pierre de Carcavi: ok
+Richard Delamain: ok
+Jacques de Billy: ok
+Florimond de Beaune: ok
+John Greaves: ok
+Pierre Fermat: ok
+Juan Caramuel: ok
+Gilles Roberval: ok
+Ismael Boulliau: ok
+Frénicle de Bessy: ok
+Maria Cunitz: ok
+Jacques Le Tenneur: ok
+Evangelista Torricelli: ok
+Honoré Fabri: ok
+Johannes Hevelius: ok
+Jan Stampioen: ok
+Giovanni Alfonso Borelli: ok
+Andrea Tacquet: ok
+John Pell: ok
+John Kersey: ok
+Antoine Arnauld: ok
+John Wilkins: ok
+Henry More: ok
+Frans van Schooten: ok
+John Wallis: ok
+Kamalakara: ok
+Claude Mylon: ok
+Seth Ward: ok
+Michelangelo Ricci: ok
+Gabriel Mouton: ok
+Jeremiah Horrocks: ok
+Francesco Grimaldi: ok
+Jean Picard: ok
+Nicolaus Mercator: ok
+Adrien Auzout: ok
+William Brouncker: ok
+Claude Dechales: ok
+René de Sluze: ok
+Johann Rahn: ok
+Vincenzo Viviani: ok
+Ferdinand Verbiest: ok
+Blaise Pascal: ok
+Stephano degli Angeli: ok
+Erasmus Bartholin: ok
+John Collins: ok
+Guarino Guarini: ok
+Giovanni Cassini: ok
+János Apáczai: ok
+Jan de Witt: ok
+Pietro Mengoli: ok
+Jonas Moore: ok
+Robert Boyle: ok
+Isaac Barrow: ok
+Johann Hudde: ok
+Christiaan Huygens: ok
+Jean Richer: ok
+Edward Cocker: ok
+Henry Coley: ok
+Mei Wending: ok
+Christopher Wren: ok
+Hendrik van Heuraet: ok
+Robert Hooke: ok
+Valentin Heins: ok
+William Neile: ok
+Nicolas Malebranche: ok
+Bernard Lamy: ok
+Georg Mohr: ok
+James Gregory: ok
+Jacques Ozanam: ok
+Philippe de la Hire: ok
+Takakazu Seki: ok
+William Sanders: ok
+Choi Seok-jeong: ok
+Siguenza y Gongora: ok
+Heinrich Meissner: ok
+John Flamsteed: ok
+Denis Papin: ok
+Isaac Newton: ok
+Elisabetha Koopman: ok
+Henry Aldrich: ok
+Gottfried Leibniz: ok
+Giovanni Ceva: ok
+Tommaso Ceva: ok
+Ehrenfried Walter von Tschirnhaus: ok
+Michel Rolle: ok
+Jean Le Fèvre: ok
+Abraham Sharp: ok
+Pierre Varignon: ok
+Jacob Bernoulli: ok
+Charles René Reyneau: ok
+Edmond Halley: ok
+William Molyneux: ok
+David Gregory: ok
+Bernard de Fontenelle: ok
+Thomas Fantet de Lagny: ok
+Joseph Saurin: ok
+Guillaume de l'Hôpital: ok
+John Craig: ok
+Takebe Katahiro: ok
+Giovanni Saccheri: ok
+Louis Carré: ok
+Abraham de Moivre: ok
+Johann Bernoulli: ok
+John Arbuthnot: ok
+William Whiston: ok
+Joseph Raphson: ok
+Maria Winckelmann: ok
+Leonty Filippovich Magnitsky: ok
+John Keill: ok
+Eustachio Manfredi: ok
+Samuel Clarke: ok
+Guido Grandi: ok
+William Jones: ok
+Jacques Cassini: ok
+Jacopo Riccati: ok
+Charles Hayes: ok
+Joseph Privat de Molières: ok
+Johann Gabriel Doppelmayr: ok
+Jakob Hermann: ok
+John Colson: ok
+Gabriele Manfredi: ok
+Pierre Rémond de Montmort: ok
+John Machin: ok
+Mei Juecheng: ok
+Giulio Fagnano: ok
+John Hadley: ok
+Nicholas Saunderson: ok
+Giovanni Poleni: ok
+Roger Cotes: ok
+Brook Taylor: ok
+George Berkeley: ok
+Louis Castel: ok
+Robert Simson: ok
+Nicolaus (I) Bernoulli: ok
+Roger Paman: ok
+Samuel Molyneux: ok
+Willem 'sGravesande: ok
+Christian Goldbach: ok
+James Stirling: ok
+Jagannatha: ok
+Ramiro Rampinelli: ok
+James Bradley: ok
+Nicolaus (II) Bernoulli: ok
+Pierre Bouguer: ok
+Colin Maclaurin: ok
+Pierre-Louis Moreau de Maupertuis: ok
+William Braikenridge: ok
+Charles-Étienne Camus: ok
+Daniel Bernoulli: ok
+Edmund Stone: ok
+Nathaniel Bliss: ok
+Anders Celsius: ok
+Charles-Marie de La Condamine: ok
+William Emerson: ok
+Thomas Bayes: ok
+Jean-Louis Calandrini: ok
+Augustin Hallerstein: ok
+Antoine Deparcieux: ok
+Alexis Fontaine: ok
+Gabriel Cramer: ok
+Johann Castillon: ok
+Benjamin Franklin: ok
+Émilie du Châtelet: ok
+Johann Segner: ok
+Georges Buffon: ok
+Benjamin Robins: ok
+Leonhard Euler: ok
+Johann (II) Bernoulli: ok
+Thomas Fuller: ok
+Giordano Riccati: ok
+Thomas Simpson: ok
+Vincenzo Riccati: ok
+Ruggero Giuseppe Boscovich: ok
+François Jacquier: ok
+Alexander Wilson: ok
+Alexis Clairaut: ok
+Samuel König: ok
+Jorge Juan: ok
+Laura Bassi: ok
+Nicolas-Louis de Lacaille: ok
+César-François Cassini de Thury: ok
+Maria Agnesi: ok
+Jean d'Alembert: ok
+István Hatvani: ok
+John Landen: ok
+Giovanni Fagnano: ok
+Abraham Kästner: ok
+Matthew Stewart: ok
+María Andresa Casamayor: ok
+Richard Price: ok
+Étienne Montucla: ok
+Tobias Mayer: ok
+Nicole-Reine Lepaute: ok
+Franz Aepinus: ok
+Patrick d'Arcy: ok
+James Hutton: ok
+Johann Heinrich Lambert: ok
+Louis-Antoine de Bougainville: ok
+Paolo Frisi: ok
+Étienne Bézout: ok
+Benjamin Banneker: ok
+Charles Bossut: ok
+Francis Maseres: ok
+David Rittenhouse: ok
+Jérôme Lalande: ok
+José Mutis: ok
+Gianfrancesco Malfatti: ok
+Wenceslaus Johann Gustav Karsten: ok
+Naonobu Ajima: ok
+Nevil Maskelyne: ok
+Jean-Charles de Borda: ok
+Achille-Pierre Dionis du Séjour: ok
+Monteiro da Rocha: ok
+Antonio Mario Lorgna: ok
+Jesse Ramsden: ok
+Charles Augustin Coulomb: ok
+Alexandre-Theophile Vandermonde: ok
+Edward Waring: ok
+Johannes Tetens: ok
+Erland Bring: ok
+Charles Hutton: ok
+Joseph-Louis Lagrange: ok
+William Herschel: ok
+Georg Klügel: ok
+Nicolas Vilant: ok
+Anders Lexell: ok
+Carl Friedrich Hindenburg: ok
+Pietro Giannini: ok
+John Wilson: ok
+Johann(III) Bernoulli: ok
+Anastácio da Cunha: ok
+Pierre Méchain: ok
+Adrien Quentin Buée: ok
+Marquis de Condorcet: ok
+George Atwood: ok
+Caspar Wessel: ok
+Gaspard Monge: ok
+Aida Yasuaki: ok
+Giuseppe Piazzi: ok
+Charles Tinseau: ok
+William Trail: ok
+John Playfair: ok
+Dominique Cassini: ok
+Jean-Baptiste-Joseph Delambre: ok
+John Hellins: ok
+Pierre-Simon Laplace: ok
+Simon Lhuilier: ok
+Caroline Herschel: ok
+Samuel Vince: ok
+Lorenzo Mascheroni: ok
+James Glenie: ok
+John Bonnycastle: ok
+William Morgan: ok
+Dugald Stewart: ok
+Adrien-Marie Legendre: ok
+Nicola Fergola: ok
+Edward Troughton: ok
+Lazare Carnot: ok
+Nicolas-François Canard: ok
+Antoine Parseval: ok
+Gaspard de Prony: ok
+Nikolai Fuss: ok
+Georg Vega: ok
+John West: ok
+František Josef Gerstner: ok
+Jacob (II) Bernoulli: ok
+Pietro Paoli: ok
+Christian Kramp: ok
+François Budan: ok
+James Ivory: ok
+Paolo Ruffini: ok
+Ruan Yuan: ok
+Johann Friedrich Pfaff: ok
+Louis Arbogast: ok
+Pierre-Simon Girard: ok
+Sylvestre Lacroix: ok
+Timofei Fedorovic Osipovsky: ok
+John Brinkley: ok
+Alexis Bouvard: ok
+John Farey: ok
+John Leslie: ok
+Argand: ok
+Amélie Harlay: ok
+François-Joseph Servois: ok
+François Français: ok
+Joseph Fourier: ok
+Li Rui: ok
+Pietro Abbati Marescotti: ok
+William Wallace: ok
+Jean Nicolas Pierre Hachette: ok
+Louis Puissant: ok
+Martin Bartels: ok
+Annibale Giordano: ok
+Antoine-André-Louis Reynaud: ok
+Joseph Gergonne: ok
+Bartholomew Lloyd: ok
+Johann Karl Burckhardt: ok
+Robert Haldane: ok
+Nathaniel Bowditch: ok
+Louis Benjamin Francoeur: ok
+Thomas Young: ok
+Robert Woodhouse: ok
+Jean-Baptiste Biot: ok
+Karl Mollweide: ok
+Olinthus Gregory: ok
+André-Marie Ampère: ok
+Étienne Louis Malus: ok
+Farkas Bolyai: ok
+Jacques Français: ok
+Robert Adrain: ok
+Sophie Germain: ok
+Peter Barlow: ok
+Carl Friedrich Gauss: ok
+Barnabé Brisson: ok
+Louis Poinsot: ok
+Daniel Hecht: ok
+William Spence: ok
+Jozéf Hoëné Wronski: ok
+August Crelle: ok
+Benjamin Gompertz: ok
+Mary Somerville: ok
+Giovanni Plana: ok
+Giorgio Bidone: ok
+Bernard Bolzano: ok
+Vincenzo Flauti: ok
+Siméon-Denis Poisson: ok
+Claude-Louis Mathieu: ok
+Charles-Julien Brianchon: ok
+Charles Dupin: ok
+Wilhelm Bessel: ok
+Claude-Louis Navier: ok
+James Thomson: ok
+Jacques Binet: ok
+John Walsh: ok
+François Arago: ok
+Jean-Nicolas Nicollet: ok
+William Horner: ok
+John Cruickshank: ok
+Miles Bland: ok
+Louis Lefébure de Fourcy: ok
+Augustin Fresnel: ok
+Fearon Fallows: ok
+Enno Heeren Dirksen: ok
+Jean-Victor Poncelet: ok
+William Hamilton: ok
+Antonio Bordoni: ok
+Griffith Davies: ok
+Augustin-Louis Cauchy: ok
+August Möbius: ok
+Charles Hughes Terrot: ok
+Jean-Baptiste Bélanger: ok
+Georg Simon Ohm: ok
+Theodore Strong: ok
+Jean-François Champollion: ok
+Alexis Petit: ok
+Charles Babbage: ok
+Félix Savart: ok
+C V Mourey: ok
+Johann Franz Encke: ok
+George Peacock: ok
+Victor Amédée Lebesgue: ok
+Michael Faraday: ok
+Gaspard-Gustave de Coriolis: ok
+Martin Ohm: ok
+Nikolai Ivanovich Lobachevsky: ok
+Michel Chasles: ok
+George Green: ok
+John Herschel: ok
+Jakob Kulik: ok
+Théodore Olivier: ok
+William Hopkins: ok
+Germinal Dandelin: ok
+Franz Adolph Taurinus: ok
+William Whewell: ok
+Bernt Holmboe: ok
+Arthur Jules Morin: ok
+Gabriel Lamé: ok
+Émile Léger: ok
+Charles Whish: ok
+Louis Richard: ok
+Olinde Rodrigues: ok
+Jakob Steiner: ok
+Thomas Carlyle: ok
+Adolphe Quetelet: ok
+Nikolai Dmetrievich Brashman: ok
+Jules Bienaymé: ok
+Sadi Carnot: ok
+Félix Savary: ok
+Jean Claude Saint-Venant: ok
+Jean-Marie Duhamel: ok
+Pierre-Joseph-Étienne Finck: ok
+Étienne Bobillier: ok
+Christoph Gudermann: ok
+Franz Neumann: ok
+Émile Clapeyron: ok
+Karl von Staudt: ok
+Heinrich Scherk: ok
+Karl Gräffe: ok
+Karl Feuerbach: ok
+James Lindsay: ok
+Henry Fox Talbot: ok
+Humphrey Lloyd: ok
+Stephen de Gurbs: ok
+Antoine Meyer: ok
+George Airy: ok
+Henry Moseley: ok
+Henry Perigal: ok
+Joseph Plateau: ok
+Augustin Cournot: ok
+Julius Plücker: ok
+Joseph Raabe: ok
+Mikhail Vasilevich Ostrogradski: ok
+Thomas Clausen: ok
+János Bolyai: ok
+Jean-Baptiste Brasseur: ok
+Christian Heinrich von Nagel: ok
+Niels Abel: ok
+Christian Doppler: ok
+Charles-François Sturm: ok
+Giusto Bellavitis: ok
+Guglielmo Libri: ok
+John Hymers: ok
+Juan Manuel Cajigal: ok
+Carl Jacobi: ok
+Pierre Verhulst: ok
+Leopold Karl Schulz von Strassnitzki: ok
+George Jerrard: ok
+Viktor Yakovlevich Bunyakovsky: ok
+Edward Sang: ok
+Wilhelm Weber: ok
+Lejeune Dirichlet: ok
+William Rowan Hamilton: ok
+John T Graves: ok
+James Booth: ok
+Ferdinand Minding: ok
+Augustus De Morgan: ok
+Julius Weisbach: ok
+Robert Murphy: ok
+Józeph Petzval: ok
+Thomas Kirkman: ok
+Moritz Abraham Stern: ok
+Athanase Dupré: ok
+Johann Benedict Listing: ok
+John Scott Russell: ok
+Philip Kelland: ok
+Benjamin Peirce: ok
+James MacCullagh: ok
+Joseph Liouville: ok
+John Pratt: ok
+Hermann Grassmann: ok
+Luigi Menabrea: ok
+Andrew Hart: ok
+Oliver Byrne: ok
+Eduard Kummer: ok
+Évariste Galois: ok
+John Waterston: ok
+Li Shanlan: ok
+Adolph Göpel: ok
+Urbain Le Verrier: ok
+Otto Hesse: ok
+William Shanks: ok
+Charles Graves: ok
+Duncan Gregory: ok
+Robert Anstice: ok
+Pierre Laurent: ok
+Franc Mocnik: ok
+Fernando Pio Rosellini: ok
+Daniel da Silva: ok
+Eugène Catalan: ok
+John Colenso: ok
+James Joseph Sylvester: ok
+Ludwig Schläfli: ok
+Pierre Wantzel: ok
+Matthew O'Brien: ok
+Ada Lovelace: ok
+William Donkin: ok
+George Boole: ok
+Osip Somov: ok
+Charles Eugène Delaunay: ok
+Jean Frenet: ok
+Karl Weierstrass: ok
+Rudolf Wolf: ok
+Johann Rosenhain: ok
+Carl Borchardt: ok
+Angelo Genocchi: ok
+Charles Briot: ok
+Percival Frost: ok
+William Ferrel: ok
+Leslie Ellis: ok
+Maria Mitchell: ok
+Ferdinand Joachimsthal: ok
+Joel E Hendricks: ok
+Francis Bashforth: ok
+Ole Jacob Broch: ok
+George Salmon: ok
+Hippolyte Fizeau: ok
+George Stokes: ok
+James Cockle: ok
+Jean-Claude Bouquet: ok
+Joseph Serret: ok
+Léon Foucault: ok
+John Couch Adams: ok
+Pierre Bonnet: ok
+Siegfried Aronhold: ok
+Ernest de Jonquières: ok
+Florence Nightingale: ok
+Isaac Todhunter: ok
+John Casey: ok
+Victor Puiseux: ok
+William Chauvenet: ok
+William Rankine: ok
+Eduard Heine: ok
+Arthur Cayley: ok
+Hermann von Helmholtz: ok
+Ramchundra: ok
+Philipp von Seidel: ok
+Pafnuty Chebyshev: ok
+Charles Hermite: ok
+Samuel Haughton: ok
+Francis Galton: ok
+Joseph Bertrand: ok
+Jules Lissajous: ok
+William Oughter Lonie: ok
+Rudolf Clausius: ok
+Enrico Betti: ok
+August Yulevich Davidov: ok
+Gotthold Eisenstein: ok
+Hugh Blackburn: ok
+Jacob Amsler: ok
+Jules Hoüel: ok
+Oscar Schlömilch: ok
+Leopold Kronecker: ok
+Stephen Parkinson: ok
+Francesco Brioschi: ok
+Delfino Codazzi: ok
+George Allman: ok
+Wawrzyniec Żmurko: ok
+Gustav Kirchhoff: ok
+Carl Bjerknes: ok
+William Thomson: ok
+Charles MacKenzie: ok
+Francesco Faà di Bruno: ok
+Zacharias Dase: ok
+John James Walker: ok
+Johann Balmer: ok
+Mikhail Egorovich Vashchenko-Zakharchenko: ok
+Christian Wiener: ok
+William Spottiswoode: ok
+Bernhard Riemann: ok
+Ernst Meissel: ok
+Henry Smith: ok
+Giuseppe Battaglini: ok
+Joseph Winlock: ok
+Morgan Crofton: ok
+Charles Merrifield: ok
+Henry Watson: ok
+Lajos Martin: ok
+Karl Peterson: ok
+Samuel Roberts: ok
+Giuseppe Bruno: ok
+Rudolf Skuherský: ok
+Elwin Christoffel: ok
+Joseph Wolstenholme: ok
+Heinrich Schröter: ok
+Joaquim Gomes de Souza: ok
+Moritz Cantor: ok
+Norman Ferrers: ok
+Robert Ferguson: ok
+Luigi Cremona: ok
+Thomas Bond Sprague: ok
+Amédée Mannheim: ok
+Edward Routh: ok
+Thomas Hirst: ok
+Dorothea Beale: ok
+James Clerk Maxwell: ok
+Georg Sidler: ok
+P G Tait: ok
+Paul du Bois-Reymond: ok
+Richard Dedekind: ok
+Charles Lutwidge Dodgson: ok
+Edmond Bour: ok
+Georg Zehfuss: ok
+Carl Neumann: ok
+Ludwig Sylow: ok
+Eugène Rouché: ok
+Rudolf Lipschitz: ok
+Robert Tucker: ok
+Wilhelm Fiedler: ok
+Mary Everest Boole: ok
+Henri Delannoy: ok
+Alfred Clebsch: ok
+François Folie: ok
+Erastus De Forest: ok
+Edmond Laguerre: ok
+John Venn: ok
+William Jack: ok
+Artemas Martin: ok
+Émile Mathieu: ok
+Lazarus Fuchs: ok
+Charles Méray: ok
+Felice Casorati: ok
+Eugenio Beltrami: ok
+James Moriarty: ok
+Howard Van Amringe: ok
+John Purser: ok
+Simon Newcomb: ok
+Josef Stefan: ok
+Julius Weingarten: ok
+Stanley Jevons: ok
+Hermann Bleuler: ok
+Aleksandr Nikolaevich Korkin: ok
+Hugh MacColl: ok
+Leo Königsberger: ok
+Nicolai Vasilievich Bugaev: ok
+Joseph Tilly: ok
+Paul Bachmann: ok
+Paul Gordan: ok
+Camille Jordan: ok
+Wilhelm Lexis: ok
+George Hill: ok
+Edwin Abbott Abbott: ok
+Jenő Hunyadi: ok
+Theodor Reye: ok
+Frank Baldwin: ok
+Thomas Barker: ok
+Thorvald Thiele: ok
+Charles S Peirce: ok
+Gustav Roch: ok
+Francesco Siacci: ok
+Hermann Hankel: ok
+Christian Adolph Mayer: ok
+Hieronymus Georg Zeuthen: ok
+James Bolam: ok
+J Willard Gibbs: ok
+Joseph-Émile Barbier: ok
+Julius Petersen: ok
+Émile Lemoine: ok
+Carl Johannes Thomae: ok
+Allen Whitworth: ok
+Ernst Abbe: ok
+Emory McClintock: ok
+Jakob Rebstein: ok
+Franz Mertens: ok
+Joseph Neuberg: ok
+Olaus Henrici: ok
+Robert Ball: ok
+Ernst Schröder: ok
+Hermann Laurent: ok
+Samuel Loyd: ok
+Rudolf Sturm: ok
+Agnes Mary Clerke: ok
+Woolsey Johnson: ok
+Alexander von Brill: ok
+Édouard Lucas: ok
+Gaston Darboux: ok
+George Thom: ok
+Giuseppe Basso: ok
+Jakob Rosanes: ok
+Heinrich Weber: ok
+Henry Taylor: ok
+Joseph Boussinesq: ok
+John William Strutt: ok
+Osborne Reynolds: ok
+Otto Stolz: ok
+William Niven: ok
+Sophus Lie: ok
+Susan Cunningham: ok
+Yulian Vasilievich Sokhotsky: ok
+Enrico D'Ovidio: ok
+Hermann Schwarz: ok
+Heinrich Friedrich Weber: ok
+James Stuart: ok
+Gaston Tarry: ok
+John S Mackay: ok
+Karl Geiser: ok
+Mauritz Dahlin: ok
+Paul Tannery: ok
+Ágoston Scholtz: ok
+Moritz Pasch: ok
+Albert Wangerin: ok
+Jacob Lüroth: ok
+George-Henri Halphen: ok
+Ludwig Boltzmann: ok
+Max Noether: ok
+Charles Niven: ok
+Eduard Gubler: ok
+Thomas Muir: ok
+Paul Mansion: ok
+Francis Edgeworth: ok
+Ulisse Dini: ok
+George Darwin: ok
+Félix Tisserand: ok
+Georg Cantor: ok
+Victor Bäcklund: ok
+Henri Brocard: ok
+Elizaveta Litvinova: ok
+Václav Jeřábek: ok
+Enoch Beery Seitz: ok
+William Clifford: ok
+Achsah Ely: ok
+Eugenio Bertini: ok
+Mór Réthy: ok
+Gösta Mittag-Leffler: ok
+Eugen Netto: ok
+Henry Heaton: ok
+Oskar Fabian: ok
+Alberto Castigliano: ok
+Platon Sergeevich Poretsky: ok
+Pieter Hendrik Schoute: ok
+Christine Ladd-Franklin: ok
+John Wilson: pulou
+Andrew Gray: ok
+Cesare ArzelÃ: ok
+Egor Ivanovich Zolotarev: ok
+Gaston Floquet: ok
+George Greenhill: ok
+Irving Stringham: ok
+Gyula Farkas: ok
+Mary Whitney: ok
+Nikolai Egorovich Zhukovskii: ok
+Adam Günther: ok
+Diederik Korteweg: ok
+Édouard Benjamin Baillaud: ok
+Wilhelm Killing: ok
+Heinrich Bruns: ok
+Emil Weyr: ok
+Gottlob Frege: ok
+Hermann Schubert: ok
+Heinrich Suter: ok
+Jules Tannery: ok
+James Whitbread Lee Glaisher: ok
+Konstantin Alekseevich Andreev: ok
+Alfred Kempe: ok
+Loránd Eötvös: ok
+Andrew Jeffrey Gunion Barclay: ok
+Georg Frobenius: ok
+Horace Lamb: ok
+Gustav von Escherich: ok
+Gustav von Escherich: ok
+Felix Klein: ok
+John Hopkinson: ok
+Julius König: ok
+Leopold Gegenbauer: ok
+Nikolay Sonin: ok
+Robert Scott: ok
+Mary Byrd: ok
+Arthur Downing: ok
+Robert Woodward: ok
+Alfred Pringsheim: ok
+Oliver Heaviside: ok
+Jorgen Gram: ok
+Scott Lang: ok
+Sophie Willock Bryant: ok
+William Story: ok
+Adolf Weiler: ok
+Walter Rouse Ball: ok
+Sofia Kovalevskaya: ok
+Alexander Macfarlane: ok
+Edward Langley: ok
+Axel Harnack: ok
+Edwin Elliott: ok
+Emanuel Czuber: ok
+Ellen Hayes: ok
+Friedrich Schottky: ok
+George Chrystal: ok
+George FitzGerald: ok
+Guillaume Bigourdan: ok
+Jacques Bertillon: ok
+Julius Gysel: ok
+Gomes Teixeira: ok
+Sarah Woodhead: ok
+Samuel Dickstein: ok
+James Taylor: ok
+Spiru Haret: ok
+Albin Herzog: ok
+William James Macdonald: ok
+Edward Bouchet: ok
+Andrei Petrovich Kiselev: ok
+Constantin Le Paige: ok
+Eduard Weyr: ok
+Francis Upton: ok
+Ferdinand von Lindemann: ok
+Giovanni Frattini: ok
+Johann Heinrich Graf: ok
+Walter Gröbli: ok
+Samuel Saunder: ok
+François Cosserat: ok
+William Burnside: ok
+Arthur Schönflies: ok
+Albert Badoureau: ok
+Fabian Franklin: ok
+Hendrik Lorentz: ok
+Gregorio Ricci-Curbastro: ok
+George Halsted: ok
+John Kerr: ok
+Heinrich Maschke: ok
+Alfred Lodge: ok
+Alfred Barnard Basset: ok
+Salvatore Pincherle: ok
+Benjamin Osgood Peirce: ok
+Giuseppe Veronese: ok
+Christian Beyel: ok
+Hjalmar Mellin: ok
+Hertha Marks Ayrton: ok
+Henri Poincaré: ok
+Leopold Klug: ok
+Johannes Robert Rydberg: ok
+Ivan Śleszyński: ok
+Marcel Brillouin: ok
+Percy MacMahon: ok
+Robert Philip: ok
+Christian Juel: ok
+Alfredo Capelli: ok
+Charles Boys: ok
+Eduard Wiltheiss: ok
+John Steggall: ok
+Gyula Vályi: ok
+Giovanni Guccia: ok
+Karl Rohn: ok
+Paul Appell: ok
+Thomas Craig: ok
+Pierre Puiseux: ok
+Arnold Droz-Farny: ok
+Andrei Andreyevich Markov: ok
+Cargill Knott: ok
+Carl Runge: ok
+Louis Raffy: ok
+Ernest Hobson: ok
+Donald Macmillan: ok
+Émile Picard: ok
+Giacinto Morera: ok
+Ferdinand Rudio: ok
+William Thomson: pulou
+Luigi Bianchi: ok
+Ida Metcalf: ok
+Józef Puzyna: ok
+Micaiah Hill: ok
+Thomas Stieltjes: ok
+Walther von Dyck: ok
+Wilhelm Meyer: ok
+Adolf Kiefer: ok
+Aleksandr Mikhailovich Lyapunov: ok
+Alexander Yule Fraser: ok
+Alexander Pell: ok
+Hermann Wiener: ok
+Heinrich Hertz: ok
+Henry Ernest Dudeney: ok
+Joseph Larmor: ok
+Karl Pearson: ok
+Anna Winlock: ok
+Oskar Bolza: ok
+Mina Fleming: ok
+Alice Lee: ok
+Andrew Forsyth: ok
+Francesco Gerbaldi: ok
+Charlotte Angas Scott: ok
+Édouard Goursat: ok
+Gabriel Koenigs: ok
+George Gibson: ok
+Giuseppe Peano: ok
+Henry Fine: ok
+William Johnson: ok
+Adolf Hurwitz: ok
+Max Planck: ok
+Alfonso Del Re: ok
+Boris Yakovlevic Bukreev: ok
+Florian Cajori: ok
+Georg Pick: ok
+Ernesto Cesàro: ok
+Georges Humbert: ok
+Giulio Vivanti: ok
+Ivan Vsevolodovich Meshchersky: ok
+Jérôme Franel: ok
+Johan Ludwig Jensen: ok
+Karl Heun: ok
+Alexander Morgan: ok
+Samuil Osipovich Shatunovsky: ok
+Otto Hölder: ok
+August Gutzmer: ok
+Alicia Boole Stott: ok
+D'Arcy Thompson: ok
+Charles Chree: ok
+David Eugene Smith: ok
+Frank Morley: ok
+Frank Carey: ok
+Mario Pieri: ok
+Herman Hollerith: ok
+John Pullar: ok
+Raphael Weldon: ok
+Matyáš Lerch: ok
+Sidney Luxton Loney: ok
+Robert Muirhead: ok
+Alfred North Whitehead: ok
+Cesare Burali-Forti: ok
+Amy Rayson: ok
+Ernst Fiedler: ok
+Vito Volterra: ok
+Emil Müller: ok
+Frank Cole: ok
+Friedrich Engel: ok
+George Mathews: ok
+Heinrich Burkhardt: ok
+Henry White: ok
+Herbert Ellsworth Slaught: ok
+John Alison: ok
+Ivar Bendixson: ok
+John Clark: ok
+P J Heawood: ok
+Kurt Hensel: ok
+Pierre Duhem: ok
+William J Greenstreet: ok
+Robert Fricke: ok
+Thomas Heath: ok
+Theodor Molien: ok
+William Peddie: ok
+William Briggs: ok
+Adolf Kneser: ok
+Francis Macaulay: ok
+Eliakim Moore: ok
+Gino Loria: ok
+Eduard Study: ok
+Fritz (Friedrich) Bützberger: ok
+David Hilbert: ok
+James Archibald: ok
+James Wattie: ok
+Jules Richard: ok
+Leonard Rogers: ok
+Henri Andoyer: ok
+John Campbell: ok
+Marius Lacombe: ok
+Paul Stäckel: ok
+Maurice d'Ocagne: ok
+Robert Allardice: ok
+Ruth Gentry: ok
+Roberto Marcolongo: ok
+Vilhelm Bjerknes: ok
+Aleksei Krylov: ok
+Annie Jump Cannon: ok
+Augustus Love: ok
+Winifred Edgerton Merrill: ok
+August Adler: ok
+Corrado Segre: ok
+Axel Thue: ok
+Crossley Barlow: ok
+Dmitry Aleksandrovich Grave: ok
+Edvard Phragmén: ok
+Domenico Montesano: ok
+Edward Van Vleck: ok
+Henri Padé: ok
+George Miller: ok
+Herbert Richmond: ok
+Giovanni Vailati: ok
+James Watt: ok
+J Watt Butters: ok
+John Charles Fields: ok
+John Henry Michell: ok
+John McCowan: ok
+Jean-Marie Le Roux: ok
+Kelly Miller: ok
+John Morrison: ok
+Lászlo Rátz: ok
+Luigi Berzolari: ok
+Matthew Fry: ok
+William Metzler: ok
+William Sheppard: ok
+Paul Painlevé: ok
+Stanisław Zaremba: ok
+Charles Joly: ok
+Cristoforo Alasia: ok
+William Young: ok
+George Bryan: ok
+Robert Hardie: ok
+József Kürschák: ok
+Ludwig Schlesinger: ok
+Hermann Minkowski: ok
+William Osgood: ok
+Wilhelm Wien: ok
+Aleksandr P Kotelnikov: ok
+Vladimir A Steklov: ok
+Alfred Dixon: ok
+Alice Everett: ok
+Benjamin Franklin Finkel: ok
+Anders Wiman: ok
+Charles Cailler: ok
+Ernest Vessiot: ok
+Ernesto Pascal: ok
+David Tweedie: ok
+Flora Philip: ok
+Giuseppe Bagnera: ok
+Guido Castelnuovo: ok
+Georg Landsberg: ok
+Hector Macdonald: ok
+J A Third: ok
+Jacques Hadamard: ok
+Julio Garavito: ok
+Niels Nielsen: ok
+Thomas Scott Fiske: ok
+Piers Bohl: ok
+Arthur Hirsch: ok
+Rosenberg, Fabian: ok
+Wilhelm Wirtinger: ok
+Alfred Tauber: ok
+Charles de la Vallée Poussin: ok
+Clara Bacon: ok
+Carruthers Beattie: ok
+Ettore Bortolotti: ok
+Ernest Brown: ok
+Georg Scheffers: ok
+Eugène Cosserat: ok
+Frances Hardcastle: ok
+Gustav de Vries: ok
+Ivar Fredholm: ok
+Henry Baker: ok
+James Pierpont: ok
+Kazimierz Żorawski: ok
+Mineo Chini: ok
+T J J See: ok
+Ralph Sampson: ok
+William McFadden Orr: ok
+Charles Noble: ok
+Derrick Norman Lehmer: ok
+Arthur Lee Dixon: ok
+Dmitrii Matveevich Sintsov: ok
+Gury Vasilievich Kolosov: ok
+John Dougall: ok
+Lawrence Crawford: ok
+Hendrik de Vries: ok
+Maxime Bôcher: ok
+Wayland Dowling: ok
+Alice Bache Gould: ok
+Wilhelm Kutta: ok
+Alessandro Padoa: ok
+Annie Fitch MacKinnon: ok
+Anne Bosworth: ok
+Arnold Sommerfeld: ok
+Annie Scott Dill Maunder: ok
+Charles Tweedie: ok
+Charles Shirra Dougall: ok
+Donald McIntosh: ok
+Emanuel Lasker: ok
+Felix Hausdorff: ok
+Geoffrey Bennett: ok
+Georgy Voronoy: ok
+Grace Chisholm: ok
+Gilbert Walker: ok
+James McBride: ok
+James Macdonald: ok
+Henrietta Swan Leavitt: ok
+John Airey: ok
+James Craig: ok
+Ladislaus Bortkiewicz: ok
+Louis Couturat: ok
+Mihailo Petrović: ok
+Peter Comrie: ok
+William Leslie Thomson: ok
+Benjamin Fedorovich Kagan: ok
+Arthur Bowley: ok
+Philippa Fawcett: ok
+Dimitri Fedorovich Egorov: ok
+Élie Cartan: ok
+Emilie Martin: ok
+Mary Winston Newson: ok
+Isabel Maddison: ok
+Philipp Furtwängler: ok
+Sergei Alekseevich Chaplygin: ok
+Agnes Baxter: ok
+Virgil Snyder: ok
+David J Tweedie: ok
+Ellice Horsburgh: ok
+George Lawson: ok
+Ernst Lindelöf: ok
+Frank Jackson: ok
+George Lidstone: ok
+Henri Fehr: ok
+Helge von Koch: ok
+Ion Ionescu: ok
+Horatio Carslaw: ok
+Louis Bachelier: ok
+Peter Pinkerton: ok
+Boris G Galerkin: ok
+Robert de Montessus: ok
+Émile Borel: ok
+Ernst Julius Amberg: ok
+Ernst Steinitz: ok
+Federigo Enriques: ok
+Ernst Zermelo: ok
+John Miller: ok
+Gino Fano: ok
+George Udny Yule: ok
+James Mitchell: ok
+John Turner: ok
+Paul Epstein: ok
+Jules Drach: ok
+Poul Heegaard: ok
+Alexander Burgess: ok
+V Ramaswami Aiyar: ok
+Alexander Durie Russell: ok
+Bertrand Russell: ok
+Chrystal Macmillan: ok
+Elizabeth Stephansen: ok
+Forest Ray Moulton: ok
+George Moffat: ok
+Giovanni Vacca: ok
+John Meiklejohn: ok
+Georgii Vasilovich Pfeiffer: ok
+Gustave Dumas: ok
+Marian Smoluchowski: ok
+Nikolaos Hatzidakis: ok
+Onorato Nicoletti: ok
+Wilhelm Ahrens: ok
+Volodymyr Levytsky: ok
+Willem de Sitter: ok
+Zdzisław Krygowski: ok
+Alfred Loewy: ok
+Alfreds Meders: ok
+Constantin Carathéodory: ok
+Alfred Young: ok
+Edmund Whittaker: ok
+Dimitrie Pompeiu: ok
+Graciano Ricalde: ok
+Hans Blichfeldt: ok
+Josip Plemelj: ok
+Julian Coolidge: ok
+Karl Schwarzschild: ok
+Patrick Hardie: ok
+Karl Sundman: ok
+Richard Fuchs: ok
+Tullio Levi-Civita: ok
+Zoárd Geöcze: ok
+Edward Huntington: ok
+Beatrice Mabel Cave-Browne-Cave: ok
+Carl Størmer: ok
+Ernest William Barnes: ok
+Frank Ross: ok
+Friedrich Hartogs: ok
+Gheorghe Țițeica: ok
+Leonard Dickson: ok
+Mihály Bauer: ok
+Robert d'Adhémar: ok
+Archibald Milne: ok
+Arthur Conway: ok
+René Baire: ok
+Andre-Louis Cholesky: ok
+Charlotte Pengra: ok
+Beppo Levi: ok
+Edward Blades: ok
+Ernst Fischer: ok
+Francesco Cantelli: ok
+Henri Lebesgue: ok
+Giuseppe Vitali: ok
+Henry Plummer: ok
+Louis N G Filon: ok
+Issai Schur: ok
+Max Abraham: ok
+Raymond Archibald: ok
+Michele de Franchis: ok
+Ludwig Prandtl: ok
+Teiji Takagi: ok
+Thomas Bromwich: ok
+Ugo Amaldi: ok
+Agnes Wells: ok
+Anderson McKendrick: ok
+Anton Davidoglu: ok
+Erhard Schmidt: ok
+Earle Raymond Hedrick: ok
+Ernest Wilczynski: ok
+Ernest Esclangon: ok
+Gaetano Scorza: ok
+Gilbert Bliss: ok
+Evelyn Cave-Browne-Cave: ok
+Heinrich Jung: ok
+James Gray: ok
+Florence Allen: ok
+Luther Eisenhart: ok
+Paul Montel: ok
+Otto Blumenthal: ok
+Robert J T Bell: ok
+William Gosset: ok
+Tatiana Alexeyevna Afanassjewa: ok
+Alexander Brown: ok
+Carl Schoy: ok
+Charles Glover Barkla: ok
+David Drysdale: ok
+Edmund Landau: ok
+David Johnstone: ok
+Georg Faber: ok
+Georg Hamel: ok
+Max Mason: ok
+G H Hardy: ok
+Thomas Hakon Grönwall: ok
+James Jeans: ok
+Luigi Brusotti: ok
+Thomas Havelock: ok
+Tommaso Boggio: ok
+William Gentle: ok
+Arthur Coble: ok
+Ólafur Daníelsson: ok
+Agner Erlang: ok
+Beulah Russell: ok
+Duilio Gigli: ok
+Edward Kasner: ok
+Edwin P Adams: ok
+Felix Bernstein: ok
+Ethel Elderton: ok
+Georgios Remoundos: ok
+George Samuel Eastwood: ok
+Jan Łukasiewicz: ok
+Haroutune Dadourian: ok
+Leon Lichtenstein: ok
+Leopold Löwenheim: ok
+Louis Karpinski: ok
+Matteo Bottasso: ok
+Marcel Grossmann: ok
+Max Dehn: ok
+Maurice Fréchet: ok
+Panagiotis Zervos: ok
+Oliver Kellogg: ok
+Pierre Fatou: ok
+Roland Richardson: ok
+Anton Dimitrija Bilimovic: ok
+Antoni Hoborski: ok
+Dougald Mcquistan: ok
+C Wilhelm Oseen: ok
+Edwin Wilson: ok
+David Picken: ok
+Albert Einstein: ok
+Francesco Severi: ok
+Duncan Sommerville: ok
+Guido Fubini: ok
+Henry Stager: ok
+Hans Hahn: ok
+Peter Ramsay: ok
+Nikolai Mitrofanovich Krylov: ok
+Philip Jourdain: ok
+Robert Carmichael: ok
+Alexander Merriles: ok
+Alfred Rosenblatt: ok
+George Carse: ok
+Filadelfo Insolera: ok
+Frigyes Riesz: ok
+Heinrich Tietze: ok
+Lipót Fejér: ok
+Leo Harmaja: ok
+Evgeny Evgenievich Slutsky: ok
+Michele Cipolla: ok
+Oswald Veblen: ok
+Oskar Perron: ok
+Pierre Boutroux: ok
+Sergei Bernstein: ok
+Paul Ehrenfest: ok
+Archibald Richardson: ok
+Rudolf Fueter: ok
+Dudley Woodard: ok
+Gustav Herglotz: ok
+Ebenezer Cunningham: ok
+Edward Ross: ok
+Hilda Hudson: ok
+Jur Hronec: ok
+Lajos Dávid: ok
+L E J Brouwer: ok
+Lewis Fry Richardson: ok
+Theodore von Kármán: ok
+Samuel Beatty: ok
+Otto Toeplitz: ok
+George Waddel Snedecor: ok
+William Milne: ok
+Arthur Eddington: ok
+André Sainte-Laguë: ok
+Clement Durell: ok
+Éamon de Valera: ok
+Emil Hilb: ok
+Ernst Jacobsthal: ok
+Harry Bateman: ok
+Emmy Noether: ok
+Jean Chazy: ok
+Harry Vandiver: ok
+Henry Sheffer: ok
+Joseph Wedderburn: ok
+Konrad Knopp: ok
+Kazimierz Bartel: ok
+Max Born: ok
+Paul Dienes: ok
+Paul Koebe: ok
+Robert Lee Moore: ok
+Theodor Angheluță: ok
+Wacław Sierpiński: ok
+Tadeusz Banachiewicz: ok
+Albert Châtelet: ok
+Aleksandr Nekrasov: ok
+David Gibb: ok
+Anna Johnson Wheeler: ok
+Clarence Lewis: ok
+Eugenio Levi: ok
+Ernst Hellinger: ok
+Eric Temple Bell: ok
+Esteban Terradas: ok
+Frances Chick Wood: ok
+Francisco José Duarte: ok
+Jan A Schouten: ok
+Ludwig Berwald: ok
+James Mercer: ok
+John Maynard Keynes: ok
+Margaret Barr Moir: ok
+Neil McArthur: ok
+Arnaud Denjoy: ok
+Richard von Mises: ok
+Corrado Gini: ok
+Charles Weatherburn: ok
+David Enskog: ok
+Dénes König: ok
+Eduard Helly: ok
+Nikolai Luzin: ok
+Frieda Nugel: ok
+Fritz Noether: ok
+Francesco Cecioni: ok
+Georges Valiron: ok
+George Birkhoff: ok
+H T H Piaggio: ok
+Heinrich Scholz: ok
+Otto Szász: ok
+Philipp Frank: ok
+John Raymond Wilton: ok
+Nicolae Abramescu: ok
+Solomon Lefschetz: ok
+Sotero Prieto: ok
+Thomas MacRobert: ok
+Umberto Puppini: ok
+William Watson: ok
+Wilhelm Winkler: ok
+Alfréd Haar: ok
+Władysław Ślebodziński: ok
+Andreas Speiser: ok
+Annie Dale Andrews: ok
+Finlay Freundlich: ok
+F F P Bisacre: ok
+Herbert Turnbull: ok
+J E Littlewood: ok
+Franciszek Leja: ok
+Hermann Weyl: ok
+John McWhan: ok
+Harlow Shapley: ok
+Karel Rychlik: ok
+Karlis Zalts: ok
+Michel Plancherel: ok
+Leonida Tonelli: ok
+Mauro Picone: ok
+Niels Norlund: ok
+Niels Bohr: ok
+Pauline Sperry: ok
+Salvatore Cherubino: ok
+Theodor Kaluza: ok
+William B Coutts: ok
+Wilhelm Blaschke: ok
+Annibale Comessatti: ok
+Viggo Brun: ok
+Alexander Barrie Grieve: ok
+Balfour Lockhart: ok
+Aurel Angelescu: ok
+Geoffrey Taylor: ok
+Lester R Ford: ok
+Luigi Amoroso: ok
+Michael Fekete: ok
+Ludwig Bieberbach: ok
+Marcel Riesz: ok
+Neville Watson: ok
+Otto Bruun: ok
+Paul Lévy: ok
+Pia Nalli: ok
+Stanisław Leśniewski: ok
+Walter Brown: ok
+Charles Galton Darwin: ok
+Erich Hecke: ok
+Erwin Schrödinger: ok
+Griffith Evans: ok
+Guido Ascoli: ok
+George Pólya: ok
+Gustav Hertz: ok
+Hugo Steinhaus: ok
+Harald Bohr: ok
+Johann Radon: ok
+John Jackson: ok
+Oskar Anderson: ok
+Otto Haupt: ok
+Otton Nikodym: ok
+Srinivasa Ramanujan: ok
+Vladimir Smirnov: ok
+Thoralf Skolem: ok
+Simion Stoilow: ok
+Lucien Godeaux: ok
+Archibald Goldie: ok
+Archie Alexander: ok
+Bibhutibhushan Datta: ok
+Dunham Jackson: ok
+Georges Darmois: ok
+Alexander Friedmann: ok
+David Kennedy Fraser: ok
+Fritz Carlson: ok
+Giovanni Sansone: ok
+Hermann Kober: ok
+James Alexander: ok
+Joseph Proudman: ok
+John Mackie: ok
+Lloyd Williams: ok
+Julio Rey Pastor: ok
+Louis Mordell: ok
+Kazimierz Abramowicz: ok
+Paul Bernays: ok
+Louis Antoine: ok
+Richard Courant: ok
+Raymond Butchart: ok
+Robert Remak: ok
+Selig Brodetsky: ok
+Stefan Mazurkiewicz: ok
+William Berwick: ok
+Sydney Chapman: ok
+William Threlfall: ok
+William Brash: ok
+Yakov Davydovich Tamarkin: ok
+Adolphe Rome: ok
+Zygmunt Janiszewski: ok
+Alessandro Terracini: ok
+Andrei Razmadze: ok
+Balthasar van der Pol: ok
+Edwin Hubble: ok
+Doris Adams: ok
+Anton Kazimirovich Suschkevich: ok
+Enrico Bompiani: ok
+Eustachy Żyliński: ok
+Eric Harold Neville: ok
+Henry Forder: ok
+Hans Hamburger: ok
+Jekuthiel Ginsburg: ok
+Izabela Abramowicz: ok
+Hyman Levy: ok
+Ludwig Wittgenstein: ok
+Mildred Sanderson: ok
+Oscar Chisini: ok
+Ralph Fowler: ok
+Percy Daniell: ok
+Ralph Jeffery: ok
+Sewall Green Wright: ok
+Robert Dunbar: ok
+Stanisław Leon Ruziewicz: ok
+René Eugène Gateaux: ok
+Thomas Lancaster Wren: ok
+Bevan Braithwaite Baker: ok
+Boris Nikolaevich Delone: ok
+Georg Feigl: ok
+Euphemia Lofton Haynes: ok
+Eugenio Togliatti: ok
+Giacomo Albanese: ok
+Vyacheslaw Vassilievich Stepanov: ok
+Glenny Smeal: ok
+Harry Carver: ok
+Jakob Nielsen: ok
+Herbert Dingle: ok
+Martha Betz Shapley: ok
+Johannes van der Corput: ok
+Joseph Pérès: ok
+Raymond Brink: ok
+Philip Stein: ok
+Olive Clio Hazlett: ok
+Abraham Fraenkel: ok
+Abram Samoilovitch Besicovitch: ok
+R A Fisher: ok
+Andrew Young: ok
+Edward Ince: ok
+James Cassels: ok
+Hans Reichenbach: ok
+George Jeffery: ok
+Harold Jeffreys: ok
+Ivan Ivanovich Privalov: ok
+Ivan Matveevich Vinogradov: ok
+Leopold Vietoris: ok
+Lorna Swain: ok
+Nikoloz Muskhelishvili: ok
+Walter Shewhart: ok
+Pierre Humbert: ok
+Jenő Egerváry: ok
+Louis Melville Milne-Thomson: ok
+Witold Wilkosz: ok
+Otto Yulyevich Schmidt: ok
+Arnold Walfisz: ok
+A A Krishnaswami Ayyangar: ok
+Eduard Jan Dijksterhuis: ok
+Félix Pollaczek: ok
+Carlo Bonferroni: ok
+Dmitrii Menshov: ok
+Hans Rademacher: ok
+Gustav Doetsch: ok
+Joseph Burchnall: ok
+Marston Morse: ok
+Louis de Broglie: ok
+Stefan Banach: ok
+Octav Onicescu: ok
+Mikhail Krawtchouk: ok
+Tadija Pejovic: ok
+Torsten Carleman: ok
+André Bloch: ok
+Anna Mullikin: ok
+Alexander Ostrowski: ok
+Bronisław Knaster: ok
+Bill Ferrar: ok
+Charles Henry Rowe: ok
+Cornelius Lanczos: ok
+Charles Loewner: ok
+Eduard Čech: ok
+Ernst Öpik: ok
+Francis Murnaghan: ok
+Gaston Julia: ok
+Jason J Nassau: ok
+Hilda Geiringer: ok
+Harald Cramér: ok
+Joseph Ritt: ok
+Kurt Reidemeister: ok
+Mikhail Fedorovich Subbotin: ok
+Mohammed Reda Madwar: ok
+Petre Sergescu: ok
+Prasanta Chandra Mahalanobis: ok
+Xiong Qinglai: ok
+Thomas Arnold Brown: ok
+Agnes Scott: ok
+Aleksandr Yakovlevich Khinchin: ok
+Alfred Brauer: ok
+Dirk Struik: ok
+Cecilia Krieger: ok
+Dorothy Wrinch: ok
+Harry Schmidt: ok
+Einar Carl Hille: ok
+Georges Lemaître: ok
+Hendrik Kramers: ok
+Heinz Hopf: ok
+Jerzy Neyman: ok
+Jacov Il'ich Frenkel: ok
+Nikolai Chebotaryov: ok
+Mikhail Yakovlevich Suslin: ok
+Norbert Wiener: ok
+Oskar Klein: ok
+Theodoros Varopoulos: ok
+Satyendranath Bose: ok
+Paul Finsler: ok
+Werner Rogosinski: ok
+Warren Weaver: ok
+William Arthur: ok
+Bernard Childs: ok
+Alec Aitken: ok
+Archil Kirillovich Kharadze: ok
+Egon Pearson: ok
+Gábor Szegő: ok
+Cyrus Colton MacDuffee: ok
+Elbert Cox: ok
+Erich Hans Rothe: ok
+Joseph Walsh: ok
+Harold Hotelling: ok
+Júlio Mello e Souza: ok
+Ole Peder Arvesen: ok
+Karl Reinhardt: ok
+Leslie Cunningham: ok
+Lancelot Hogben: ok
+R Buckminster Fuller: ok
+Stefan Bergman: ok
+Stefan Kaczmarz: ok
+Rolf Nevanlinna: ok
+Thomas Lumsden: ok
+Wilhelm Süss: ok
+Tibor Radó: ok
+David Jack: ok
+Bertram Wilson: ok
+E A Milne: ok
+Carl Siegel: ok
+Daniel O'Connell: ok
+Eleanor Pairman: ok
+Evgeny Remez: ok
+Heinz Prüfer: ok
+Nora Calderwood: ok
+Ivo Lah: ok
+Leopold Pars: ok
+Kazimierz Kuratowski: ok
+Pavel Aleksandrov: ok
+Raymond Wilder: ok
+Rolin Wavre: ok
+Robert Geary: ok
+Sof'ja Aleksandrovna Janovskaja: ok
+Tadeusz Ważewski: ok
+Vernon Morton: ok
+Wilhelm Ackermann: ok
+Yurii Sokolov: ok
+Alfonso Nápoles Gándara: ok
+Annie Hutton Numbers: ok
+Alexander Weinstein: ok
+Charles Fox: ok
+Douglas Hartree: ok
+Edwin Pitman: ok
+Emil Post: ok
+Francesco Tricomi: ok
+Gertrude Blanch: ok
+Jesse Douglas: ok
+John Synge: ok
+Letitia Chitty: ok
+Josif Zakharovich Shtokalo: ok
+Max Newman: ok
+Myron Mathisson: ok
+Sylvia Skan: ok
+Stanisława Nikodym: ok
+Tatsujiro Shimizu: ok
+Stanisław Saks: ok
+Theodore Combridge: ok
+Vojtěch Jarník: ok
+William Greaves: ok
+Ali Moustafa Mosharrafa: ok
+Edwin Olds: ok
+Arend Heyting: ok
+Béla Kerékjártó: ok
+David Widder: ok
+Erich Bessel-Hagen: ok
+Emil Artin: ok
+Fritz Zwicky: ok
+Heinrich Behnke: ok
+Hellmuth Kneser: ok
+Helmut Hasse: ok
+Leopold Infeld: ok
+John Wishart: ok
+K K Weatherhead: ok
+Mary Taylor: ok
+Marguerite Lehr: ok
+Philip Franklin: ok
+Pavel Urysohn: ok
+Maurits Escher: ok
+Raphaël Salem: ok
+Thomas Cherry: ok
+Vladimir Aleksandrovich Fock: ok
+William Kermack: ok
+Zyoiti Suetuna: ok
+Badri Nath Prasad: ok
+Henri Mineur: ok
+Edward Titchmarsh: ok
+Hildegard Ille: ok
+Julius Schauder: ok
+Lois Griffiths: ok
+Maximilian Herzberger: ok
+Karl Dörge: ok
+Otakar Boruvka: ok
+Oscar Zariski: ok
+Øystein Ore: ok
+Otto Neugebauer: ok
+Pelageia Polubarinova Kochina: ok
+Robert Schlapp: ok
+Salomon Bochner: ok
+Szolem Mandelbrojt: ok
+Tomás Rodríguez Bachiller: ok
+Abraham Plessner: ok
+Wolfgang Krull: ok
+Antoni Zygmund: ok
+Albert Ingham: ok
+Cecilia Payne-Gaposchkin: ok
+Cecily Tanner: ok
+David van Dantzig: ok
+Edward Collingwood: ok
+Frederick Bath: ok
+Gheorghe Vrănceanu: ok
+George Uhlenbeck: ok
+Gertrude Cox: ok
+Hendrik Kloosterman: ok
+Ida Rhodes: ok
+Haskell Curry: ok
+Howard Aiken: ok
+László Rédei: ok
+J C Burkill: ok
+Mikhail Alekseevich Lavrent'ev: ok
+Mary Cartwright: ok
+Wilhelm Cauer: ok
+Wolfgang Pauli: ok
+Pedro Puig Adam: ok
+William Youden: ok
+Bento Caraça: ok
+Edward Copson: ok
+Édouard Zeckendorf: ok
+Alfred Tarski: ok
+George Temple: ok
+Enrico Fermi: ok
+Friedrich Karl Schmidt: ok
+Ivan Georgievich Petrovsky: ok
+John Williamson: ok
+Kiyoshi Oka: ok
+Luigi Fantappiè: ok
+Levan Gokieli: ok
+Kurt Friedrichs: ok
+Machgielis Euwe: ok
+Mary Simpson: ok
+Naum Il'ich Akhiezer: ok
+Nikolai Evgrafovich Kochin: ok
+Oene Bottema: ok
+Nina Bari: ok
+Petr Sergeevich Novikov: ok
+Raj Chandra Bose: ok
+Otto Schreier: ok
+Richard Brauer: ok
+Richard Gwilt: ok
+Steven Vajda: ok
+Richard Robb: ok
+Semyon Aranovich Gershgorin: ok
+Werner Heisenberg: ok
+Ugo Morin: ok
+Winifred Deans: ok
+William Whyburn: ok
+Buqing Su: ok
+Carolyn Eisele: ok
+Abraham Wald: ok
+Edna Kramer: ok
+Eberhard Hopf: ok
+Eugene Paul Wigner: ok
+G Leslie Frewin: ok
+Hans Schwerdtfeger: ok
+Frank Yates: ok
+Gheorghe  Calugăreănu: ok
+Hans Petersson: ok
+Jovan Karamata: ok
+Hubert Wall: ok
+Joseph Pierce: ok
+Karl Menger: ok
+Marion Gray: ok
+Kazimierz Zarankiewicz: ok
+Kenjiro Shoda: ok
+Mina Rees: ok
+Pascual Jordan: ok
+Reinhold Baer: ok
+Paul Dirac: ok
+Reuben R McDaniel: ok
+Oskar Morgenstern: ok
+Stanisław Gołąb: ok
+Stefan Cohn-Vossen: ok
+Theodor Estermann: ok
+Thomas Room: ok
+Udo Wegner: ok
+Alan Broadbent: ok
+Wallace J Eckert: ok
+Alexander Oppenheim: ok
+Alonzo Church: ok
+Aurel Wintner: ok
+Wolfgang Haack: ok
+Andrey Kolmogorov: ok
+Bartel van der Waerden: ok
+Bertha Swirles Jeffreys: ok
+Beniamino Segre: ok
+C T Rajagopal: ok
+Dudley Littlewood: ok
+Evan James Williams: ok
+Catherine Steele: ok
+Ernest Walton: ok
+Frank Ramsey: ok
+Geoffrey Timms: ok
+Georges de Rham: ok
+Gladys Mackenzie: ok
+Howard Percy Robertson: ok
+Hans Rohrbach: ok
+Isaac Schoenberg: ok
+Irmgard Flügge-Lotz: ok
+Jan Tinbergen: ok
+James Paton: ok
+Jean Delsarte: ok
+John von Neumann: ok
+Kurt Mahler: ok
+Marshall Stone: ok
+Leifur Ásgeirsson: ok
+Oliver Sutton: ok
+Robert Gillespie: ok
+Patrick Du Val: ok
+Sydney Goldstein: ok
+Stephen Bosanquet: ok
+William Hodge: ok
+William Birnbaum: ok
+Viktor Kupradze: ok
+Taro Morishima: ok
+William Prager: ok
+Władysław Orlicz: ok
+Yves Rocard: ok
+Alexander Buchan: ok
+Adolf Lindenbaum: ok
+Andrzej Turowicz: ok
+Demetrios Kappos: ok
+Alfred Foster: ok
+Alston Householder: ok
+Donald Eperson: ok
+Evan (Ianto) Davies: ok
+František Wolf: ok
+Edward McShane: ok
+Giovanni Ricci: ok
+Arnold Scholz: ok
+Georgi Bradistilov: ok
+George McVittie: ok
+González Domínguez: ok
+Helmut Grunsky: ok
+Hans Lewy: ok
+Gordon Whyburn: ok
+Henry Whitehead: ok
+Henri Cartan: ok
+Jacob Levitzki: ok
+Jerzy Słupecki: ok
+Karl Maruhn: ok
+Jurjen Koksma: ok
+John Semple: ok
+John Evelyn: ok
+Nikolai Grigor'evich Chudakov: ok
+Leonard Roth: ok
+Lyudmila Vsevolodovna Keldysh: ok
+Paul Dubreil: ok
+Wilhelm Flügge: ok
+Renato Caccioppoli: ok
+Stefan Warschawski: ok
+Philip Hall: ok
+William McCrea: ok
+William Edge: ok
+Witold Hurewicz: ok
+Zofia Krygowska: ok
+A Adrian Albert: ok
+Charles Ehresmann: ok
+Arne Beurling: ok
+Alexander Doniphan Wallace: ok
+Albert Tucker: ok
+D R Kaprekar: ok
+Anna Adelaide Stafford Henriques: ok
+Derrick Henry Lehmer: ok
+Eižens Leimanis: ok
+Emanuel Sperner: ok
+Hans Freudenthal: ok
+Ernst Stueckelberg: ok
+Gottfried Köthe: ok
+Hermann Brück: ok
+Harold Ruse: ok
+Jan Popken: ok
+Hubert Linfoot: ok
+Joseph Dennis: ok
+Laurence Chisholm Young: ok
+John Whittaker: ok
+Leo Zippin: ok
+Karol Borsuk: ok
+László Kalmár: ok
+Lev Shnirelman: ok
+Marian Rejewski: ok
+Margaret E Boyle: ok
+Marie-Louise Dubreil-Jacotin: ok
+René de Possel: ok
+Rózsa Péter: ok
+Ruth Moufang: ok
+Sigekatu Kuroda: ok
+Serge Mikhalovich Nikolski: ok
+Thomas Graham: ok
+Stanisław Mazur: ok
+William Guthrie: ok
+Tiberiu Popoviciu: ok
+Winifred Sargent: ok
+Adolph Pavlovich Yushkevich: ok
+Wilhelm Ljunggren: ok
+Aleksandr Osipovich Gelfond: ok
+Boris Yakovlevich Levin: ok
+André Weil: ok
+Andrei Tikhonov: ok
+Cyril Offord: ok
+Bruno de Finetti: ok
+Carl Boyer: ok
+Carlo Federici: ok
+Daniel Rutherford: ok
+Edwin Beckenbach: ok
+Edward Maitland Wright: ok
+Emma Lehmer: ok
+Eugene Lukacs: ok
+Erich Kähler: ok
+Ernst Peschl: ok
+Franz Rellich: ok
+Gheorghe Mihoc: ok
+G de B Robinson: ok
+Grace Hopper: ok
+Gordon Welchman: ok
+Grigore Moisil: ok
+Hans Bethe: ok
+Jean Dieudonné: ok
+Jean Leray: ok
+John Smith: ok
+Hans Fitting: ok
+Kurt Hirsch: ok
+Kurt Gödel: ok
+Max Zorn: ok
+Mary Fasenmyer: ok
+Omar Catunda: ok
+Rafael Laguardia: ok
+Olga Taussky-Todd: ok
+Ott-Heinrich Keller: ok
+Richard Rado: ok
+Roberto Frucht: ok
+Samarendra Nath Roy: ok
+Samuel Verblunsky: ok
+Shokichi Iyanaga: ok
+Samuel Wilks: ok
+Vera Nikolaevna Faddeeva: ok
+Tom Cowling: ok
+Yaroslav Borisovich Lopatynsky: ok
+William Feller: ok
+Børge Jessen: ok
+Dmitrii Konstantinovich Faddeev: ok
+Edgar Raymond Lorch: ok
+D D Kosambi: ok
+Donald Coxeter: ok
+Edward Marczewski: ok
+Edwin Maxwell: ok
+Gheorghe Pic: ok
+Harold Davenport: ok
+Hassler Whitney: ok
+Hermann Arthur Jahn: ok
+Herbert Seifert: ok
+Ilya Vekua: ok
+Henry Scheffé: ok
+John Mauchly: ok
+John Womersley: ok
+Lars Ahlfors: ok
+Maurice Kendall: ok
+Mark Krein: ok
+Leonard Carlitz: ok
+Raymond Paley: ok
+Max Deuring: ok
+Rudolf Peierls: ok
+Wilhelm Magnus: ok
+Sarvadaman Chowla: ok
+Wilhelm Specht: ok
+Aleksandr G Kurosh: ok
+Aldo Ghizzetti: ok
+Alexander Dinghas: ok
+Alfred Hoblitzelle Clifford: ok
+Đuro Kurepa: ok
+Archibald Macintyre: ok
+Arthur Erdélyi: ok
+Brian Kuttner: ok
+Donald Sadler: ok
+Egbert van Kampen: ok
+Gianfranco Cimmino: ok
+Guglielmo Righini: ok
+Guacolda Lazzerini: ok
+Hannes Alfvén: ok
+Gustav Elfving: ok
+Hans Heilbronn: ok
+Hans Reichardt: ok
+Hans Schubert: ok
+Henryk Zygalski: ok
+Hermann Ludwig Schmid: ok
+Ida Busbridge: ok
+Jacob Bronowski: ok
+Ivor Etherington: ok
+Herta Freitag: ok
+Jacques Herbrand: ok
+Lev Pontryagin: ok
+John Todd: ok
+Morris Kline: ok
+Marceli Stark: ok
+Sergei Sobolev: ok
+Lev Landau: ok
+Schieffelin Claytor: ok
+Victor Amazaspovich Ambartsumian: ok
+Willard Van Quine: ok
+Theodore Samuel Motzkin: ok
+Viktor Vladimirovich Vagner: ok
+Anatoly Malcev: ok
+Bernhard Neumann: ok
+Solomon Grigoryevich Mikhlin: ok
+Bill Penney: ok
+Béla Gyires: ok
+Claude Chevalley: ok
+Deane Montgomery: ok
+Eduard Stiefel: ok
+Danuta Gierulanka: ok
+Fabio Conforto: ok
+Florence Nightingale David: ok
+Feodor Theilheimer: ok
+Gerhard Gentzen: ok
+Geoffrey Walker: ok
+Friedrich Bachmann: ok
+Hidegorô Nakano: ok
+Hugh Alexander: ok
+Jerzy Rozycki: ok
+Karl Heinrich Weise: ok
+Max Black: ok
+Kosaku Yosida: ok
+Mark Aronovich Naimark: ok
+Nikolai Nikolaevich Bogolyubov: ok
+Johannes Haantjes: ok
+Ottó Varga: ok
+Ralph James: ok
+Saunders Mac Lane: ok
+Stan Ulam: ok
+Stephen C Kleene: ok
+Wade Ellis: ok
+Walter R Talbot: ok
+Werner Romberg: ok
+William Cochran: ok
+Cahit Arf: ok
+Charles Coulson: ok
+Daniel Pedoe: ok
+Charles Pisot: ok
+Ernests Fogels: ok
+Ernst Mohr: ok
+Floyd Burton Jones: ok
+Doris Hellman: ok
+Fritz John: ok
+Jacob Wolfowitz: ok
+George G Lorentz: ok
+Géza Grünwald: ok
+Helmut Wielandt: ok
+Hua Loo-Keng: ok
+Johanna Weber: ok
+Joseph Doob: ok
+Konrad Zuse: ok
+Józef Marcinkiewicz: ok
+Lamberto Cesari: ok
+Marshall Hall Jr: ok
+Maurice Bartlett: ok
+Lothar Collatz: ok
+Nathan Jacobson: ok
+Nikolai Vladimirovich Efimov: ok
+Pao Lu Hsu: ok
+Norman Steenrod: ok
+Sheila Scott Macintyre: ok
+Paul Turán: ok
+Tjalling Charles Koopmans: ok
+Subrahmanyan Chandrasekhar: ok
+Abraham Gelbart: ok
+Eizens Arins: ok
+Dov Jarden: ok
+Enzo Martinelli: ok
+Caleb Gattegno: ok
+Emanuels Grinbergs: ok
+Ernst Witt: ok
+Felix Behrend: ok
+Carlos Graef: ok
+George Szekeres: ok
+Klaus Fuchs: ok
+Jack Todd: ok
+Garrett Birkhoff: ok
+Luís Antoni Santaló: ok
+Menahem Schiffer: ok
+Orymbek Zhautykov: ok
+Mstislav Vsevolodovich Keldysh: ok
+Paris Pishmish: ok
+Raphael Robinson: ok
+Pilar Ribeiro: ok
+Robert Schatten: ok
+Theodor Schneider: ok
+Shiing-shen Chern: ok
+Shizuo Kakutani: ok
+Walter Ledermann: ok
+Alan Turing: ok
+Wei-Liang Chow: ok
+Wolfgang Hahn: ok
+Warwick Sawyer: ok
+Aleksandr Aleksandrov: ok
+Caius Iacob: ok
+Boris Vladimirovich Gnedenko: ok
+Andy Guinand: ok
+Carlo Miranda: ok
+Cora Ratto de Sadosky: ok
+Demetrios Magiros: ok
+Elgy Johnson: ok
+Emil Grosswald: ok
+Donald C Spencer: ok
+David Champernowne: ok
+Frank Smithies: ok
+Ferran Sunyer: ok
+Gerald Whitrow: ok
+Hans Zassenhaus: ok
+Leonid Vital'evich Kantorovich: ok
+Hugh Dowker: ok
+Louis Goodstein: ok
+Kentaro Yano: ok
+Kathleen Ollerenshaw: ok
+Martin Eichler: ok
+Norman Levinson: ok
+Noel Slater: ok
+Pierre Lelong: ok
+Sergei Chernikov: ok
+Shigeo Sasaki: ok
+Rafael Artzy: ok
+Ralph Boas: ok
+Tadashi Nakayama: ok
+Ángel Gros: ok
+Alessandro Faedo: ok
+Cândido Silva Dias: ok
+Tibor Gallai: ok
+Adriaan Cornelis Zaanen: ok
+Andrzej Mostowski: ok
+Alberto Barajas: ok
+Ernest Corominas: ok
+Israel Everett Glover: ok
+Israil Gelfand: ok
+Giuseppe Pompilj: ok
+Herman Goldstine: ok
+Göran Borg: ok
+Jack de Wet: ok
+Emma Castelnuovo: ok
+Jan Mikusiński: ok
+Levan Magnaradze: ok
+Mary Cannell: ok
+Marie-Hélène Schwartz: ok
+Oswald Teichmüller: ok
+Muriel Wales: ok
+Paul Erdős: ok
+Mischa Cotlar: ok
+Samuel Eilenberg: ok
+Ralph Fox: ok
+András Rapcsák: ok
+Shaun Wylie: ok
+Subbaramiah Minakshisundaram: ok
+Sixto Ríos: ok
+Åke Pleijel: ok
+Edward Begle: ok
+Colin Cherry: ok
+Dorothy Bernstein: ok
+Emilio Baiada: ok
+Evgeny Sergeevich Lyapin: ok
+George Dantzig: ok
+Federico Cafiero: ok
+Hanna Neumann: ok
+Jacques Feldbau: ok
+Georgii Polozii: ok
+Harry Pitt: ok
+José Sebastiao e Silva: ok
+Johannes de Groot: ok
+Lev Arkad'evich Kaluznin: ok
+Lipman Bers: ok
+Lyman Spitzer: ok
+Manuela Garín: ok
+Manuel Sadosky: ok
+Mário Schenberg: ok
+Marjorie Lee Browne: ok
+Martin Gardner: ok
+R H Bing: ok
+Mark Kac: ok
+Pedro Abellanas: ok
+Stefan Schwarz: ok
+Robert Dilworth: ok
+Rufus Isaacs: ok
+Tadeusz Boleslaw Ślebarski: ok
+Vladimir Potapov: ok
+William Wager Cooper: ok
+Walter Samuel McAfee: ok
+Wassily Hoeffding: ok
+Alberto Dou: ok
+Alice T Schafer: ok
+Chuan-Chih Hsiung: ok
+Enriqueta González Baz: ok
+Boris Khvedelidze: ok
+André Lichnerowicz: ok
+Evgenii Mikhailovich Lifshitz: ok
+Aleksandr Yakovlevich Povzner: ok
+Gustave Choquet: ok
+Fred Hoyle: ok
+Herbert Robbins: ok
+James McConnell: ok
+John Tukey: ok
+Kiyosi Ito: ok
+Kunihiko Kodaira: ok
+Kenneth May: ok
+José Luis Massera: ok
+Laurent Schwartz: ok
+Lionel Cooper: ok
+Mollie Orshansky: ok
+Lee Lorch: ok
+Paul Kelly: ok
+Richard Hamming: ok
+Roberto Vázquez: ok
+Robert Rankin: ok
+Warren Brothers: ok
+Abraham Seidenberg: ok
+Wolfgang Doeblin: ok
+Yuri Vladimirovich Linnik: ok
+Albrecht Fröhlich: ok
+Aryeh Dvoretzky: ok
+David Bates: ok
+Claude E Shannon: ok
+Douglas Northcott: ok
+Edmund Hlawka: ok
+Elliott Montroll: ok
+Ellis Kolchin: ok
+Frederick Atkinson: ok
+George Mackey: ok
+Frederick Mosteller: ok
+Hans Samelson: ok
+Gilbert Hunt: ok
+Irving John Good: ok
+John Kelley: ok
+John Crank: ok
+Nathan Fine: ok
+Roger Apéry: ok
+Paul Halmos: ok
+Sheila Edmonds: ok
+Andrzej Alexiewicz: ok
+Zoltán Dienes: ok
+Beno Eckmann: ok
+Atle Selberg: ok
+Clarence Francis Stephens: ok
+Elizabeth Scott: ok
+Edward Lorenz: ok
+Erling Sverdrup: ok
+Graham Higman: ok
+George Forsythe: ok
+Henry Jack: ok
+Helena Rasiowa: ok
+István Fenyő: ok
+Irving Kaplansky: ok
+Joan Clarke: ok
+Leonard Gillman: ok
+Leonard Jimmie Savage: ok
+Kenkichi Iwasawa: ok
+Nathan Mendelsohn: ok
+Moshe Livsic: ok
+Luna Isaac Mishoe: ok
+Nikolai Sergeevitch Krylov: ok
+Patrick Moran: ok
+Sergei Fomin: ok
+Phyllis Nicolson: ok
+Roger Lyndon: ok
+Tosio Kato: ok
+David Gilbarg: ok
+Yurii Alekseevich Mitropolskii: ok
+William Tutte: ok
+Abraham Robinson: ok
+Félix Recillas: ok
+David Rees: ok
+Geoffrey Kneebone: ok
+David Kendall: ok
+George Carrier: ok
+Heinz Rutishauser: ok
+Hsien C Wang: ok
+Irving Segal: ok
+Jacy Monteiro: ok
+Jacqueline Ferrand: ok
+Ivan Vidav: ok
+John Herivel: ok
+Julian Schwinger: ok
+Katherine Johnson: ok
+Lê Văn Thiêm: ok
+Leon Mirsky: ok
+Mario Fiorentini: ok
+Naum Il'ich Feldman: ok
+Leslie Fox: ok
+Nicolaas de Bruijn: ok
+Sheila Power Tinney: ok
+Richard Feynman: ok
+Tibor Szele: ok
+Vincent McRae: ok
+Yudell Luke: ok
+Wanda Szmielew: ok
+Aleksei Vasilevich Pogorelov: ok
+Alexander Andreevich Samarskii: ok
+David Blackwell: ok
+Clifford Ambrose Truesdell III: ok
+Erwin Hiebert: ok
+Georgii Dmitrievich Suvorov: ok
+George Box: ok
+Hermann Bondi: ok
+Ian Sneddon: ok
+J Presper Eckert: ok
+Jaap Seidel: ok
+Julia Bowman Robinson: ok
+Jim Wilkinson: ok
+Lars Gårding: ok
+Leopold Schmetterer: ok
+Magnus Wenninger: ok
+Vladimir Abramovich Rokhlin: ok
+Raymond Smullyan: ok
+Raimundo Chela: ok
+Paulette Libermann: ok
+Wen-Tsun Wu: ok
+William Kruskal: ok
+Alberto Calderón: ok
+Ambrose Rogers: ok
+Alfred Goldie: ok
+Alison Falconer: ok
+Anne Cobbe: ok
+Basil Rennie: ok
+Arthur Read: ok
+Bill Boone: ok
+Calyampudi Radhakrishna Rao: ok
+Donald Pack: ok
+Edwin Hewitt: ok
+George Batchelor: ok
+Ernst Specker: ok
+Frank Bonsall: ok
+Georges Reeb: ok
+Herbert Federer: ok
+Jeremiah Certaine: ok
+Jerzy Łoś: ok
+George Butcher: ok
+John Hammersley: ok
+Kollagunta Ramanathan: ok
+Marcel-Paul Schützenberger: ok
+Mark Krasnosel'skii: ok
+Roman Ingarden: ok
+Richard Bellman: ok
+Nicolaas Kuiper: ok
+Roman Sikorski: ok
+Sree Pillai: ok
+Udita Narayana Singh: ok
+Vera Kublanovskaya: ok
+Wolfgang Gaschütz: ok
+Andrew Gleason: ok
+Alexander Kronrod: ok
+Alfréd Rényi: ok
+Boris Trakhtenbrot: ok
+Chike Obi: ok
+David Gale: ok
+Edith Hirsch Luchins: ok
+Bent Christiansen: ok
+Ferenc Radó: ok
+Edwin Spanier: ok
+Harry Reuter: ok
+Henri Garnir: ok
+Frank Harary: ok
+Horst Tietz: ok
+Iacopo Barsotti: ok
+Jean-Louis Koszul: ok
+John Quill Taylor King: ok
+Kathleen McNulty Antonelli: ok
+Jonas Kubilius: ok
+Leo Moser: ok
+José Adem: ok
+Martin Löb: ok
+Marília Peixoto: ok
+Pierre Samuel: ok
+Maurício Peixoto: ok
+Roger Godement: ok
+Ronald Mitchell: ok
+Shimshon Amitsur: ok
+Yozo Matsushima: ok
+Walter Rudin: ok
+Ambros Speiser: ok
+Asger Aaboe: ok
+Anneli Lax: ok
+Douglas Jones: ok
+Ernst Straus: ok
+Gaetano Fichera: ok
+Guido Stampacchia: ok
+Imre Lakatos: ok
+J W S Cassels: ok
+Jan Kalicki: ok
+Kathleen Booth: ok
+Jack Warga: ok
+Lazar Matveevich Gluskin: ok
+Leopoldo Nachbin: ok
+Leslie Woods: ok
+Olga Alexandrovna Ladyzhenskaya: ok
+Rimhak Ree: ok
+Aleksei Alekseevich Dezin: ok
+Armand Borel: ok
+Adegoke Olubummo: ok
+Vladimir Aleksandrovich Marchenko: ok
+Beauregard Stubblefield: ok
+Blagoj Popov: ok
+Cathleen Morawetz: ok
+Christine Hamill: ok
+Dionisio Gallarati: ok
+Daniel Gorenstein: ok
+Enrico Magenes: ok
+Dan Mostow: ok
+Freeman Dyson: ok
+Georg Kreisel: ok
+Fritz Ursell: ok
+Harish-Chandra: ok
+Gloria Olive: ok
+Hidehiko Yamabe: ok
+Henri Cabannes: ok
+Herman Chernoff: ok
+Igor Rostislavovich Shafarevich: ok
+J Ernest Wilkins: ok
+Joseph Keller: ok
+Kuo-Tsai Chen: ok
+Murray Macbeath: ok
+Mikhail Iosiphovich Kadets: ok
+Peter Henrici: ok
+Peter Hilton: ok
+Raoul Bott: ok
+Tom Apostol: ok
+René Thom: ok
+Vasilii Sergeevich Vladimirov: ok
+Thomas Flett: ok
+Yvonne Bruhat: ok
+Wim Cohen: ok
+Yitz Herstein: ok
+Zofia Szmydt: ok
+Arnljot Høyland: ok
+Attia Ashour: ok
+Aldo Andreotti: ok
+David Borwein: ok
+Benoit Mandelbrot: ok
+Donald Davies: ok
+Clive William Kilmister: ok
+Elena Moldovan Popoviciu: ok
+Evgenii B Dynkin: ok
+Evelyn Boyd Granville: ok
+Irving Reiner: ok
+Jack Kiefer: ok
+Isadore Singer: ok
+Jacques Dixmier: ok
+James Lighthill: ok
+János Aczél: ok
+János Horváth: ok
+Jean Bartik: ok
+John Backus: ok
+Karl Aubert: ok
+Julián Adem: ok
+Linards Reiziņš: ok
+Mary Ellen Rudin: ok
+Lucien Le Cam: ok
+Nikolai Nikolaevich Krasovskii: ok
+Ottó Steinfeld: ok
+Paul Cohn: ok
+Norrie Everitt: ok
+Samuel Karlin: ok
+Cecilia Berdichevsky: ok
+Wilhelm Klingenberg: ok
+Chris Zeeman: ok
+Adelina Gutiérrez Moreno: ok
+Elza Furtado Gomide: ok
+Eugene Graham: ok
+Fred Wright: ok
+Hanno Rund: ok
+Germund Dahlquist: ok
+Giovanni Prodi: ok
+Lloyd Williams: pulou
+Gordon Preston: ok
+John Pople: ok
+Guri Ivanovich Marchuk: ok
+Hans-Jürgen Hoehnke: ok
+Keith Stewartson: ok
+John Torrence Tate: ok
+Klaus Roth: ok
+Louis Nirenberg: ok
+Olli Lehto: ok
+Martin Kruskal: ok
+Nathan Divinsky: ok
+Olga Arsenievna Oleinik: ok
+Shanti Swarup Gupta: ok
+Richard Kadison: ok
+Renfrey Potts: ok
+Albert Nijenhuis: ok
+Brian Haselgrove: ok
+Carol Karp: ok
+Chaim Samuel Hönig: ok
+Calogero Vinti: ok
+David Spence: ok
+Franz Kahn: ok
+Claude Berge: ok
+Gündüz Ikeda: ok
+Henry Dye: ok
+Hans-Joachim Bremermann: ok
+Ivo Babuska: ok
+J A Green: ok
+James Clunie: ok
+James Eells: ok
+Jaroslav Hájek: ok
+James Serrin: ok
+Jean-Pierre Kahane: ok
+Jean-Pierre Serre: ok
+John Leech: ok
+John Aitchison: ok
+John Kemeny: ok
+John Shepherdson: ok
+Kristen Nygaard: ok
+Michio Suzuki: ok
+Magdalena Mouján: ok
+Maurice Auslander: ok
+Miroslav Fiedler: ok
+Peter Lax: ok
+Tonny Springer: ok
+Rebeca Cherep de Guber: ok
+Rex Tims: ok
+Walter Hayman: ok
+Albert Bharucha-Reid: ok
+Zdzisław Pawlak: ok
+Alexander Ivanovich Skopin: ok
+Abdulalim Shabazz: ok
+Benjamin Moiseiwitsch: ok
+Brian Griffiths: ok
+Allen Shields: ok
+Dimitrei D Stancu: ok
+Friedrich Hirzebruch: ok
+Felix Browder: ok
+Friedrich Horn: ok
+Frank Levin: ok
+Geoffrey Shephard: ok
+Gyula Maurer: ok
+Carlos Benjamin de Lyra: ok
+Hoàng Tụy: ok
+Hans Wussing: ok
+Horst Sachs: ok
+Heinrich-Wolfgang Leopoldt: ok
+John Amson: ok
+James Mackay: ok
+Joan Sylvia Lyttle Birman: ok
+John Britton: ok
+Mikhail Mikhailovich Postnikov: ok
+Serge Lang: ok
+Marguerite Straus Frank: ok
+Slamet Dajono: ok
+Masayoshi Nagata: ok
+William Moser: ok
+Sigurður Helgason: ok
+Yutaka Taniyama: ok
+Alexander Grothendieck: ok
+Bernard Malgrange: ok
+Charles Costley: ok
+Donald Greenspan: ok
+Charles Bell: ok
+Chukwuka Okonjo: ok
+Donald Higman: ok
+Elizabeth Fennema: ok
+Ennio De Giorgi: ok
+Eric Milner: ok
+Gordon Pask: ok
+Errett Bishop: ok
+Iain Adamson: ok
+Heinz Bauer: ok
+Ioan James: ok
+Jacques-Louis Lions: ok
+Israel Gohberg: ok
+John F Nash: ok
+Joseph Kruskal: ok
+Karl Gruenberg: ok
+Jürgen Moser: ok
+John Bell: ok
+Lennart Carleson: ok
+Louis Auslander: ok
+Manuel Valdivia: ok
+Marion Walter: ok
+Martin Davis: ok
+Mikio Sato: ok
+Mary Tsingou Menzel: ok
+Norman Routledge: ok
+Paul Butzer: ok
+Paulo Ribenboim: ok
+Richard Varga: ok
+Aleksei Kostrikin: ok
+Branko Grünbaum: ok
+Andor Kertész: ok
+Anthony Spencer: ok
+Bryce McLeod: ok
+Brooke Benjamin: ok
+Douglas Munn: ok
+Elemér Kiss: ok
+Elon Lima: ok
+François Bruhat: ok
+Madan Lal Puri: ok
+Günter Lumer: ok
+Laurence Raymond Harper: ok
+Ilya Iosifovich Piatetski-Shapiro: ok
+Michael Atiyah: ok
+Jock Hoe: ok
+Paddy Kennedy: ok
+Vera Spinadel: ok
+Volodymyr Petryshyn: ok
+Yurii Vasilevich Prokhorov: ok
+Margaret Rayner: ok
+Ward Cheney: ok
+Anatolii Asirovich Goldberg: ok
+Anatolii Volodymyrovych Skorokhod: ok
+Bruce Kellogg: ok
+David Foulis: ok
+Edsger Dijkstra: ok
+Bill Morton: ok
+Frank Adams: ok
+Goro Shimura: ok
+Hans Grauert: ok
+Gregory Maxwell Kelly: ok
+Ismail Mohamed: ok
+Jacob T Schwartz: ok
+Jacques Tits: ok
+Jaime Escalante: ok
+John Polkinghorne: ok
+James Ezeilo: ok
+Juan Jorge Schäffer: ok
+Kazimierz Urbanik: ok
+Newby Curle: ok
+Norman Alling: ok
+Rudolf Kalman: ok
+Satoshi Suzuki: ok
+Vera Sós: ok
+Shreeram Shankar Abhyankar: ok
+Stephen Smale: ok
+Walter Feit: ok
+Reinhard Selten: ok
+Wang Yuan: ok
+William Coppel: ok
+Alan Mercer: ok
+Anatoli Georgievich Vitushkin: ok
+András Hajnal: ok
+Eléna Kreindler: ok
+Czesław Olech: ok
+Elias Stein: ok
+Geoffrey Howson: ok
+Heisuke Hironaka: ok
+Herbert Wilf: ok
+Igor Kluvánek: ok
+John Milnor: ok
+Lars Hörmander: ok
+James Murray: ok
+Roger Penrose: ok
+Sergei Ivanovich Adian: ok
+Robert C Thompson: ok
+Stanisław Knapowski: ok
+Valentina Mikhailovna Borok: ok
+Vera Pless: ok
+Donald Solitar: ok
+Crispin Nash-Williams: ok
+Francis Allotey: ok
+Gian-Carlo Rota: ok
+Gene Golub: ok
+Grace Alele-Williams: ok
+Gilberto Loibel: ok
+Jacques Neveu: ok
+Hyman Bass: ok
+Jack van Lint: ok
+Joachim Neubüser: ok
+John Lewis: ok
+John Ringrose: ok
+John Thompson: ok
+Kenneth Appel: ok
+Lee Segel: ok
+Marian Țarină: ok
+Mary Warner: ok
+Maurice Audin: ok
+Louis de Branges: ok
+Pierre Cartier: ok
+Siobhán Vernon: ok
+Stanisław Świerczkowski: ok
+Taira Honda: ok
+Tom Whiteside: ok
+Chen Jingrun: ok
+Vivienne Malone-Mayes: ok
+Dorothy Foster: ok
+Gary Roach: ok
+Frederick Justin Almgren: ok
+Etta Zuber Falconer: ok
+Jean-Paul Pier: ok
+Harvey Greenspan: ok
+John Frankland Rigby: ok
+Gilbert Baumslag: ok
+Lochlainn O'Raifeartaigh: ok
+Moshe Carmeli: ok
+Joshua Leslie: ok
+Mikhail Moiseevich Lesokhin: ok
+Richard Askey: ok
+Ray Vanstone: ok
+Víctor Neumann-Lara: ok
+Samuel Gitler: ok
+Donald Ornstein: ok
+Wolfgang Schmidt: ok
+Ene-Margit Tiit: ok
+Iossif Vladimirovich Ostrovskii: ok
+James Glimm: ok
+James Wiegold: ok
+Ludwig Faddeev: ok
+Paul Cohen: ok
+Michael Artin: ok
+Paul-André Meyer: ok
+Roy Kerr: ok
+Soraya Sherif: ok
+William Browder: ok
+William Parry: ok
+Bhama Srinivasan: ok
+Bronius Grigelionis: ok
+Gloria Hewitt: ok
+Graciela Salicrup: ok
+Helge Tverberg: ok
+Hillel Furstenberg: ok
+Hitoshi Kumano-Go: ok
+John Hildebrant: ok
+Marek Kuczma: ok
+Louise Szmir Hay: ok
+John Stallings: ok
+Nicolas Bourbaki: ok
+Rolando Chuaqui: ok
+Ronald Graham: ok
+Victor Olunloyo: ok
+Argelia Velez-Rodriguez: ok
+Alexander Aleksandrovich Kirillov: ok
+Yakov Grigorevich Sinai: ok
+Gonzalo Pérez Iribarren: ok
+Dmitrii Viktorovich Anosov: ok
+John Howie: ok
+Jerome Keisler: ok
+Joram Lindenstrauss: ok
+Graham Allan: ok
+Judita Cofman: ok
+Ki Hang Kim: ok
+László Kovács: ok
+Oleksandr Mikolaiovich Sharkovsky: ok
+Pavel Tichy: ok
+Leone Burton: ok
+Richard Schelp: ok
+Peter Ladislaw Hammer: ok
+Robert May: ok
+Robert P Langlands: ok
+Terry Wall: ok
+Shisong Mao: ok
+Umirzak Sultangazin: ok
+Volker Strassen: ok
+Barry Mazur: ok
+Barry Johnson: ok
+Charles Sims: ok
+David Fowler: ok
+Enrique Planchart: ok
+David Mumford: ok
+David Hayes: ok
+Evgenii Yakovlevich Khruslov: ok
+Horace Mochizuki: ok
+Johannes Boersma: ok
+Leonid Andreevich Pastur: ok
+John Conway: ok
+John Knopfmacher: ok
+Ron Book: ok
+Moshé Flato: ok
+Sunday Iyahen: ok
+Vladimir Arnold: ok
+Vladimir Maz'ya: ok
+Alex Craik: ok
+Anatoly Mykhailovych Samoilenko: ok
+Chidambaram Padmanabhan Ramanujam: ok
+Alexander Animalu: ok
+Yuri Ivanovich Manin: ok
+Bella Abramovna Subbotovskaya: ok
+Daniel Akyeampong: ok
+David Singmaster: ok
+Donald Knuth: ok
+Detlef Gromoll: ok
+Don Carlson: ok
+Hans Meinhardt: ok
+George E Andrews: ok
+Hideo Tanaka: ok
+Marina Ratner: ok
+Fischer Sheffey Black: ok
+Marta Bunge: ok
+Robion Kirby: ok
+Phillip Griffiths: ok
+Tom Blyth: ok
+Sergei Novikov: ok
+Sylvia de Neymet: ok
+Brian Hartley: ok
+Alan Baker: ok
+Brian Sleeman: ok
+Calixto Calderón: ok
+Carlo Cercignani: ok
+Hendrika Swart: ok
+Herbert Pahlings: ok
+John Kingman: ok
+Fatma Moalla: ok
+Mario Wschebor: ok
+Doris Schattschneider: ok
+Marjorie Senechal: ok
+Daniel Quillen: ok
+Mary Lee Wheat Gray: ok
+Endre Szemerédi: ok
+Cora Sadosky: ok
+Franciszek Szafraniec: ok
+Enrico Bombieri: ok
+Richard Tapia: ok
+Yves Meyer: ok
+George Oster: ok
+Jacob Palis Jr: ok
+Linda Goldway Keen: ok
+Srinivasa Varadhan: ok
+Alan Day: ok
+Aderemi Kuku: ok
+Beatrice Tinsley: ok
+Peter Neumann: ok
+John Meldrum: ok
+Derek Waller: ok
+George Olatokunbo Okikiolu: ok
+Dennis Sullivan: ok
+Domokos Szász: ok
+Ivor Grattan-Guinness: ok
+Peter Stefan: ok
+László Filep: ok
+Abdel-Shafy Obada: ok
+Alexandru Lupas: ok
+David Crighton: ok
+Jane Wadsworth: ok
+Francisco González Acuña: ok
+Gavin Brown: ok
+Lenore Blum: ok
+Karen Uhlenbeck: ok
+Neil Trudinger: ok
+Patrick Keast: ok
+Thierry Aubin: ok
+Timothy Pedley: ok
+Stephen Hawking: ok
+Vitaly Vitalievich Fedorchuk: ok
+Steve Rallis: ok
+Béla Bollobás: ok
+Edmund Robertson: ok
+Evelyn Nelson: ok
+Steven Orszag: ok
+Richard Hamilton: ok
+Abram Naumovich Trakhtman: ok
+Mikhael Leonidovich Gromov: ok
+Krystyna Kuperberg: ok
+Margaret Hilary Ashworth Millington: ok
+James Arthur: ok
+Michael Aschbacher: ok
+Mitchell Feigenbaum: ok
+Pierre Deligne: ok
+Seán Dineen: ok
+Richard Stanley: ok
+Dusa McDuff: ok
+George Saitoti: ok
+John Coates: ok
+Leon Simon: ok
+Joséphine Guidy-Wandja: ok
+John O'Connor: ok
+Karl Sigmund: ok
+Leonard Adleman: ok
+Persi Diaconis: ok
+Saharon Shelah: ok
+Anzelm Iwanik: ok
+Vijay Patodi: ok
+Bill Thurston: ok
+Wilbur Knorr: ok
+Celia Hoyles: ok
+David Kazhdan: ok
+George Lusztig: ok
+Gregori Margulis: ok
+Jean-Louis Loday: ok
+Jorge Ize: ok
+Ola Bratteli: ok
+Nigel Kalton: ok
+Nigel Hitchin: ok
+Paul Davies: ok
+Yakov Eliashberg: ok
+Welington de Melo: ok
+Alain Connes: ok
+David Eisenbud: ok
+András Huhn: ok
+Ovide Arino: ok
+Georgia Benkart: ok
+Palle Jorgensen: ok
+Robert Edward Bowen: ok
+Uriel Rothblum: ok
+Yuri Vladimirovich Matiyasevich: ok
+Wolfgang Alt: ok
+Chandra Kintala: ok
+Gerard Murphy: ok
+Cheryl Praeger: ok
+Laszlo Lovász: ok
+John Carr: ok
+Philippe Flajolet: ok
+Luis Caffarelli: ok
+Sun-Yung Alice Chang: ok
+Ricardo Mañé: ok
+Daniel Rudolph: ok
+Fan Chung: ok
+Charles Fefferman: ok
+Fritz Grunewald: ok
+Martin Harvey: ok
+Leslie Valiant: ok
+Qamil Haxhibeqiri: ok
+Andrzej Sołtysiak: ok
+Andrei Andreevich Bolibrukh: ok
+Shing-Tung Yau: ok
+Gamal Ismail: ok
+David Broomhead: ok
+Milojica Jacimovic: ok
+Gilles Pisier: ok
+Richard Schoen: ok
+Demetrios Christodoulou: ok
+Viktor Aleksandrovich Gorbunov: ok
+Michael Freedman: ok
+Jonathan Borwein: ok
+Olabisi Ugbebor: ok
+Edward Witten: ok
+Shigefumi Mori: ok
+Stein Arild Stromme: ok
+Lai-Sang Young: ok
+Emilio Cafaro: ok
+Vaughan Jones: ok
+Bob Thomason: ok
+Zoltán Balogh: ok
+Andrew Wiles: ok
+Clifford Taubes: ok
+Gerd Faltings: ok
+Ingrid Daubechies: ok
+Dončo Dimovski: ok
+Peter Borwein: ok
+Peter Sarnak: ok
+José Escobar: ok
+Jean Bourgain: ok
+Pavel Krejčí: ok
+Vladimir Drinfeld: ok
+Verdiana Masanja: ok
+Qaiser Mushtaq: ok
+Efim Zelmanov: ok
+Bernadette Perrin-Riou: ok
+Andreas Floer: ok
+Laila Soueif: ok
+Pierre-Louis Lions: ok
+Francesco de Giovanni: ok
+Gregory Lawler: ok
+Avi Wigderson: ok
+Alexander Beilinson: ok
+David Donoho: ok
+Jean-Christophe Yoccoz: ok
+Abigail Thompson: ok
+Simon Donaldson: ok
+Akos Seress: ok
+Curtis McMullen: ok
+Benoît Perthame: ok
+Hajer Bahouri: ok
+Jean-François Le Gall: ok
+Philip Maini: ok
+Lene Vestergaard Hau: ok
+Richard Borcherds: ok
+Leopoldo Franca: ok
+Juha Heinonen: ok
+Nassim Taleb: ok
+'Mamphono Khaketla: ok
+Oded Schramm: ok
+Rajeev Motwani: ok
+Yewande Olubummo: ok
+Nkechi Agwu: ok
+Richard Taylor: ok
+Claire Voisin: ok
+Artūras Dubickas: ok
+Timothy Gowers: ok
+Haim Nessyahu: ok
+Maxim Kontsevich: ok
+Sijue Wu: ok
+Karen Smith: ok
+Katherine Okikiolu: ok
+Svetlana Jitomirskaya: ok
+Grigori Yakovlevich Perelman: ok
+Vladimir Voevodsky: ok
+Marie Françoise Ouedraogo: ok
+Ruth Michler: ok
+Laurent Lafforgue: ok
+Amie Wilkinson: ok
+Wendelin Werner: ok
+Andrei Yuryevich Okounkov: ok
+Maryam Mirzakhani: ok
+Talitha Washington: ok
+David Cariolaro: ok
+Edray Herber Goins: ok
+Terence Tao: ok
+Artur Ávila: ok
+Qëndrim Gashi: ok
+Maryna Viazovska: ok
+Vicky Neale: ok
+Birth Countries: ok
+Recent Changes: ok
+African mathematicians: ok
+Ancient Islamic mathematics: ok
+Ancient Indian mathematics: ok
+Ancient Greek mathematics: ok
+Mathematical astronomy: ok
+Female mathematicians: ok
+African-American mathematicians: ok
+Group theorists: ok
+Topologists: ok
+Chronological: ok
+Pictures: ok

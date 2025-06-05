@@ -1,0 +1,17 @@
+{
+  "nome_completo": "Apastamba",
+  "nome_curto": "Apastamba",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Apastamba/",
+  "data_nascimento": "about 600 BC",
+  "local_nascimento": "India",
+  "data_morte": "about 600 BC",
+  "local_morte": "India",
+  "summary": "Apastamba was the Indian author of one of the most interesting of the Indian Sulbasutras from a mathematical point of view.",
+  "biografia": "To write a biography of\nApastamba\nis essentially impossible since nothing is known of him except that he was the author of a Sulbasutra which is certainly later than the Sulbasutra of\nBaudhayana\n. It would also be fair to say that Apastamba's Sulbasutra is the most interesting from a mathematical point of view. We do not know Apastamba's dates accurately enough to even guess at a life span for him, which is why we have given the same approximate birth year as death year.\nApastamba was neither a mathematician in the sense that we would understand it today, nor a scribe who simply copied manuscripts like\nAhmes\n. He would certainly have been a man of very considerable learning but probably not interested in mathematics for its own sake, merely interested in using it for religious purposes. Undoubtedly he wrote the Sulbasutra to provide rules for religious rites and to improve and expand on the rules which had been given by his predecessors. Apastamba would have been a Vedic priest instructing the people in the ways of conducting the religious rites he describes.\nThe mathematics given in the Sulbasutras is there to enable the accurate construction of altars needed for sacrifices. It is clear from the writing that Apastamba, as well as being a priest and a teacher of religious practices, would have been a skilled craftsman. He must have been himself skilled in the practical use of the mathematics he described as a craftsman who himself constructed sacrificial altars of the highest quality.\nThe Sulbasutras are discussed in detail in the article\nIndian Sulbasutras\n. Below we give one or two details of Apastamba's Sulbasutra. This work is an expanded version of that of\nBaudhayana\n. Apastamba's work consisted of six chapters while the earlier work by\nBaudhayana\ncontained only three.\nThe general linear equation was solved in the Apastamba's Sulbasutra. He also gives a remarkably accurate value for √\n2\nnamely\n1\n+\n1\n3\n+\n1\n(\n3\n×\n4\n)\n−\n1\n(\n3\n×\n4\n×\n34\n)\n1 + \\large\\frac{1}{3}\\normalsize  + \\large\\frac{1}{(3\\times 4)}\\normalsize  - \\large\\frac{1}{(3\\times 4\\times 34)}\\normalsize\n1\n+\n3\n1\n​\n+\n(\n3\n×\n4\n)\n1\n​\n−\n(\n3\n×\n4\n×\n3\n4\n)\n1\n​\n.\nwhich gives an answer correct to five decimal places. A possible way that Apastamba might have reached this remarkable result is described in the article\nIndian Sulbasutras\n.\nAs well as the problem of squaring the circle, Apastamba considers the problem of dividing a segment into\n7\nequal parts. The article\n[\n3\n]\nlooks in detail at a reconstruction of Apastamba's version of these two problems.",
+  "matematicos_citados_na_biografia": [
+    "Baudhayana",
+    "Ahmes",
+    "Indian Sulbasutras"
+  ],
+  "imagens": []
+}

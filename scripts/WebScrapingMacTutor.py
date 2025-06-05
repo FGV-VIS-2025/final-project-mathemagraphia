@@ -8,11 +8,11 @@ from bs4 import BeautifulSoup
 from slugify import slugify
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urlparse
 
 # -------------------------------------------------------------
 # CONFIGURAÇÕES
 # -------------------------------------------------------------
-
 CSV_PATH    = "public/matematicos.csv"
 OUTPUT_DIR  = "biografias_json"
 BASE_URL    = "https://mathshistory.st-andrews.ac.uk"
@@ -23,9 +23,22 @@ DELAY_MAX   = 0.6       # delay máximo após cada requisição (por thread)
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # -------------------------------------------------------------
-# Função de extração (igual ao que já temos)
+# Função para corrigir possíveis textos garbled
 # -------------------------------------------------------------
+def corrigir_encoding(texto):
+    """
+    Se o texto vier garbled (por exemplo, 'WacÅaw ÅÃ³dz'),
+    tenta re-interpretar os bytes como Latin-1 → UTF-8.
+    Caso falhe, retorna o texto original.
+    """
+    try:
+        return texto.encode('latin-1').decode('utf-8')
+    except Exception:
+        return texto
 
+# -------------------------------------------------------------
+# Função de extração (com todas as alterações pedidas)
+# -------------------------------------------------------------
 def extrair_dados_biografia(html, nome_curto, ano_nasc, ano_morte, url):
     soup = BeautifulSoup(html, 'lxml')
 
@@ -90,14 +103,12 @@ def extrair_dados_biografia(html, nome_curto, ano_nasc, ano_morte, url):
                 if texto not in matematicos_citados:
                     matematicos_citados.append(texto)
 
-    # 5. Imagens (miniatura + imagens dentro da biografia)
+    # 5. Imagens (miniatura + todas as dentro de bio_div)
     imagens = []
-    # 5.1) Miniatura de perfil
     thumb = soup.find('img', class_='biography-thumbnail')
     if thumb and thumb.get('src'):
         imagens.append(thumb['src'].strip())
 
-    # 5.2) Todas as imagens dentro de bio_div
     if bio_div:
         for img in bio_div.find_all('img', src=True):
             src = img['src'].strip()
@@ -121,21 +132,33 @@ def extrair_dados_biografia(html, nome_curto, ano_nasc, ano_morte, url):
 # -------------------------------------------------------------
 # Função que processa um matemático: download + parsing + salvar
 # -------------------------------------------------------------
-
 def processar_matematico(row, session):
     """
     row: dict vindo do CSV, com chaves 'Name', 'Link', 'Born', 'Die'
     session: requests.Session() compartilhada
     """
-    nome = row['Name']
-    link = row['Link']
+    # 1) Corrigir possíveis caracteres garbled
+    nome_bruto = row['Name']
+    nome = corrigir_encoding(nome_bruto).strip()
 
-    # Se for link relativo, prefixe
+    born_bruto = row.get('Born', '')
+    born = corrigir_encoding(born_bruto).strip() if born_bruto else None
+
+    die_bruto = row.get('Die', '')
+    die = corrigir_encoding(die_bruto).strip() if die_bruto else None
+
+    # 2) Corrigir o link, se não começar com http
+    link = row['Link']
     if not link.startswith("http"):
         link = BASE_URL + link
 
-    # Nome do arquivo de saída
-    nome_arquivo = slugify(nome) + ".json"
+    # 3) Definir nome do arquivo de saída
+    slug = slugify(nome)
+    if not slug:
+        parsed = urlparse(link)
+        ultima_parte = parsed.path.rstrip('/').split('/')[-1]
+        slug = slugify(ultima_parte) or "matematico"
+    nome_arquivo = slug + ".json"
     caminho = os.path.join(OUTPUT_DIR, nome_arquivo)
 
     # Se já existe, pular
@@ -143,23 +166,26 @@ def processar_matematico(row, session):
         return (nome, "pulou")
 
     try:
-        # Faz a requisição
+        # 4) Fazer a requisição
         resp = session.get(link, timeout=15)
+        resp.encoding = 'utf-8'
         resp.raise_for_status()
 
+        # 5) Extrair informações
         dados = extrair_dados_biografia(
             html=resp.text,
             nome_curto=nome,
-            ano_nasc=row.get('Born', None),
-            ano_morte=row.get('Die', None),
+            ano_nasc=born,
+            ano_morte=die,
             url=link
         )
 
-        # Salvar JSON
+        # 6) Salvar JSON
         with open(caminho, 'w', encoding='utf-8') as f:
             json.dump(dados, f, indent=2, ensure_ascii=False)
 
-        # Pequeno delay aleatório antes de finalizar a thread
+        # 7) Pequeno delay aleatório
+        time.sleep(random.uniform(DELAY_MIN, DELAY_MAX))
         return (nome, "ok")
 
     except Exception as e:
@@ -168,7 +194,6 @@ def processar_matematico(row, session):
 # -------------------------------------------------------------
 # Fluxo principal: carrega CSV, submete ao ThreadPoolExecutor
 # -------------------------------------------------------------
-
 def main():
     # 1) Ler todo o CSV
     with open(CSV_PATH, newline='', encoding='utf-8') as csvfile:

@@ -1,0 +1,32 @@
+{
+  "nome_completo": "Klaus Friedrich Roth",
+  "nome_curto": "Klaus Roth",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Roth_Klaus/",
+  "data_nascimento": "29 October 1925",
+  "local_nascimento": "Breslau, Germany (now Wrocław, Poland)",
+  "data_morte": "10 November 2015",
+  "local_morte": "Inverness, Scotland",
+  "summary": "Klaus Roth won a Fields Medal in 1958 for his work on approximating algebraic numbers by rationals.",
+  "biografia": "Klaus Roth\ncame to England when he was young and attended St Paul's School in London from\n1939\nto\n1943\n. He then went to Peterhouse, Cambridge where he was awarded his BA in\n1945\n.\nAfter graduating, Roth was appointed as an assistant master at the internationally famous Gordonstoun School, which lies\n10\nkm north of Elgin in Scotland. The school had been founded in\n1934\nby the German educator Kurt Hahn as a boys' school that would emphasise the development of character in addition to academic excellence. The boys were expected to live in quite hard conditions without any of the luxuries of life.\nRoth returned to London in\n1946\nto undertake research at University College. He was awarded his master's degree in\n1948\nand appointed an assistant lecturer there in that year. He was awarded his doctorate two years later, becoming a lecturer, then a reader in\n1956\n, and then a professor in\n1961\n.\nIn fact Roth made a remarkable mathematical breakthrough while still a lecturer at University College. He solved the major open problem of approximating\nalgebraic numbers\nby\nrationals\nin\n1955\n. It was for this work that Roth was awarded a\nFields Medal\nin\n1958\n.\nFor any\nirrational\nnumber\nr\nr\nr\nit is easy to see that there are infinitely many rational numbers\na\nb\n\\Large\\frac{a}{b}\\normalsize\nb\na\n​\nwith\n∣\na\nb\n−\nr\n∣\n<\n1\nb\n2\n| \\Large\\frac{a}{b}\\normalsize  - r | < \\Large\\frac{1}{b^{2}\\normalsize}\n∣\nb\na\n​\n−\nr\n∣\n<\nb\n2\n1\n​\n(\nthe convergents for the\ncontinued fraction\nof\nr\nr\nr\nall satisfy this\n)\n. For a given\nr\nr\nr\nlet\nμ\n(\nr\n)\n\\mu(r)\nμ\n(\nr\n)\nbe the upper bound the exponents\ne\ne\ne\nsuch that there are infinitely many rational numbers\na\nb\n\\Large\\frac{a}{b}\\normalsize\nb\na\n​\nwith\n∣\na\nb\n−\nr\n∣\n<\n1\nb\ne\n| \\Large\\frac{a}{b}\\normalsize  - r | < \\Large\\frac{1}{b^{e}\\normalsize}\n∣\nb\na\n​\n−\nr\n∣\n<\nb\ne\n1\n​\n.\nThe above shows that\nμ\n(\nr\n)\n≥\n2\n\\mu(r) ≥ 2\nμ\n(\nr\n)\n≥\n2\nfor all\nr\nr\nr\n.\nLiouville\nshowed in\n1844\nthat if r is an algebraic number of degree\nn\nn\nn\nthen\nμ\n(\nr\n)\n≤\nn\n\\mu(r) ≤ n\nμ\n(\nr\n)\n≤\nn\n.\nThe open question was then to find where in the range\n2\n≤\nμ\n(\nr\n)\n≤\nn\n2 ≤ \\mu(r) ≤ n\n2\n≤\nμ\n(\nr\n)\n≤\nn\nthe value of\nμ\n(\nr\n)\n\\mu(r)\nμ\n(\nr\n)\nwas for an algebraic number of degree\nn\nn\nn\n.\nThue\nshowed that\nμ\n(\nr\n)\n≤\nn\n2\n+\n1\n\\mu(r) ≤ \\Large\\frac{n}{2}\\normalsize  + 1\nμ\n(\nr\n)\n≤\n2\nn\n​\n+\n1\nin\n1908\nand\nSiegel\nimproved this in\n1921\nto\nμ\n(\nr\n)\n≤\n2\n√\nn\n\\mu(r) ≤ 2√n\nμ\n(\nr\n)\n≤\n2\n√\nn\n.\nRoth solved the problem completely in\n1955\nby showing that for any algebraic number\nr\n,\nμ\n(\nr\n)\n=\n2\nr, \\mu(r) = 2\nr\n,\nμ\n(\nr\n)\n=\n2\n.\nDavenport\npresented Roth with the\nFields Medal\nat the International Congress in Edinburgh in\n1958\n. Speaking of Roth's solution to this problem of approximating algebraic numbers\nDavenport\nsaid\n[2]\n:-\nThe achievement is one that speaks for itself: it closes a chapter, and a new chapter is now opened. Roth's theorem settles a question which is both of a fundamental nature and of extreme difficulty. It will stand as a landmark in mathematics for as long as mathematics is cultivated.\nDavenport\n, in his Fields Medal presentation, mentions another problem solved by Roth. This was Roth's proof in\n1952\nof a conjecture made in\n1935\nby\nErdős\nand\nTurán\n. The conjecture concerned a sequence\nn\n1\n,\nn\n2\n,\nn\n3\n,\n.\n.\n.\nn_{1}, n_{2}, n_{3}, ...\nn\n1\n​\n,\nn\n2\n​\n,\nn\n3\n​\n,\n.\n.\n.\nof natural numbers satisfying\nn\np\n+\nn\nq\n≠\n2\nn\nr\nn_{p} + n_{q} ≠ 2n_{r}\nn\np\n​\n+\nn\nq\n​\n\n​\n=\n2\nn\nr\n​\nunless\np\n=\nq\n=\nr\np = q = r\np\n=\nq\n=\nr\n. If\nN\n(\nx\n)\nN(x)\nN\n(\nx\n)\ndenotes the number of terms of the sequence less than\nx\nx\nx\n, Roth proved the conjecture that\nN\n(\nx\n)\nx\n→\n0\n\\Large\\frac{N(x)}{x}\\normalsize   \\rightarrow  0\nx\nN\n(\nx\n)\n​\n→\n0\nas\nx\n→\n∞\nx  \\rightarrow  ∞\nx\n→\n∞\n.\nDavenport ends his address\n[2]\nby saying:-\nThe Duchess, in Alice in Wonderland, said that there is a moral in everything if only you can find it. It is not difficult to find the moral in Dr Roth's work. It is that the great unsolved problems of mathematics may still yield to direct attack however difficult and forbidding they appear to be, and however much effort has already been spent on them.\nRoth moved to the chair of Pure Mathematics in Imperial College, London in\n1966\nand held this chair until\n1988\n. In that year he went to University College, London as a visiting professor, a position he held until\n1996\nwhen he returned to the north of Scotland, not far from where he taught at Gordonstoun School before he began his research career.\nThe Fields Medal was not the only honour to be bestowed on Roth. He received many other honours including fellowship of the\nRoyal Society of London\nin\n1960\nand of the Royal Society of Edinburgh in\n1993\n. He received the\nDe Morgan\nMedal of the\nLondon Mathematical Society\nin\n1983\nand the\nSylvester\nMedal of the\nRoyal Society\nin\n1991\n.",
+  "matematicos_citados_na_biografia": [
+    "algebraic numbers",
+    "rationals",
+    "Fields Medal",
+    "irrational",
+    "continued fraction",
+    "Liouville",
+    "Thue",
+    "Siegel",
+    "Davenport",
+    "Erdős",
+    "Turán",
+    "Royal Society of London",
+    "De Morgan",
+    "London Mathematical Society",
+    "Sylvester",
+    "Royal Society"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome_completo": "Gustav Adolph Göpel",
+  "nome_curto": "Adolph Göpel",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Gopel/",
+  "data_nascimento": "29 September 1812",
+  "local_nascimento": "Rostock, Germany",
+  "data_morte": "7 June 1847",
+  "local_morte": "Berlin, Germany",
+  "summary": "Adolph Göpel was a German mathematician who wrote an early paper on hyperelliptic functions.",
+  "biografia": "Adolph Göpel\n's father was a teacher of music in Rostock and Adolph inherited from him considerable musical talent. He had an uncle\n(\na brother of his mother\n)\nwho was the British consul in Corsica. This enabled Göpel to spend several years in Italy in his youth for, from the age of ten, he travelled around Italy with this uncle who was taking an interest in science. His uncle moved between Italian cities spending some time in each city as his work required. Although he was only\n13\nyears old at the time, Adolph attended mathematics and physics lectures at the University of Pisa during the winter of\n1825\n-\n26\n, while his uncle was there on business. At Pisa he was taught algebra, differential calculus, statics, analytical mechanics, theoretical physics and experimental physics. His lecturers included Giovanni Pieraccioli, Poletti, Ranieri Gerbi and Giuseppe Gatteschi. He returned to Rostock in\n1827\nwhere he spent two years studying at the local\nGymnasium\n.\nIn\n1829\nGöpel entered the University of Berlin where, in addition to his main area of study which was mathematics, he also took classes in physics, chemistry, and even philosophy, philology, history and aesthetics. He continued to undertake research in mathematics after taking his first degree and he was awarded a doctorate in\n1835\nfor his thesis\nDe aequationibus secundi gradus indeternatis\nⓉ\n(\nOn indeterminate equations of the second degree\n)\n. He had been advised at the University of Berlin by\nEnno Heeren Dirksen\n(1788\n-\n1850)\nwho had, a few years before, been thesis advisor to\nCarl Jacobi\n. After completing his studies at the University, Göpel taught at the Werder Gymnasium and at the Royal Realschule. He then worked as an official in the Royal Library of the Humboldt University of Berlin and had little contact with his mathematical colleagues although, for a while, he was friendly with\nAugust Crelle\n. There seem to be little further information about Göpel's life, the information given above coming from\n[\n2\n]\n. The authors of\n[\n2\n]\nwere\nCarl Jacobi\nand\nAugust Crelle\n; Jacobi certainly was very familiar with Göpel's mathematics but only\nCrelle\nknew him personally. An encyclopaedia entry for Göpel in the\nAllgemeine deutsche Biographie\n(1879)\n, written by\nMoritz Cantor\n, closely follows the biographical information given in\n[\n2\n]\n.\nGöpel's doctoral dissertation studied periodic\ncontinued fractions\nof the roots of integers and derived a representation of the numbers by\nquadratic forms\n. He wrote on\nSteiner\n's synthetic geometry and an important work, published after his death, continued the work of\nJacobi\non\nelliptic functions\n. This work was published in\nCrelle\n's Journal in\n1847\n.\nW Burau in\n[\n1\n]\nwrites:-\nGöpel owes his fame to 'Theoriae transcendentium Abelianarum primi ordinis adumbratio levis', published after his death in the 'Journal für die reine und angewandte Mathematik'. The investigations contained in this paper can be viewed as a continuation of the ideas of C G J\nJacobi\n. The latter had taught that elliptic functions of one variable should be considered as inverse functions of elliptic integrals, but later he also explained them in his lectures as quotients of theta functions of one variable. Moreover,\nJacobi\nhad formulated the inverse problem, named for him, for Abelian integrals of arbitrary genus p. From this arose the next task: to solve the problem for p =\n2\n. This was done by Göpel and\nJohann Rosenhain\nin works published almost simultaneously. In 'Theoriae transcendentium' .., Göpel started from\n16\ntheta functions in two variables ... and showed that their quotients are quadruply periodic. Of the squares of these\n16\nfunctions, four proved to be linearly independent. Göpel linked four more of these quadratics through a homogeneous fourth degree relation, later named the 'Göpel relation' which coincides with the equation of the\nKummer\nsurface. Göpel ... finally, after ingenious calculations, obtained the result that the quotients of two theta functions are solutions of the Jacobian problem for p =\n2\n.",
+  "matematicos_citados_na_biografia": [
+    "Gymnasium",
+    "Enno Heeren Dirksen",
+    "Carl Jacobi",
+    "August Crelle",
+    "Crelle",
+    "Moritz Cantor",
+    "continued fractions",
+    "quadratic forms",
+    "Steiner",
+    "Jacobi",
+    "elliptic functions",
+    "Johann Rosenhain",
+    "Kummer"
+  ],
+  "imagens": []
+}

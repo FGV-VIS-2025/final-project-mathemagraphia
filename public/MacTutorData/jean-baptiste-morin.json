@@ -1,0 +1,25 @@
+{
+  "nome_completo": "Jean-Baptiste Morin",
+  "nome_curto": "Jean-Baptiste Morin",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Morin_Jean-Baptiste/",
+  "data_nascimento": "23 February 1583",
+  "local_nascimento": "Villefranche, Beaujolais, France",
+  "data_morte": "6 November 1656",
+  "local_morte": "Paris, France",
+  "summary": "Jean-Baptiste Morin was a French astrologer and astronomer who attempted to solve the longitude problem using lunar observations.",
+  "biografia": "Jean-Baptiste Morin\nstudied philosophy at Aix in\n1609\n, then two years later he went to Avignon where he studied medicine, receiving a medical degree in\n1613\n.\nDuring the years\n1613\nto\n1621\nMorin was employed by the Bishop of Boulogne. He was sent to Germany and Hungary. His main task seems to have been to visit mines and make studies of metals. His skill in astrology seems to have been his main use to the Bishop.\nHis next employer was the Duke of Luxembourg, for whom he worked until\n1629\n. During this period Morin published a defence of\nAristotle\n(1624)\nand he also worked on optics. However astrology remained his main interest although he worked with\nGassendi\non observational astronomy.\nMorin was appointed professor of mathematics at the Collège Royal in\n1630\nand he was to hold this post until his death. From about the time of his appointment he attacked\nGalileo\nand his views. He was to continue his attacks against\nGalileo\nafter the trial of\n1633\n. Morin remained firmly convinced that the Earth was fixed in space.\nMorin is best remembered for his attempts to solve the longitude problem. His solution, proposed in\n1634\n, was based on measuring absolute time by the position of the Moon relative to the stars. He was certainly not the first to propose the method but he did add one important new piece of understanding, namely he took lunar\nparallax\ninto account.\nSince Morin put forward his method for a longitude prize, a committee was set up by Cardinal Richelieu to evaluate it.\nÉtienne Pascal\n,\nMydorge\n,\nBeaugrand\n,\nHérigone\n, J C Boulenger and L de la Porte served on the committee and they were in dispute with Morin for the five years after he made his proposal.\nMorin realised that instruments had to be improved, improved methods of solving spherical triangles had to be found and better lunar tables were needed. He made some advances in these areas but his method, although theoretically sound, could not achieve either the computational or observational accuracy to succeed. Morin refused to listen to objections to his proposal.\nEven while the dispute was going on, in\n1638\n, Morin attacked\nDescartes\nsaying that he had realised as soon as they met how bad his philosophy was. These disputes alienated Morin from the scientific community. He was to spend the latter part of his life isolated from other scientists although Cardinal Richelieu's successor Cardinal Mazarin did award him a pension for his work on the longitude in\n1645\n.",
+  "matematicos_citados_na_biografia": [
+    "Aristotle",
+    "Gassendi",
+    "Galileo",
+    "parallax",
+    "Étienne Pascal",
+    "Mydorge",
+    "Beaugrand",
+    "Hérigone",
+    "Descartes"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

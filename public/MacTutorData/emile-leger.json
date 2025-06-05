@@ -1,0 +1,18 @@
+{
+  "nome_completo": "Émile Léger",
+  "nome_curto": "Émile Léger",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Leger/",
+  "data_nascimento": "15 August 1795",
+  "local_nascimento": "Lagrange-aux-Bois, France",
+  "data_morte": "15 December 1838",
+  "local_morte": "Paris, France",
+  "summary": "Émile Léger was a French mathematician who was the first to notice that the Euclidean algorithm converges most slowly for consecutive Fibonacci numbers.",
+  "biografia": "Émile Léger\n's father was Claude Léger who was a professor of\nrhetoric\nat the Lycée de Mayence\n(\nthe city of Mainz, now in Germany, which was occupied by the French at that time\n)\n. Émile Léger was admitted to the École Polytechnique in\n1813\n.\nHe was still a student at the École Polytechnique in March\n1815\nwhen Napoleon Bonaparte escaped for his Hundred Days. The students were told to defend Paris and Léger was decorated for his bravery defending the capital.\nIn\n1816\nhe left the École Polytechnique and joined his family in Montmorency where he father had set up his own educational establishment. He taught at his father's school taking charge after his father retired. The school was very successful in training students for the entrance examinations for university, in particular training students to enter the École Polytechnique.\nLéger only published four mathematical papers but one contains possibly the first mention of what today is a well known fact about the\nEuclidean algorithm\n, see\n[\n1\n]\n:-\nÉmile Léger appears to have been the first\n(\nor second, if the work of\nde Lagny\n... is counted\n)\nto recognise that the worst case of the Euclidean algorithm occurs when the inputs are consecutive\nFibonacci numbers\n.",
+  "matematicos_citados_na_biografia": [
+    "rhetoric",
+    "Euclidean algorithm",
+    "de Lagny",
+    "Fibonacci numbers"
+  ],
+  "imagens": []
+}

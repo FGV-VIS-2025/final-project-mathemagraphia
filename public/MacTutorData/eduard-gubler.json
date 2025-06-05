@@ -1,0 +1,28 @@
+{
+  "nome_completo": "Salomon Eduard Gubler",
+  "nome_curto": "Eduard Gubler",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Gubler/",
+  "data_nascimento": "7 July 1845",
+  "local_nascimento": "Wila, Zürich canton, Switzerland",
+  "data_morte": "6 November 1921",
+  "local_morte": "Zürich, Switzerland",
+  "summary": "Eduard Gubler was a Swiss school teacher. His research interest was in the theory of Bessel functions.",
+  "biografia": "Eduard Gubler\ncame from the village Wila in the Zürich canton. According to the matriculation register at the University of Bern for the academic year\n1870\n-\n1871\n[\n6\n]\n, Gubler graduated from the Polytechnic in\n1870\n. He was a student at the University of Bern, but there are no records of when he left. However, he is listed as one of Schläfli's students\n[\n4\n]\n, and as a letter from\nSchläfli\nto\nGysel\n[\n5\n]\nindicates, they visited each other occasionally. According to Graf, Gubler was one of\nSchläfli\n's former students who attended his funeral, along with\nGeiser\n,\nBützberger\nand\nGysel\n[\n4\n]\n.\nGubler 'spent his entire career in secondary education'\n[\n3\n]\n; he taught mathematics and geometry at both the women's teachers' college and the girls'\nGymnasium\nin Zürich. In\n1894\nhis doctoral thesis\nVerwandlung einer hypergeometrischen Reihe in Anschluss an das Integral\n∫\n0\n∞\nJ\n(\nx\n)\na\ne\n−\nb\nx\nx\nc\n−\n1\nd\nx\n\\int _{0}^{∞} J_{(x)}^{a}e^{-bx} x^{c-1}  dx\n∫\n0\n∞\n​\nJ\n(\nx\n)\na\n​\ne\n−\nb\nx\nx\nc\n−\n1\nd\nx\nⓉ\n(\nTransformation of a hypergeometric series in connection to the integral ...\n)\nwas published. His supervisor was\nGraf\n, which suggests that Gubler received his doctorate from the University of Bern. However, there are no records of when he actually wrote and submitted the thesis.   In\n1896\nGubler\nhabilitated\nas\nPrivatdozent\nat the University of Zürich with the paper\nÜber ein discontinuirliches Integral\nⓉ\n(\nOn a discontinuous integral\n)\n. At the university, Gubler mainly lectured on algebraic analysis, number theory, higher algebra, planar and spherical trigonometry, integral calculus, and methodology of mathematics teaching at secondary schools.\nGubler's research interest was in the theory of\nBessel functions\n, following the school of thought established by\nSchläfli\n's student\nGraf\n. Together with\nGraf\n, Gubler published\nEinleitung in die Theorie der Bessel'schen Funktionen\nⓉ\n(\nIntroduction to the theory of Bessel functions\n)\n(1898\n-\n1900)\n. Most of his publications are schoolbooks though, such as\nMündliches Rechnen.\n25\nÜbungsgruppen. Zum Gebrauch an Mittelschulen\nⓉ\n(\nMental arithmetic.\n25\nexercises. For use at middle schools\n)\n, and\nGrundlehren der Geometrie für Sekundarschulen\nⓉ\n(\nBasic principles in geometry for secondary schools\n)\n(1907)\n. He also published a book on\nLeonardo da Vinci\n's mathematical works\n(1897)\n.\nFurthermore, he wrote reports on mathematics teaching in Swiss schools for various journals. The most important of these was\nDer mathematische Unterricht an den höhern Mädchenschulen der Schweiz\nⓉ\n(\nMathematics teaching at higher girls' schools in Switzerland\n)\n(1912)\n.   Gubler co-founded the Swiss Society of Mathematics Teachers in\n1901\n. In addition he was on the Swiss Committee for Mathematics Teaching.\nGubler joined the enlarged organising committee of the first International Congress of Mathematicians in December\n1896\n. A couple of months later he joined the welcoming committee, together with\nHirsch\nand\nBurkhardt\n, in order to provide additional support.   Gubler attended both the\n1904\nICM in Heidelberg and the\n1908\nICM in Rome, but did not give any talks.\nHe retired from his teaching posts in\n1914\n.",
+  "matematicos_citados_na_biografia": [
+    "Schläfli",
+    "Gysel",
+    "Geiser",
+    "Bützberger",
+    "Gymnasium",
+    "Graf",
+    "habilitated",
+    "Privatdozent",
+    "Bessel functions",
+    "Leonardo da Vinci",
+    "Hirsch",
+    "Burkhardt"
+  ],
+  "imagens": [
+    "gubler.jpg"
+  ]
+}
