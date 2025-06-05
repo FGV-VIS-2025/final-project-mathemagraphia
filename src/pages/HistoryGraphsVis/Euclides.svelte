@@ -265,7 +265,7 @@
       .attr("stroke", "#999")
       .attr("color", "#999")      // cor inicial do marcador
       .attr("stroke-width", 1.2)
-      .attr("opacity", 0.7)
+      .attr("opacity", 0.2)
       .attr("marker-end", "url(#arrow)");
 
     // 7) Desenha os nós (círculos), tamanho e preenchimento de acordo com grau e out-degree
@@ -277,8 +277,8 @@
       .append("circle")
       .attr("cx", d => d.x)
       .attr("cy", d => d.y)
-      .attr("r", d => radiusScale(d.deg))        // raio proporcional ao grau (arestas incidentes)
-      .attr("fill", d => colorScale(d.out))      // cor proporcional ao out-degree
+      .attr("r", d => radiusScale(d.deg))
+      .attr("fill", d => colorScale(d.out))
       .style("cursor", "pointer")
       .on("click", (_, d) => {
         selectedTitle = d.title;
@@ -296,8 +296,24 @@
             return "#ccc";
           })
           .attr("opacity", link =>
-            link.source === d.id || link.target === d.id ? 1 : 0.1
+            link.source === d.id || link.target === d.id ? 1 : 0.05
           );
+      })
+      .on("mouseover", (_, d) => {
+        if (selectedId) return; // se já clicou em algo, não faz hover
+        g.selectAll("path.link")
+          .attr("opacity", link =>
+            link.source === d.id || link.target === d.id ? 0.8 : 0
+          )
+          .attr("stroke-width", link =>
+            link.source === d.id || link.target === d.id ? 2 : 1.2
+          );
+      })
+      .on("mouseout", () => {
+        if (selectedId) return; // mantém o que foi clicado
+        g.selectAll("path.link")
+          .attr("opacity", 0.05)
+          .attr("stroke-width", 1.2);
       });
 
     // 8) Rótulos (id) ao lado de cada nó
@@ -320,7 +336,7 @@
         g.selectAll("path.link")
           .attr("stroke", "#999")
           .attr("color", "#999")
-          .attr("opacity", 0.7);
+          .attr("opacity", 0.05);
         selectedTitle = "";
         selectedId = "";
       }
