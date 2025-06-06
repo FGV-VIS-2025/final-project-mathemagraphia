@@ -74,8 +74,9 @@
     `;
     tooltipEl.style.opacity = "1";
     tooltipEl.style.pointerEvents = "auto";
-    tooltipEl.style.left = event.pageX + 10 + "px";
-    tooltipEl.style.top = event.pageY + 10 + "px";
+    // Usa event.clientX/Y e position: fixed no CSS
+    tooltipEl.style.left = event.clientX + 10 + "px";
+    tooltipEl.style.top = event.clientY + 10 + "px";
   }
 
   function hideTooltip() {
@@ -86,10 +87,8 @@
 
   // Atualiza quais pontos estão visíveis com base em thresholdYear e rotação atual
   function drawFrame() {
-    // 1) Ajusta projeção com ângulo acumulado + deslocamento manual
     projection.rotate([ -rotationAngle + manualOffset, -20, 0 ]);
 
-    // 2) Calcula quais pontos caem no hemisfério frontal e antes de thresholdYear
     const rot = projection.rotate();
     const centerLon = -rot[0];
     const centerLat = -rot[1];
@@ -99,12 +98,10 @@
       return distance <= Math.PI / 2;
     });
 
-    // 3) Desenha o contorno da Terra atualizado
     const svg = d3.select(svgEl);
     svg.selectAll("path.land")
       .attr("d", pathGenerator(landFeatures));
 
-    // 4) Data‐join para os pontos
     const pts = svg
       .select("g.points-group")
       .selectAll("circle.point")
@@ -272,7 +269,7 @@
     svg
       .append("circle")
       .attr("cx", width / 2)
-      .attr("cy", width / 2)
+      .attr("cy", height / 2)
       .attr("r", width / 2 - 5)
       .attr("fill", "#e0eaff");
 
@@ -334,7 +331,7 @@
   }
 
   #tooltip {
-    position: absolute;
+    position: fixed;          /* mudou de absolute para fixed */
     pointer-events: auto;
     background: white;
     padding: 4px 8px;
@@ -345,6 +342,7 @@
     transition: opacity 0.2s;
     z-index: 10;
     font-family: sans-serif;
+    /* removido qualquer offset estático: deixamos ele “flutuando” */
   }
 
   .controls {
