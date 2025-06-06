@@ -4,7 +4,8 @@
 
   const cards = [
     { img: "icons/DataMapGPT.png", title: "DataMap", page: "datamap" },
-    { img: "icons/GrafGPT.png", title: "GrafMaths", page: "grafmaths" }
+    { img: "icons/GrafGPT.png", title: "GrafMaths", page: "grafmaths" },
+    { img: "icons/GrafGPT.png", title: "HistExplore", page: "histexplore"}
   ];
 
   function goTo(page) {
