@@ -12,7 +12,6 @@
   let tooltipEl;
 
   const MAP_URL = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
-  // Agora usa mac_tutor_com_coords.json
   const DATA_URL = `${import.meta.env.BASE_URL}data/mac_tutor_com_coords.json`;
 
   let projection;
@@ -20,17 +19,20 @@
   let allPoints = [];
   let landFeatures;
 
-  // Animação (se você quiser reativar mais tarde)
-  const msPerRotation = 10000; // 10 segundos por volta
-  let timer;
+  // Velocidade de rotação: uma volta completa (360°) em 7.5 segundos
+  const msPerRotation = 7500;
+  const ANGULAR_SPEED = 360 / msPerRotation; // graus por ms
 
-  // Controle de tempo/pausa
-  let startTime = 0;
-  let accumulated = 0;
+  // Controla o ângulo atual de rotação (em graus)
+  let rotationAngle = 0;
+
+  // Estados do timer
+  let timer;
+  let lastTime = 0;
   let isPaused = false;
 
-  // Controle manual de rotação
-  let manualRotation = 0;
+  // Deslocamento manual de rotação (quando o usuário clica nos botões)
+  let manualOffset = 0;
 
   // Filtragem por ano
   let minYear = 0;
@@ -38,12 +40,33 @@
   let thresholdYear = 0;
   let displayedPoints = [];
 
+  // Extrai o ano, incluindo datas BC como número negativo
+  function extrairAno(dataStr) {
+    if (!dataStr || typeof dataStr !== "string") return null;
+
+    const bcMatch = dataStr.match(/(\d+)\s*BC/i);
+    if (bcMatch) {
+      return -parseInt(bcMatch[1], 10);
+    }
+
+    const fullDate = new Date(dataStr);
+    if (!isNaN(fullDate.getTime())) {
+      return fullDate.getFullYear();
+    }
+
+    const fallbackMatch = dataStr.match(/(\d{3,4})/);
+    if (fallbackMatch) {
+      return parseInt(fallbackMatch[1], 10);
+    }
+
+    return null;
+  }
+
   function formatYear(y) {
-    return y < 0 ? `${-y} BC` : `${y}`;
+    return y < 0 ? `${-y} a.C.` : `${y}`;
   }
 
   function showTooltip(event, d) {
-    const bounds = svgEl.getBoundingClientRect();
     tooltipEl.innerHTML = `
       <strong>${d.nome_completo}</strong><br/>
       <em>${formatYear(d.birthYear)}</em><br/>
@@ -51,8 +74,8 @@
     `;
     tooltipEl.style.opacity = "1";
     tooltipEl.style.pointerEvents = "auto";
-    tooltipEl.style.left = event.clientX - bounds.left + 10 + "px";
-    tooltipEl.style.top = event.clientY - bounds.top - 28 + "px";
+    tooltipEl.style.left = event.pageX + 10 + "px";
+    tooltipEl.style.top = event.pageY + 10 + "px";
   }
 
   function hideTooltip() {
@@ -61,37 +84,35 @@
     tooltipEl.innerHTML = "";
   }
 
-  function updateDisplayed(elapsed) {
-    const totalElapsed = accumulated + elapsed;
-    const yearsFromStart = Math.floor(totalElapsed / 1000) * 20;
-    thresholdYear = minYear + yearsFromStart;
-    if (thresholdYear > currentYear) thresholdYear = currentYear;
+  // Atualiza quais pontos estão visíveis com base em thresholdYear e rotação atual
+  function drawFrame() {
+    // 1) Ajusta projeção com ângulo acumulado + deslocamento manual
+    projection.rotate([ -rotationAngle + manualOffset, -20, 0 ]);
 
-    const angleBase = ((totalElapsed % msPerRotation) / msPerRotation) * 360;
-    const totalAngle = angleBase + manualRotation;
-    projection.rotate([-totalAngle, -20, 0]);
-
+    // 2) Calcula quais pontos caem no hemisfério frontal e antes de thresholdYear
     const rot = projection.rotate();
     const centerLon = -rot[0];
     const centerLat = -rot[1];
-
     displayedPoints = allPoints.filter(d => {
       if (d.birthYear > thresholdYear) return false;
       const distance = d3.geoDistance(d.coords, [centerLon, centerLat]);
       return distance <= Math.PI / 2;
     });
-  }
 
-  function drawFrame(elapsed) {
-    updateDisplayed(elapsed);
+    // 3) Desenha o contorno da Terra atualizado
     const svg = d3.select(svgEl);
     svg.selectAll("path.land")
       .attr("d", pathGenerator(landFeatures));
 
-    const pts = svg.selectAll("circle.point").data(displayedPoints, d => d.link);
+    // 4) Data‐join para os pontos
+    const pts = svg
+      .select("g.points-group")
+      .selectAll("circle.point")
+      .data(displayedPoints, d => d.link);
+
     pts.join(
-      enter =>
-        enter.append("circle")
+      enter => enter
+        .append("circle")
           .attr("class", "point")
           .attr("r", 2)
           .attr("fill", "crimson")
@@ -102,28 +123,70 @@
           .on("click", (e, d) => window.open(d.link, "_blank"))
           .attr("cx", d => projection(d.coords)[0])
           .attr("cy", d => projection(d.coords)[1]),
-      update =>
-        update
+      update => update
           .attr("cx", d => projection(d.coords)[0])
           .attr("cy", d => projection(d.coords)[1]),
       exit => exit.remove()
     );
   }
 
+  /**
+   * tick:
+   *  - 'now' é o timestamp (em ms) fornecido por d3.timer
+   *  - calcula dt = now - lastTime para saber quantos ms se passaram
+   *  - atualiza rotationAngle a uma taxa constante (ANGULAR_SPEED)
+   *  - decide a taxa de avanço de thresholdYear conforme o período histórico:
+   *      → < –800: 500 anos/s
+   *      → –800 ≤ tYear < 1400: 100 anos/s
+   *      → 1400 ≤ tYear < 1800: 50 anos/s
+   *      → ≥ 1800: 10 anos/s
+   */
+  function tick(now) {
+    if (isPaused) return;
+
+    const dt = now - lastTime;
+    lastTime = now;
+
+    // 1) rotação suave constante
+    rotationAngle = (rotationAngle + dt * ANGULAR_SPEED) % 360;
+
+    // 2) escolhe taxa de avanço de thresholdYear em anos/segundo
+    let yrsPerSecond;
+    if (thresholdYear < -800) {
+      yrsPerSecond = 500;
+    } else if (thresholdYear < 1400) {
+      yrsPerSecond = 100;
+    } else if (thresholdYear < 1800) {
+      yrsPerSecond = 50;
+    } else {
+      yrsPerSecond = 10;
+    }
+
+    // 3) atualiza thresholdYear com base no dt
+    thresholdYear += (dt / 1000) * yrsPerSecond;
+    if (thresholdYear > currentYear) {
+      thresholdYear = currentYear;
+    }
+
+    // 4) redesenha o frame
+    drawFrame();
+
+    // 5) se já chegou ao ano atual, interrompe o timer
+    if (thresholdYear >= currentYear) {
+      if (timer) timer.stop();
+      isPaused = true;
+    }
+  }
+
   function startAnimation() {
+    if (timer) timer.stop();
     isPaused = false;
-    startTime = d3.now();
-    timer = d3.timer(elapsed => {
-      drawFrame(elapsed);
-      if (thresholdYear >= currentYear) {
-        stopAnimation();
-      }
-    });
+    lastTime = d3.now();
+    timer = d3.timer(tick);
   }
 
   function stopAnimation() {
     if (timer) timer.stop();
-    accumulated += d3.now() - startTime;
     isPaused = true;
   }
 
@@ -136,17 +199,14 @@
   }
 
   function rotateManual(delta) {
-    manualRotation = (manualRotation + delta) % 360;
-    if (manualRotation < 0) manualRotation += 360;
-    if (isPaused) {
-      drawFrame(0);
-    }
+    manualOffset = (manualOffset + delta) % 360;
+    drawFrame();
   }
 
   function resetAnimation() {
     if (timer) timer.stop();
-    accumulated = 0;
-    manualRotation = 0;
+    rotationAngle = 0;
+    manualOffset = 0;
     thresholdYear = minYear;
     displayedPoints = [];
     isPaused = false;
@@ -154,12 +214,14 @@
   }
 
   onMount(async () => {
+    // Inicializa a projeção ortográfica e o path generator
     projection = d3.geoOrthographic()
       .scale(width / 2 - 10)
       .translate([width / 2, height / 2])
       .clipAngle(90);
     pathGenerator = d3.geoPath(projection);
 
+    // Carrega os contornos dos países
     try {
       const world = await d3.json(MAP_URL);
       landFeatures = topojson.feature(world, world.objects.countries);
@@ -167,27 +229,23 @@
       landFeatures = { type: "FeatureCollection", features: [] };
     }
 
+    // Carrega os dados dos matemáticos
     try {
       const raw = await d3.json(DATA_URL);
 
       allPoints = raw
         .map(d => {
-          if (!d.data_nascimento) return null;
-          const parsedDate = new Date(d.data_nascimento);
-          if (isNaN(parsedDate.getTime())) return null;
+          const year = extrairAno(d.data_nascimento);
+          if (year === null) return null;
 
-          const year = parsedDate.getFullYear();
-          if (
-            typeof d.lat_nasc !== "number" ||
-            typeof d.lon_nasc !== "number"
-          ) {
-            return null;
-          }
+          const lat = parseFloat(d.lat_nasc);
+          const lon = parseFloat(d.lon_nasc);
+          if (isNaN(lat) || isNaN(lon)) return null;
 
           return {
             nome_completo: d.nome_completo,
             link: d.link,
-            coords: [d.lon_nasc, d.lat_nasc],
+            coords: [lon, lat],
             birthYear: year
           };
         })
@@ -195,22 +253,26 @@
 
       if (allPoints.length) {
         minYear = Math.min(...allPoints.map(d => d.birthYear));
-        if (minYear > 0) minYear = 0;
+      } else {
+        minYear = 0;
       }
 
-      // Já queremos exibir todos os pontos de uma vez
-      thresholdYear = currentYear;
-      displayedPoints = allPoints.slice();
+      // Começa exibindo só quem nasceu até minYear (geralmente antigíssimos, com year negativo)
+      thresholdYear = minYear;
+      displayedPoints = [];
     } catch {
       allPoints = [];
       minYear = 0;
+      thresholdYear = 0;
+      displayedPoints = [];
     }
 
+    // Desenha o círculo do globo, o path dos países e o grupo de pontos
     const svg = d3.select(svgEl);
     svg
       .append("circle")
       .attr("cx", width / 2)
-      .attr("cy", height / 2)
+      .attr("cy", width / 2)
       .attr("r", width / 2 - 5)
       .attr("fill", "#e0eaff");
 
@@ -224,11 +286,8 @@
 
     svg.append("g").attr("class", "points-group");
 
-    // ----> chamada direta para desenhar todos os pontos de uma vez
-    drawFrame(0);
-
-    // Se quiser animar novamente, basta descomentar:
-    // startAnimation();
+    // Inicia a animação (rotação + avanço de eras)
+    startAnimation();
   });
 
   onDestroy(() => {
@@ -250,6 +309,7 @@
     justify-content: center;
     background: #fafbff;
     padding: 1rem;
+    position: relative;
   }
 
   .right-pane {
@@ -358,14 +418,14 @@
       <svg bind:this={svgEl} width={width} height={height}></svg>
       <div bind:this={tooltipEl} id="tooltip"></div>
       <div class="label">
-        Mostrando até <strong>{formatYear(thresholdYear)}</strong>
+        Mostrando até <strong>{formatYear(Math.floor(thresholdYear))}</strong>
       </div>
       <div class="controls">
         <button on:click={togglePause}>
           {isPaused ? "Retomar" : "Pausar"}
         </button>
-        <button on:click={() => rotateManual(-10)}>◀ Girar 10°</button>
-        <button on:click={() => rotateManual(10)}>Girar 10° ▶</button>
+        <button on:click={() => rotateManual(-15)}>◀ Girar 15°</button>
+        <button on:click={() => rotateManual(15)}>Girar 15° ▶</button>
         <button on:click={resetAnimation}>Reiniciar</button>
       </div>
     </div>
