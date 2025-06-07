@@ -2,7 +2,7 @@ import json
 import google.generativeai as genai
 from dotenv import load_dotenv
 import os
-
+import time
 with open(os.path.join("scripts", "application.json"), encoding="utf-8") as f:
     tools = json.load(f)
 
@@ -12,41 +12,35 @@ genai.configure(api_key=api_key)
 
 model = genai.GenerativeModel(
     #usei o 1.5 flash, no futuro da pra ver outros modelos comof fica
-    model_name="gemini-1.5-flash",
+    model_name="gemini-1.5-pro",
     tools=tools
 )
 
 def classify_area_and_subareas(bio_text, nome):
-    prompt = f"""
-Você é um dos especialistas mais respeitados do mundo em história da matemática, Professor PhD na melhor universidade da Europa.
+    prompt = f"""..."""  # seu prompt
 
-Com base na biografia a seguir, classifique a área principal da matemática, suas subáreas e sub-áreas específicas associadas ao trabalho do matemático.
-
-Você é uma referência no assunto. Não alucine e não invente informações falsas. Se o texto não fornecer nenhuma informação, retorne -1.
-
-Retorne exclusivamente chamando a função `classificar_area_hierarquica`.
-
-Biografia de {nome}:
-\"\"\"
-{bio_text}
-\"\"\"
-"""
-    response = model.generate_content(prompt)
-    call = response.candidates[0].content.parts[0].function_call
-
-    subareas = [
-        {
-            "subarea": str(sub["subarea"]),
-            "subareas_especificas": list(sub["subareas_especificas"])
-        }
-        for sub in call.args["subareas"]
-    ]
-
-    return {
-        "nome": nome,
-        "area_principal": str(call.args["area_principal"]),
-        "subareas": subareas
-    }
+    while True:
+        try:
+            response = model.generate_content(prompt)
+            call = response.candidates[0].content.parts[0].function_call
+            subareas = [
+                {
+                    "subarea": str(sub["subarea"]),
+                    "subareas_especificas": list(sub["subareas_especificas"])
+                }
+                for sub in call.args["subareas"]
+            ]
+            return {
+                "nome": nome,
+                "area_principal": str(call.args["area_principal"]),
+                "subareas": subareas
+            }
+        except Exception as e:
+            if "429" in str(e):
+                print(f"[429] Quota excedida para {nome}. Aguardando 30 segundos...")
+                time.sleep(30)
+            else:
+                raise e
 
 def main():
     with open(os.path.join("public", "data", "bios.json"), encoding="utf-8") as f:
