@@ -7,32 +7,44 @@
   import VizContainer from '../components/VizContainer.svelte';
   import FixedBar from '../components/FixedBar.svelte';
 
+  // container do mapa
   let mapContainer;
+
+  // dados do mapa
   let allPoints = [];
   let filteredPoints = [];
   let landFeatures = { type: 'FeatureCollection', features: [] };
 
+  // busca/autocomplete
   let searchTerm = '';
   let suggestions = [];
   let showSuggestions = false;
   let detailData = null;
 
+  // zoom/pan
   let svg, projection, path, zoomGroup;
   let currentTransform = d3.zoomIdentity;
   let scaleFactor = 1;
 
+  // modal expandido
   let expanded = null;
-  const expand   = id => expanded = id;
+  const expand = id => expanded = id;
   const closeModal = () => expanded = null;
 
-  // parseia strings como "about 1680 BC", "835", "912", etc.
+  // parseYear: extrai ano de data_nascimento em vários formatos
   function parseYear(str) {
     if (!str) return null;
     const s = str.trim();
-    const isBC = /BC$/i.test(s);
-    const num = parseInt(s.replace(/[^0-9]/g, ''), 10);
-    if (isNaN(num)) return null;
-    return isBC ? -num : num;
+    // X BC ou about X BC
+    const bc = s.match(/(\d+)\s*BC$/i);
+    if (bc) return -parseInt(bc[1], 10);
+    // ano de 4 dígitos
+    const fy = s.match(/(\d{4})/);
+    if (fy) return parseInt(fy[1], 10);
+    // qualquer número
+    const any = s.match(/(\d+)/);
+    if (any) return parseInt(any[1], 10);
+    return null;
   }
 
   function slugify(name) {
@@ -42,6 +54,7 @@
       .replace(/[^\w-]/g, '');
   }
 
+  // carrega TopoJSON e coords
   async function loadData() {
     const MAP_URL    = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
     const COORDS_URL = 'public/data/mac_tutor_com_coords.json';
@@ -77,8 +90,7 @@
       })
       .filter(d => d !== null);
 
-    // sem filtro inicial
-    filteredPoints = [];
+    filteredPoints = []; // sem filtro inicial
   }
 
   function initMap() {
@@ -91,7 +103,7 @@
 
     projection = d3.geoNaturalEarth1()
       .scale(width / 6.5)
-      .translate([width/2, height/2]);
+      .translate([width / 2, height / 2]);
 
     path = d3.geoPath(projection);
 
@@ -114,9 +126,10 @@
     zoomGroup = svg.append('g')
       .attr('transform', currentTransform);
 
+    // fundo para limpar seleção
     svg.append('rect')
-      .attr('width','100%').attr('height','100%')
-      .attr('fill','#eef').lower()
+      .attr('width', '100%').attr('height', '100%')
+      .attr('fill', '#eef').lower()
       .on('click', () => detailData = null);
 
     // países
@@ -128,7 +141,7 @@
       .attr('fill', '#ddd')
       .attr('stroke', '#999');
 
-    // marcadores (filtro ou tudo)
+    // marcadores (filtrados ou todos)
     zoomGroup.append('g')
       .selectAll('circle')
       .data(filteredPoints.length ? filteredPoints : allPoints)
@@ -163,12 +176,15 @@
         p.nome_curto.toLowerCase().includes(term) ||
         p.nome_completo.toLowerCase().includes(term)
       )
-      .slice(0,8);
+      .slice(0, 8);
   }
 
-  // recebe [start, end] e filtra por birthYear
+  // filtra pelos anos de nascimento
   function filterByEra([start, end]) {
-    filteredPoints = allPoints.filter(p => p.birthYear >= start && p.birthYear < end);
+    filteredPoints = allPoints.filter(p =>
+      p.birthYear >= start &&
+      p.birthYear < end
+    );
     drawMap();
   }
 
@@ -186,7 +202,7 @@
 
 <div class="dashboard-layout">
   <aside class="sidebar">
-    <!-- Timeline emite selectEra com [start,end] -->
+    <!-- timeline dispara selectEra com [start, end] -->
     <Timeline on:selectEra={({ detail }) => filterByEra(detail)} />
   </aside>
 
@@ -194,11 +210,40 @@
     <section class="map-section">
       <div class="map-and-search">
         <div class="map-wrapper" bind:this={mapContainer}></div>
-        <!-- ... resto permanece igual ... -->
+        <div class="search-box">
+          <input
+            type="text"
+            placeholder="Buscar matemático…"
+            bind:value={searchTerm}
+            on:input={() => { onSearch(); showSuggestions = true; }}
+            on:blur={() => setTimeout(() => showSuggestions = false, 100)}
+          />
+
+          {#if showSuggestions && suggestions.length}
+            <ul class="suggestions-list">
+              {#each suggestions as s}
+                <li on:click={() => choosePoint(s)}>
+                  {s.nome_curto}
+                </li>
+              {/each}
+            </ul>
+          {/if}
+
+          {#if detailData}
+            <div class="detail-panel">
+              <h2>{detailData.nome_completo}</h2>
+              <p><strong>Nasceu:</strong> {detailData.data_nascimento}</p>
+              <p><strong>Local:</strong>  {detailData.local_nascimento}</p>
+              <p><strong>Morreu:</strong> {detailData.data_morte}</p>
+              <p><strong>Local:</strong>  {detailData.local_morte}</p>
+              <p>{detailData.summary}</p>
+              <p><a href={detailData.link} target="_blank">Biografia completa</a></p>
+            </div>
+          {/if}
+        </div>
       </div>
     </section>
 
-    <!-- visualizações abaixo -->
     <section class="viz-section">
       {#each [1,2] as id}
         <div class="viz-wrapper">
