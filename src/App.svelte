@@ -1,48 +1,29 @@
 <script>
-  import Navbar from './Navbar.svelte';
-  import Home from './pages/Home.svelte';
-  import People from './pages/People.svelte';
-  import History from './pages/History.svelte';
-  import Charts from './pages/Charts.svelte';
-  import Curves from './pages/Curves.svelte';
-  import DataMap from './pages/DataGraphsVis/DataMap.svelte';
-  import GrafMaths from './pages/DataGraphsVis/GrafMaths.svelte';
-  import Euclides from './pages/HistoryGraphsVis/Euclides.svelte';
+  import { onMount } from 'svelte';
+  import Home from './routes/Home.svelte';
+  import Dashboard from './routes/Dashboard.svelte';
+
   let currentPage = 'home';
 
-function goTo(page) {
-  console.log("Navegando para:", page);
-  currentPage = page;
-}
+  // Atualiza a página com base no hash
+  function updatePageFromHash() {
+    const hash = window.location.hash.slice(1); // remove #
+    currentPage = hash || 'home';
+  }
 
+  // Atualiza quando o hash mudar (ex: #dashboard)
+  window.addEventListener('hashchange', updatePageFromHash);
+  onMount(updatePageFromHash);
+
+  function goTo(page) {
+    window.location.hash = page; // altera URL e aciona hashchange
+  }
 </script>
 
-<Navbar on:navigate={(e) => goTo(e.detail)} />
-
-<div class="content">
-  {#if currentPage === 'home'}
-    <Home on:navigate={(e) => goTo(e.detail)} />
-  {:else if currentPage === 'people'}
-    <People />
-  {:else if currentPage === 'history'}
-    <History on:navigate={(e) => goTo(e.detail)} />
-  {:else if currentPage === 'charts'}
-    <Charts on:navigate={(e) => goTo(e.detail)} />
-  {:else if currentPage === 'datamap'}
-    <DataMap />
-  {:else if currentPage === 'curves'}
-    <Curves />
-  {:else if currentPage === 'grafmaths'}
-    <GrafMaths />
-  {:else if currentPage === 'euclides'}
-    <Euclides />
-  {/if}
-</div>
-
-
-<style>
-  .content {
-    margin-top: 60px; /* igual à altura da navbar */
-    padding: 2rem;
-  }
-</style>
+{#if currentPage === 'home'}
+  <Home on:navigate={(e) => goTo(e.detail)} />
+{:else if currentPage === 'dashboard'}
+  <Dashboard />
+{:else}
+  <h2>Página não encontrada</h2>
+{/if}
