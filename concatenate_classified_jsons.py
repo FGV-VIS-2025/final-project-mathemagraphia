@@ -2,9 +2,13 @@ import os
 import json
 import pandas as pd
 import numpy as np
-folder_path = "classified_llm"
 
-registros = []
+
+folder_path = "classified_llm"
+output_path = "public/data/mathematicians_classified.csv"
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+records = []
 
 if os.path.exists(folder_path):
     for filename in os.listdir(folder_path):
@@ -12,44 +16,43 @@ if os.path.exists(folder_path):
             filepath = os.path.join(folder_path, filename)
             try:
                 with open(filepath, encoding="utf-8") as f:
-                    conteudo = json.load(f)
-                    nome = conteudo.get("nome", filename.replace(".json", ""))
-                    area_principal = conteudo.get("area_principal", "")
-                    subareas = conteudo.get("subareas", [])
+                    data = json.load(f)
+                    name = data.get("nome", filename.replace(".json", ""))
+                    main_area = data.get("area_principal", "")
+                    subareas = data.get("subareas", [])
                     if subareas:
                         for sub in subareas:
                             subarea = sub.get("subarea", "")
-                            especificas = ", ".join(sub.get("subareas_especificas", []))
-                            registros.append({
-                                "nome": nome,
-                                "area_principal": area_principal,
-                                "subarea": subarea,
-                                "subareas_especificas": especificas
-                            })
+                            specifics = sub.get("subareas_especificas", [])
+                            for specific in specifics:
+                                records.append({
+                                    "nome": name,
+                                    "area_principal": main_area,
+                                    "subarea": subarea,
+                                    "subareas_especificas": specific.strip()
+                                })
                     else:
-                        registros.append({
-                            "nome": nome,
-                            "area_principal": area_principal,
+                        records.append({
+                            "nome": name,
+                            "area_principal": main_area,
                             "subarea": "",
                             "subareas_especificas": ""
                         })
             except Exception as e:
-                registros.append({
+                records.append({
                     "nome": filename.replace(".json", ""),
                     "area_principal": np.nan,
                     "subarea": "",
                     "subareas_especificas": str(e)
                 })
 
-    df_final = pd.DataFrame(registros)
-    full_csv_path = "public/data/mathematicians_classified.csv"
-    df_exploded = df_final.assign(
-    specific_subareas=df_final["specific_subareas"].str.split(", ")
-    ).explode("specific_subareas").reset_index(drop=True)
+    
+    df_final = pd.DataFrame(records)
 
-    df_exploded.to_csv(full_csv_path, index=False)
-    result_path = full_csv_path
+    
+    df_final.to_csv(output_path, index=False)
+    result_path = output_path
 else:
     result_path = "Erro: Pasta 'classified_llm' não encontrada no ambiente."
 
-result_path
+print(result_path)
