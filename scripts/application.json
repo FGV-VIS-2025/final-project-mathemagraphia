@@ -1,0 +1,37 @@
+[
+    {
+      "function_declarations": [
+        {
+          "name": "classificar_area_hierarquica",
+          "description": "Classifica a área principal da matemática, subáreas e sub-áreas específicas baseando-se em uma biografia.",
+          "parameters": {
+            "type": "object",
+            "properties": {
+              "area_principal": {
+                "type": "string",
+                "description": "Área principal da matemática."
+              },
+              "subareas": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "subarea": {
+                      "type": "string"
+                    },
+                    "subareas_especificas": {
+                      "type": "array",
+                      "items": { "type": "string" }
+                    }
+                  },
+                  "required": ["subarea", "subareas_especificas"]
+                }
+              }
+            },
+            "required": ["area_principal", "subareas"]
+          }
+        }
+      ]
+    }
+  ]
+  
