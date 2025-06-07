@@ -4,16 +4,16 @@ from dotenv import load_dotenv
 import os
 from time import sleep
 
-
+# Carrega variáveis de ambiente
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=api_key)
 
-
+# Carrega tools
 with open(os.path.join("scripts", "application.json"), encoding="utf-8") as f:
     tools = json.load(f)
 
-
+# Instancia modelo Gemini
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
     tools=tools,
@@ -22,7 +22,7 @@ model = genai.GenerativeModel(
     }
 )
 
-
+# Classificador de área
 def classify_area_and_subareas(bio_text, nome, citados):
     prompt = f"""
 Você é um dos especialistas mais respeitados do mundo em história da matemática, Professor PhD na melhor universidade da Europa.
@@ -31,7 +31,7 @@ Com base na biografia a seguir, classifique a **área principal da matemática**
 
 Leve em consideração também os matemáticos citados na biografia, pois eles podem indicar o campo de estudo.
 
- Importante: **"Matemática" NÃO é uma área válida**. Seja específico. Exemplos válidos incluem: "Álgebra", "Análise", "Geometria", "Teoria dos Números", "Topologia","Probabilidade e Estatística", etc.
+Importante: **"Matemática" NÃO é uma área válida**. Seja específico. Exemplos válidos incluem: "Álgebra", "Análise", "Geometria", "Teoria dos Números", "Topologia", "Probabilidade e Estatística", etc.
 
 Exemplo esperado:
 Área principal: Álgebra  
@@ -41,13 +41,11 @@ Subáreas:
 - subarea: Teoria de Grupos  
   subareas_especificas: [Grupos Finitos, Representações de Grupos]
 
-Você é uma referência no assunto. Não alucine e não invente informações falsas. Se o texto não fornecer nenhuma informação, retorne -1.
-
-O texto está na língua inglesa, todavia, retorne a sua classificação em **português** somente.
+Se não houver informação suficiente, retorne a área_principal como -1.
 
 Nome do matemático: {nome}
 
-Matemáticos citados: {', '.join(citados) if citados else 'nenhum'}
+Palavras Chave (Podem ser úteis para você): {', '.join(citados) if citados else 'nenhum'}
 
 Biografia:
 \"\"\"
@@ -72,24 +70,28 @@ Biografia:
                     "erro": "function_call sem argumentos retornados"
                 }
 
-            subareas_raw = call.args.get("subareas")
-            if not isinstance(subareas_raw, list):
-                return {
-                    "nome": nome,
-                    "erro": "subareas não retornadas corretamente"
-                }
+            args = dict(call.args)  # ✅ Converte MapComposite em dict
+            subareas_raw = list(args.get("subareas", []))  # ✅ Converte RepeatedComposite em list
 
-            subareas = [
-                {
-                    "subarea": str(sub["subarea"]),
-                    "subareas_especificas": list(sub["subareas_especificas"])
-                }
-                for sub in subareas_raw
-            ]
+            subareas = []
+            for idx, sub in enumerate(subareas_raw):
+                try:
+                    sub_dict = dict(sub)  # ✅ Converte cada MapComposite individual em dict
+                    subarea_nome = str(sub_dict.get("subarea", ""))
+                    subespec = list(sub_dict.get("subareas_especificas", []))
+                    subareas.append({
+                        "subarea": subarea_nome,
+                        "subareas_especificas": subespec
+                    })
+                except Exception as e:
+                    subareas.append({
+                        "subarea": f"[ERRO no item {idx}]: {e}",
+                        "subareas_especificas": []
+                    })
 
             return {
                 "nome": nome,
-                "area_principal": str(call.args["area_principal"]),
+                "area_principal": str(args.get("area_principal", "")),
                 "subareas": subareas
             }
 
@@ -103,6 +105,8 @@ Biografia:
                     "nome": nome,
                     "erro": str(e)
                 }
+
+# Função principal
 def main():
     pasta_entrada = os.path.join("public", "MacTutorData")
     pasta_saida = os.path.join("classified_llm")
@@ -121,11 +125,14 @@ def main():
 
                 resultado = classify_area_and_subareas(texto_biografia, nome, citados)
 
+                # ✅ Converte o resultado para tipos nativos serializáveis
+                resultado_serializavel = json.loads(json.dumps(resultado, default=str))
+
                 caminho_saida = os.path.join(pasta_saida, filename)
                 with open(caminho_saida, "w", encoding="utf-8") as f_out:
-                    json.dump(resultado, f_out, indent=2, ensure_ascii=False)
+                    json.dump(resultado_serializavel, f_out, indent=2, ensure_ascii=False)
 
-                print(f"Classificado: {filename}")
+                print(f"✅ Classificado: {filename}")
 
             except Exception as e:
                 print(f"[ERRO] Falha ao processar {filename}: {e}")
