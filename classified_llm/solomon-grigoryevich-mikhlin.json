@@ -1,0 +1,27 @@
+{
+  "nome": "Solomon Grigoryevich Mikhlin",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares",
+        "Equações Integrais de Fredholm"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Teoria dos Operadores"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno Elípticos",
+        "Problema Misto para a Equação de Onda"
+      ]
+    }
+  ]
+}

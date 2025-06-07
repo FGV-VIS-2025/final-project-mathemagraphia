@@ -1,0 +1,21 @@
+{
+  "nome": "Philip Kumar Maini",
+  "area_principal": "Biologia Matemática",
+  "subareas": [
+    {
+      "subarea": "Modelagem Matemática em Biologia",
+      "subareas_especificas": [
+        "Formação de Padrões Biológicos",
+        "Cura de Feridas",
+        "Crescimento de Tumores Vasculares"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Análise de Bifurcação Não-Linear"
+      ]
+    }
+  ]
+}

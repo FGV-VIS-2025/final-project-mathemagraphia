@@ -1,0 +1,21 @@
+{
+  "nome": "George Lusztig",
+  "area_principal": "Teoria da Representação",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Chevalley",
+        "Grupos p-ádicos",
+        "Grupos Quânticos",
+        "Álgebras de Hecke"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Cohomologia de Interseção"
+      ]
+    }
+  ]
+}

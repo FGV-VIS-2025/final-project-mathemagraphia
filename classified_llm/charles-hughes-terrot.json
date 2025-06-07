@@ -1,0 +1,19 @@
+{
+  "nome": "Charles Hughes Terrot",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Condicional",
+        "Inferência Probabilística"
+      ]
+    },
+    {
+      "subarea": "Números Complexos",
+      "subareas_especificas": [
+        "Teoria dos Quatérnios"
+      ]
+    }
+  ]
+}

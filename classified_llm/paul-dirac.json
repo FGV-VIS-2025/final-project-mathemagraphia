@@ -1,0 +1,20 @@
+{
+  "nome": "Paul Adrien Maurice Dirac",
+  "area_principal": "Mecânica Quântica",
+  "subareas": [
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Equação de Dirac",
+        "Quantização Canônica",
+        "Teoria Quântica Relativística"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Mecânica Estatística Quântica"
+      ]
+    }
+  ]
+}

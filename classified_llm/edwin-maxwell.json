@@ -1,0 +1,14 @@
+{
+  "nome": "Edwin Arthur Maxwell",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Superfícies algébricas",
+        "Invariantes de superfícies",
+        "Teorema de Riemann-Roch"
+      ]
+    }
+  ]
+}

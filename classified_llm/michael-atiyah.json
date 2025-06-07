@@ -1,0 +1,20 @@
+{
+  "nome": "Michael Francis Atiyah",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria K",
+      "subareas_especificas": [
+        "Teoria de Feixes",
+        "Topologia Algébrica"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria de Riemann",
+        "Teoria de Gauge"
+      ]
+    }
+  ]
+}

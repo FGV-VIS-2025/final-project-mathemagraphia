@@ -1,0 +1,20 @@
+{
+  "nome": "Hendrik Anthony Kramers",
+  "area_principal": "Física Teórica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Espectroscopia",
+        "Teoria da Dispersão",
+        "Efeito Stark"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Renormalização de Massa"
+      ]
+    }
+  ]
+}

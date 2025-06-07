@@ -1,0 +1,14 @@
+{
+  "nome": "Michael Faraday",
+  "area_principal": "Eletromagnetismo",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo Clássico",
+      "subareas_especificas": [
+        "Indução Eletromagnética",
+        "Eletroquímica",
+        "Diamagnetismo"
+      ]
+    }
+  ]
+}

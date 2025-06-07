@@ -1,0 +1,21 @@
+{
+  "nome": "Vitaly Vitalievich Fedorchuk",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Teoria da Dimensão",
+        "Espaços Funcionais",
+        "Teoria dos Retratos"
+      ]
+    },
+    {
+      "subarea": "Topologia de Espaços Métricos",
+      "subareas_especificas": [
+        "Espaços Polares",
+        "Hiperespaços"
+      ]
+    }
+  ]
+}

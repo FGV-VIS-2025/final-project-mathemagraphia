@@ -1,0 +1,20 @@
+{
+  "nome": "Boris Avraamovich Trakhtenbrot",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Decidibilidade",
+        "Funções Recursivas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos Finitos",
+        "Axiomatização"
+      ]
+    }
+  ]
+}

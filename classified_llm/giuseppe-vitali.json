@@ -1,0 +1,20 @@
+{
+  "nome": "Giuseppe Vitali",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida e Integração",
+      "subareas_especificas": [
+        "Integral de Lebesgue",
+        "Conjuntos não-mensuráveis",
+        "Funções absolutamente contínuas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Timothy John Pedley",
+  "area_principal": "Mecânica de Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica de Fluidos",
+      "subareas_especificas": [
+        "Fluidos Rotativos",
+        "Instabilidade de Fluxo",
+        "Jatos e Penachos Turbulentos",
+        "Bolhas e Vórtices"
+      ]
+    },
+    {
+      "subarea": "Biomecânica",
+      "subareas_especificas": [
+        "Dinâmica de Fluidos Biológicos",
+        "Transporte de Sal e Água",
+        "Movimento de Microrganismos",
+        "Fluxo em Tubos Colápsíveis",
+        "Aerodinâmica de Insetos",
+        "Alimentação por Filtro Aquático",
+        "Bioconvecção"
+      ]
+    }
+  ]
+}

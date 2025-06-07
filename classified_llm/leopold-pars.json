@@ -1,0 +1,13 @@
+{
+  "nome": "Leopold Alexander Pars",
+  "area_principal": "Mecânica Clássica",
+  "subareas": [
+    {
+      "subarea": "Dinâmica Analítica",
+      "subareas_especificas": [
+        "Equações de Lagrange",
+        "Cálculo Variacional"
+      ]
+    }
+  ]
+}

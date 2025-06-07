@@ -1,0 +1,21 @@
+{
+  "nome": "Gerard John Murphy",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Banach",
+      "subareas_especificas": [
+        "Álgebras de Banach não-arquimedianas",
+        "C*-álgebras"
+      ]
+    },
+    {
+      "subarea": "Teoria de Operadores",
+      "subareas_especificas": [
+        "Operadores de Fredholm",
+        "Operadores de Riesz",
+        "Operadores de Toeplitz"
+      ]
+    }
+  ]
+}

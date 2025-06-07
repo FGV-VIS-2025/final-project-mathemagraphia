@@ -1,0 +1,20 @@
+{
+  "nome": "Gaspard Clair François Marie  Riche de Prony",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Analítica",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Cálculo Diferencial e Integral"
+      ]
+    },
+    {
+      "subarea": "Mecânica Aplicada",
+      "subareas_especificas": [
+        "Hidráulica",
+        "Engenharia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Leonard Roth",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica Clássica",
+      "subareas_especificas": [
+        "Curvas Algébricas",
+        "Superfícies Algébricas",
+        "Variedades Algébricas"
+      ]
+    },
+    {
+      "subarea": "Teoria Birracional",
+      "subareas_especificas": [
+        "Transformações Birracionais",
+        "Grupos de Birracionalidades"
+      ]
+    }
+  ]
+}

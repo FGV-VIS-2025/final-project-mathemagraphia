@@ -1,0 +1,25 @@
+{
+  "nome": "Daniel Friedrich Ernst Meissel",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": [
+        "Contagem de Primos",
+        "Funções de Bessel"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Teoria de Partições"
+      ]
+    },
+    {
+      "subarea": "Análise Assintótica",
+      "subareas_especificas": [
+        "Expansões Assintóticas"
+      ]
+    }
+  ]
+}

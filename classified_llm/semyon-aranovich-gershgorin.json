@@ -1,0 +1,20 @@
+{
+  "nome": "Semyon Aranovich Gershgorin",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "autovalores",
+        "autovetores"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Métodos Numéricos"
+      ]
+    }
+  ]
+}

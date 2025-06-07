@@ -1,0 +1,22 @@
+{
+  "nome": "Charles Lutwidge Dodgson",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Axiomas de Euclides",
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Álgebra Booleana",
+        "Diagramas de Venn",
+        "Teoria da Prova"
+      ]
+    }
+  ]
+}

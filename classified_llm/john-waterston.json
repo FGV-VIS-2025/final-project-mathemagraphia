@@ -1,0 +1,18 @@
+{
+  "nome": "John James Waterston",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teorema da Equipartição da Energia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "David Enskog",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria Cinética dos Gases",
+      "subareas_especificas": [
+        "Equação de Boltzmann",
+        "Equação de Maxwell-Boltzmann"
+      ]
+    }
+  ]
+}

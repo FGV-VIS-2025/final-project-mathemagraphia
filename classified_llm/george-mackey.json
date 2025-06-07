@@ -1,0 +1,26 @@
+{
+  "nome": "George Whitelaw Mackey",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria de Representações de Grupos",
+      "subareas_especificas": [
+        "Representações Unitárias",
+        "Grupos Localmente Compactos"
+      ]
+    },
+    {
+      "subarea": "Álgebra de Operadores",
+      "subareas_especificas": [
+        "Álgebras de von Neumann",
+        "Teoria de Medidas"
+      ]
+    },
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Fundamentos Matemáticos da Mecânica Quântica"
+      ]
+    }
+  ]
+}

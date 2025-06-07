@@ -1,0 +1,14 @@
+{
+  "nome": "John Mackintosh Howie",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Amalgamação",
+        "Semigrupos Regulares",
+        "Semigrupos de Transformações"
+      ]
+    }
+  ]
+}

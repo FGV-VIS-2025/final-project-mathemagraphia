@@ -1,0 +1,28 @@
+{
+  "nome": "Carl Wilhelm Borchardt",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Determinantes",
+      "subareas_especificas": [
+        "Equações Algébricas",
+        "Funções Simétricas",
+        "Teoria da Eliminação",
+        "Interpolação"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Teoria de Jacobi",
+        "Contribuições de Abel"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Não-Lineares"
+      ]
+    }
+  ]
+}

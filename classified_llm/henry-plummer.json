@@ -1,0 +1,26 @@
+{
+  "nome": "Henry Crozier Keating Plummer",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Órbitas Binárias",
+        "Equação de Kepler"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Análise de Dados",
+        "Correlação"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Projetiva"
+      ]
+    }
+  ]
+}

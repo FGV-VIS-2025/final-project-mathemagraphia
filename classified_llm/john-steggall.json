@@ -1,0 +1,16 @@
+{
+  "nome": "John Edward Aloysius Steggall",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria do Triângulo"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": []
+    }
+  ]
+}

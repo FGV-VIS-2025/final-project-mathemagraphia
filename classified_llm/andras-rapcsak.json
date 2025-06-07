@@ -1,0 +1,15 @@
+{
+  "nome": "András Rapcsák",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Finsler",
+      "subareas_especificas": [
+        "Geometria de Riemann",
+        "Espaços de Finsler",
+        "Curvatura Projetiva",
+        "Coordenadas Normais"
+      ]
+    }
+  ]
+}

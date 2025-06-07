@@ -1,0 +1,18 @@
+{
+  "nome": "Cargill Gilston Knott",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Termodinâmica Estatística"
+      ]
+    }
+  ]
+}

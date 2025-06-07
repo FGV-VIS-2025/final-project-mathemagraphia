@@ -1,0 +1,29 @@
+{
+  "nome": "Ernst Ferdinand Adolf Minding",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial de Superfícies",
+      "subareas_especificas": [
+        "Curvatura Geodésica",
+        "Teorema de Minding",
+        "Superfícies de Curvatura Constante"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Fator Integrante"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Frações Contínuas",
+        "Reciprocidade Quadrática",
+        "Equações Diofantinas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Chrysippus of Soli",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Lógica Proposicional",
+      "subareas_especificas": [
+        "Disjunção",
+        "Paradoxo do Mentiroso"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Número Um"
+      ]
+    }
+  ]
+}

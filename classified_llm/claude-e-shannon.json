@@ -1,0 +1,24 @@
+{
+  "nome": "Claude Elwood Shannon",
+  "area_principal": "Teoria da Informação",
+  "subareas": [
+    {
+      "subarea": "Álgebra Booleana",
+      "subareas_especificas": [
+        "Circuitos de comutação"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Processos estocásticos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Coloração de grafos"
+      ]
+    }
+  ]
+}

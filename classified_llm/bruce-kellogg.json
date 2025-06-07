@@ -1,0 +1,22 @@
+{
+  "nome": "R Bruce Kellogg",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Métodos de Elementos Finitos",
+      "subareas_especificas": [
+        "Problemas de Perturbação Singular",
+        "Singularidades de Canto",
+        "Camadas Limite"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos de Direção Alternada",
+        "Equações de Diferenças",
+        "Análise de Matrizes"
+      ]
+    }
+  ]
+}

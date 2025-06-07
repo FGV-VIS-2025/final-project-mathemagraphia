@@ -1,0 +1,20 @@
+{
+  "nome": "Mary Emma Byrd",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia Observacional",
+      "subareas_especificas": [
+        "Observação de Cometas",
+        "Medidas de Longitude"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Geometria",
+        "Álgebra"
+      ]
+    }
+  ]
+}

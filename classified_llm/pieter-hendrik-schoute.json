@@ -1,0 +1,20 @@
+{
+  "nome": "Pieter Hendrik Schoute",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria de Dimensões Superiores",
+        "Politopos Regulares"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Quádricas",
+        "Curvas Algébricas"
+      ]
+    }
+  ]
+}

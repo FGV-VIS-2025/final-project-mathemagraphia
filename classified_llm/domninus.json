@@ -1,0 +1,14 @@
+{
+  "nome": "Domninus of Larissa",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Números",
+        "Proporções",
+        "Médias"
+      ]
+    }
+  ]
+}

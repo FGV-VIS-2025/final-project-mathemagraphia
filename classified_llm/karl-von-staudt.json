@@ -1,0 +1,20 @@
+{
+  "nome": "Karl Georg Christian von Staudt",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Sintética",
+      "subareas_especificas": [
+        "Fundamentos da Geometria Projetiva",
+        "Involução",
+        "Teorema Fundamental da Geometria Projetiva"
+      ]
+    },
+    {
+      "subarea": "Números de Bernoulli",
+      "subareas_especificas": [
+        "Teorema de von Staudt-Clausen"
+      ]
+    }
+  ]
+}

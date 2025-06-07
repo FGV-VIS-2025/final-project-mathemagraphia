@@ -1,0 +1,13 @@
+{
+  "nome": "Spiru Haret",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Problema dos n-Corpos",
+      "subareas_especificas": [
+        "Estabilidade do Sistema Solar",
+        "Perturbações Gravitacionais"
+      ]
+    }
+  ]
+}

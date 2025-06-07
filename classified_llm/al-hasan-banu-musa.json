@@ -1,0 +1,19 @@
+{
+  "nome": "al-Hasan Banu Musa",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas",
+        "Elipses"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Áreas",
+      "subareas_especificas": [
+        "Métodos de Integração"
+      ]
+    }
+  ]
+}

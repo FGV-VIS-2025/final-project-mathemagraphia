@@ -1,0 +1,20 @@
+{
+  "nome": "Helmut Grunsky",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Univalentes",
+      "subareas_especificas": [
+        "Mapeamentos Conformes",
+        "Integração de Contorno"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções em Domínios Multiplamente Conexos",
+      "subareas_especificas": [
+        "Coeficientes de Funções",
+        "Aplicações da Integração de Contorno"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Leopold Klug",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva Plana",
+      "subareas_especificas": [
+        "Projetividade",
+        "Involução",
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva Espacial",
+      "subareas_especificas": [
+        "Curvas Espaciais de Terceira Ordem",
+        "Hiperbolóide"
+      ]
+    }
+  ]
+}

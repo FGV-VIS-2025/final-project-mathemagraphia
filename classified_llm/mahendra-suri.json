@@ -1,0 +1,12 @@
+{
+  "nome": "Mahendra Suri",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrometria",
+      "subareas_especificas": [
+        "Astrolabe"
+      ]
+    }
+  ]
+}

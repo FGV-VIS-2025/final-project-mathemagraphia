@@ -1,0 +1,13 @@
+{
+  "nome": "Frank Nelson Cole",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Teoria dos Grupos"
+      ]
+    }
+  ]
+}

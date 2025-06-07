@@ -1,0 +1,34 @@
+{
+  "nome": "Lai-Sang Young",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Sistemas Hiperbólicos Uniformes",
+        "Sistemas Hiperbólicos Não Uniformes"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medidas Invariantes",
+        "Decaimento Exponencial de Correlações"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Variedades",
+        "Atratores Estranhos"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Mapas Quadráticos"
+      ]
+    }
+  ]
+}

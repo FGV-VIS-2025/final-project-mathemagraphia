@@ -1,0 +1,19 @@
+{
+  "nome": "Farkas Wolfgang Bolyai",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Axiomas de Euclides",
+        "Postulado das Paralelas"
+      ]
+    },
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica"
+      ]
+    }
+  ]
+}

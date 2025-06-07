@@ -1,0 +1,32 @@
+{
+  "nome": "Wolfgang Krull",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Anéis Comutativos",
+        "Anéis Noetherianos",
+        "Teoria de Valoração",
+        "Anéis Locais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Abelianos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Extensões de Corpos",
+        "Extensões Infinitas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": []
+    }
+  ]
+}

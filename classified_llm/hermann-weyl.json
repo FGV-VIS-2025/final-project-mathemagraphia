@@ -1,0 +1,26 @@
+{
+  "nome": "Hermann Klaus Hugo Weyl",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades Diferenciáveis",
+        "Teoria de Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Analítica dos Números"
+      ]
+    }
+  ]
+}

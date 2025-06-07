@@ -1,0 +1,27 @@
+{
+  "nome": "Yakov Matveevich Eliashberg",
+  "area_principal": "Topologia Simplética",
+  "subareas": [
+    {
+      "subarea": "Geometria de Contato",
+      "subareas_especificas": [
+        "Variedades de Contato",
+        "Subvariedades Legendrianas"
+      ]
+    },
+    {
+      "subarea": "Geometria Simplética",
+      "subareas_especificas": [
+        "Curvas Pseudo-holomórficas",
+        "Teoria de Gromov-Witten"
+      ]
+    },
+    {
+      "subarea": "Teoria de h-Princípio",
+      "subareas_especificas": [
+        "Princípio de Flexibilidade",
+        "Relações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

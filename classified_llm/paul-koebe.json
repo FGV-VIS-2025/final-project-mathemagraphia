@@ -1,0 +1,19 @@
+{
+  "nome": "Paul Koebe",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Teoria da Uniformização",
+        "Funções Univalentes"
+      ]
+    },
+    {
+      "subarea": "Mapeamento Conforme",
+      "subareas_especificas": [
+        "Princípio de Dirichlet"
+      ]
+    }
+  ]
+}

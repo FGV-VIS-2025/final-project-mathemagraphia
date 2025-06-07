@@ -1,0 +1,14 @@
+{
+  "nome": "William John Youden",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Experimentação",
+      "subareas_especificas": [
+        "Delineamento de Experimentos",
+        "Quadrados de Youden",
+        "Blocos Incompletos Balanceados"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Gustav de Vries",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Korteweg-de Vries"
+      ]
+    }
+  ]
+}

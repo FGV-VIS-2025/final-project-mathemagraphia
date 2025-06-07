@@ -1,0 +1,20 @@
+{
+  "nome": "Samarendra Nath Roy",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise Multivariada",
+      "subareas_especificas": [
+        "Análise de Variância Multivariada",
+        "Distribuições de Estatísticas de Teste"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses Compostas",
+        "Regiões Críticas"
+      ]
+    }
+  ]
+}

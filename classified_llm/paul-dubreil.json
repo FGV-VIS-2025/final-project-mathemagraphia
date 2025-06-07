@@ -1,0 +1,25 @@
+{
+  "nome": "Paul Dubreil",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Ideais",
+      "subareas_especificas": [
+        "Ideais de Polinômios"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Semigrupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Anéis",
+        "Corpos"
+      ]
+    }
+  ]
+}

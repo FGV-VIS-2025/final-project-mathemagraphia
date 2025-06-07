@@ -1,0 +1,18 @@
+{
+  "nome": "David Rittenhouse",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Frações Contínuas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Czesław Olech",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Teoria Qualitativa de Equações Diferenciais",
+      "subareas_especificas": [
+        "Estabilidade",
+        "Métodos Topológicos"
+      ]
+    },
+    {
+      "subarea": "Teoria do Controle",
+      "subareas_especificas": [
+        "Controle Ótimo",
+        "Sistemas Autônomos"
+      ]
+    }
+  ]
+}

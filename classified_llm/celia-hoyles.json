@@ -1,0 +1,22 @@
+{
+  "nome": "Celia Mary Hoyles",
+  "area_principal": "Matemática Educacional",
+  "subareas": [
+    {
+      "subarea": "Aprendizagem e Ensino de Matemática",
+      "subareas_especificas": [
+        "Percepções dos alunos sobre a matemática",
+        "Estratégias de ensino",
+        "Tecnologia na educação matemática"
+      ]
+    },
+    {
+      "subarea": "Pesquisa em Educação Matemática",
+      "subareas_especificas": [
+        "Análise qualitativa de dados",
+        "Desenvolvimento de currículos",
+        "Formação de professores"
+      ]
+    }
+  ]
+}

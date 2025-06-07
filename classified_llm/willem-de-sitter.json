@@ -1,0 +1,31 @@
+{
+  "nome": "Willem de Sitter",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Perturbações dos Movimentos dos Corpos do Sistema Solar",
+        "Teoria da Relatividade"
+      ]
+    },
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Observações fotométricas e heliométricas",
+        "Eclipses dos satélites de Júpiter"
+      ]
+    },
+    {
+      "subarea": "Astronomia de Posição ou Astrometria",
+      "subareas_especificas": [
+        "Constantes fundamentais da astronomia",
+        "Precessão",
+        "Nutação",
+        "Paralaxe solar",
+        "Paralaxe lunar",
+        "Massa da Lua"
+      ]
+    }
+  ]
+}

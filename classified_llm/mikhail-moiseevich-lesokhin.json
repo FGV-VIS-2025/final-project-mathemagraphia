@@ -1,0 +1,13 @@
+{
+  "nome": "Mikhail Moiseevich Lesokhin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Teoria de Caracteres de Semigrupos",
+        "Aproximações de Semigrupos"
+      ]
+    }
+  ]
+}

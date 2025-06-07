@@ -1,0 +1,19 @@
+{
+  "nome": "Ala al-Din Ali ibn Muhammed Ali Qushji",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Tabelas Trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Astronomia Esférica",
+      "subareas_especificas": [
+        "Coordenadas Celestes",
+        "Movimentos Planetários"
+      ]
+    }
+  ]
+}

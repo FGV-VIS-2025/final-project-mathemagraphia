@@ -1,0 +1,13 @@
+{
+  "nome": "Charles Jasper Joly",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Quaternions",
+      "subareas_especificas": [
+        "Álgebra de Quaternions",
+        "Aplicações de Quaternions em Geometria Projetiva"
+      ]
+    }
+  ]
+}

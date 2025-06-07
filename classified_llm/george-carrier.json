@@ -1,0 +1,20 @@
+{
+  "nome": "George Francis Carrier",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Dinâmica dos Fluidos Compressíveis",
+        "Aerodinâmica Supersonica"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Elasticidade Anisotropica",
+        "Mecânica dos Sólidos"
+      ]
+    }
+  ]
+}

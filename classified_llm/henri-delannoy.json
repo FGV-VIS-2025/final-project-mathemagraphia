@@ -1,0 +1,20 @@
+{
+  "nome": "Henri Auguste Delannoy",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria das Probabilidades",
+      "subareas_especificas": [
+        "Caminhos aleatórios",
+        "Processos estocásticos"
+      ]
+    },
+    {
+      "subarea": "Análise Combinatória",
+      "subareas_especificas": [
+        "Números de Delannoy",
+        "Números de Ballot"
+      ]
+    }
+  ]
+}

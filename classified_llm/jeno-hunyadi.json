@@ -1,0 +1,12 @@
+{
+  "nome": "Jenő Hunyadi",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Determinantes"
+      ]
+    }
+  ]
+}

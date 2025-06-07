@@ -1,0 +1,20 @@
+{
+  "nome": "Dončo Dimovski",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos (n,m)",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos Aditivos"
+      ]
+    }
+  ]
+}

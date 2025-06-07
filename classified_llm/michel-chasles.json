@@ -1,0 +1,20 @@
+{
+  "nome": "Michel Chasles",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Quádricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Sintética",
+      "subareas_especificas": [
+        "Razão Cruzada",
+        "Feixes e Involuções"
+      ]
+    }
+  ]
+}

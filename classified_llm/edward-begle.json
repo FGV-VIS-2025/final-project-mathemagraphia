@@ -1,0 +1,20 @@
+{
+  "nome": "Edward Griffith Begle",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Homologia",
+        "Grupos de Homotopia"
+      ]
+    },
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Espaços Conexos",
+        "Espaços Hausdorff"
+      ]
+    }
+  ]
+}

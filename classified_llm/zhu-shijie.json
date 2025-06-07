@@ -1,0 +1,22 @@
+{
+  "nome": "Zhu Shijie",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra polinomial",
+      "subareas_especificas": [
+        "Equações polinomiais",
+        "Método do arranjo de coeficientes",
+        "Método do desconhecido celestial"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Triângulo de Pascal",
+        "Séries numéricas",
+        "Equações diofantinas"
+      ]
+    }
+  ]
+}

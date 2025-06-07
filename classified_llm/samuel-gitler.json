@@ -1,0 +1,20 @@
+{
+  "nome": "Samuel Carlos Gitler Hammer",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria da Homotopia",
+      "subareas_especificas": [
+        "Espaços de Classificação",
+        "Teoria de Representação"
+      ]
+    },
+    {
+      "subarea": "Problemas de Imersão",
+      "subareas_especificas": [
+        "Espaços Projetivos",
+        "Variedades"
+      ]
+    }
+  ]
+}

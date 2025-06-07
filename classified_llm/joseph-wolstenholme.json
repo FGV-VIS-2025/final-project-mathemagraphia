@@ -1,0 +1,20 @@
+{
+  "nome": "Joseph Wolstenholme",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica Plana",
+      "subareas_especificas": [
+        "Cônicas",
+        "Curvas Planas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica Espacial",
+      "subareas_especificas": [
+        "Quádricas",
+        "Superfícies"
+      ]
+    }
+  ]
+}

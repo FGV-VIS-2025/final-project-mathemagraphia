@@ -1,0 +1,39 @@
+{
+  "nome": "Stein Arild Stromme",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria da Intersecção",
+      "subareas_especificas": [
+        "Métodos efetivos em teoria da intersecção e geometria enumerativa",
+        "Teoria da intersecção auxiliada por computador"
+      ]
+    },
+    {
+      "subarea": "Teoria Geométrica de Invariantes",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Espaços de Módulos",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Geometria Enumerativa",
+      "subareas_especificas": [
+        "Conexões com a teoria de cordas"
+      ]
+    },
+    {
+      "subarea": "Fibrados Vetoriais",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Combinatória Algébrica",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria da Representação",
+      "subareas_especificas": []
+    }
+  ]
+}

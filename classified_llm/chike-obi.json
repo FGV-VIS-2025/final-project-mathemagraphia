@@ -1,0 +1,20 @@
+{
+  "nome": "Chike Edozien Umezei Obi",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações Diferenciais Não-Lineares",
+        "Soluções Periódicas",
+        "Soluções Subharmônicas"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Análise Não-Linear"
+      ]
+    }
+  ]
+}

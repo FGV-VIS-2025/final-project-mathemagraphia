@@ -1,0 +1,19 @@
+{
+  "nome": "Caspar Wessel",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Números Complexos"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Triangulação",
+        "Mapeamento"
+      ]
+    }
+  ]
+}

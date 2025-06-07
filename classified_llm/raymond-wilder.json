@@ -1,0 +1,21 @@
+{
+  "nome": "Raymond Louis Wilder",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Conjuntos Pontuais",
+      "subareas_especificas": [
+        "Invariantes posicionais",
+        "Teorema da Curva de Jordan",
+        "Programa de Schönflies"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria de variedades",
+        "Homologia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Friedrich Wilhelm Karl Ernst Schröder",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Booleana",
+      "subareas_especificas": [
+        "Lógica proposicional",
+        "Cálculo de relações"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos ordenados",
+        "Números ordinais"
+      ]
+    }
+  ]
+}

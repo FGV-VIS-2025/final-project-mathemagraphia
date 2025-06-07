@@ -1,0 +1,30 @@
+{
+  "nome": "Adrien-Marie Legendre",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Reciprocidade Quadrática",
+        "Distribuição de Primos",
+        "Progressões Aritméticas"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Integrais Elípticas",
+        "Funções Beta e Gama"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Geometria Não-Euclidiana",
+        "Geometria Esférica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Agnes Sime Baxter",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Integrais",
+      "subareas_especificas": [
+        "Integrais Abelianas"
+      ]
+    }
+  ]
+}

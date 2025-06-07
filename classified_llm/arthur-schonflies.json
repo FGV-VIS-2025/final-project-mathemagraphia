@@ -1,0 +1,27 @@
+{
+  "nome": "Arthur Moritz Schönflies",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "-"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grupos",
+      "subareas_especificas": [
+        "Grupos Cristalográficos",
+        "Grupos de Simetria"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Números Transfinitos",
+        "Teoria dos Conjuntos de Pontos",
+        "Teorema de Heine-Borel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Georg Alexander Pick",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Discreta",
+      "subareas_especificas": [
+        "Geometria Reticular"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções de Variável Complexa",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Matrizes"
+      ]
+    }
+  ]
+}

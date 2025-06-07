@@ -1,0 +1,18 @@
+{
+  "nome": "Claude Louis Marie Henri Navier",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Navier-Stokes"
+      ]
+    },
+    {
+      "subarea": "Teoria da Elasticidade",
+      "subareas_especificas": [
+        "Elasticidade Linear"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "William Marvin Whyburn",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Problemas de Valor de Contorno",
+      "subareas_especificas": [
+        "Sistemas de Equações Diferenciais",
+        "Propriedades Funcionais das Soluções",
+        "Funções de Green e Matrizes de Green"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações Diferenciais Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria da Integração",
+      "subareas_especificas": [
+        "Integral de Lebesgue"
+      ]
+    }
+  ]
+}

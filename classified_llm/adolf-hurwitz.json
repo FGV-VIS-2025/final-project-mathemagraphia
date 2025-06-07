@@ -1,0 +1,25 @@
+{
+  "nome": "Adolf Hurwitz",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Funções Modulares Elípticas"
+      ]
+    },
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Quaternions"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Funções de Bessel"
+      ]
+    }
+  ]
+}

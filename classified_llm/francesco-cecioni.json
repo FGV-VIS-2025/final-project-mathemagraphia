@@ -1,0 +1,19 @@
+{
+  "nome": "Francesco Cecioni",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Teoria de Grupos"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Representação Conforme"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Daniel Bernoulli",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Aplicações da Probabilidade em Economia"
+      ]
+    },
+    {
+      "subarea": "Teoria Cinética dos Gases",
+      "subareas_especificas": [
+        "Equação de Estado dos Gases"
+      ]
+    }
+  ]
+}

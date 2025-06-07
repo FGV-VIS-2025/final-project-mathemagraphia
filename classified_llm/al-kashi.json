@@ -1,0 +1,26 @@
+{
+  "nome": "Ghiyath al-Din Jamshid Mas'ud al-Kashi",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Coordenadas Eclipticas",
+        "Coordenadas Equatoriais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Aproximação de π",
+        "Cálculo de raízes n-ésimas"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Equações Cúbicas"
+      ]
+    }
+  ]
+}

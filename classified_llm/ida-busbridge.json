@@ -1,0 +1,20 @@
+{
+  "nome": "Ida Winifred Busbridge",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Transformadas de Fourier",
+        "Transformadas de Mellin"
+      ]
+    },
+    {
+      "subarea": "Transferência Radiativa",
+      "subareas_especificas": [
+        "Equação de Transferência Radiativa",
+        "Espalhamento Coerente e Não-Coerente"
+      ]
+    }
+  ]
+}

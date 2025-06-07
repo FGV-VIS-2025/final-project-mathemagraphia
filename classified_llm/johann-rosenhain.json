@@ -1,0 +1,20 @@
+{
+  "nome": "Johann Georg Rosenhain",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Funções Theta",
+        "Integrais Abelianas",
+        "Integrais Ultraelípticas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Hiperelípticas"
+      ]
+    }
+  ]
+}

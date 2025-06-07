@@ -1,0 +1,33 @@
+{
+  "nome": "Emilio Baiada",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Problemas Regulares",
+        "Problemas Não Regulares",
+        "Problemas Isoperimétricos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida e Integração",
+      "subareas_especificas": [
+        "Medida de Carathéodory"
+      ]
+    },
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries de Fourier-Stieltjes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Béla Bollobás",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grafos",
+      "subareas_especificas": [
+        "Teoria Extrema de Grafos",
+        "Teoria de Grafos Aleatórios"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Álgebras de Banach"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Honoré Fabri",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais Definidas",
+        "Integrais Indefinidas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas",
+        "Áreas"
+      ]
+    }
+  ]
+}

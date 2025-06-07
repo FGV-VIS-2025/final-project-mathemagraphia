@@ -1,0 +1,20 @@
+{
+  "nome": "Laila Soueif",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Anéis",
+        "Teoria de Módulos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais",
+        "Transformações Lineares"
+      ]
+    }
+  ]
+}

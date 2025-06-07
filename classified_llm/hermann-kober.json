@@ -1,0 +1,27 @@
+{
+  "nome": "Hermann Kober",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Operadores Lineares",
+        "Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções de Variável Real",
+      "subareas_especificas": [
+        "Integrais Fracionárias",
+        "Transformadas de Hankel",
+        "Aproximação de Funções"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Pontos Focais Cinéticos Conjucados"
+      ]
+    }
+  ]
+}

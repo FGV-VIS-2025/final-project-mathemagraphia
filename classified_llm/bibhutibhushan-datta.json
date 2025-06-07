@@ -1,0 +1,28 @@
+{
+  "nome": "Bibhutibhushan Datta",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Indiana",
+      "subareas_especificas": [
+        "Aritmética",
+        "Álgebra",
+        "Geometria"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Hindu-arábicos",
+        "Valor de π"
+      ]
+    },
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Estabilidade de vórtices",
+        "Movimento de esferóides"
+      ]
+    }
+  ]
+}

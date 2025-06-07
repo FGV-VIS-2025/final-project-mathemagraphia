@@ -1,0 +1,19 @@
+{
+  "nome": "Ernst Heinrich Bruns",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Sistemas Dinâmicos"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Problema dos Três Corpos"
+      ]
+    }
+  ]
+}

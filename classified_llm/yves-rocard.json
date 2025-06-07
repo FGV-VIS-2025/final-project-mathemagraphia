@@ -1,0 +1,45 @@
+{
+  "nome": "Yves-André Rocard",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidrodinâmica",
+        "Teoria Cinética dos Gases"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Espalhamento de Luz"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases"
+      ]
+    },
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletricidade",
+        "Ondas Eletromagnéticas",
+        "Efeito Raman"
+      ]
+    },
+    {
+      "subarea": "Sismologia",
+      "subareas_especificas": [
+        "Propagação de Ondas Sísmicas"
+      ]
+    },
+    {
+      "subarea": "Radioastronomia",
+      "subareas_especificas": [
+        "Emissão de Rádio Solar"
+      ]
+    }
+  ]
+}

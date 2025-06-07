@@ -1,0 +1,27 @@
+{
+  "nome": "Joseph-Louis Lagrange",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Sistemas de Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Dinâmica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Teoria dos Grupos"
+      ]
+    }
+  ]
+}

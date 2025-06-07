@@ -1,0 +1,14 @@
+{
+  "nome": "Emanuel Lasker",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Ideais Primários",
+        "Decomposição Primária",
+        "Teoria de Módulos"
+      ]
+    }
+  ]
+}

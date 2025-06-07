@@ -1,0 +1,25 @@
+{
+  "nome": "Viggo Brun",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Crivo",
+      "subareas_especificas": [
+        "Crivo de Brun",
+        "Crivo de Eratóstenes"
+      ]
+    },
+    {
+      "subarea": "Conjectura de Goldbach",
+      "subareas_especificas": [
+        "Soma de dois primos"
+      ]
+    },
+    {
+      "subarea": "Conjectura dos Primos Gêmeos",
+      "subareas_especificas": [
+        "Primos gêmeos"
+      ]
+    }
+  ]
+}

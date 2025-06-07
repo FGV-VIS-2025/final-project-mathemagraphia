@@ -1,0 +1,26 @@
+{
+  "nome": "John Charles Burkill",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida e Integração",
+      "subareas_especificas": [
+        "Integral de Lebesgue",
+        "Integral de Burkill"
+      ]
+    },
+    {
+      "subarea": "Séries e Análise de Fourier",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Integrais de Fourier-Stieltjes"
+      ]
+    },
+    {
+      "subarea": "Diferenciação",
+      "subareas_especificas": [
+        "Diferenciação Aproximada"
+      ]
+    }
+  ]
+}

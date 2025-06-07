@@ -1,0 +1,40 @@
+{
+  "nome": "Giovanni Ricci",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Conjectura de Goldbach",
+      "subareas_especificas": [
+        "Números primos",
+        "Somatórios de primos"
+      ]
+    },
+    {
+      "subarea": "Sétimo Problema de Hilbert",
+      "subareas_especificas": [
+        "Números transcendentais",
+        "Números algébricos"
+      ]
+    },
+    {
+      "subarea": "Distribuição de Primos",
+      "subareas_especificas": [
+        "Teorema de Tchebychef-Nagel",
+        "Método de Brun"
+      ]
+    },
+    {
+      "subarea": "Problema de Waring",
+      "subareas_especificas": [
+        "Somatórios de potências"
+      ]
+    },
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Séries de potências",
+        "Funções racionais"
+      ]
+    }
+  ]
+}

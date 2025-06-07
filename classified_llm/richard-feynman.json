@@ -1,0 +1,20 @@
+{
+  "nome": "Richard  Phillips Feynman",
+  "area_principal": "Física Teórica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Eletrodinâmica Quântica",
+        "Teoria Quântica de Campos"
+      ]
+    },
+    {
+      "subarea": "Física de Partículas",
+      "subareas_especificas": [
+        "Teoria de Partons",
+        "Modelo Padrão"
+      ]
+    }
+  ]
+}

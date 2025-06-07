@@ -1,0 +1,21 @@
+{
+  "nome": "Arthur Jules Morin",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Dinâmica",
+        "Estática",
+        "Cinemática"
+      ]
+    },
+    {
+      "subarea": "Resistência dos Materiais",
+      "subareas_especificas": [
+        "Elasticidade",
+        "Plasticidade"
+      ]
+    }
+  ]
+}

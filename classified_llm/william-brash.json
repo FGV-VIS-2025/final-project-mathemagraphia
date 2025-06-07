@@ -1,0 +1,12 @@
+{
+  "nome": "William Brash",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Pura",
+      "subareas_especificas": [
+        "Geometria Euclidiana"
+      ]
+    }
+  ]
+}

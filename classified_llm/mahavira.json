@@ -1,0 +1,26 @@
+{
+  "nome": "Mahāvīra",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Frações Contínuas"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Equações Indeterminadas de Primeiro Grau"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Cálculo de Áreas",
+        "Cálculo de Volumes"
+      ]
+    }
+  ]
+}

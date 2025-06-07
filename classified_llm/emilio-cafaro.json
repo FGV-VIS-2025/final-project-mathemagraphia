@@ -1,0 +1,28 @@
+{
+  "nome": "Emilio Cafaro",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Estocásticas",
+      "subareas_especificas": [
+        "Modelagem Matemática de Sistemas Físicos"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Termodinâmica de Não-Equilíbrio",
+        "Análise e Otimização de Energia",
+        "Modelagem Matemática em Análise de Poluição Relacionada à Energia",
+        "Termodinâmica de Fluidos Numérica e Analítica"
+      ]
+    },
+    {
+      "subarea": "Dinâmica de Fluidos",
+      "subareas_especificas": [
+        "Dinâmica de Fluidos Ambiental",
+        "Modelagem Numérica de Fluidos Turbulentos"
+      ]
+    }
+  ]
+}

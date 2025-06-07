@@ -1,0 +1,13 @@
+{
+  "nome": "Marian Adam Rejewski",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Criptografia",
+      "subareas_especificas": [
+        "Teoria das Permutações",
+        "Probabilidade e Estatística"
+      ]
+    }
+  ]
+}

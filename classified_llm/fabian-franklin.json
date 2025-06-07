@@ -1,0 +1,20 @@
+{
+  "nome": "Fabian Franklin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos invariantes",
+      "subareas_especificas": [
+        "Formas binárias",
+        "Funções geradoras"
+      ]
+    },
+    {
+      "subarea": "Teoria dos números",
+      "subareas_especificas": [
+        "Partições de inteiros",
+        "Teorema do número pentagonal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "David Hilbert",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos invariantes",
+      "subareas_especificas": [
+        "Teoria de invariantes algébricos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Algébrica dos Números",
+        "Corpos de Classes"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Equações Integrais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Olive Clio Hazlett",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Anéis",
+        "Corpos",
+        "Álgebras"
+      ]
+    }
+  ]
+}

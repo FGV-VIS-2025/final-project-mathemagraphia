@@ -1,0 +1,20 @@
+{
+  "nome": "Michael Mästlin",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Cálculo de Órbitas",
+        "Observações Astronômicas"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Modelos Geocêntricos",
+        "Modelos Heliocêntricos"
+      ]
+    }
+  ]
+}

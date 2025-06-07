@@ -1,0 +1,20 @@
+{
+  "nome": "Nicola Fergola",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Sintética",
+      "subareas_especificas": [
+        "Métodos dos Antigos",
+        "Construções Geométricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Seções Cônicas",
+        "Métodos Analíticos"
+      ]
+    }
+  ]
+}

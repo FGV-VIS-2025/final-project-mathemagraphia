@@ -1,0 +1,20 @@
+{
+  "nome": "Arthur Hinton Read",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Derivadas de Funções Analíticas",
+        "Teorema de Taylor",
+        "Teoremas de Rouché e Hurwitz"
+      ]
+    },
+    {
+      "subarea": "Problemas Extremados",
+      "subareas_especificas": [
+        "Problemas Extremados Conjugados"
+      ]
+    }
+  ]
+}

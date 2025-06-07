@@ -1,0 +1,30 @@
+{
+  "nome": "Samuel Roberts",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Curvas Paralelas"
+      ]
+    },
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Superfícies Paralelas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equação de Pell"
+      ]
+    },
+    {
+      "subarea": "Cinemática",
+      "subareas_especificas": [
+        "Movimento de um Plano"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "David Breyer Singmaster",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teoria dos Jogos",
+        "Problemas de contagem"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria de dimensões superiores"
+      ]
+    }
+  ]
+}

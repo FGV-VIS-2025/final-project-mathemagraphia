@@ -1,0 +1,20 @@
+{
+  "nome": "Donald Moiseyevitch Solitar",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Livres",
+      "subareas_especificas": [
+        "Grupos com Relações",
+        "Apresentação de Grupos"
+      ]
+    },
+    {
+      "subarea": "Grupos Simétricos",
+      "subareas_especificas": [
+        "Normalizadores",
+        "Fatores de Composição"
+      ]
+    }
+  ]
+}

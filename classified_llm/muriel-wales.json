@@ -1,0 +1,13 @@
+{
+  "nome": "Muriel Kennett Wales",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Teoria de Corpos Numéricos",
+        "Teoria de Funções Algébricas"
+      ]
+    }
+  ]
+}

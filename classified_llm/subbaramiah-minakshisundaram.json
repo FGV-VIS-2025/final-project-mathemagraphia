@@ -1,0 +1,27 @@
+{
+  "nome": "Subbaramiah Minakshisundaram",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Dirichlet",
+        "Séries de Fourier",
+        "Teoria da Somabilidade"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Funções Zeta",
+        "Operador Laplaciano"
+      ]
+    }
+  ]
+}

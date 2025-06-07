@@ -1,0 +1,20 @@
+{
+  "nome": "Cheryl Elisabeth Praeger",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos de Permutação",
+        "Ações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria Combinatória",
+      "subareas_especificas": [
+        "Designs Combinatórios"
+      ]
+    }
+  ]
+}

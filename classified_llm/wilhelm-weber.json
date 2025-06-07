@@ -1,0 +1,21 @@
+{
+  "nome": "Wilhelm Eduard Weber",
+  "area_principal": "Eletromagnetismo",
+  "subareas": [
+    {
+      "subarea": "Magnetismo",
+      "subareas_especificas": [
+        "Magnetometria",
+        "Geomagnetismo"
+      ]
+    },
+    {
+      "subarea": "Eletrodinâmica",
+      "subareas_especificas": [
+        "Eletromagnetismo",
+        "Indução Eletromagnética",
+        "Unidades de Medida em Eletromagnetismo"
+      ]
+    }
+  ]
+}

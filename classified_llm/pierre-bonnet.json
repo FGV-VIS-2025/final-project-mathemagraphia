@@ -1,0 +1,21 @@
+{
+  "nome": "Pierre Ossian Bonnet",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Curvatura Geodésica",
+        "Teorema de Gauss-Bonnet",
+        "Superfícies Mínimas"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Projeções Cartográficas",
+        "Geometria Diferencial em Cartografia"
+      ]
+    }
+  ]
+}

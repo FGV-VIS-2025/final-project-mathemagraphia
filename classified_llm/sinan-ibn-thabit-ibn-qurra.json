@@ -1,0 +1,18 @@
+{
+  "nome": "Abu Said Sinan ibn Thabit ibn Qurra",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Geometria"
+      ]
+    },
+    {
+      "subarea": "Geometria de Arquimedes",
+      "subareas_especificas": [
+        "Sobre Triângulos"
+      ]
+    }
+  ]
+}

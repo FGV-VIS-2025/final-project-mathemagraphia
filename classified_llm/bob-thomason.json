@@ -1,0 +1,27 @@
+{
+  "nome": "Robert Wayne Thomason",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria K",
+      "subareas_especificas": [
+        "Teoria K algébrica",
+        "Teoria K topológica",
+        "Teoria K equivariante"
+      ]
+    },
+    {
+      "subarea": "Teoria da Homotopia",
+      "subareas_especificas": [
+        "Espaços de laços infinitos",
+        "Teoria da homotopia de categorias"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Cohomologia Etale"
+      ]
+    }
+  ]
+}

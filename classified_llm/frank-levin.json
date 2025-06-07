@@ -1,0 +1,12 @@
+{
+  "nome": "Frank Levin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos infinitos"
+      ]
+    }
+  ]
+}

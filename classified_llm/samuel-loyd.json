@@ -1,0 +1,27 @@
+{
+  "nome": "Samuel Loyd",
+  "area_principal": "Recreational Mathematics",
+  "subareas": [
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Problemas de contagem",
+        "Permutações",
+        "Combinações"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Problemas de percurso",
+        "Coloração de grafos"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Criptaritmos"
+      ]
+    }
+  ]
+}

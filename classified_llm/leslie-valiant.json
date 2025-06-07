@@ -1,0 +1,27 @@
+{
+  "nome": "Leslie Gabriel Valiant",
+  "area_principal": "Teoria da Computação",
+  "subareas": [
+    {
+      "subarea": "Complexidade Computacional",
+      "subareas_especificas": [
+        "Complexidade de problemas de contagem",
+        "Teoria dos circuitos",
+        "Classes de complexidade"
+      ]
+    },
+    {
+      "subarea": "Aprendizado de Máquina",
+      "subareas_especificas": [
+        "Teoria do aprendizado computacional",
+        "Modelo PAC"
+      ]
+    },
+    {
+      "subarea": "Computação Paralela e Distribuída",
+      "subareas_especificas": [
+        "Roteamento paralelo"
+      ]
+    }
+  ]
+}

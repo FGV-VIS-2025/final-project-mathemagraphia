@@ -1,0 +1,22 @@
+{
+  "nome": "Domokos Szász",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos Hiperbólicos",
+        "Teoria Ergódica",
+        "Mecânica Estatística"
+      ]
+    },
+    {
+      "subarea": "Teoria de Probabilidade",
+      "subareas_especificas": [
+        "Processos de ramificação",
+        "Variáveis aleatórias",
+        "Limite local"
+      ]
+    }
+  ]
+}

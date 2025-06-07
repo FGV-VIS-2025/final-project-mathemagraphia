@@ -1,0 +1,20 @@
+{
+  "nome": "Mstislav Vsevolodovich Keldysh",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Aproximação de Funções Analíticas",
+        "Mapeamentos Conformes",
+        "Problema de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Elípticas"
+      ]
+    }
+  ]
+}

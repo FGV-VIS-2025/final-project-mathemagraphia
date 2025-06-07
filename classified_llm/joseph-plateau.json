@@ -1,0 +1,12 @@
+{
+  "nome": "Joseph Antoine Ferdinand Plateau",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Superfícies Mínimas",
+      "subareas_especificas": [
+        "Problemas de Plateau"
+      ]
+    }
+  ]
+}

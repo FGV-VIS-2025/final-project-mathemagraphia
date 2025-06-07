@@ -1,0 +1,22 @@
+{
+  "nome": "Franz Daniel Kahn",
+  "area_principal": "Astrofísica",
+  "subareas": [
+    {
+      "subarea": "Dinâmica de Gases Cosmológicos",
+      "subareas_especificas": [
+        "Dinâmica de Nuvens Interestelares",
+        "Formação Estelar",
+        "Ventos Estelares",
+        "Fontes Galácticas"
+      ]
+    },
+    {
+      "subarea": "Plasma Astrofísica",
+      "subareas_especificas": [
+        "Frentes de Ionização",
+        "Choques Sem Colisão"
+      ]
+    }
+  ]
+}

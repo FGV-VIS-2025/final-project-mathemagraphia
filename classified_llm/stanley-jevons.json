@@ -1,0 +1,18 @@
+{
+  "nome": "William Stanley Jevons",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Álgebra Booleana"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

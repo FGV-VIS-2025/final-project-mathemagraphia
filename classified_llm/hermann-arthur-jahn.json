@@ -1,0 +1,26 @@
+{
+  "nome": "Hermann Arthur Jahn",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Representações"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Matrizes",
+        "Métodos de Perturbação"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Iterativos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Francis Maseres",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Elementar",
+      "subareas_especificas": [
+        "Números Negativos",
+        "Equações"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Tadeusz Iwaniec",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Elípticas Não-Lineares",
+        "Mapeamentos Quase-Conformes"
+      ]
+    },
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Integrais Singulares",
+        "Teoria de Funções de Várias Variáveis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Haskell Brooks Curry",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Lógica Combinatória",
+      "subareas_especificas": [
+        "Teoria dos Combinadores",
+        "λ-cálculo"
+      ]
+    },
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Sistemas Formais",
+        "Consistência"
+      ]
+    }
+  ]
+}

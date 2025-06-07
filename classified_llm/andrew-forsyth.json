@@ -1,0 +1,24 @@
+{
+  "nome": "Andrew Russell Forsyth",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria de Curvas",
+        "Geometria de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Frans van Schooten",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica Plana",
+      "subareas_especificas": [
+        "Cônicas",
+        "Curvas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica Espacial",
+      "subareas_especificas": [
+        "Superfícies Cônicas",
+        "Superfícies Quádricas"
+      ]
+    }
+  ]
+}

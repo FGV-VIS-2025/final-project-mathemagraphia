@@ -1,0 +1,13 @@
+{
+  "nome": "Ramon Llull",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Diagramas Combinatórios",
+        "Notação Simbólica"
+      ]
+    }
+  ]
+}

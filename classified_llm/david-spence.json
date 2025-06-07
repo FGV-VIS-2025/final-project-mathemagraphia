@@ -1,0 +1,29 @@
+{
+  "nome": "David Allan Spence",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Escoamento em Camada Limite",
+        "Escoamento Potencial",
+        "Aerodinâmica"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Teoria da Elasticidade Linear",
+        "Contato de Fricção",
+        "Lubrificação Elasto-hidrodinâmica"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação Biharmônica",
+        "Métodos Numéricos para EDPs"
+      ]
+    }
+  ]
+}

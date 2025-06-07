@@ -1,0 +1,20 @@
+{
+  "nome": "John Peter Louis Knopfmacher",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Teoria dos Números Primos",
+        "Funções Aritméticas"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica de Números Abstrata",
+      "subareas_especificas": [
+        "Semigrupos Aritméticos",
+        "Formações Aditivas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Leon Lichtenstein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Lineares",
+        "Equações Integrais Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Teoria do Potencial"
+      ]
+    }
+  ]
+}

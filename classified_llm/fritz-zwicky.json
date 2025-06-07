@@ -1,0 +1,20 @@
+{
+  "nome": "Fritz Zwicky",
+  "area_principal": "Astrofísica",
+  "subareas": [
+    {
+      "subarea": "Cosmologia Observacional",
+      "subareas_especificas": [
+        "Matéria Escura",
+        "Supernovas",
+        "Lentes Gravitacionais"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Dinâmica Estelar"
+      ]
+    }
+  ]
+}

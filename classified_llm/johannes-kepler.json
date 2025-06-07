@@ -1,0 +1,34 @@
+{
+  "nome": "Johannes Kepler",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Leis de Kepler",
+        "Órbitas Elípticas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Poliedros Regulares",
+        "Tessellations"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Volumes de Sólidos de Revolução",
+        "Método dos Indivisíveis"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Câmera Obscura",
+        "Telescópio"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Manuel Sadosky",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos para Equações Diferenciais",
+      "subareas_especificas": [
+        "Método das Diferenças Finitas",
+        "Método de Galerkin",
+        "Método de Ritz",
+        "Integração Numérica"
+      ]
+    },
+    {
+      "subarea": "Resolução Numérica de Equações",
+      "subareas_especificas": [
+        "Método de Newton",
+        "Método de Horner",
+        "Método de Gräffe",
+        "Método de Sturm",
+        "Regra Falsa"
+      ]
+    }
+  ]
+}

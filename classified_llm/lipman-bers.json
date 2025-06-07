@@ -1,0 +1,26 @@
+{
+  "nome": "Lipman Bers",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Funções de Green"
+      ]
+    },
+    {
+      "subarea": "Teoria de Teichmüller",
+      "subareas_especificas": [
+        "Mapeamentos Quase-Conformes",
+        "Grupos Kleinianos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Elípticas Não-Lineares",
+        "Superfícies Mínimas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Louis Auguste Antoine",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixas Dimensões",
+      "subareas_especificas": [
+        "Teoria de Nós",
+        "Homeomorfismos",
+        "Embebedimentos"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos Fundamentais",
+        "Homologia",
+        "Cohomologia"
+      ]
+    }
+  ]
+}

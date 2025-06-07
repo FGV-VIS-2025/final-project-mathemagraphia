@@ -1,0 +1,20 @@
+{
+  "nome": "Sewall Green Wright",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Análise de Regressão",
+        "Métodos Estatísticos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Processos Estocásticos",
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

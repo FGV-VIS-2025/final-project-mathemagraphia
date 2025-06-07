@@ -1,0 +1,20 @@
+{
+  "nome": "Béla Kerékjártó",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Superfícies",
+      "subareas_especificas": [
+        "Teorema da Curva de Jordan",
+        "Classificação de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Grupos Contínuos",
+      "subareas_especificas": [
+        "Grupos Euclidianos",
+        "Grupos Hiperbólicos"
+      ]
+    }
+  ]
+}

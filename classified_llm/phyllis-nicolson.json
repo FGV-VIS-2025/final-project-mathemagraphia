@@ -1,0 +1,18 @@
+{
+  "nome": "Phyllis Nicolson",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Método Crank-Nicolson"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Estabilidade Numérica"
+      ]
+    }
+  ]
+}

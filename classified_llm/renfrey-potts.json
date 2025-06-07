@@ -1,0 +1,25 @@
+{
+  "nome": "Renfrey Burnard Potts",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Modelos de Ising"
+      ]
+    },
+    {
+      "subarea": "Pesquisa Operacional",
+      "subareas_especificas": [
+        "Teoria de Redes",
+        "Equações de Diferenças"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grafos",
+      "subareas_especificas": [
+        "Problemas de Transporte"
+      ]
+    }
+  ]
+}

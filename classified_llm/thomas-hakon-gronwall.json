@@ -1,0 +1,36 @@
+{
+  "nome": "Thomas Hakon Grönwall",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Séries de Laplace",
+        "Séries de Legendre"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Função Divisor",
+        "Números Transcendentais",
+        "Funções L de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Funções Complexas",
+      "subareas_especificas": [
+        "Mapeamentos Conformes",
+        "Funções Univalentes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Fabio Conforto",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Descritiva",
+        "Geometria Analítica"
+      ]
+    },
+    {
+      "subarea": "Superfícies Racionais",
+      "subareas_especificas": [
+        "Linhas Racionais de Quinta Ordem"
+      ]
+    }
+  ]
+}

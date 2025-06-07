@@ -1,0 +1,25 @@
+{
+  "nome": "Kurt Hirsch",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Solúveis",
+      "subareas_especificas": [
+        "Grupos Policíclicos",
+        "Grupos Nilpotentes"
+      ]
+    },
+    {
+      "subarea": "Grupos Abelianos",
+      "subareas_especificas": [
+        "Grupos Livres de Torção"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grupos Infinitos",
+      "subareas_especificas": [
+        "Grupos com condição maximal em subgrupos"
+      ]
+    }
+  ]
+}

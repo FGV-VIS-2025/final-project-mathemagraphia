@@ -1,0 +1,18 @@
+{
+  "nome": "Jacob Bronowski",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Espaços Projetivos"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Topologia Algébrica"
+      ]
+    }
+  ]
+}

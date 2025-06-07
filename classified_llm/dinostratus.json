@@ -1,0 +1,12 @@
+{
+  "nome": "Dinostratus",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Quadratura do Círculo"
+      ]
+    }
+  ]
+}

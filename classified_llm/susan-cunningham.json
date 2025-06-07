@@ -1,0 +1,19 @@
+{
+  "nome": "Susan Jane Cunningham",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Observação",
+      "subareas_especificas": [
+        "Determinação de Posições de Estrelas Fixas"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Cálculo",
+        "Álgebra"
+      ]
+    }
+  ]
+}

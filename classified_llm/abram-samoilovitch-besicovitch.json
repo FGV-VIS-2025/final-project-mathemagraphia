@@ -1,0 +1,19 @@
+{
+  "nome": "Abram Samoilovitch Besicovitch",
+  "area_principal": "Teoria da Medida",
+  "subareas": [
+    {
+      "subarea": "Geometria Fractal",
+      "subareas_especificas": [
+        "Medida de Hausdorff"
+      ]
+    },
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Funções quase periódicas",
+        "Teoria da medida e integração"
+      ]
+    }
+  ]
+}

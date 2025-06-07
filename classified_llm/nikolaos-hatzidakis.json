@@ -1,0 +1,19 @@
+{
+  "nome": "Nikolaos I Hatzidakis",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial Clássica",
+      "subareas_especificas": [
+        "Curvas no Espaço",
+        "Superfícies"
+      ]
+    },
+    {
+      "subarea": "Cinemática",
+      "subareas_especificas": [
+        "Teoria Cinética de Curvas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "John McCowan",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Ondas",
+      "subareas_especificas": [
+        "Solitárias",
+        "Ondas de Quebra"
+      ]
+    }
+  ]
+}

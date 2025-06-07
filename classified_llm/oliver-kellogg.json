@@ -1,0 +1,20 @@
+{
+  "nome": "Oliver Dimon Kellogg",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problema de Dirichlet",
+        "Teoria do Potencial"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria de Pontos Fixos",
+        "Equações Integrais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Robert Stawell Ball",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Dinâmica",
+      "subareas_especificas": [
+        "Teoria de Parafusos"
+      ]
+    }
+  ]
+}

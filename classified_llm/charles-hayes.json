@@ -1,0 +1,20 @@
+{
+  "nome": "Charles Hayes",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Fluxões",
+        "Derivadas"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais",
+        "Primitivas"
+      ]
+    }
+  ]
+}

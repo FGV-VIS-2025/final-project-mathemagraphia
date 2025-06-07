@@ -1,0 +1,20 @@
+{
+  "nome": "Gheorghe Țițeica",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial Afim",
+      "subareas_especificas": [
+        "Superfícies Afins",
+        "Redes"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial Projetiva",
+      "subareas_especificas": [
+        "Redes Projetivas",
+        "Congruências"
+      ]
+    }
+  ]
+}

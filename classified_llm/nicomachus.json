@@ -1,0 +1,20 @@
+{
+  "nome": "Nicomachus of Gerasa",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Figuras",
+      "subareas_especificas": [
+        "Números Perfeitos",
+        "Números Abundantes",
+        "Números Deficientes"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Teoria Elementar dos Números"
+      ]
+    }
+  ]
+}

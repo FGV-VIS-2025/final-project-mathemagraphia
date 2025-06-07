@@ -1,0 +1,27 @@
+{
+  "nome": "Dmitrii Konstantinovich Faddeev",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Números",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Problema inverso da Teoria de Galois"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Determinantes",
+        "Matrizes",
+        "Funções Racionais",
+        "Métodos Numéricos em Álgebra Linear"
+      ]
+    }
+  ]
+}

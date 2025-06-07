@@ -1,0 +1,28 @@
+{
+  "nome": "Archimedes of Syracuse",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Método de Exaustão",
+        "Integração"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Centro de Gravidade",
+        "Hidrostática",
+        "Alavancas"
+      ]
+    }
+  ]
+}

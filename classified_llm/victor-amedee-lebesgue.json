@@ -1,0 +1,20 @@
+{
+  "nome": "Victor Amédée Lebesgue",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Congruências",
+      "subareas_especificas": [
+        "Congruências de grau superior",
+        "Equações diofantinas"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos de fatoração",
+        "Aproximações"
+      ]
+    }
+  ]
+}

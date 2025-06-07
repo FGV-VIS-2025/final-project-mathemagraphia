@@ -1,0 +1,19 @@
+{
+  "nome": "Richard Herbert Schelp",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Ramsey",
+      "subareas_especificas": [
+        "Números de Ramsey",
+        "Teoria de Ramsey para múltiplas cópias"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teoria Extremal de Grafos"
+      ]
+    }
+  ]
+}

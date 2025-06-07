@@ -1,0 +1,19 @@
+{
+  "nome": "Nasir al-Din al-Tusi",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Plana",
+      "subareas_especificas": [
+        "Lei dos Senos",
+        "Lei dos Cossenos"
+      ]
+    },
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Triângulos esféricos retângulos"
+      ]
+    }
+  ]
+}

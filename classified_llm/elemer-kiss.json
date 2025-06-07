@@ -1,0 +1,21 @@
+{
+  "nome": "Elemér Kiss",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Pseudocentro de um anel"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teorema de Fermat",
+        "Números Pseudoprimos",
+        "Números de Mersenne",
+        "Decomposição de primos como soma de dois quadrados"
+      ]
+    }
+  ]
+}

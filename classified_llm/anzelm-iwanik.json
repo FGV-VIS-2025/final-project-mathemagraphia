@@ -1,0 +1,27 @@
+{
+  "nome": "Anzelm Iwanik",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Universal",
+      "subareas_especificas": [
+        "Álgebras Completas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Operadores",
+      "subareas_especificas": [
+        "Operadores Extremos em Espaços de Banach",
+        "Operadores Multiplicativos em Álgebras Comutativas Simétricas"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Operadores de Markov",
+        "Sistemas Dinâmicos",
+        "Transformações que preservam medida"
+      ]
+    }
+  ]
+}

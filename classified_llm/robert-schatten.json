@@ -1,0 +1,19 @@
+{
+  "nome": "Robert Schatten",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Tensores",
+        "Normas"
+      ]
+    },
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Transformações Lineares"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Christian Sophus Juel",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Algébricas",
+        "Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Enumerativa",
+      "subareas_especificas": [
+        "Conjuntos Algébricos",
+        "Espaços Projetivos"
+      ]
+    }
+  ]
+}

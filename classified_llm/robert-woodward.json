@@ -1,0 +1,28 @@
+{
+  "nome": "Robert Simpson Woodward",
+  "area_principal": "Geodesia",
+  "subareas": [
+    {
+      "subarea": "Triangulação",
+      "subareas_especificas": [
+        "Métodos de Triangulação",
+        "Determinação de Latitude e Longitude",
+        "Ajuste de Observações de Campo pelo Método dos Mínimos Quadrados"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Erros",
+      "subareas_especificas": [
+        "Propagação de Erros",
+        "Métodos de Estimação"
+      ]
+    },
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Integração Numérica",
+        "Solução de Equações Diferenciais"
+      ]
+    }
+  ]
+}

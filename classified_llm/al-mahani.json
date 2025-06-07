@@ -1,0 +1,20 @@
+{
+  "nome": "Abu Abd Allah Muhammad ibn Isa Al-Mahani",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Cúbicas",
+      "subareas_especificas": [
+        "Soluções Geométricas",
+        "Métodos Algébricos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Seções Cônicas",
+        "Problemas de Construção Geométrica"
+      ]
+    }
+  ]
+}

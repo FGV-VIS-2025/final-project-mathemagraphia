@@ -1,0 +1,14 @@
+{
+  "nome": "Ágoston Scholtz",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Teoria de Determinantes",
+      "subareas_especificas": [
+        "Determinantes Compostos",
+        "Transformações Lineares",
+        "Matrizes de Hunyadi-Scholtz"
+      ]
+    }
+  ]
+}

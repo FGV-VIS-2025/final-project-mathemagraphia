@@ -1,0 +1,20 @@
+{
+  "nome": "Joseph Jean Baptiste Neuberg",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Cônicas",
+        "Superfícies algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria do Triângulo",
+      "subareas_especificas": [
+        "Pontos de Brocard",
+        "Tetraedro"
+      ]
+    }
+  ]
+}

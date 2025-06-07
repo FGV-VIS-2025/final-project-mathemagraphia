@@ -1,0 +1,18 @@
+{
+  "nome": "Samuel Beatty",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria de Funções Algébricas",
+      "subareas_especificas": [
+        "Teorema de Riemann-Roch"
+      ]
+    },
+    {
+      "subarea": "Análise Diofantina",
+      "subareas_especificas": [
+        "Sequências de Beatty"
+      ]
+    }
+  ]
+}

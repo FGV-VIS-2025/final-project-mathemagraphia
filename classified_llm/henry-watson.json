@@ -1,0 +1,20 @@
+{
+  "nome": "Henry William Watson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos de Lagrange",
+        "Métodos de Monge"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Processos de ramificação",
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

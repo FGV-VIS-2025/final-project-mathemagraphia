@@ -1,0 +1,20 @@
+{
+  "nome": "Joel Evans Hendricks",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Esférica"
+      ]
+    }
+  ]
+}

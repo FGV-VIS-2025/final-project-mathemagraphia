@@ -1,0 +1,16 @@
+{
+  "nome": "Endre Szemerédi",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teoria Aditiva dos Números"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": []
+    }
+  ]
+}

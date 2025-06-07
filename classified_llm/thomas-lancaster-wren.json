@@ -1,0 +1,12 @@
+{
+  "nome": "Thomas Lancaster Wren",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Algébrica"
+      ]
+    }
+  ]
+}

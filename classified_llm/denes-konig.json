@@ -1,0 +1,20 @@
+{
+  "nome": "Dénes König",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Grafos Finitos",
+      "subareas_especificas": [
+        "Emparelhamentos",
+        "Coloração de Grafos",
+        "Caminhos Eulerianos e Hamiltonianos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos Infinitos",
+      "subareas_especificas": [
+        "Lema da Infinidade de König"
+      ]
+    }
+  ]
+}

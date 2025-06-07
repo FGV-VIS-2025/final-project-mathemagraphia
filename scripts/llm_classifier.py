@@ -3,8 +3,19 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 import os
 from time import sleep
+import logging
+from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
 
-# Carrega variáveis de ambiente
+# Configura log
+logging.basicConfig(
+    filename="classificador_erros.log",
+    level=logging.WARNING,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+)
+
+# Carrega chave da API e configura
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=api_key)
@@ -13,17 +24,16 @@ genai.configure(api_key=api_key)
 with open(os.path.join("scripts", "application.json"), encoding="utf-8") as f:
     tools = json.load(f)
 
-# Instancia modelo Gemini
+# Instancia o modelo
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
     tools=tools,
-    generation_config={
-        "temperature": 0.2
-    }
+    generation_config={"temperature": 0.2}
 )
 
-# Classificador de área
-def classify_area_and_subareas(bio_text, nome, citados):
+write_lock = Lock()
+
+def classify_area_and_subareas(bio_text, nome, citados, max_retries=5):
     prompt = f"""
 Você é um dos especialistas mais respeitados do mundo em história da matemática, Professor PhD na melhor universidade da Europa.
 
@@ -52,31 +62,26 @@ Biografia:
 {bio_text}
 \"\"\"
     """
-    while True:
+    for attempt in range(1, max_retries + 1):
         try:
-            response = model.generate_content(prompt)
+            sleep(1.5)  # Evita ultrapassar o rate limit
+            response = model.generate_content(prompt, safety_settings={})
             parts = response.candidates[0].content.parts
 
             if not parts or not hasattr(parts[0], "function_call"):
-                return {
-                    "nome": nome,
-                    "erro": "Resposta sem function_call (tool não ativada ou resposta em texto livre)"
-                }
+                return {"nome": nome, "erro": "Resposta sem function_call"}
 
             call = parts[0].function_call
             if not call or not call.args:
-                return {
-                    "nome": nome,
-                    "erro": "function_call sem argumentos retornados"
-                }
+                return {"nome": nome, "erro": "function_call sem argumentos"}
 
-            args = dict(call.args)  # ✅ Converte MapComposite em dict
-            subareas_raw = list(args.get("subareas", []))  # ✅ Converte RepeatedComposite em list
-
+            args = dict(call.args)
+            subareas_raw = list(args.get("subareas", []))
             subareas = []
+
             for idx, sub in enumerate(subareas_raw):
                 try:
-                    sub_dict = dict(sub)  # ✅ Converte cada MapComposite individual em dict
+                    sub_dict = dict(sub)
                     subarea_nome = str(sub_dict.get("subarea", ""))
                     subespec = list(sub_dict.get("subareas_especificas", []))
                     subareas.append({
@@ -96,46 +101,63 @@ Biografia:
             }
 
         except Exception as e:
-            if "429" in str(e):
-                print(f"[429] Quota excedida para {nome}. Aguardando 10 segundos...")
-                sleep(10)
+            msg = str(e)
+            if "429" in msg:
+                wait_time = 10 * attempt
+                print(f"[429] Quota excedida para {nome}. Tentativa {attempt}/{max_retries}. Aguardando {wait_time}s...")
+                sleep(wait_time)
             else:
-                print(f"[ERRO] Falha ao classificar {nome}: {e}")
-                return {
-                    "nome": nome,
-                    "erro": str(e)
-                }
+                logging.warning(f"Erro ao classificar {nome}: {e}")
+                return {"nome": nome, "erro": msg}
 
-# Função principal
+    return {"nome": nome, "erro": "Máximo de tentativas excedido"}
+
+def process_file(filename, pasta_entrada, pasta_saida):
+    if not filename.endswith(".json"):
+        return
+
+    caminho_saida = os.path.join(pasta_saida, filename)
+    if os.path.exists(caminho_saida):
+        print(f"{filename} já classificado. Pulando.")
+        return
+
+    try:
+        with open(os.path.join(pasta_entrada, filename), encoding="utf-8") as f:
+            bio = json.load(f)
+
+        nome = bio.get("nome_completo", "Desconhecido")
+        texto_biografia = bio.get("biografia", "")
+        citados = bio.get("matematicos_citados_na_biografia", [])
+
+        resultado = classify_area_and_subareas(texto_biografia, nome, citados)
+
+        with write_lock:
+            with open(caminho_saida, "w", encoding="utf-8") as f_out:
+                json.dump(resultado, f_out, indent=2, ensure_ascii=False)
+
+        print(f"Classificado com sucesso: {filename}")
+
+    except Exception as e:
+        logging.error(f"Erro ao processar {filename}: {e}")
+
 def main():
     pasta_entrada = os.path.join("public", "MacTutorData")
     pasta_saida = os.path.join("classified_llm")
     os.makedirs(pasta_saida, exist_ok=True)
 
-    for filename in os.listdir(pasta_entrada):
-        if filename.endswith(".json"):
-            caminho = os.path.join(pasta_entrada, filename)
+    arquivos = [f for f in os.listdir(pasta_entrada) if f.endswith(".json")]
+
+    max_threads = 500000
+    with ThreadPoolExecutor(max_workers=max_threads) as executor:
+        futures = [
+            executor.submit(process_file, filename, pasta_entrada, pasta_saida)
+            for filename in arquivos
+        ]
+        for future in as_completed(futures):
             try:
-                with open(caminho, encoding="utf-8") as f:
-                    bio = json.load(f)
-
-                nome = bio.get("nome_completo", "Desconhecido")
-                texto_biografia = bio.get("biografia", "")
-                citados = bio.get("matematicos_citados_na_biografia", [])
-
-                resultado = classify_area_and_subareas(texto_biografia, nome, citados)
-
-                # ✅ Converte o resultado para tipos nativos serializáveis
-                resultado_serializavel = json.loads(json.dumps(resultado, default=str))
-
-                caminho_saida = os.path.join(pasta_saida, filename)
-                with open(caminho_saida, "w", encoding="utf-8") as f_out:
-                    json.dump(resultado_serializavel, f_out, indent=2, ensure_ascii=False)
-
-                print(f"✅ Classificado: {filename}")
-
+                future.result()
             except Exception as e:
-                print(f"[ERRO] Falha ao processar {filename}: {e}")
+                logging.error(f"Erro em thread: {e}")
 
 if __name__ == "__main__":
     main()

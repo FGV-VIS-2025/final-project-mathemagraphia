@@ -1,0 +1,25 @@
+{
+  "nome": "Sergei Lvovich Sobolev",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Sobolev",
+        "Teoria das Distribuições"
+      ]
+    },
+    {
+      "subarea": "Teoria Espectral",
+      "subareas_especificas": [
+        "Operadores em espaços com métrica indefinida"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Fórmulas de Cubatura"
+      ]
+    }
+  ]
+}

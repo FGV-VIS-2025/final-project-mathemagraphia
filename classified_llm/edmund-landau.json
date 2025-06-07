@@ -1,0 +1,22 @@
+{
+  "nome": "Edmund Georg Hermann Landau",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Teorema do Número Primo",
+        "Distribuição de Primos",
+        "Séries de Dirichlet",
+        "Hipótese de Riemann"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Corpos de Números Algébricos",
+        "Teorema do Número Primo para Corpos de Números Algébricos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Joseph Liouville",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Problemas de Valor de Contorno",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Transcendentais",
+        "Reciprocidade Quadrática"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Transformações Conformes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Chokuyen Naonobu Ajima",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Integração"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integração",
+        "Logaritmos"
+      ]
+    }
+  ]
+}

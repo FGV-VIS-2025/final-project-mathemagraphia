@@ -1,0 +1,19 @@
+{
+  "nome": "William Ogilvy Kermack",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Transformadas Integrais"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Não-Comutativa"
+      ]
+    }
+  ]
+}

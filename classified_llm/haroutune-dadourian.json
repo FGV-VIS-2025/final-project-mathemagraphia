@@ -1,0 +1,19 @@
+{
+  "nome": "Haroutune Mugurdich Dadourian",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Analítica"
+      ]
+    },
+    {
+      "subarea": "Radioatividade",
+      "subareas_especificas": [
+        "Propriedades do Tório",
+        "Radioatividade do Ar Subterrâneo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "'Mamphono Khaketla",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Testes Estatísticos",
+        "Inferência Estatística"
+      ]
+    },
+    {
+      "subarea": "Pesquisa Operacional",
+      "subareas_especificas": [
+        "Otimização",
+        "Simulação"
+      ]
+    }
+  ]
+}

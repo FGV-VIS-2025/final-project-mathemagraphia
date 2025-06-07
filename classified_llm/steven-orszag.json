@@ -1,0 +1,20 @@
+{
+  "nome": "Steven Alan Orszag",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Métodos Espectrais",
+      "subareas_especificas": [
+        "Métodos Pseudo-Espectrais",
+        "Transformada de Fourier"
+      ]
+    },
+    {
+      "subarea": "Teoria da Turbulência",
+      "subareas_especificas": [
+        "Simulação de Fluxo de Fluidos Computacional",
+        "Simulação de Turbulência Tridimensional"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Louis Bachelier",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Movimento Browniano",
+        "Martingales",
+        "Caminhadas Aleatórias"
+      ]
+    },
+    {
+      "subarea": "Cálculo Estocástico",
+      "subareas_especificas": [
+        "Integração de Itô"
+      ]
+    }
+  ]
+}

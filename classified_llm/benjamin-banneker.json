@@ -1,0 +1,21 @@
+{
+  "nome": "Benjamin Banneker",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Previsões de eclipses"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Álgebra",
+        "Geometria",
+        "Logaritmos",
+        "Trigonometria"
+      ]
+    }
+  ]
+}

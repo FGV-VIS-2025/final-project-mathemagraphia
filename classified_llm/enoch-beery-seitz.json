@@ -1,0 +1,18 @@
+{
+  "nome": "Enoch Beery Seitz",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Geométrica"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Teoria das Probabilidades"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Kamal al-Din Abu'l Hasan Muhammad Al-Farisi",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Amigáveis",
+      "subareas_especificas": [
+        "Teorema de Thabit ibn Qurra"
+      ]
+    },
+    {
+      "subarea": "Números Poligonais",
+      "subareas_especificas": [
+        "Coeficientes Binomiais",
+        "Números Triangulares",
+        "Combinações"
+      ]
+    }
+  ]
+}

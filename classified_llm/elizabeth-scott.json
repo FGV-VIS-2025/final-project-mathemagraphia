@@ -1,0 +1,27 @@
+{
+  "nome": "Elizabeth Leonard Scott",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Métodos Estatísticos",
+      "subareas_especificas": [
+        "Regressão",
+        "Análise de Variância"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Condicional",
+        "Variáveis Aleatórias"
+      ]
+    }
+  ]
+}

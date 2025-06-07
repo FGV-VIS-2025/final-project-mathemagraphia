@@ -1,0 +1,13 @@
+{
+  "nome": "James Gilbert Glimm",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra de operadores",
+      "subareas_especificas": [
+        "C*-álgebras",
+        "Fatores de tipo II_1"
+      ]
+    }
+  ]
+}

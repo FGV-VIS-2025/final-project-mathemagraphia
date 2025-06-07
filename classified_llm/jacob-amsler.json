@@ -1,0 +1,18 @@
+{
+  "nome": "Jacob Amsler",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica"
+      ]
+    },
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Séries de Fourier"
+      ]
+    }
+  ]
+}

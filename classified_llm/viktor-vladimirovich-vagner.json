@@ -1,0 +1,19 @@
+{
+  "nome": "Viktor Vladimirovich Vagner",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Variedades Não-Holonômicas",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Geometria Finsleriana"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Semigrupos Inversos"
+      ]
+    }
+  ]
+}

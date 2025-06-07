@@ -1,0 +1,14 @@
+{
+  "nome": "Thomas Little Heath",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Grega",
+      "subareas_especificas": [
+        "Álgebra",
+        "Geometria",
+        "Astronomia"
+      ]
+    }
+  ]
+}

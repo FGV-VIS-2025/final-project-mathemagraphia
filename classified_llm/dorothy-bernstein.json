@@ -1,0 +1,19 @@
+{
+  "nome": "Dorothy Lewis Bernstein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoremas de Existência"
+      ]
+    },
+    {
+      "subarea": "Transformada de Laplace",
+      "subareas_especificas": [
+        "Transformada Dupla de Laplace",
+        "Séries de Dirichlet"
+      ]
+    }
+  ]
+}

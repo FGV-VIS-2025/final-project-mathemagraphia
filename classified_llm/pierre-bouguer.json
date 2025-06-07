@@ -1,0 +1,26 @@
+{
+  "nome": "Pierre Bouguer",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Posição",
+      "subareas_especificas": [
+        "Curvas de Perseguição"
+      ]
+    },
+    {
+      "subarea": "Geodésia",
+      "subareas_especificas": [
+        "Medidas de meridianos",
+        "Densidade da Terra"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Fotometria",
+        "Declinação Magnética"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nome": "Emil Weyr",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Sintética",
+        "Métodos Algébricos em Geometria"
+      ]
+    },
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": []
+    }
+  ]
+}

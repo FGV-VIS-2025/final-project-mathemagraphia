@@ -1,0 +1,20 @@
+{
+  "nome": "Friedrich Hermann Schottky",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Automórficas",
+      "subareas_especificas": [
+        "Funções Abelianas",
+        "Mapeamentos Conformes"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Teorema de Schottky",
+        "Séries de Poincaré"
+      ]
+    }
+  ]
+}

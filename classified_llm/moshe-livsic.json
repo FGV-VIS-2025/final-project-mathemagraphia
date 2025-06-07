@@ -1,0 +1,25 @@
+{
+  "nome": "Mikhail Samuilovich Livsic",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria de Operadores",
+      "subareas_especificas": [
+        "Teoria de Extensão de Operadores",
+        "Problema dos Momentos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Funções Quasianalíticas"
+      ]
+    }
+  ]
+}

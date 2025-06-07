@@ -1,0 +1,18 @@
+{
+  "nome": "Claude Hardy",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Duplicação do Cubo"
+      ]
+    }
+  ]
+}

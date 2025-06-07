@@ -1,0 +1,21 @@
+{
+  "nome": "Katherine Adebola Okikiolu",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Geometria espectral",
+      "subareas_especificas": [
+        "Determinantes de operadores elípticos",
+        "Função zeta espectral",
+        "Teoria de Toeplitz"
+      ]
+    },
+    {
+      "subarea": "Análise geométrica",
+      "subareas_especificas": [
+        "Teoria da medida geométrica",
+        "Regularização"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Edward Colin Cherry",
+  "area_principal": "Teoria da Informação",
+  "subareas": [
+    {
+      "subarea": "Comunicação",
+      "subareas_especificas": [
+        "Psicologia da Comunicação",
+        "Teoria dos Circuitos Elétricos"
+      ]
+    },
+    {
+      "subarea": "Cibernética",
+      "subareas_especificas": [
+        "Sistemas de Comunicação"
+      ]
+    }
+  ]
+}

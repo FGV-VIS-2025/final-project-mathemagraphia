@@ -1,0 +1,43 @@
+{
+  "nome": "Michael James Lighthill",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Aerodinâmica",
+      "subareas_especificas": [
+        "Aerodinâmica supersônica",
+        "Aeroacústica",
+        "Dinâmica de gases"
+      ]
+    },
+    {
+      "subarea": "Acústica não linear",
+      "subareas_especificas": [
+        "Litotripsia",
+        "Ondas de inundação",
+        "Fluxo de tráfego"
+      ]
+    },
+    {
+      "subarea": "Biofluidodinâmica matemática",
+      "subareas_especificas": [
+        "Locomoção de peixes",
+        "Voo de pássaros e insetos",
+        "Fluxo respiratório",
+        "Propagação de pulsos",
+        "Fluxo sanguíneo",
+        "Doenças arteriais",
+        "Microcirculação"
+      ]
+    },
+    {
+      "subarea": "Ondas em fluidos",
+      "subareas_especificas": [
+        "Ondas sonoras",
+        "Ondas unidimensionais em fluidos",
+        "Ondas de água",
+        "Ondas internas"
+      ]
+    }
+  ]
+}

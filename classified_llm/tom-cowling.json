@@ -1,0 +1,20 @@
+{
+  "nome": "Thomas George Cowling",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Magnetohidrodinâmica",
+        "Teoria Cinética dos Gases"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Estrutura Estelar",
+        "Magnetismo Cósmica"
+      ]
+    }
+  ]
+}

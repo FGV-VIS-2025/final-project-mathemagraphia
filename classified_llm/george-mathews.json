@@ -1,0 +1,36 @@
+{
+  "nome": "George Ballard Mathews",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas quadráticas de Gauss",
+        "Formas quadráticas de Dirichlet",
+        "Formas quadráticas de Eisenstein",
+        "Formas quadráticas de Smith"
+      ]
+    },
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": [
+        "Teorema dos Números Primos",
+        "Memória de Riemann sobre números primos"
+      ]
+    },
+    {
+      "subarea": "Funções de Bessel",
+      "subareas_especificas": [
+        "Aplicações de funções de Bessel em física"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Cônicas",
+        "Quádricas",
+        "Teoria de von Staudt de elementos complexos"
+      ]
+    }
+  ]
+}

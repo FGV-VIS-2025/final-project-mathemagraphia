@@ -1,0 +1,14 @@
+{
+  "nome": "Jacob Levitzki",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Anéis nilpotentes",
+        "Anéis com condição de cadeia",
+        "Teoremas de estrutura de Wedderburn"
+      ]
+    }
+  ]
+}

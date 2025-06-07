@@ -1,0 +1,28 @@
+{
+  "nome": "Erik Gustav Elfving",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Superfícies de Riemann",
+      "subareas_especificas": [
+        "Uniformização"
+      ]
+    },
+    {
+      "subarea": "Teoria de Nevanlinna",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Cadeias de Markov"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Delineamento de Experimentos"
+      ]
+    }
+  ]
+}

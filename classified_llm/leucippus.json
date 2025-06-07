@@ -1,0 +1,16 @@
+{
+  "nome": "Leucippus of Miletus",
+  "area_principal": "Filosofia da Ciência",
+  "subareas": [
+    {
+      "subarea": "Cosmologia",
+      "subareas_especificas": [
+        "Teoria Atômica"
+      ]
+    },
+    {
+      "subarea": "Método de Exaustão",
+      "subareas_especificas": []
+    }
+  ]
+}

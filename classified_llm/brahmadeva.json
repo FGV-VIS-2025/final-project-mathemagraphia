@@ -1,0 +1,12 @@
+{
+  "nome": "Brahmadeva",
+  "area_principal": "Astronomia Matemática",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Astronomia"
+      ]
+    }
+  ]
+}

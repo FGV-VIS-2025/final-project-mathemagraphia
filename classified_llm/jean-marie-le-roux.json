@@ -1,0 +1,20 @@
+{
+  "nome": "Jean-Marie Le Roux",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Lineares",
+      "subareas_especificas": [
+        "Equações de segunda ordem",
+        "Equações de primeira ordem",
+        "Método de Laplace"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Deformação de meios contínuos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Jorgen Pedersen Gram",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Métodos dos Mínimos Quadrados"
+      ]
+    }
+  ]
+}

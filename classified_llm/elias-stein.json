@@ -1,0 +1,28 @@
+{
+  "nome": "Elias Menachem Stein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Integrais Singulares",
+        "Espaços H^p",
+        "Teoria de Littlewood-Paley"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problemas ∂-Neumann",
+        "Operadores Pseudodiferenciais"
+      ]
+    },
+    {
+      "subarea": "Variáveis Complexas",
+      "subareas_especificas": [
+        "Funções Holomorfas de Várias Variáveis"
+      ]
+    }
+  ]
+}

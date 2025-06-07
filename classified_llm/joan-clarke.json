@@ -1,0 +1,21 @@
+{
+  "nome": "Joan Elisabeth Lowther Clarke Murray",
+  "area_principal": "Criptografia",
+  "subareas": [
+    {
+      "subarea": "Criptoanálise",
+      "subareas_especificas": [
+        "Quebra de códigos",
+        "Análise de frequência",
+        "Máquinas Enigma"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Aritmética modular",
+        "Teoria dos grupos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Eugène Rouché",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Equações Lineares",
+      "subareas_especificas": [
+        "Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Teorema de Rouché"
+      ]
+    }
+  ]
+}

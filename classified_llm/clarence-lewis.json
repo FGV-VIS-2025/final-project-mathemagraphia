@@ -1,0 +1,21 @@
+{
+  "nome": "Clarence Irving Lewis",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Lógica Simbólica",
+      "subareas_especificas": [
+        "Álgebra da Lógica",
+        "Lógica Modal",
+        "Teoria da Implicação"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Axiomatização"
+      ]
+    }
+  ]
+}

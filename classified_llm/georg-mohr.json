@@ -1,0 +1,13 @@
+{
+  "nome": "Georg Mohr",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Construções Geométricas",
+        "Compasso e Régua"
+      ]
+    }
+  ]
+}

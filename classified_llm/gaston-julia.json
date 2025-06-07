@@ -1,0 +1,27 @@
+{
+  "nome": "Gaston Maurice Julia",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria da Iteração",
+      "subareas_especificas": [
+        "Funções Racionais",
+        "Conjuntos de Julia"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Operadores"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Diferencial",
+        "Transformações Conformes"
+      ]
+    }
+  ]
+}

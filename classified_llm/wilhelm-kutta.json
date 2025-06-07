@@ -1,0 +1,19 @@
+{
+  "nome": "Martin Wilhelm Kutta",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Métodos Numéricos para EDOs"
+      ]
+    },
+    {
+      "subarea": "Aerodinâmica",
+      "subareas_especificas": [
+        "Teoria de Fluidos",
+        "Mapeamento de Funções"
+      ]
+    }
+  ]
+}

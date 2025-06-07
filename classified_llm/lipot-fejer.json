@@ -1,0 +1,28 @@
+{
+  "nome": "Lipót Fejér",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Somatório de Cesàro",
+        "Convergência de Séries de Fourier",
+        "Teoria da Aproximação"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Funções Harmônicas",
+        "Equação de Laplace"
+      ]
+    },
+    {
+      "subarea": "Mapeamento Conforme",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Transformações Conformes"
+      ]
+    }
+  ]
+}

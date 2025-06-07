@@ -1,0 +1,19 @@
+{
+  "nome": "Mary Fairfax Greig Somerville",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Perturbações Planetárias"
+      ]
+    },
+    {
+      "subarea": "Matemática Aplicada",
+      "subareas_especificas": [
+        "Cálculo",
+        "Geometria Analítica"
+      ]
+    }
+  ]
+}

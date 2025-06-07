@@ -1,0 +1,19 @@
+{
+  "nome": "John Hadley",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Telescópios Refletores",
+        "Instrumentos de Medição"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Construção de Instrumentos Científicos"
+      ]
+    }
+  ]
+}

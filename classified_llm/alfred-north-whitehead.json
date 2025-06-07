@@ -1,0 +1,21 @@
+{
+  "nome": "Alfred North Whitehead",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria dos Anéis",
+        "Teoria dos Corpos"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Teoria da Prova"
+      ]
+    }
+  ]
+}

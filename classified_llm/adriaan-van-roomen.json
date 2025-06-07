@@ -1,0 +1,27 @@
+{
+  "nome": "Adriaan van Roomen",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações polinomiais",
+        "Métodos numéricos para resolução de equações"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de cordas em círculos",
+        "Tabelas trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Problemas clássicos da geometria grega (duplicação do cubo, trissecção do ângulo, quadratura do círculo)",
+        "Geometria analítica"
+      ]
+    }
+  ]
+}

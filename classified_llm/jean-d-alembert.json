@@ -1,0 +1,17 @@
+{
+  "nome": "Jean Le Rond d'Alembert",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Dinâmica",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Condições de Contorno"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": []
+    }
+  ]
+}

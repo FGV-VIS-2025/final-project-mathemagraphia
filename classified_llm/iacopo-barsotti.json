@@ -1,0 +1,20 @@
+{
+  "nome": "Iacopo Barsotti",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria das Interseções",
+      "subareas_especificas": [
+        "Correspondências Algébricas",
+        "Variedades Algébricas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grupos",
+      "subareas_especificas": [
+        "Grupos p-divisíveis",
+        "Cohomologia Cristalina"
+      ]
+    }
+  ]
+}

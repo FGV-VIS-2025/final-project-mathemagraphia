@@ -1,0 +1,21 @@
+{
+  "nome": "Vilhelm Frimann Koren Bjerknes",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidrodinâmica",
+        "Termodinâmica"
+      ]
+    },
+    {
+      "subarea": "Meteorologia",
+      "subareas_especificas": [
+        "Previsão do Tempo",
+        "Teoria das Massas de Ar",
+        "Frentes Polares"
+      ]
+    }
+  ]
+}

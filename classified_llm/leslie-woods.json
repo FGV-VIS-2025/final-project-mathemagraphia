@@ -1,0 +1,26 @@
+{
+  "nome": "Leslie Colin Woods",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos Compressíveis",
+      "subareas_especificas": [
+        "Escoamento de Fluidos Compressíveis em torno de corpos"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos em Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Método de Relaxação",
+        "Equação de Poisson"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica de Sistemas Fluidos",
+      "subareas_especificas": [
+        "Termodinâmica",
+        "Magnetoplasmas"
+      ]
+    }
+  ]
+}

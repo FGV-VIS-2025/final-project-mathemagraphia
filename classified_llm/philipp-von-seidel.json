@@ -1,0 +1,18 @@
+{
+  "nome": "Philipp Ludwig von Seidel",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Convergência e Divergência"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade Aplicada a Astronomia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Karol Borsuk",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria de Retratos",
+      "subareas_especificas": [
+        "Retratos Absolutos",
+        "Teoria da Forma"
+      ]
+    },
+    {
+      "subarea": "Teoria da Homotopia",
+      "subareas_especificas": [
+        "Grupos de Cohomotopias",
+        "Teoria da Homotopia Estável"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial Métrica",
+      "subareas_especificas": [
+        "Espaços Métricos"
+      ]
+    }
+  ]
+}

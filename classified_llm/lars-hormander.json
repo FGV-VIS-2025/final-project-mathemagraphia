@@ -1,0 +1,23 @@
+{
+  "nome": "Lars Valter Hörmander",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria das Distribuições",
+        "Análise de Fourier"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Transformada de Fourier"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": []
+    }
+  ]
+}

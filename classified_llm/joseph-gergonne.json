@@ -1,0 +1,19 @@
+{
+  "nome": "Joseph Diez Gergonne",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Dualidade",
+      "subareas_especificas": [
+        "Princípio de Dualidade",
+        "Teoremas em pares"
+      ]
+    },
+    {
+      "subarea": "Problemas Clássicos de Geometria",
+      "subareas_especificas": [
+        "Problema de Apolônio"
+      ]
+    }
+  ]
+}

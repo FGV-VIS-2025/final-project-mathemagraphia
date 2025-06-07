@@ -1,0 +1,18 @@
+{
+  "nome": "Giovanni Girolamo Saccheri",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Postulado das Paralelas"
+      ]
+    },
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica"
+      ]
+    }
+  ]
+}

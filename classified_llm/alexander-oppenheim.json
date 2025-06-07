@@ -1,0 +1,17 @@
+{
+  "nome": "Alexander Oppenheim",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Aproximação Diofantina",
+        "Formas Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": []
+    }
+  ]
+}

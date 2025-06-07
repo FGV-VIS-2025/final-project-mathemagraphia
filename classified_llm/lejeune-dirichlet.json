@@ -1,0 +1,30 @@
+{
+  "nome": "Johann Peter Gustav Lejeune Dirichlet",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Séries de Dirichlet",
+        "Distribuição de Números Primos",
+        "Funções L"
+      ]
+    },
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos de Números",
+        "Ideais",
+        "Unidades"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Reciprocidade Biquadrática",
+        "Progressões Aritméticas",
+        "Último Teorema de Fermat"
+      ]
+    }
+  ]
+}

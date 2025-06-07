@@ -1,0 +1,33 @@
+{
+  "nome": "Elliott Waters Montroll",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Gases Imperfeitos",
+        "Modelo de Ising",
+        "Vibrações em Redes Cristalinas"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Teoria de Valores Característicos"
+      ]
+    },
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Cadeias de Markov",
+        "Caminhadas Aleatórias"
+      ]
+    },
+    {
+      "subarea": "Dinâmica de Sistemas",
+      "subareas_especificas": [
+        "Fluxo de Tráfego"
+      ]
+    }
+  ]
+}

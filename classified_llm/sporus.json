@@ -1,0 +1,13 @@
+{
+  "nome": "Sporus of Nicaea",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Duplicação do Cubo",
+        "Quadratura do Círculo"
+      ]
+    }
+  ]
+}

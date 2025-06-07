@@ -1,0 +1,25 @@
+{
+  "nome": "Kazimierz Kuratowski",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de conjuntos de pontos",
+      "subareas_especificas": [
+        "Espaços métricos",
+        "Teoria da medida",
+        "Teoria da dimensão",
+        "Conjuntos compactos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos grafos",
+      "subareas_especificas": [
+        "grafos planares"
+      ]
+    },
+    {
+      "subarea": "Álgebra booleana",
+      "subareas_especificas": []
+    }
+  ]
+}

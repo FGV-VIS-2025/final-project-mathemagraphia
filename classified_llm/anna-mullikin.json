@@ -1,0 +1,14 @@
+{
+  "nome": "Anna Margaret Mullikin",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Conjuntos Pontuais",
+      "subareas_especificas": [
+        "Conjuntos Conectados",
+        "Continuos",
+        "Espaços Métricos"
+      ]
+    }
+  ]
+}

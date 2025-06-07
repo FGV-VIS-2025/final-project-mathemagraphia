@@ -1,0 +1,26 @@
+{
+  "nome": "Christian Goldbach",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": [
+        "Conjectura de Goldbach"
+      ]
+    },
+    {
+      "subarea": "Números de Fermat",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Números de Mersenne",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Teoria dos Números"
+      ]
+    }
+  ]
+}

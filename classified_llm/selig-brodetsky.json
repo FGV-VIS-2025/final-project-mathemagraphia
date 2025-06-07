@@ -1,0 +1,13 @@
+{
+  "nome": "Selig Brodetsky",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Aerodinâmica",
+      "subareas_especificas": [
+        "Estabilidade de Paraquedas",
+        "Escoamento de Fluidos em Cilindros"
+      ]
+    }
+  ]
+}

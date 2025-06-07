@@ -1,0 +1,14 @@
+{
+  "nome": "Alexander Wilhelm von Brill",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Algébricas",
+        "Superfícies Algébricas",
+        "Teoria de Riemann de Superfícies"
+      ]
+    }
+  ]
+}

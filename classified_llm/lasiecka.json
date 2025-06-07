@@ -1,0 +1,22 @@
+{
+  "nome": "Irena M Lasiecka",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Teoria de Controle",
+      "subareas_especificas": [
+        "Controle Ótimo",
+        "Sistemas Dinâmicos",
+        "Aproximação de Diferenças Finitas",
+        "Equações de Riccati"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços Vetoriais",
+        "Teoria de Operadores"
+      ]
+    }
+  ]
+}

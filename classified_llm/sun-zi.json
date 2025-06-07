@@ -1,0 +1,19 @@
+{
+  "nome": "Sun Zi",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teorema Chinês do Resto"
+      ]
+    },
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Extração de Raízes",
+        "Multiplicação e Divisão"
+      ]
+    }
+  ]
+}

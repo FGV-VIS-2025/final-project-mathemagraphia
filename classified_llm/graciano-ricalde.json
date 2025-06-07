@@ -1,0 +1,27 @@
+{
+  "nome": "Mauro Graciano Ricalde Gamboa",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Equações Cúbicas",
+        "Equações Quínticas"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Resolução de Equações Quínticas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Decomposição de Números",
+        "Equação de Pell"
+      ]
+    }
+  ]
+}

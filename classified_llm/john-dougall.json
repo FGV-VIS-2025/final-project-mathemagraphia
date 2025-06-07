@@ -1,0 +1,20 @@
+{
+  "nome": "John Dougall",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Espaços Projetivos",
+        "Teorema dos Seis Duplos"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Polinômios de Legendre",
+        "Harmônicos Esféricos"
+      ]
+    }
+  ]
+}

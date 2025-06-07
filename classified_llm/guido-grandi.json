@@ -1,0 +1,20 @@
+{
+  "nome": "Luigi Guido Grandi",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Geometria Analítica"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Infinitesimal",
+        "Séries Infinitas"
+      ]
+    }
+  ]
+}

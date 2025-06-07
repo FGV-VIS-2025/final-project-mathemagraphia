@@ -1,0 +1,26 @@
+{
+  "nome": "Ernest Jean Philippe Fauque de Jonquières",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Transformações Birracionais",
+        "Curvas Algébricas",
+        "Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Enumerativa",
+      "subareas_especificas": [
+        "Contagem de Curvas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    }
+  ]
+}

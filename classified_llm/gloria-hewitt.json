@@ -1,0 +1,19 @@
+{
+  "nome": "Gloria Conyers Hewitt",
+  "area_principal": "Álgebra Abstrata",
+  "subareas": [
+    {
+      "subarea": "Teoria de Reticulados",
+      "subareas_especificas": [
+        "Limites Diretos e Inversos",
+        "Álgebras Booleanas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis Noetherianos Generalizados"
+      ]
+    }
+  ]
+}

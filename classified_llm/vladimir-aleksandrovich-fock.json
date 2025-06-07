@@ -1,0 +1,25 @@
+{
+  "nome": "Vladimir Aleksandrovich Fock",
+  "area_principal": "Mecânica Quântica",
+  "subareas": [
+    {
+      "subarea": "Equação de Schrödinger",
+      "subareas_especificas": [
+        "Formalismo de múltiplos tempos"
+      ]
+    },
+    {
+      "subarea": "Equação de Dirac",
+      "subareas_especificas": [
+        "Geometrização da equação de Dirac",
+        "Parametrização do tempo próprio"
+      ]
+    },
+    {
+      "subarea": "Eletrodinâmica Quântica",
+      "subareas_especificas": [
+        "Espaço de Fock"
+      ]
+    }
+  ]
+}

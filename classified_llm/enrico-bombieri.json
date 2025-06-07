@@ -1,0 +1,31 @@
+{
+  "nome": "Enrico Bombieri",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Distribuição de Primos",
+      "subareas_especificas": [
+        "Crivo Grande",
+        "Progressões Aritméticas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diofantina",
+      "subareas_especificas": [
+        "Teoria dos Números Transcendentais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Superfícies Mínimas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Grupos Finitos"
+      ]
+    }
+  ]
+}

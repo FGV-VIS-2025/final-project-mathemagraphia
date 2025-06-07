@@ -1,0 +1,32 @@
+{
+  "nome": "Srinivasa Aiyangar Ramanujan",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Séries Hipergeométricas",
+        "Equações Modulares Elípticas"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Séries Infinitas"
+      ]
+    },
+    {
+      "subarea": "Séries Divergentes",
+      "subareas_especificas": [
+        "Números de Bernoulli",
+        "Função Zeta de Riemann"
+      ]
+    },
+    {
+      "subarea": "Teoria das Partições",
+      "subareas_especificas": [
+        "Números Primos"
+      ]
+    }
+  ]
+}

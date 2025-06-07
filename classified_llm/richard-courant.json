@@ -1,0 +1,20 @@
+{
+  "nome": "Richard Courant",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Método dos Elementos Finitos",
+        "Problema de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Autovalores",
+        "Teoria do Potencial"
+      ]
+    }
+  ]
+}

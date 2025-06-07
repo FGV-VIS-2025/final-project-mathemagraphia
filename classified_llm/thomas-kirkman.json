@@ -1,0 +1,25 @@
+{
+  "nome": "Thomas Penyngton Kirkman",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Teoria de Designs",
+      "subareas_especificas": [
+        "Sistemas de Steiner",
+        "Planos Projetivos Finitos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Transitivos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Nós",
+      "subareas_especificas": [
+        "Tabelas de Nós"
+      ]
+    }
+  ]
+}

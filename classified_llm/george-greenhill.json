@@ -1,0 +1,16 @@
+{
+  "nome": "Alfred George Greenhill",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Aplicações à Dinâmica",
+        "Aplicações à Hidrodinâmica",
+        "Aplicações à Elasticidade",
+        "Aplicações à Eletrostática",
+        "Balística"
+      ]
+    }
+  ]
+}

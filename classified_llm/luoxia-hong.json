@@ -1,0 +1,14 @@
+{
+  "nome": "Luoxia Hong",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Calendários",
+      "subareas_especificas": [
+        "Calendário lunissolar",
+        "Previsões de eclipses",
+        "Previsões de posições planetárias"
+      ]
+    }
+  ]
+}

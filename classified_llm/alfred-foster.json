@@ -1,0 +1,20 @@
+{
+  "nome": "Alfred Leon Foster",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Anéis Booleanos",
+        "Anéis Booleanos-like",
+        "Álgebras Primais"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teoria dos modelos"
+      ]
+    }
+  ]
+}

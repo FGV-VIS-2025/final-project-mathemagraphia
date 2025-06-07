@@ -1,0 +1,19 @@
+{
+  "nome": "Qin Jiushao",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teorema Chinês do Resto",
+        "Equações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Sistemas de Equações Lineares"
+      ]
+    }
+  ]
+}

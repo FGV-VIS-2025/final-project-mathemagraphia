@@ -1,0 +1,26 @@
+{
+  "nome": "Yves François Meyer",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Séries Trigonométricas",
+        "Aproximação Diofantina",
+        "Ondas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Operadores Integrais Singulares"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números de Pisot e Salem"
+      ]
+    }
+  ]
+}

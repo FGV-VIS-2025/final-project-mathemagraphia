@@ -1,0 +1,42 @@
+{
+  "nome": "Samuel Karlin",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Convergência Incondicional"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Jogos",
+      "subareas_especificas": [
+        "Jogos Discretos",
+        "Jogos Polinomiais",
+        "Jogos com Pagamento Contínuo e Convexo"
+      ]
+    },
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de Nascimento e Morte",
+        "Processos de Difusão Linear"
+      ]
+    },
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Sistemas de Chebyshev",
+        "Polinômios Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Total Positividade",
+        "Procedimentos de Decisão Estatística"
+      ]
+    }
+  ]
+}

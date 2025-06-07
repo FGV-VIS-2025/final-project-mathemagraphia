@@ -1,0 +1,20 @@
+{
+  "nome": "William Waldron Schieffelin Claytor",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Superfícies",
+      "subareas_especificas": [
+        "Imersão Topológica",
+        "Continuos Peanos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos Compactos",
+        "Espaços Métricos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Abu Ali al-Husain ibn Abdallah ibn Sina (Avicenna)",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Construções com régua e compasso",
+        "Áreas de polígonos",
+        "Volumes de poliedros"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Coordenadas de estrelas",
+        "Cálculo de longitude",
+        "Observações astronômicas"
+      ]
+    }
+  ]
+}

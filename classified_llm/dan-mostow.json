@@ -1,0 +1,20 @@
+{
+  "nome": "George Daniel Mostow",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de transformações",
+        "Rigidez"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Redes",
+        "Grupos discretos"
+      ]
+    }
+  ]
+}

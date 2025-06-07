@@ -1,0 +1,19 @@
+{
+  "nome": "Josef Stefan",
+  "area_principal": "Termodinâmica",
+  "subareas": [
+    {
+      "subarea": "Transferência de Calor",
+      "subareas_especificas": [
+        "Condução de Calor",
+        "Radiação Térmica"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Escoamento de Fluidos"
+      ]
+    }
+  ]
+}

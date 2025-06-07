@@ -1,0 +1,21 @@
+{
+  "nome": "Chidambaram Padmanabhan Ramanujam",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Algébricas",
+        "Superfícies Algébricas",
+        "Cohomologia Étale"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Problema de Waring",
+        "Campos de Números Algébricos"
+      ]
+    }
+  ]
+}

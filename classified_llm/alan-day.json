@@ -1,0 +1,14 @@
+{
+  "nome": "Richard Alan Day",
+  "area_principal": "Álgebra Abstrata",
+  "subareas": [
+    {
+      "subarea": "Teoria de Reticulados",
+      "subareas_especificas": [
+        "Reticulados Modulares",
+        "Reticulados Distributivos",
+        "Álgebra Universal"
+      ]
+    }
+  ]
+}

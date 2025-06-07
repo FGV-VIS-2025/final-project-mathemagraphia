@@ -1,0 +1,32 @@
+{
+  "nome": "Alfonso Maria Del Re",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Analítica"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Teoria de Matrizes"
+      ]
+    },
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Espaços de n dimensões",
+        "Espaços de Curvatura Constante"
+      ]
+    },
+    {
+      "subarea": "Álgebra da Lógica",
+      "subareas_especificas": [
+        "Lógica de Classes"
+      ]
+    }
+  ]
+}

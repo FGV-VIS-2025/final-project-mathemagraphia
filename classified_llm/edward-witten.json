@@ -1,0 +1,27 @@
+{
+  "nome": "Edward Witten",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Riemann",
+      "subareas_especificas": [
+        "Variedades Riemannianas",
+        "Curvatura"
+      ]
+    },
+    {
+      "subarea": "Teoria de Morse",
+      "subareas_especificas": [
+        "Homologia",
+        "Pontos críticos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Gauge",
+      "subareas_especificas": [
+        "Teoria de Campos",
+        "Anomalias Gravitacionais"
+      ]
+    }
+  ]
+}

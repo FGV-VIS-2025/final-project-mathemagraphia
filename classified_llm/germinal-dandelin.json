@@ -1,0 +1,19 @@
+{
+  "nome": "Germinal Pierre Dandelin",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Projeções estereográficas"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Resolução de equações numéricas"
+      ]
+    }
+  ]
+}

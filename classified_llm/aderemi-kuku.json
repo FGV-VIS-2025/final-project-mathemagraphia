@@ -1,0 +1,20 @@
+{
+  "nome": "Aderemi Oluyomi Kuku",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria K-Álgebraica",
+      "subareas_especificas": [
+        "Grupos de Whitehead",
+        "Grupos de Picard"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Anéis",
+        "Teoria de Módulos"
+      ]
+    }
+  ]
+}

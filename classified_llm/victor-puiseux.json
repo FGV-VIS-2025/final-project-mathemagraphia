@@ -1,0 +1,23 @@
+{
+  "nome": "Victor Alexandre Puiseux",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções algébricas",
+      "subareas_especificas": [
+        "Expansões em séries",
+        "Pontos de ramificação",
+        "Polos",
+        "Pontos essenciais"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Estabilidade do Sistema Solar",
+        "Aceleração do movimento médio da Lua",
+        "Teoria da Lua"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Peter K Henrici",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Métodos de Integração Numérica",
+        "Propagação de Erros"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Séries de Potências",
+        "Transformadas Integrais",
+        "Funções Especiais",
+        "Frações Contínuas",
+        "Mapeamento Conforme"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear Numérica",
+      "subareas_especificas": [
+        "Autovalores de Matrizes"
+      ]
+    }
+  ]
+}

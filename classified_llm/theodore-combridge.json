@@ -1,0 +1,20 @@
+{
+  "nome": "John Theodore Combridge",
+  "area_principal": "Relatividade Geral",
+  "subareas": [
+    {
+      "subarea": "Teoria da Relatividade",
+      "subareas_especificas": [
+        "Relatividade Geral",
+        "Relatividade Restrita"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Problema dos dois corpos",
+        "Problema dos n corpos"
+      ]
+    }
+  ]
+}

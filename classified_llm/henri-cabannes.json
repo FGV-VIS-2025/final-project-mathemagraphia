@@ -1,0 +1,26 @@
+{
+  "nome": "Henri Cabannes",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos Compressíveis",
+      "subareas_especificas": [
+        "Escoamentos Transsônicos",
+        "Ondas de Choque"
+      ]
+    },
+    {
+      "subarea": "Teoria Cinética dos Gases",
+      "subareas_especificas": [
+        "Viscosidade",
+        "Condutividade"
+      ]
+    },
+    {
+      "subarea": "Teoria Cinética Discreta",
+      "subareas_especificas": [
+        "Existência de Soluções"
+      ]
+    }
+  ]
+}

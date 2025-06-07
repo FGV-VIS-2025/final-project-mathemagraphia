@@ -1,0 +1,22 @@
+{
+  "nome": "Kosaku Yosida",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Processos de Markov",
+        "Equações Hiperbólicas",
+        "Teoria do Potencial"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Teorema Ergódico de Birkhoff",
+        "Teorema Ergódico Maximal"
+      ]
+    }
+  ]
+}

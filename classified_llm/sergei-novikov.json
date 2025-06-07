@@ -1,0 +1,29 @@
+{
+  "nome": "Sergei Petrovich Novikov",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Cohomologia",
+        "Grupos de Homotopia",
+        "Teoria de Cobordismo",
+        "Espaços de Thom"
+      ]
+    },
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Variedades",
+        "Classes de Pontryagin",
+        "Teoria de Morse"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria Espectral de Operadores Lineares"
+      ]
+    }
+  ]
+}

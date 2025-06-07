@@ -1,0 +1,21 @@
+{
+  "nome": "Liu Hui",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Cálculo de áreas",
+        "Cálculo de perímetros",
+        "Teorema de Pitágoras"
+      ]
+    },
+    {
+      "subarea": "Aproximação de Pi",
+      "subareas_especificas": [
+        "Método de exaustão",
+        "Polígonos regulares"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Achille Marie Gaston Floquet",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Lineares",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares com Coeficientes Periódicos",
+        "Equações Diferenciais Lineares com Coeficientes Duplamente Periódicos",
+        "Equações Diferenciais Lineares Não Homogêneas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria de Superfícies"
+      ]
+    }
+  ]
+}

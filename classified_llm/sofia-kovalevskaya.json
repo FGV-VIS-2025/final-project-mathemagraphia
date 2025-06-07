@@ -1,0 +1,24 @@
+{
+  "nome": "Sofia Vasilyevna Kovalevskaya",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Integração de equações diferenciais parciais"
+      ]
+    },
+    {
+      "subarea": "Integrais Abelianas",
+      "subareas_especificas": [
+        "Integrais elípticas"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Rotação de um corpo rígido"
+      ]
+    }
+  ]
+}

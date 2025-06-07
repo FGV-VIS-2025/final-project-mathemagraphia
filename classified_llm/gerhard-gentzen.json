@@ -1,0 +1,20 @@
+{
+  "nome": "Gerhard Gentzen",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Consistência",
+        "Sistemas Formais"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Aritmética",
+        "Teoria dos Conjuntos"
+      ]
+    }
+  ]
+}

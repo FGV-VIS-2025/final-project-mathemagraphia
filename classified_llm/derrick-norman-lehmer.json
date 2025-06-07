@@ -1,0 +1,20 @@
+{
+  "nome": "Derrick Norman Lehmer",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": [
+        "Fatoração",
+        "Distribuição de Primos"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Função Zeta de Riemann",
+        "Distribuição de Primos"
+      ]
+    }
+  ]
+}

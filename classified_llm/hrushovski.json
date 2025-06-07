@@ -1,0 +1,25 @@
+{
+  "nome": "Ehud Hrushovski",
+  "area_principal": "Teoria de Modelos",
+  "subareas": [
+    {
+      "subarea": "Teoria da Estabilidade",
+      "subareas_especificas": [
+        "Teoria de Estabilidade Geométrica"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos Definíveis",
+      "subareas_especificas": [
+        "Grupos em contextos instáveis"
+      ]
+    },
+    {
+      "subarea": "Aplicações da Teoria de Modelos à Geometria Diofantina",
+      "subareas_especificas": [
+        "Conjectura de Mordell-Lang",
+        "Conjectura de Manin-Mumford"
+      ]
+    }
+  ]
+}

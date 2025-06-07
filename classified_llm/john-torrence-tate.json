@@ -1,0 +1,28 @@
+{
+  "nome": "John Torrence Tate",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Cohomologia de Galois",
+        "Funções L de Hecke",
+        "Grupos p-divisíveis"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica Aritmética",
+      "subareas_especificas": [
+        "Variedades Abelianas",
+        "Curvas Elípticas",
+        "Motivos"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Análise de Fourier em corpos locais e anéis adelicos"
+      ]
+    }
+  ]
+}

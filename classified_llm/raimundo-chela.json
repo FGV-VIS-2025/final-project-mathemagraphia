@@ -1,0 +1,18 @@
+{
+  "nome": "Raimundo Chela Aboudib",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Grupos de Galois de polinômios"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Sistemas de Numeração"
+      ]
+    }
+  ]
+}

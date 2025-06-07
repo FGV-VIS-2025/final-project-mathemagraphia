@@ -1,0 +1,20 @@
+{
+  "nome": "Wilbur Richard Knorr",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Grega",
+      "subareas_especificas": [
+        "Teoria das Incomensuráveis",
+        "Geometria Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Balança"
+      ]
+    }
+  ]
+}

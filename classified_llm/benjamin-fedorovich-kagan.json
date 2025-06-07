@@ -1,0 +1,19 @@
+{
+  "nome": "Benjamin Fedorovich Kagan",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria de Lobachevsky"
+      ]
+    },
+    {
+      "subarea": "Análise Tensorial",
+      "subareas_especificas": [
+        "Cálculo Tensorial",
+        "Aplicações em Geometria"
+      ]
+    }
+  ]
+}

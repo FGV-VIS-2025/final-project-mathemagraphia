@@ -1,0 +1,18 @@
+{
+  "nome": "Edmund Hlawka",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Geometria dos Números",
+      "subareas_especificas": [
+        "Aproximação Diofantina"
+      ]
+    },
+    {
+      "subarea": "Distribuição Uniforme",
+      "subareas_especificas": [
+        "Integração Numérica"
+      ]
+    }
+  ]
+}

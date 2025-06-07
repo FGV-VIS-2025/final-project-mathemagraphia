@@ -1,0 +1,18 @@
+{
+  "nome": "Karl Friedrich August Gutzmer",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Teoria de Equações Adjointas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Ordem Superior"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Albin Herzog",
+  "area_principal": "Mecânica Aplicada",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Mecânica de Lagrange"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Superfícies Mínimas"
+      ]
+    }
+  ]
+}

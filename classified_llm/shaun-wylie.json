@@ -1,0 +1,19 @@
+{
+  "nome": "Shaun Wylie",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Homologia",
+      "subareas_especificas": [
+        "Homologia Simplicial",
+        "Homologia Singular"
+      ]
+    },
+    {
+      "subarea": "Dualidade",
+      "subareas_especificas": [
+        "Dualidade em Complexos Gerais"
+      ]
+    }
+  ]
+}

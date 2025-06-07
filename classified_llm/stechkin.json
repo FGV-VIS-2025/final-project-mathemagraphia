@@ -1,0 +1,30 @@
+{
+  "nome": "Sergei Borisovich Stechkin",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Aproximação de funções",
+        "Séries trigonométricas e ortogonais",
+        "Propriedades extremais de funções",
+        "Largura de Kolmogorov",
+        "Splines"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Operadores lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Função Zeta de Riemann",
+        "Somatórios trigonométricos"
+      ]
+    }
+  ]
+}

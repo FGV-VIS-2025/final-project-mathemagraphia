@@ -1,0 +1,13 @@
+{
+  "nome": "Pierre Laurent Wantzel",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Soluções por Radicais",
+        "Equações Algébricas"
+      ]
+    }
+  ]
+}

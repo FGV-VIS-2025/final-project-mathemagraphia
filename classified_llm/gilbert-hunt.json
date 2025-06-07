@@ -1,0 +1,20 @@
+{
+  "nome": "Gilbert Agnew Hunt",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Martingales",
+        "Movimento Browniano"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoria Ergódica"
+      ]
+    }
+  ]
+}

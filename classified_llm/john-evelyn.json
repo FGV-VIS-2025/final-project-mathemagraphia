@@ -1,0 +1,19 @@
+{
+  "nome": "Cecil John Alvin Evelyn",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Inteiros r-livres",
+        "Função de Möbius"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Plana"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Sotero Prieto Rodríguez",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Analíticas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Feodor Theilheimer",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de invariantes",
+      "subareas_especificas": [
+        "Teoria de representações de grupos"
+      ]
+    }
+  ]
+}

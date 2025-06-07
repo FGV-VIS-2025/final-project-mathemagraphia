@@ -1,0 +1,20 @@
+{
+  "nome": "François Édouard Anatole Lucas",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Sequências",
+      "subareas_especificas": [
+        "Sequência de Fibonacci",
+        "Sequência de Lucas"
+      ]
+    },
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": [
+        "Teste de primalidade de Lucas-Lehmer",
+        "Números de Mersenne"
+      ]
+    }
+  ]
+}

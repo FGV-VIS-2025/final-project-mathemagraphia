@@ -1,0 +1,18 @@
+{
+  "nome": "Marie-Sophie Germain",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teorema do Último Teorema de Fermat"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

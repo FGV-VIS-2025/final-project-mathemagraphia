@@ -1,0 +1,14 @@
+{
+  "nome": "Jacob Willem Cohen",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria das Filas",
+      "subareas_especificas": [
+        "Processos de Poisson",
+        "Processos Regenerativos",
+        "Caminhadas Aleatórias"
+      ]
+    }
+  ]
+}

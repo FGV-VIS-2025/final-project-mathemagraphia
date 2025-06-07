@@ -1,0 +1,13 @@
+{
+  "nome": "Bronisław Knaster",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Continuos",
+      "subareas_especificas": [
+        "Continuos Irredutíveis",
+        "Continuos Indecormponíveis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "David Borwein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries e Integrais",
+      "subareas_especificas": [
+        "Teoria da Somabilidade",
+        "Integração de Lebesgue",
+        "Séries de Dirichlet",
+        "Transformadas de Fourier"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Função Zeta de Riemann"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nome": "Constantin Carathéodory",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais de Primeira Ordem"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoria de Conjuntos de Pontos"
+      ]
+    },
+    {
+      "subarea": "Representações Conformes",
+      "subareas_especificas": [
+        "Regiões Simplesmente Conexas"
+      ]
+    }
+  ]
+}

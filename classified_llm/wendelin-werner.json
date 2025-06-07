@@ -1,0 +1,20 @@
+{
+  "nome": "Wendelin Werner",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Movimento Browniano",
+      "subareas_especificas": [
+        "Teoria de Conformal",
+        "Sistemas Aleatórios Contínuos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Conformal",
+      "subareas_especificas": [
+        "Mapeamento Conformal",
+        "Invariância Conformal"
+      ]
+    }
+  ]
+}

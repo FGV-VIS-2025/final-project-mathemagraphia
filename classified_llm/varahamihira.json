@@ -1,0 +1,14 @@
+{
+  "nome": "Varahamihira",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Fórmulas Trigonométricas",
+        "Tabelas de Senos",
+        "Interpolação"
+      ]
+    }
+  ]
+}

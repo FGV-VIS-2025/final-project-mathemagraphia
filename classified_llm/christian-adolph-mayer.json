@@ -1,0 +1,19 @@
+{
+  "nome": "Christian Gustav Adolph Mayer",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Princípio da Mínima Ação"
+      ]
+    }
+  ]
+}

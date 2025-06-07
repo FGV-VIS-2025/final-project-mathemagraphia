@@ -1,0 +1,20 @@
+{
+  "nome": "Wilhelm Ackermann",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Consistência",
+        "Axiomatização"
+      ]
+    },
+    {
+      "subarea": "Recursão",
+      "subareas_especificas": [
+        "Funções Recursivas",
+        "Funções Primitivas Recursivas"
+      ]
+    }
+  ]
+}

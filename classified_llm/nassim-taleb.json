@@ -1,0 +1,22 @@
+{
+  "nome": "Nassim Nicholas Taleb",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Eventos Raros",
+        "Distribuições de Probabilidade",
+        "Processos Estocásticos"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Análise de Risco",
+        "Séries Temporais"
+      ]
+    }
+  ]
+}

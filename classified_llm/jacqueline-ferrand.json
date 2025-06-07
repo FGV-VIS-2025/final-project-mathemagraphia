@@ -1,0 +1,22 @@
+{
+  "nome": "Jacqueline Lelong-Ferrand",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Conforme",
+      "subareas_especificas": [
+        "Transformações Conformes",
+        "Variedades Riemannianas",
+        "Teoria do Potencial"
+      ]
+    },
+    {
+      "subarea": "Representação Conforme",
+      "subareas_especificas": [
+        "Transformações Analíticas",
+        "Funções Analíticas",
+        "Espaços Métricos"
+      ]
+    }
+  ]
+}

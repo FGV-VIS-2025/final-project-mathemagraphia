@@ -1,0 +1,19 @@
+{
+  "nome": "Fritz Joseph Ursell",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Séries Divergentes",
+        "Aproximações Uniformemente Válidas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoria de Ondas"
+      ]
+    }
+  ]
+}

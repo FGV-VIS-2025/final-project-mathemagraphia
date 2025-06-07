@@ -1,0 +1,22 @@
+{
+  "nome": "Gloria Rita Olive",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Anéis",
+        "Teoria de Módulos"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Funções Binomiais",
+        "Polinômios de Tipo Binomial",
+        "Números de Catalan"
+      ]
+    }
+  ]
+}

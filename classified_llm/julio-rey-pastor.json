@@ -1,0 +1,27 @@
+{
+  "nome": "Julio Rey Pastor",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Projetiva Superior"
+      ]
+    },
+    {
+      "subarea": "Geometria n-dimensional",
+      "subareas_especificas": [
+        "Representações de Grupos",
+        "Mapeamentos Conformes"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Séries e Integrais",
+        "Métodos de Somação de Séries",
+        "Integrais Singulares"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Archibald Read Richardson",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Invariantes"
+      ]
+    }
+  ]
+}

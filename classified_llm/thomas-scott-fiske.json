@@ -1,0 +1,17 @@
+{
+  "nome": "Thomas Scott Fiske",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Integrais Elípticas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": []
+    }
+  ]
+}

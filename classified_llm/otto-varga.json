@@ -1,0 +1,20 @@
+{
+  "nome": "Ottó Varga",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Finsler",
+      "subareas_especificas": [
+        "Conexão afim",
+        "Curvaturas",
+        "Translação paralela métrica"
+      ]
+    },
+    {
+      "subarea": "Geometria Integral",
+      "subareas_especificas": [
+        "Fórmulas de Crofton"
+      ]
+    }
+  ]
+}

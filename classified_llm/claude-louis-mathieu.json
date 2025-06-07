@@ -1,0 +1,20 @@
+{
+  "nome": "Claude Louis Mathieu",
+  "area_principal": "Geodesia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Medida de meridianos",
+        "Determinação de paralaxe estelar"
+      ]
+    },
+    {
+      "subarea": "Metrologia",
+      "subareas_especificas": [
+        "Comprimento do pêndulo de segundos",
+        "Sistema métrico"
+      ]
+    }
+  ]
+}

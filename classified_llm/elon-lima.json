@@ -1,0 +1,14 @@
+{
+  "nome": "Elon Lages Lima",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria da Homologia",
+        "Teoria da Cohomologia",
+        "Espaços de recobrimento"
+      ]
+    }
+  ]
+}

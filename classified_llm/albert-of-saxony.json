@@ -1,0 +1,27 @@
+{
+  "nome": "Albert of Saxony",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Dinâmica",
+        "Impetus"
+      ]
+    },
+    {
+      "subarea": "Cosmologia",
+      "subareas_especificas": [
+        "Precessão dos equinócios",
+        "Teoria da Terra"
+      ]
+    },
+    {
+      "subarea": "Lógica",
+      "subareas_especificas": [
+        "Paradoxo",
+        "Silogismo"
+      ]
+    }
+  ]
+}

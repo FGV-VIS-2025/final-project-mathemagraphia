@@ -1,0 +1,19 @@
+{
+  "nome": "Friedrich Engel",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Contínuos",
+        "Grupos de Transformação"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Primeira Ordem"
+      ]
+    }
+  ]
+}

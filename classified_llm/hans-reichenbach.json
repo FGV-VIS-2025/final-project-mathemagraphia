@@ -1,0 +1,22 @@
+{
+  "nome": "Hans Reichenbach",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Fundamentos da Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Interpretação da Probabilidade",
+        "Aplicações da Probabilidade"
+      ]
+    },
+    {
+      "subarea": "Filosofia da Ciência",
+      "subareas_especificas": [
+        "Lógica",
+        "Epistemologia",
+        "Metodologia Científica"
+      ]
+    }
+  ]
+}

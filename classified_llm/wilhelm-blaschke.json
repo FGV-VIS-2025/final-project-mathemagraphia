@@ -1,0 +1,24 @@
+{
+  "nome": "Wilhelm Johann Eugen Blaschke",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Afim Diferencial",
+      "subareas_especificas": [
+        "Geometria Integral"
+      ]
+    },
+    {
+      "subarea": "Geometria Topológica Diferencial",
+      "subareas_especificas": [
+        "Mapeamentos Diferenciáveis Invariantes"
+      ]
+    },
+    {
+      "subarea": "Geometria de Webs",
+      "subareas_especificas": [
+        "Teoria de Grupos de Transformação"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Bernard Malgrange",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais com Coeficientes Constantes",
+        "Equações de Convolução",
+        "Operadores Hipoelípticos",
+        "Singularidades de Funções e Mapeamentos"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Formas Harmônicas",
+        "Teoria de D-módulos"
+      ]
+    }
+  ]
+}

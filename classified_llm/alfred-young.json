@@ -1,0 +1,13 @@
+{
+  "nome": "Alfred Young",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Representações de Grupos",
+        "Grupos Simétricos"
+      ]
+    }
+  ]
+}

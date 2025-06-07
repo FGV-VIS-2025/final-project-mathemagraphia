@@ -1,0 +1,20 @@
+{
+  "nome": "Horatio Scott Carslaw",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries e Integrais de Fourier",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Condução de Calor"
+      ]
+    },
+    {
+      "subarea": "Transformadas de Laplace",
+      "subareas_especificas": [
+        "Cálculo Operacional",
+        "Matemática Aplicada"
+      ]
+    }
+  ]
+}

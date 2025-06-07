@@ -1,0 +1,26 @@
+{
+  "nome": "Clifford Henry Taubes",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Teoria de Gauge",
+      "subareas_especificas": [
+        "Teoria de Yang-Mills",
+        "Equações de Vafa-Witten"
+      ]
+    },
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "4-variedades",
+        "Espaços de Módulos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações diferenciais parciais não-lineares"
+      ]
+    }
+  ]
+}

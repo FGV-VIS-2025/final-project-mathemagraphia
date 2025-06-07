@@ -1,0 +1,28 @@
+{
+  "nome": "Thomas Brooke Benjamin",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Ondas",
+      "subareas_especificas": [
+        "Ondas de superfície",
+        "Ondas estacionárias"
+      ]
+    },
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Escoamento em canais",
+        "Escoamento sobre superfícies onduladas",
+        "Causação de erosão por bolhas"
+      ]
+    },
+    {
+      "subarea": "Turbulência",
+      "subareas_especificas": [
+        "Turbulência em fluidos",
+        "Amortecimento de flutuações em escoamentos turbulentos"
+      ]
+    }
+  ]
+}

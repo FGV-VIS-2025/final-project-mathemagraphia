@@ -1,0 +1,12 @@
+{
+  "nome": "C V Mourey",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Números Complexos",
+      "subareas_especificas": [
+        "Representação Geométrica"
+      ]
+    }
+  ]
+}

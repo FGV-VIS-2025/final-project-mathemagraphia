@@ -1,0 +1,13 @@
+{
+  "nome": "Henry Walter Stager",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Teoria dos Grupos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Étienne E Bobillier",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Polares de Curvas",
+        "Transformações Geométricas"
+      ]
+    }
+  ]
+}

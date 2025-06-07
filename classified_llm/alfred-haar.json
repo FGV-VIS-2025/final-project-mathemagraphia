@@ -1,0 +1,33 @@
+{
+  "nome": "Alfréd Haar",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoria da Elasticidade"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Sistemas Ortonormais de Funções",
+        "Wavelets",
+        "Medidas em Grupos Topológicos"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Lema de Haar",
+        "Problema de Plateau"
+      ]
+    },
+    {
+      "subarea": "Aproximação de Funções",
+      "subareas_especificas": [
+        "Aproximações de Chebyshev"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Willem Jacob 'sGravesande",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Leis de Newton",
+        "Gravitação",
+        "Mecânica dos Fluidos"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Óptica Geométrica",
+        "Ondas"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Movimento Planetário"
+      ]
+    }
+  ]
+}

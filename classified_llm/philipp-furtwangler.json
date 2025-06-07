@@ -1,0 +1,25 @@
+{
+  "nome": "Friederich Pius Philipp Furtwängler",
+  "area_principal": "Teoria dos Números Algébricos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Corpos de Classes",
+      "subareas_especificas": [
+        "Reciprocidade de Potências",
+        "Teorema do Ideal Principal"
+      ]
+    },
+    {
+      "subarea": "Teoria de Valoração",
+      "subareas_especificas": [
+        "Método de Kummer-Hensel"
+      ]
+    },
+    {
+      "subarea": "Teoria de Ideais",
+      "subareas_especificas": [
+        "Métodos de Dedekind e Kronecker"
+      ]
+    }
+  ]
+}

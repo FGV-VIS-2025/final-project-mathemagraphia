@@ -1,0 +1,19 @@
+{
+  "nome": "Conon of Samos",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Eclipses Solares",
+        "Constelações"
+      ]
+    }
+  ]
+}

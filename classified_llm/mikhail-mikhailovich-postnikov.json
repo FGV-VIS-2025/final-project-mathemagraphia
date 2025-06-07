@@ -1,0 +1,22 @@
+{
+  "nome": "Mikhail Mikhailovich Postnikov",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria da Homotopia",
+      "subareas_especificas": [
+        "Grupos de Homotopia",
+        "Espaços de recobrimento",
+        "Teoria de Morse"
+      ]
+    },
+    {
+      "subarea": "Teoria de Homologia",
+      "subareas_especificas": [
+        "Homologia singular",
+        "Homologia celular",
+        "Teoria de interseção"
+      ]
+    }
+  ]
+}

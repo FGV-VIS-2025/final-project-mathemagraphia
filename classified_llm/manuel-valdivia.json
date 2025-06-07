@@ -1,0 +1,27 @@
+{
+  "nome": "Manuel Valdivia Urena",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços Vetoriais Topológicos",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Espaços de Fréchet",
+        "Espaços localmente convexos"
+      ]
+    },
+    {
+      "subarea": "Teoria da medida e Integração",
+      "subareas_especificas": [
+        "Convergência de sequências de funções"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Espaços Vetoriais Topológicos",
+      "subareas_especificas": [
+        "Teorema do Gráfico Fechado",
+        "Teorema da Aplicação Aberta"
+      ]
+    }
+  ]
+}

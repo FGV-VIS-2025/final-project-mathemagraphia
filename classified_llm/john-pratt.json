@@ -1,0 +1,18 @@
+{
+  "nome": "John Henry Pratt",
+  "area_principal": "Geofísica",
+  "subareas": [
+    {
+      "subarea": "Geodésia",
+      "subareas_especificas": [
+        "Gravimetria"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Mecânica Celeste"
+      ]
+    }
+  ]
+}

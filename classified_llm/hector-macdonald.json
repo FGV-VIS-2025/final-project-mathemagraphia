@@ -1,0 +1,19 @@
+{
+  "nome": "Hector Munro Macdonald",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Séries de Bessel"
+      ]
+    }
+  ]
+}

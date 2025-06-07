@@ -1,0 +1,21 @@
+{
+  "nome": "Vladimir Aleksandrovich Voevodsky",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Homotopia Algébrica",
+      "subareas_especificas": [
+        "Teoria K Algébrica",
+        "Motivos",
+        "Cohomologia Motivica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Algébrica",
+      "subareas_especificas": [
+        "Conjecturas de Bloch-Kato",
+        "Conjectura de Milnor"
+      ]
+    }
+  ]
+}

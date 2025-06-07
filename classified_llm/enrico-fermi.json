@@ -1,0 +1,20 @@
+{
+  "nome": "Enrico Fermi",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Quântica",
+        "Mecânica Estatística"
+      ]
+    },
+    {
+      "subarea": "Física Nuclear",
+      "subareas_especificas": [
+        "Radioatividade",
+        "Fissão Nuclear"
+      ]
+    }
+  ]
+}

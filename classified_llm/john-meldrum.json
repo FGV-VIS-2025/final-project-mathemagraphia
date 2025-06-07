@@ -1,0 +1,19 @@
+{
+  "nome": "John David Philip Meldrum",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Produtos de Coroas"
+      ]
+    },
+    {
+      "subarea": "Near-rings",
+      "subareas_especificas": [
+        "Near-rings distributivamente gerados"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Louis Robert Jules d'Adhémar",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Hiperbólicas",
+      "subareas_especificas": [
+        "Equação de onda",
+        "Método das características"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equação de Fredholm",
+        "Equação de Volterra"
+      ]
+    }
+  ]
+}

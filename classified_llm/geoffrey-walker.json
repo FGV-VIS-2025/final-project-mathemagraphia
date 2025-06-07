@@ -1,0 +1,19 @@
+{
+  "nome": "Arthur Geoffrey Walker",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Variedades Riemannianas",
+        "Campos Vetoriais Localmente Simétricos"
+      ]
+    },
+    {
+      "subarea": "Cosmologia Geométrica",
+      "subareas_especificas": [
+        "Métrica de Robertson-Walker"
+      ]
+    }
+  ]
+}

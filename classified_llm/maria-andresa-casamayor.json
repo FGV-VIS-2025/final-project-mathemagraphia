@@ -1,0 +1,24 @@
+{
+  "nome": "María Andresa Casamayor de La Coma",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Aritmética básica",
+      "subareas_especificas": [
+        "Adição",
+        "Subtração",
+        "Multiplicação",
+        "Divisão"
+      ]
+    },
+    {
+      "subarea": "Conversão de unidades",
+      "subareas_especificas": [
+        "Moedas",
+        "Comprimento",
+        "Peso",
+        "Área"
+      ]
+    }
+  ]
+}

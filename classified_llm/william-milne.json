@@ -1,0 +1,20 @@
+{
+  "nome": "William Proctor Milne",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria das Curvas Algébricas",
+      "subareas_especificas": [
+        "Curvas Cúbicas",
+        "Teoria das Funções Elípticas"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Sistemas de Triângulos Apolares",
+        "Quádricas"
+      ]
+    }
+  ]
+}

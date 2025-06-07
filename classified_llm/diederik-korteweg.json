@@ -1,0 +1,25 @@
+{
+  "nome": "Diederik Johannes Korteweg",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Propagação de ondas",
+        "Capilaridade"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Mecânica Estatística"
+      ]
+    },
+    {
+      "subarea": "Teoria das Equações Diferenciais",
+      "subareas_especificas": [
+        "Equação de Korteweg-de Vries"
+      ]
+    }
+  ]
+}

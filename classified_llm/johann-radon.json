@@ -1,0 +1,28 @@
+{
+  "nome": "Johann Radon",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integração de Lebesgue",
+        "Integração de Stieltjes"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Afim",
+        "Geometria Conforme",
+        "Geometria Riemanniana"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Transformada de Radon",
+        "Equações Integrais"
+      ]
+    }
+  ]
+}

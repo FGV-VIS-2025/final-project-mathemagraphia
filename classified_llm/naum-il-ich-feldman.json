@@ -1,0 +1,19 @@
+{
+  "nome": "Naum Il'ich Feldman",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Transcendência",
+      "subareas_especificas": [
+        "Medidas de transcendência",
+        "Aproximação diofantina"
+      ]
+    },
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Formas lineares em logaritmos de números algébricos"
+      ]
+    }
+  ]
+}

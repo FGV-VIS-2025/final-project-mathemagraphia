@@ -1,0 +1,19 @@
+{
+  "nome": "Lorna Mary Swain",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Dinâmica de Fluidos Viscosos",
+        "Turbulência"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Sólidos",
+      "subareas_especificas": [
+        "Vibrações"
+      ]
+    }
+  ]
+}

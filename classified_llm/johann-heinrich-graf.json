@@ -1,0 +1,20 @@
+{
+  "nome": "Johann Heinrich Graf",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias de Segunda Ordem"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Funções Gama",
+        "Funções Esféricas"
+      ]
+    }
+  ]
+}

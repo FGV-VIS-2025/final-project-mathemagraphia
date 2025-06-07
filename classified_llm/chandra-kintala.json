@@ -1,0 +1,22 @@
+{
+  "nome": "Chandra Mohan Rao Kintala",
+  "area_principal": "Teoria da Computação",
+  "subareas": [
+    {
+      "subarea": "Autômatos e Linguagens Formais",
+      "subareas_especificas": [
+        "Autômatos Finitos",
+        "Autômatos a Pilha",
+        "Linguagens Regulares",
+        "Linguagens Livres de Contexto"
+      ]
+    },
+    {
+      "subarea": "Complexidade Computacional",
+      "subareas_especificas": [
+        "Máquinas de Turing",
+        "Classes de Complexidade"
+      ]
+    }
+  ]
+}

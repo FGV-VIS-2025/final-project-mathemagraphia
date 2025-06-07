@@ -1,0 +1,18 @@
+{
+  "nome": "Christopher Clavius",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Calendário",
+      "subareas_especificas": [
+        "Reforma do Calendário Juliano"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Instrumentos de Medição de Ângulos"
+      ]
+    }
+  ]
+}

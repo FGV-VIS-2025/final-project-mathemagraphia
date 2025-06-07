@@ -1,0 +1,21 @@
+{
+  "nome": "Floyd Burton Jones",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Espaços Separáveis",
+        "Espaços Normais",
+        "Continuum",
+        "Espaços de Moore"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axiomas de Fundamentação"
+      ]
+    }
+  ]
+}

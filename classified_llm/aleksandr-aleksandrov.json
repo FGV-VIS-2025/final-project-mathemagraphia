@@ -1,0 +1,20 @@
+{
+  "nome": "Aleksandr Danilovic Aleksandrov",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Convexa",
+      "subareas_especificas": [
+        "Volumes Mistos",
+        "Teoria da Convergência Fraca"
+      ]
+    },
+    {
+      "subarea": "Geometria Intrínseca",
+      "subareas_especificas": [
+        "Propriedades Intrínsecas de Superfícies Convexas",
+        "Conexão entre Propriedades Intrínsecas e Extrínsecas"
+      ]
+    }
+  ]
+}

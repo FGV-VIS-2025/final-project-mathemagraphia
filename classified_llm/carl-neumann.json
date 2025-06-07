@@ -1,0 +1,27 @@
+{
+  "nome": "Carl Gottfried Neumann",
+  "area_principal": "Matemática Aplicada",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problema de Dirichlet",
+        "Potencial Logarítmico"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Eletrodinâmica",
+        "Ótica",
+        "Teoria do Calor"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Analítica"
+      ]
+    }
+  ]
+}

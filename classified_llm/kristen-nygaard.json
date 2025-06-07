@@ -1,0 +1,19 @@
+{
+  "nome": "Kristen Nygaard",
+  "area_principal": "Pesquisa Operacional",
+  "subareas": [
+    {
+      "subarea": "Simulação",
+      "subareas_especificas": [
+        "Método de Monte Carlo",
+        "Simulação de Eventos Discretos"
+      ]
+    },
+    {
+      "subarea": "Programação Orientada a Objetos",
+      "subareas_especificas": [
+        "SIMULA"
+      ]
+    }
+  ]
+}

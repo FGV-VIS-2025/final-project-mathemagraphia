@@ -1,0 +1,26 @@
+{
+  "nome": "Pavel Krejčí",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações diferenciais parciais não lineares",
+        "Soluções periódicas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Sobolev",
+        "Inequações Variacionais"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria da Hysterese"
+      ]
+    }
+  ]
+}

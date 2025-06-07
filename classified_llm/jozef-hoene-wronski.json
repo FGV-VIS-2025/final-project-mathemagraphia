@@ -1,0 +1,19 @@
+{
+  "nome": "Jozéf-Maria Hoëné de Wronski",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Soluções algébricas",
+        "Equações de grau superior"
+      ]
+    },
+    {
+      "subarea": "Determinantes",
+      "subareas_especificas": [
+        "Wronskianos"
+      ]
+    }
+  ]
+}

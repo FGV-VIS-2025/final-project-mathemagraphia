@@ -1,0 +1,20 @@
+{
+  "nome": "Ibn Yahya al-Maghribi Al-Samawal",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Polinômios",
+        "Números Negativos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Números Irracionais"
+      ]
+    }
+  ]
+}

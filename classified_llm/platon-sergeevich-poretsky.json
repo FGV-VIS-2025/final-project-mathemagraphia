@@ -1,0 +1,20 @@
+{
+  "nome": "Platon Sergeevich Poretsky",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Álgebra Booleana",
+      "subareas_especificas": [
+        "Equações Lógicas",
+        "Cálculo Proposicional",
+        "Teoria de Classes"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Aplicações da Lógica à Probabilidade"
+      ]
+    }
+  ]
+}

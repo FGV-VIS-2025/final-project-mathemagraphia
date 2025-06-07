@@ -1,0 +1,18 @@
+{
+  "nome": "Ruth Ellen Gentry",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Curvas Quárticas Planas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Quaternions"
+      ]
+    }
+  ]
+}

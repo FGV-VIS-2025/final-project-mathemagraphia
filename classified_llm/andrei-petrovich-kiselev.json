@@ -1,0 +1,29 @@
+{
+  "nome": "Andrei Petrovich Kiselev",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Elementar",
+      "subareas_especificas": [
+        "Aritmética",
+        "Equações",
+        "Inequações"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Espacial",
+        "Trigonometria"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    }
+  ]
+}

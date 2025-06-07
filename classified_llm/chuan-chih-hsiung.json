@@ -1,0 +1,28 @@
+{
+  "nome": "Chuan-Chih Hsiung",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Curvatura",
+        "Invariantes Projetivos"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Variedades Riemannianas",
+        "Curvatura",
+        "Classes Características",
+        "Isometrias"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Topologia Diferencial"
+      ]
+    }
+  ]
+}

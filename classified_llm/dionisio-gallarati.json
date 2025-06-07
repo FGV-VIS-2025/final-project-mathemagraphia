@@ -1,0 +1,20 @@
+{
+  "nome": "Dionisio Gallarati",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Variedades Projetivas",
+        "Singularidades",
+        "Grassmannianas"
+      ]
+    },
+    {
+      "subarea": "Variedades de Fano",
+      "subareas_especificas": [
+        "Classificação de Variedades de Fano"
+      ]
+    }
+  ]
+}

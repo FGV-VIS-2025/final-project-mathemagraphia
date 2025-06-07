@@ -1,0 +1,27 @@
+{
+  "nome": "Georg Karl Wilhelm Hamel",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Hidrodinâmica"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Axiom of Choice"
+      ]
+    }
+  ]
+}

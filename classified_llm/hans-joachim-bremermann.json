@@ -1,0 +1,21 @@
+{
+  "nome": "Hans-Joachim Bremermann",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Várias Variáveis Complexas",
+      "subareas_especificas": [
+        "Problema de Levi",
+        "Domínios de Holomorfia",
+        "Funções Pseudoconvexas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Distribuições",
+      "subareas_especificas": [
+        "Transformadas de Fourier",
+        "Valores de Fronteira de Funções Analíticas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "David Harold Blackwell",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria de Jogos",
+      "subareas_especificas": [
+        "Jogos Sequenciais",
+        "Jogos com Informação Incompleta"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Cadeias de Markov"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos Analíticos"
+      ]
+    }
+  ]
+}

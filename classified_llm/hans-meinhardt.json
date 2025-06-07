@@ -1,0 +1,20 @@
+{
+  "nome": "Hans Meinhardt",
+  "area_principal": "Biologia Matemática",
+  "subareas": [
+    {
+      "subarea": "Modelagem Matemática",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Simulação Computacional"
+      ]
+    },
+    {
+      "subarea": "Teoria de Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Sistemas Não-Lineares",
+        "Estabilidade de Sistemas"
+      ]
+    }
+  ]
+}

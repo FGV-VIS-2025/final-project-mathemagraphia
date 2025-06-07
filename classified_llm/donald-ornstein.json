@@ -1,0 +1,21 @@
+{
+  "nome": "Donald Samuel Ornstein",
+  "area_principal": "Teoria Ergódica",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Transformações que preservam medidas",
+        "Fluxos",
+        "Processos Estacionários",
+        "Deslocamentos de Bernoulli"
+      ]
+    },
+    {
+      "subarea": "Teoria da Informação",
+      "subareas_especificas": [
+        "Entropia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nome": "Alberto González Domínguez",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares",
+        "Transformadas de Fourier",
+        "Funções de Hille"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida e Integração",
+      "subareas_especificas": [
+        "Integração de Lebesgue"
+      ]
+    },
+    {
+      "subarea": "Teoria das Distribuições",
+      "subareas_especificas": [
+        "Aplicações à Física Quântica"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teorema do Limite Central"
+      ]
+    }
+  ]
+}

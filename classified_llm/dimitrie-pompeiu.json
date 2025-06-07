@@ -1,0 +1,39 @@
+{
+  "nome": "Dimitrie Pompeiu",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Funções de Variáveis Complexas",
+        "Singularidades de Funções Analíticas",
+        "Extensão Contínua de Funções Analíticas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equação de Riccati"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida de Conjuntos"
+      ]
+    },
+    {
+      "subarea": "Espaços Métricos",
+      "subareas_especificas": [
+        "Distância entre Conjuntos",
+        "Hiperespaços"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Georgios Ioannou Remoundos",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Funções Algébricas",
+        "Funções Transcendentes",
+        "Teorema de Picard"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Singularidades de Equações Diferenciais"
+      ]
+    }
+  ]
+}

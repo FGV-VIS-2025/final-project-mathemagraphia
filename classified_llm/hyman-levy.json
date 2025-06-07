@@ -1,0 +1,19 @@
+{
+  "nome": "Hyman Levy",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Soluções Numéricas de Equações Diferenciais",
+        "Equações de Diferenças Finitas"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

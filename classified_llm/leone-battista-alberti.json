@@ -1,0 +1,12 @@
+{
+  "nome": "Leone Battista Alberti",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Perspectiva"
+      ]
+    }
+  ]
+}

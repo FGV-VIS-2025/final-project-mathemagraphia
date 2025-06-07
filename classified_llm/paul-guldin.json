@@ -1,0 +1,19 @@
+{
+  "nome": "Paul Guldin",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Centros de Gravidade"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Volumes de Sólidos de Revolução"
+      ]
+    }
+  ]
+}

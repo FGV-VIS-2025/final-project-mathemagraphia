@@ -1,0 +1,19 @@
+{
+  "nome": "Zygmunt Janiszewski",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Conjuntos",
+      "subareas_especificas": [
+        "Continuos Irredutíveis",
+        "Teoria da Curva de Jordan"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axioma da Escolha"
+      ]
+    }
+  ]
+}

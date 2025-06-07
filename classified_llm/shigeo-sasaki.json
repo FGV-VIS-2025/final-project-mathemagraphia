@@ -1,0 +1,28 @@
+{
+  "nome": "Shigeo Sasaki",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Conforme",
+      "subareas_especificas": [
+        "Conexões Conformes",
+        "Curvas e Superfícies em Espaços Conformmente Conectados",
+        "Grupos de Holonomia"
+      ]
+    },
+    {
+      "subarea": "Geometria de Superfícies",
+      "subareas_especificas": [
+        "Geometria Global de Superfícies",
+        "Superfícies Imergidas Isometricamente em Espaços Euclidianos"
+      ]
+    },
+    {
+      "subarea": "Geometria de Fibrados Tangentes",
+      "subareas_especificas": [
+        "Variedades Quase Contato",
+        "Variedades de Sasaki"
+      ]
+    }
+  ]
+}

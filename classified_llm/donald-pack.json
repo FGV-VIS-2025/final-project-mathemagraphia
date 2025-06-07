@@ -1,0 +1,20 @@
+{
+  "nome": "Donald Cecil Pack",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica de Gases",
+      "subareas_especificas": [
+        "Escoamentos Supersonicos",
+        "Escoamentos Transsônicos",
+        "Dinâmica de Gases Rarefeitos"
+      ]
+    },
+    {
+      "subarea": "Ondas de Choque",
+      "subareas_especificas": [
+        "Ondas de Choque Supersonicas"
+      ]
+    }
+  ]
+}

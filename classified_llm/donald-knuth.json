@@ -1,0 +1,22 @@
+{
+  "nome": "Donald Ervin Knuth",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Anéis",
+        "Teoria de Módulos"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teoria de Grafos",
+        "Teoria dos Números",
+        "Design de Experimentos"
+      ]
+    }
+  ]
+}

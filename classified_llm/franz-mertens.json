@@ -1,0 +1,29 @@
+{
+  "nome": "Franz Carl Joseph Mertens",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Séries de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teorema dos Números Primos",
+        "Hipótese de Riemann",
+        "Função de Möbius",
+        "Somatórios de Gauss"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Formas Ternárias",
+        "Formas Quaternárias"
+      ]
+    }
+  ]
+}

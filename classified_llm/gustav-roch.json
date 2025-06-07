@@ -1,0 +1,18 @@
+{
+  "nome": "Gustav Roch",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Funções Abelianas",
+      "subareas_especificas": [
+        "Teorema de Riemann-Roch"
+      ]
+    },
+    {
+      "subarea": "Teoria de Potencial",
+      "subareas_especificas": [
+        "Funções de três variáveis"
+      ]
+    }
+  ]
+}

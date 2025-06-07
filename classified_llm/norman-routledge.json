@@ -1,0 +1,18 @@
+{
+  "nome": "Norman Arthur Routledge",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert"
+      ]
+    },
+    {
+      "subarea": "Teoria da Recursão",
+      "subareas_especificas": [
+        "Conjuntos Recursivos"
+      ]
+    }
+  ]
+}

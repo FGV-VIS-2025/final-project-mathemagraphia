@@ -1,0 +1,20 @@
+{
+  "nome": "Juha Heinonen",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise em Espaços Métricos",
+      "subareas_especificas": [
+        "Teoria Geométrica da Medida",
+        "Mapeamentos Quase-Conformes"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Elípticas Degeneradas",
+        "Teoria do Potencial Não-Linear"
+      ]
+    }
+  ]
+}

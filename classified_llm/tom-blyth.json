@@ -1,0 +1,19 @@
+{
+  "nome": "Thomas Scott Blyth",
+  "area_principal": "Álgebra Abstrata",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos Ordenados",
+        "Estruturas Algébricas Residuais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Reticulados",
+      "subareas_especificas": [
+        "Álgebras de Ockham"
+      ]
+    }
+  ]
+}

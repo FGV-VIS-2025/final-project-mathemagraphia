@@ -1,0 +1,20 @@
+{
+  "nome": "Geoffrey Thomas Kneebone",
+  "area_principal": "Fundamentos da Matemática",
+  "subareas": [
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Teoria dos Números"
+      ]
+    },
+    {
+      "subarea": "Filosofia da Matemática",
+      "subareas_especificas": [
+        "Epistemologia da Matemática",
+        "Axiomatização"
+      ]
+    }
+  ]
+}

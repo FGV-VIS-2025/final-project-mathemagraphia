@@ -1,0 +1,20 @@
+{
+  "nome": "László Kalmár",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Problema da Decisão",
+        "Máquinas de Turing"
+      ]
+    },
+    {
+      "subarea": "Teoria da Recursão",
+      "subareas_especificas": [
+        "Funções Recursivas",
+        "Calculo de Predicados de Primeira Ordem"
+      ]
+    }
+  ]
+}

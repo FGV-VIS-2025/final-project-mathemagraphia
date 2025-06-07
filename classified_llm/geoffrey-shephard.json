@@ -1,0 +1,27 @@
+{
+  "nome": "Geoffrey Colin Shephard",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Convexa",
+      "subareas_especificas": [
+        "Corpos Convexos",
+        "Medidas de Hausdorff"
+      ]
+    },
+    {
+      "subarea": "Geometria Discreta",
+      "subareas_especificas": [
+        "Tessellations",
+        "Empacotamento"
+      ]
+    },
+    {
+      "subarea": "Grupos de Reflexão",
+      "subareas_especificas": [
+        "Grupos Unitários",
+        "Politopos Complexos"
+      ]
+    }
+  ]
+}

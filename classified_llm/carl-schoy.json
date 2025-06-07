@@ -1,0 +1,22 @@
+{
+  "nome": "Carl Schoy",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Gnomônica",
+        "Trigonometria Esférica",
+        "Cálculo de Azimute e Altitude"
+      ]
+    },
+    {
+      "subarea": "Matemática Árabe",
+      "subareas_especificas": [
+        "Geometria",
+        "Trigonometria",
+        "Astronomia"
+      ]
+    }
+  ]
+}

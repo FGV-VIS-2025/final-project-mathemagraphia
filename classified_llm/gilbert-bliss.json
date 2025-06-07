@@ -1,0 +1,27 @@
+{
+  "nome": "Gilbert Ames Bliss",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geodésicas",
+        "Variedades"
+      ]
+    },
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Transformações",
+        "Singularidades"
+      ]
+    }
+  ]
+}

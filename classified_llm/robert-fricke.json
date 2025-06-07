@@ -1,0 +1,19 @@
+{
+  "nome": "Robert Karl Emanuel Fricke",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Funções Modulares Elípticas"
+      ]
+    },
+    {
+      "subarea": "Grupos",
+      "subareas_especificas": [
+        "Grupos Kleinianos",
+        "Grupos Finitos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nome": "Yuri Ivanovich Manin",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades racionais",
+        "Formas cúbicas",
+        "Superfícies de Fano",
+        "Teoria dos números",
+        "Formas modulares",
+        "Grupos quânticos",
+        "Geometria não comutativa"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Conjectura de Mordell",
+        "Pontos racionais em variedades",
+        "Formas modulares p-ádicas"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra linear",
+        "Álgebra homológica",
+        "Geometria diferencial"
+      ]
+    }
+  ]
+}

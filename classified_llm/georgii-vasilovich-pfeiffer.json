@@ -1,0 +1,18 @@
+{
+  "nome": "Georgii Yurii Vasilovich Pfeiffer",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Sistemas de Equações"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Pontos Singulares de Curvas e Superfícies Algébricas"
+      ]
+    }
+  ]
+}

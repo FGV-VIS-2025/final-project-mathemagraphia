@@ -1,0 +1,22 @@
+{
+  "nome": "Mary Tsingou Menzel",
+  "area_principal": "Física Computacional",
+  "subareas": [
+    {
+      "subarea": "Simulação Numérica",
+      "subareas_especificas": [
+        "Métodos de Integração Numérica",
+        "Dinâmica de Fluidos Computacional",
+        "Modelagem de Explosões"
+      ]
+    },
+    {
+      "subarea": "Programação",
+      "subareas_especificas": [
+        "Linguagem de Máquina",
+        "FORTRAN",
+        "Assembly"
+      ]
+    }
+  ]
+}

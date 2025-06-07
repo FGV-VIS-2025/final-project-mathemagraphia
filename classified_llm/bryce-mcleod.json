@@ -1,0 +1,28 @@
+{
+  "nome": "John Bryce McLeod",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Expansões Assintóticas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Reação-Difusão",
+        "Equações Elípticas",
+        "Equações Parabólicas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Equações Integrais",
+        "Comportamento Assintótico de Equações Diferenciais Funcionais"
+      ]
+    }
+  ]
+}

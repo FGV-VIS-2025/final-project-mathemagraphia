@@ -1,0 +1,20 @@
+{
+  "nome": "Kurt Werner Friedrich Reidemeister",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria dos Nós",
+        "Grupos Fundamentais"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Afim",
+        "Geometria Projetiva"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "Claude Ambrose Rogers",
+  "area_principal": "Geometria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Aproximações Diofantinas",
+        "Inequações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Geometria Convexa",
+      "subareas_especificas": [
+        "Corpos Convexos",
+        "Empacotamento e Recobrimento"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Medidas de Hausdorff",
+        "Funções de Baire",
+        "Espaços de Banach"
+      ]
+    }
+  ]
+}

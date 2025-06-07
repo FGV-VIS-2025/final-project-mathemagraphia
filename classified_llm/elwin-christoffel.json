@@ -1,0 +1,34 @@
+{
+  "nome": "Elwin Bruno Christoffel",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções conformes",
+        "Polinômios ortogonais",
+        "Frações contínuas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações diferenciais parciais",
+        "Equações diferenciais ordinárias"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Problema de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Tensor analysis",
+        "Cálculo tensorial"
+      ]
+    }
+  ]
+}

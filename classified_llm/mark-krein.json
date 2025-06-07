@@ -1,0 +1,25 @@
+{
+  "nome": "Mark Grigorievich Krein",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria Espectral",
+      "subareas_especificas": [
+        "Teoria de Operadores Lineares",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos momentos",
+      "subareas_especificas": [
+        "Matrizes Jacobianas"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Teoria de Representação"
+      ]
+    }
+  ]
+}

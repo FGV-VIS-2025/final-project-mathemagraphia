@@ -1,0 +1,27 @@
+{
+  "nome": "Yang Hui",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Equações simultâneas",
+        "Equações quadráticas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Séries",
+        "Números figurados",
+        "Quadrados mágicos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Cálculo de áreas"
+      ]
+    }
+  ]
+}

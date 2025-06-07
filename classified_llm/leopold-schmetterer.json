@@ -1,0 +1,18 @@
+{
+  "nome": "Leopold Karl Schmetterer",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Aproximação de números complexos"
+      ]
+    },
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Aproximação de certas séries trigonométricas"
+      ]
+    }
+  ]
+}

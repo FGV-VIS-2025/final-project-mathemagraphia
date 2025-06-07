@@ -1,0 +1,16 @@
+{
+  "nome": "Karl Egil Aubert",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Ideais",
+      "subareas_especificas": [
+        "x-ideais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Valuaciones",
+      "subareas_especificas": []
+    }
+  ]
+}

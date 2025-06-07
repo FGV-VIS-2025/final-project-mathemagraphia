@@ -1,0 +1,26 @@
+{
+  "nome": "Marian Țarină",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Espaços de Riemann",
+        "Grupos de Movimento"
+      ]
+    },
+    {
+      "subarea": "Espaços de Finsler",
+      "subareas_especificas": [
+        "Conexões de Finsler"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "G-estruturas em Variedades Diferenciáveis"
+      ]
+    }
+  ]
+}

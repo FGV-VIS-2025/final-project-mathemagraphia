@@ -1,0 +1,20 @@
+{
+  "nome": "Alexandre-Théophile Vandermonde",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Determinantes",
+      "subareas_especificas": [
+        "Propriedades de Determinantes",
+        "Cálculo de Determinantes"
+      ]
+    }
+  ]
+}

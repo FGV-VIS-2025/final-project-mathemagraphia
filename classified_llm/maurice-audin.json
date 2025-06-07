@@ -1,0 +1,22 @@
+{
+  "nome": "Maurice Audin",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Operadores Lineares",
+      "subareas_especificas": [
+        "Teoria espectral",
+        "Operadores compactos",
+        "Alternativa de Fredholm"
+      ]
+    },
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Espaços vetoriais normados",
+        "Teoria da medida",
+        "Integração"
+      ]
+    }
+  ]
+}

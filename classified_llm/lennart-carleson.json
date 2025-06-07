@@ -1,0 +1,26 @@
+{
+  "nome": "Lennart Axel Edvard Carleson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Medidas de Carleson"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Atratores Estranhos"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Meromorfas",
+        "Problema da Corona"
+      ]
+    }
+  ]
+}

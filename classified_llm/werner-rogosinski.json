@@ -1,0 +1,20 @@
+{
+  "nome": "Werner Wolfgang Rogosinski",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries Trigonométricas",
+        "Séries de Potências"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Subordinadas",
+        "Funções Analíticas"
+      ]
+    }
+  ]
+}

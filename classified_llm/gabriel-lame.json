@@ -1,0 +1,19 @@
+{
+  "nome": "Gabriel Lamé",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Coordenadas Curvilíneas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Algoritmo Euclidiano",
+        "Teorema de Fermat"
+      ]
+    }
+  ]
+}

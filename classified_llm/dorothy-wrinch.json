@@ -1,0 +1,27 @@
+{
+  "nome": "Dorothy Maud Wrinch",
+  "area_principal": "Matemática",
+  "subareas": [
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Teoria da Recursão"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Inferência Estatística"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Análise Funcional",
+        "Equações Diferenciais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Francisco Gomes Teixeira",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de segunda ordem"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Aproximação de raízes de equações"
+      ]
+    },
+    {
+      "subarea": "Cálculo Diferencial e Integral",
+      "subareas_especificas": []
+    }
+  ]
+}

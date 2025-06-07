@@ -1,0 +1,27 @@
+{
+  "nome": "Pavel Tichy",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Máquinas de Turing",
+        "Funções Recursivas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Sistemas Formais",
+        "Cálculo de Sequentes"
+      ]
+    },
+    {
+      "subarea": "Semântica Formal",
+      "subareas_especificas": [
+        "Lógica Intensional",
+        "Teoria do Sentido e Denotação"
+      ]
+    }
+  ]
+}

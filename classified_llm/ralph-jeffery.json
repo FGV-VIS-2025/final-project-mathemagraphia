@@ -1,0 +1,25 @@
+{
+  "nome": "Ralph Lent Jeffery",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integrais de Denjoy",
+        "Funções de Variação Limitada",
+        "Aproximação Uniforme"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Derivadas Aproximadas",
+        "Conjuntos de k-extensão"
+      ]
+    },
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": []
+    }
+  ]
+}

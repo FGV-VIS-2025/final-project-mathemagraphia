@@ -1,0 +1,21 @@
+{
+  "nome": "Peter Ladislaw Hammer",
+  "area_principal": "Álgebra Booleana",
+  "subareas": [
+    {
+      "subarea": "Programação Pseudo-Booleana",
+      "subareas_especificas": [
+        "Otimização Combinatória",
+        "Teoria dos Grafos",
+        "Pesquisa Operacional"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Anéis",
+        "Algebras de Sheffer"
+      ]
+    }
+  ]
+}

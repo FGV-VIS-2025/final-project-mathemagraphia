@@ -1,0 +1,27 @@
+{
+  "nome": "Julián Adem Chahín",
+  "area_principal": "Matemática Aplicada",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Modelagem Matemática em Geofísica",
+        "Métodos Numéricos para EDPs"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos de Aproximação",
+        "Simulação Numérica"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Dinâmica de Fluidos Atmosféricos",
+        "Modelagem Climática"
+      ]
+    }
+  ]
+}

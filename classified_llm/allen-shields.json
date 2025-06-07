@@ -1,0 +1,26 @@
+{
+  "nome": "Allen Lowell Shields",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria de Operadores",
+        "Espaços de Funções Analíticas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida e Integração",
+        "Teoria Ergódica"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Semigrupos Topológicos"
+      ]
+    }
+  ]
+}

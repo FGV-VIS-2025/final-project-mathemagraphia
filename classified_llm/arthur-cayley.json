@@ -1,0 +1,24 @@
+{
+  "nome": "Arthur Cayley",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Matrizes"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos abstratos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos invariantes",
+      "subareas_especificas": [
+        "Invariantes algébricos"
+      ]
+    }
+  ]
+}

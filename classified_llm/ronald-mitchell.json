@@ -1,0 +1,20 @@
+{
+  "nome": "Andrew Ronald Mitchell",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos para Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos de Diferenças Finitas",
+        "Métodos de Elementos Finitos",
+        "Métodos de Alta Ordem"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos para Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Métodos de Alta Ordem"
+      ]
+    }
+  ]
+}

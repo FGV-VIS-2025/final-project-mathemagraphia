@@ -1,0 +1,18 @@
+{
+  "nome": "Gury Vasilievich Kolosov",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Sólidos",
+      "subareas_especificas": [
+        "Teoria da Elasticidade"
+      ]
+    },
+    {
+      "subarea": "Mecânica Analítica",
+      "subareas_especificas": [
+        "Princípio de Hamilton"
+      ]
+    }
+  ]
+}

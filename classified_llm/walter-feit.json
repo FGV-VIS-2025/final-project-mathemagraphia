@@ -1,0 +1,20 @@
+{
+  "nome": "Walter Feit",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos de ordem ímpar",
+        "Teoria de Caracteres"
+      ]
+    },
+    {
+      "subarea": "Representações de Grupos",
+      "subareas_especificas": [
+        "Representações Modulares",
+        "Representações p-ádicas"
+      ]
+    }
+  ]
+}

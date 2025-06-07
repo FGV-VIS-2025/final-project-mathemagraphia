@@ -1,0 +1,25 @@
+{
+  "nome": "Gustave Alfred Arthur Choquet",
+  "area_principal": "Teoria da Medida",
+  "subareas": [
+    {
+      "subarea": "Teoria da Capacidade",
+      "subareas_especificas": [
+        "Capacitabilidade",
+        "Medidas não-aditivas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Representações Integrais em Conjuntos Convexos Compactos"
+      ]
+    },
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Homeomorfismos Planares"
+      ]
+    }
+  ]
+}

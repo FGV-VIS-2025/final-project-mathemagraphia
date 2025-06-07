@@ -1,0 +1,27 @@
+{
+  "nome": "Albert Turner Bharucha-Reid",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Processos de ramificação",
+        "Teoria das Epidemias Estocásticas"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais Aleatórias",
+      "subareas_especificas": [
+        "Métodos Computacionais"
+      ]
+    },
+    {
+      "subarea": "Polinômios Aleatórios",
+      "subareas_especificas": [
+        "Polinômios Algébricos Aleatórios",
+        "Matrizes Aleatórias"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "George Green",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Laplace",
+        "Função Potencial",
+        "Teoria do Potencial"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Cálculo",
+        "Integrais de Superfície e Volume"
+      ]
+    }
+  ]
+}

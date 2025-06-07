@@ -1,0 +1,20 @@
+{
+  "nome": "Thomas Henry Havelock",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Resistência de ondas de navios",
+        "Teoria de ondas"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Equações diferenciais parciais",
+        "Análise de Fourier"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "Chaim Samuel Hönig",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria de Espaços de Banach",
+        "Teoria de Operadores",
+        "Problema de Sturm-Liouville"
+      ]
+    },
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Espaços L2",
+        "Teoremas do tipo Sobolev"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Espaços Topológicos",
+        "Métodos de Refinamento de Topologias"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Henry Briggs",
+  "area_principal": "Logaritmos",
+  "subareas": [
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Construção de tabelas logarítmicas",
+        "Aproximação de funções"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Aplicações de logaritmos em trigonometria",
+        "Tabelas trigonométricas"
+      ]
+    }
+  ]
+}

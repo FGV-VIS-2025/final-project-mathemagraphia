@@ -1,0 +1,20 @@
+{
+  "nome": "Jean-Pierre Kahane",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries Trigonométricas",
+        "Séries Aleatórias de Fourier"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Funções Quase-Analíticas",
+        "Transformadas de Fourier"
+      ]
+    }
+  ]
+}

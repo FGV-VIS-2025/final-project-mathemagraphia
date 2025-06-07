@@ -1,0 +1,13 @@
+{
+  "nome": "Christine Mary Hamill",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Grupos de Colineação",
+        "Geometria de Grupos Finitos"
+      ]
+    }
+  ]
+}

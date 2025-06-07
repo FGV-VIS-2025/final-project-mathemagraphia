@@ -1,0 +1,26 @@
+{
+  "nome": "Frank Smithies",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Teoria de operadores lineares"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Teoria de operadores"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Teoria dos Números",
+        "Cálculo"
+      ]
+    }
+  ]
+}

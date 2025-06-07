@@ -1,0 +1,18 @@
+{
+  "nome": "Louis Auslander",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Finsler",
+      "subareas_especificas": [
+        "Geometria Global de Finsler"
+      ]
+    },
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Representações Unitárias de Grupos de Lie Solúveis"
+      ]
+    }
+  ]
+}

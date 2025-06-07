@@ -1,0 +1,14 @@
+{
+  "nome": "Karl Peter Heinrich Maruhn",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Funções Harmônicas",
+        "Potencias de Camadas Simples e Duplas"
+      ]
+    }
+  ]
+}

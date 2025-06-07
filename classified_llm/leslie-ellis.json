@@ -1,0 +1,19 @@
+{
+  "nome": "Robert Leslie Ellis",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Teoria das Probabilidades",
+        "Método dos Mínimos Quadrados"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Teoria da Comparação de Transcendentais"
+      ]
+    }
+  ]
+}

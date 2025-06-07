@@ -1,0 +1,29 @@
+{
+  "nome": "Hans Julius Zassenhaus",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos Simples",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Algébrica dos Números",
+        "Corpos de Números Algébricos",
+        "Grupos de Galois"
+      ]
+    }
+  ]
+}

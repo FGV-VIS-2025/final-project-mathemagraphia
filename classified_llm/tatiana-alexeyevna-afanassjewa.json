@@ -1,0 +1,20 @@
+{
+  "nome": "Tatiana Ehrenfest-Afanassjewa",
+  "area_principal": "Física Estatística",
+  "subareas": [
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases",
+        "Teorema H de Boltzmann",
+        "Mecânica Estatística de Gibbs"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Fundamentos da Termodinâmica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Wilhelm Süss",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Teoria de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Curvatura",
+        "Formas Fundamentais"
+      ]
+    }
+  ]
+}

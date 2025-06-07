@@ -1,0 +1,21 @@
+{
+  "nome": "Samuel Verblunsky",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Convergência de Integrais Singulares",
+        "Fenômeno de Gibbs",
+        "Derivada Simétrica"
+      ]
+    },
+    {
+      "subarea": "Funções de Variável Real",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Integração"
+      ]
+    }
+  ]
+}

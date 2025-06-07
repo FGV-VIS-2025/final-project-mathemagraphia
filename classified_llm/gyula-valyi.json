@@ -1,0 +1,24 @@
+{
+  "nome": "Gyula Vályi",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Reciprocidade Polar"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Triângulos com lados inteiros"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Segunda Ordem"
+      ]
+    }
+  ]
+}

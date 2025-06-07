@@ -1,0 +1,29 @@
+{
+  "nome": "Dennis Parnell Sullivan",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria da Homotopia",
+        "Teoria de Bordismo",
+        "K-teoria"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Dinâmica Conformal",
+        "Teoria de Teichmüller",
+        "Grupos Kleinianos"
+      ]
+    },
+    {
+      "subarea": "Teoria Geométrica de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Geometria de Baixa Dimensão"
+      ]
+    }
+  ]
+}

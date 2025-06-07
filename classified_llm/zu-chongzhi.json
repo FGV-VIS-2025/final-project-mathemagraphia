@@ -1,0 +1,18 @@
+{
+  "nome": "Zu Chongzhi",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Cálculo de π"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de comprimentos e ângulos"
+      ]
+    }
+  ]
+}

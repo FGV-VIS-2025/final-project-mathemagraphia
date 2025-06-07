@@ -1,0 +1,12 @@
+{
+  "nome": "Anthemius of Tralles",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    }
+  ]
+}

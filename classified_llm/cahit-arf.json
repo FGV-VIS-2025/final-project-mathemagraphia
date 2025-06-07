@@ -1,0 +1,20 @@
+{
+  "nome": "Cahit Arf",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Formas Quadráticas",
+        "Corpos de Classes",
+        "Funções L"
+      ]
+    },
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis de Arf"
+      ]
+    }
+  ]
+}

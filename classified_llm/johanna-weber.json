@@ -1,0 +1,20 @@
+{
+  "nome": "Johanna Salome Weber",
+  "area_principal": "Aerodinâmica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Dinâmica de Fluidos Computacional",
+        "Teoria de Escoamento Potencial"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Análise Numérica"
+      ]
+    }
+  ]
+}

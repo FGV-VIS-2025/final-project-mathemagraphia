@@ -1,0 +1,27 @@
+{
+  "nome": "Ludwig Schlesinger",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Lineares",
+      "subareas_especificas": [
+        "Sistemas de Equações Diferenciais Lineares",
+        "Equações Diferenciais Parciais Lineares"
+      ]
+    },
+    {
+      "subarea": "Funções Automórficas",
+      "subareas_especificas": [
+        "Teoria de Grupos de Transformações"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções de Variável Complexa",
+        "Séries de Fourier",
+        "Integração de Lebesgue"
+      ]
+    }
+  ]
+}

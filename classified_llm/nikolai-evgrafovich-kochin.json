@@ -1,0 +1,27 @@
+{
+  "nome": "Nikolai Evgrafovich Kochin",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Meteorologia",
+      "subareas_especificas": [
+        "Ciclogênese",
+        "Circulação Atmosférica Geral"
+      ]
+    },
+    {
+      "subarea": "Dinâmica de Gases",
+      "subareas_especificas": [
+        "Ondas de Choque em Fluidos Compressíveis"
+      ]
+    },
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Ondas de Cauchy-Poisson",
+        "Estabilidade do Movimento de Fluidos",
+        "Resistência de Ondas de Corpos Submersos"
+      ]
+    }
+  ]
+}

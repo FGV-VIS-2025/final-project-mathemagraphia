@@ -1,0 +1,20 @@
+{
+  "nome": "Pierre Alphonse Laurent",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Séries de Laurent",
+      "subareas_especificas": [
+        "Teoria das Funções Complexas",
+        "Séries de Potências"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Integrais Múltiplas",
+        "Máximos e Mínimos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Carlos de Siguenza y Gongora",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Cosmografia",
+      "subareas_especificas": [
+        "Cartografia",
+        "Mapas estelares"
+      ]
+    },
+    {
+      "subarea": "Matematica",
+      "subareas_especificas": [
+        "Geometria",
+        "Trigonometria"
+      ]
+    }
+  ]
+}

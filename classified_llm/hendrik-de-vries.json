@@ -1,0 +1,19 @@
+{
+  "nome": "Hendrik de Vries",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Descritiva"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Geometria Analítica",
+        "Geometria Diferencial"
+      ]
+    }
+  ]
+}

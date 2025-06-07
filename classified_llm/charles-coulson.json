@@ -1,0 +1,19 @@
+{
+  "nome": "Charles Alfred Coulson",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria de Moléculas",
+        "Orbital Molecular"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equação de Onda"
+      ]
+    }
+  ]
+}

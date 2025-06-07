@@ -1,0 +1,21 @@
+{
+  "nome": "Theodor Angheluță",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Funcionais",
+      "subareas_especificas": [
+        "Equações Funcionais Algébricas",
+        "Equações Integrais",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Polinômios",
+      "subareas_especificas": [
+        "Raízes de Polinômios",
+        "Transformações Projetivas"
+      ]
+    }
+  ]
+}

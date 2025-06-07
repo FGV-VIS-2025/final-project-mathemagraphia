@@ -1,0 +1,22 @@
+{
+  "nome": "Marie-Hélène Schwartz",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Classes características",
+        "Variedades analíticas complexas",
+        "Espaços fibrados"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções meromorfas",
+        "Teoria de Ahlfors",
+        "Teorema de Poincaré-Hopf"
+      ]
+    }
+  ]
+}

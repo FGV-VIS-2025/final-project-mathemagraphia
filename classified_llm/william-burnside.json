@@ -1,0 +1,20 @@
+{
+  "nome": "William Burnside",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos Simples",
+        "Teoria de Caracteres",
+        "Teoria de Representação"
+      ]
+    },
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de transformações lineares fracionais"
+      ]
+    }
+  ]
+}

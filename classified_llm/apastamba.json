@@ -1,0 +1,13 @@
+{
+  "nome": "Apastamba",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Construções Geométricas",
+        "Cálculo de Áreas e Volumes"
+      ]
+    }
+  ]
+}

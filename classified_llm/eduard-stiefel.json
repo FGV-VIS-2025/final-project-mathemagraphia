@@ -1,0 +1,26 @@
+{
+  "nome": "Eduard L Stiefel",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais",
+        "Teoria de Módulos"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Iterativos",
+        "Álgebra Linear Computacional"
+      ]
+    }
+  ]
+}

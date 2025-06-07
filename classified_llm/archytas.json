@@ -1,0 +1,18 @@
+{
+  "nome": "Archytas of Tarentum",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Duplicação do Cubo"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Médias"
+      ]
+    }
+  ]
+}

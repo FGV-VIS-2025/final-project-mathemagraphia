@@ -1,0 +1,28 @@
+{
+  "nome": "Albert Girard",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Teorema Fundamental da Álgebra",
+        "Raízes de Equações",
+        "Funções Simétricas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Funções Trigonométricas",
+        "Fórmulas para Área de Triângulos Esféricos"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Frações Contínuas",
+        "Sequência de Fibonacci"
+      ]
+    }
+  ]
+}

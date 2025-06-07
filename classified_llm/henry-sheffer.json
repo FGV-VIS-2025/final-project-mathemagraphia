@@ -1,0 +1,20 @@
+{
+  "nome": "Henry Maurice Sheffer",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Álgebra Booleana",
+      "subareas_especificas": [
+        "Postulados para Álgebra Booleana",
+        "Operador Sheffer"
+      ]
+    },
+    {
+      "subarea": "Lógica Simbólica",
+      "subareas_especificas": [
+        "Sistemas Dedutivos",
+        "Teoria dos Tipos"
+      ]
+    }
+  ]
+}

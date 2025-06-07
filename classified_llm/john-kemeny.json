@@ -1,0 +1,20 @@
+{
+  "nome": "John Kemeny",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Processos Estocásticos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes",
+        "Espaços Vetoriais"
+      ]
+    }
+  ]
+}

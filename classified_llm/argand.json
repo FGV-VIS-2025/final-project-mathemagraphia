@@ -1,0 +1,19 @@
+{
+  "nome": "Jean Robert Argand",
+  "area_principal": "Números Complexos",
+  "subareas": [
+    {
+      "subarea": "Representação Geométrica",
+      "subareas_especificas": [
+        "Interpretação Geométrica de Números Complexos",
+        "Diagramas de Argand"
+      ]
+    },
+    {
+      "subarea": "Teorema Fundamental da Álgebra",
+      "subareas_especificas": [
+        "Demonstrações do Teorema Fundamental da Álgebra"
+      ]
+    }
+  ]
+}

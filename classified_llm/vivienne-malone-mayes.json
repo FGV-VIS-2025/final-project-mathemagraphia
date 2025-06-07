@@ -1,0 +1,19 @@
+{
+  "nome": "Vivienne Malone-Mayes",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Assintótica",
+      "subareas_especificas": [
+        "Funções de Estado Estacionário",
+        "Teoria da Somabilidade"
+      ]
+    },
+    {
+      "subarea": "Análise Matricial",
+      "subareas_especificas": [
+        "Matrizes de Hausdorff"
+      ]
+    }
+  ]
+}

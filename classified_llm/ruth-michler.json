@@ -1,0 +1,20 @@
+{
+  "nome": "Ruth Ingrid Michler",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Teoria de Anéis",
+        "Geometria Algébrica"
+      ]
+    },
+    {
+      "subarea": "Homologia Cíclica",
+      "subareas_especificas": [
+        "Homologia de Hochschild",
+        "Teoria K"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Nathan Jacob Fine",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Séries Hipergeométricas",
+      "subareas_especificas": [
+        "Séries q-hipergeométricas",
+        "Funções mock theta"
+      ]
+    },
+    {
+      "subarea": "Teoria das Partições",
+      "subareas_especificas": [
+        "Partições"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Ludwig Prandtl",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Camada Limite",
+      "subareas_especificas": [
+        "Escoamento Viscoso",
+        "Equações de Navier-Stokes"
+      ]
+    },
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Aerodinâmica",
+        "Hidrodinâmica"
+      ]
+    }
+  ]
+}

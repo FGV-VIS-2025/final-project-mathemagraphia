@@ -1,0 +1,21 @@
+{
+  "nome": "Marius Sophus Lie",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Álgebras de Lie",
+        "Transformações de Contato"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Álgebras de Lie"
+      ]
+    }
+  ]
+}

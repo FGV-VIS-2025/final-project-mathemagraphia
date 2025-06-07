@@ -1,0 +1,27 @@
+{
+  "nome": "Charles Émile Picard",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Problema de Cauchy"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Inteiras",
+        "Funções Modulares"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Superfícies Algébricas",
+        "Integrais em Superfícies Algébricas"
+      ]
+    }
+  ]
+}

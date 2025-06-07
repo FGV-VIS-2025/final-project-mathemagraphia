@@ -1,0 +1,21 @@
+{
+  "nome": "John Joseph O'Connor",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Biografias de Matemáticos",
+        "Desenvolvimento de Conceitos Matemáticos",
+        "Influência da Matemática na Sociedade"
+      ]
+    },
+    {
+      "subarea": "Computação",
+      "subareas_especificas": [
+        "Desenvolvimento de Software Educacional",
+        "Arquivamento Digital"
+      ]
+    }
+  ]
+}

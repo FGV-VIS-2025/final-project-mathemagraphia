@@ -1,0 +1,22 @@
+{
+  "nome": "Filadelfo Insolera",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Inferência Estatística",
+        "Análise de Regressão"
+      ]
+    },
+    {
+      "subarea": "Matemática Financeira",
+      "subareas_especificas": [
+        "Cálculo Financeiro",
+        "Análise de Risco",
+        "Modelos de Precificação"
+      ]
+    }
+  ]
+}

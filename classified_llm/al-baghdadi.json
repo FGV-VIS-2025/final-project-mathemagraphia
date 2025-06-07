@@ -1,0 +1,26 @@
+{
+  "nome": "Abu Mansur ibn Tahir Al-Baghdadi",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Abundantes, Deficientes e Perfeitos",
+      "subareas_especificas": [
+        "Números Abundantes",
+        "Números Deficientes",
+        "Números Perfeitos"
+      ]
+    },
+    {
+      "subarea": "Números Amigáveis",
+      "subareas_especificas": [
+        "Números Amigáveis"
+      ]
+    },
+    {
+      "subarea": "Números Equivalentes",
+      "subareas_especificas": [
+        "Números Equivalentes"
+      ]
+    }
+  ]
+}

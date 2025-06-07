@@ -1,0 +1,23 @@
+{
+  "nome": "Evgeny Evgenievich Slutsky",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Processos Estocásticos",
+        "Limites Estocásticos",
+        "Integrais Estocásticas",
+        "Derivadas Estocásticas"
+      ]
+    },
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Teoria da Correlação",
+        "Séries Temporais",
+        "Análise de Regressão"
+      ]
+    }
+  ]
+}

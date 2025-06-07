@@ -1,0 +1,21 @@
+{
+  "nome": "Kollagunta Gopalaiyer Ramanathan",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas Quadráticas sobre Álgebras de Divisão com Involução",
+        "Grupos de Unidades de Formas Quadráticas e Hermitianas"
+      ]
+    },
+    {
+      "subarea": "Funções Modulares",
+      "subareas_especificas": [
+        "Equações Modulares",
+        "Séries Hipergeométricas",
+        "Frações Contínuas"
+      ]
+    }
+  ]
+}

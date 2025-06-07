@@ -1,0 +1,19 @@
+{
+  "nome": "Jacques Herbrand",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Teorema de Herbrand"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Corpos de Números Algébricos",
+        "Teoria dos Corpos de Classes"
+      ]
+    }
+  ]
+}

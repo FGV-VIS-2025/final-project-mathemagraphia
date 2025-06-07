@@ -1,0 +1,21 @@
+{
+  "nome": "Arne Carl-August Beurling",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções inteiras",
+        "Teoria do Potencial",
+        "Transformações Quase-Conformes"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Séries de Dirichlet",
+        "Integrais de Fourier"
+      ]
+    }
+  ]
+}

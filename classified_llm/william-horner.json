@@ -1,0 +1,12 @@
+{
+  "nome": "William George Horner",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Algébricas",
+      "subareas_especificas": [
+        "Métodos Numéricos para Resolução de Equações"
+      ]
+    }
+  ]
+}

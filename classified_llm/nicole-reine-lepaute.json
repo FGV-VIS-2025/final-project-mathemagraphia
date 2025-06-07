@@ -1,0 +1,19 @@
+{
+  "nome": "Nicole-Reine Etable de Labrière Lepaute",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Linear"
+      ]
+    }
+  ]
+}

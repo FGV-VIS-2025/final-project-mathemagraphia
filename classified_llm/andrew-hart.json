@@ -1,0 +1,19 @@
+{
+  "nome": "Andrew Searle Hart",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geodésicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Cúbicas",
+        "Quárticas Torcidas"
+      ]
+    }
+  ]
+}

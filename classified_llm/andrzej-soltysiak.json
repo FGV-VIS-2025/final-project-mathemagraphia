@@ -1,0 +1,19 @@
+{
+  "nome": "Andrzej Sołtysiak",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebra de Banach",
+      "subareas_especificas": [
+        "Espectro Conjunto",
+        "Elementos Algébricos e Quase-Algébricos"
+      ]
+    },
+    {
+      "subarea": "Teoria Espectral",
+      "subareas_especificas": [
+        "Operadores Lineares em Espaços de Banach"
+      ]
+    }
+  ]
+}

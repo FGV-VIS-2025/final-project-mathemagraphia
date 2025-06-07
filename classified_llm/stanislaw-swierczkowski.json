@@ -1,0 +1,13 @@
+{
+  "nome": "Stanisław Sławomir Świerczkowski",
+  "area_principal": "Teoria dos Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos cíclicos"
+      ]
+    }
+  ]
+}

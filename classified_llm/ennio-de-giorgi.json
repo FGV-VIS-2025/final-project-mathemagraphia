@@ -1,0 +1,20 @@
+{
+  "nome": "Ennio  De Giorgi",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Elípticas",
+        "Equações Diferenciais Parabólicas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida Geométrica",
+      "subareas_especificas": [
+        "Superfícies Mínimas",
+        "Cálculo de Variações"
+      ]
+    }
+  ]
+}

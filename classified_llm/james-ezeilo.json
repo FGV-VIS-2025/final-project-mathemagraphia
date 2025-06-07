@@ -1,0 +1,18 @@
+{
+  "nome": "James Okoye Chukwuka Ezeilo",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Estabilidade",
+        "Limitabilidade",
+        "Convergência de Soluções"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": []
+    }
+  ]
+}

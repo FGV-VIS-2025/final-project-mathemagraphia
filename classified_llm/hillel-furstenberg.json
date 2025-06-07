@@ -1,0 +1,35 @@
+{
+  "nome": "Hillel Furstenberg",
+  "area_principal": "Teoria Ergódica",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Topologia"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Progressões Aritméticas",
+        "Diophantine Inequalities"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Cadeias de Markov",
+        "Processos Estocásticos",
+        "Produtos de Matrizes Aleatórias"
+      ]
+    },
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos Discretos",
+        "Espaços Homogêneos"
+      ]
+    }
+  ]
+}

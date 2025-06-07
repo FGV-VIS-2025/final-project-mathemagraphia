@@ -1,0 +1,23 @@
+{
+  "nome": "Charles Pisot",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Algébricos",
+      "subareas_especificas": [
+        "Números de Pisot",
+        "Números de Salem"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Análise p-ádica",
+      "subareas_especificas": [
+        "Funções Racionais"
+      ]
+    }
+  ]
+}

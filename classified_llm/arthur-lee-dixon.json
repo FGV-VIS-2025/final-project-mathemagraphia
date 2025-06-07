@@ -1,0 +1,27 @@
+{
+  "nome": "Arthur Lee Dixon",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Superfícies Cúbicas",
+        "Quádricas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Funções Hiperelípticas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Teoria Analítica dos Números"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Panini",
+  "area_principal": "Linguística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Linguagem Formal",
+      "subareas_especificas": [
+        "Gramática Formal",
+        "Metalínguagem"
+      ]
+    }
+  ]
+}

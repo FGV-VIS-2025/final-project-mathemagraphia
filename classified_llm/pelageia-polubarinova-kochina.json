@@ -1,0 +1,21 @@
+{
+  "nome": "Pelageia Yakovlevna Polubarinova Kochina",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Teoria da Filtração",
+        "Escoamento em Meios Porosos",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Biografias de Matemáticos",
+        "Análise Complexa"
+      ]
+    }
+  ]
+}

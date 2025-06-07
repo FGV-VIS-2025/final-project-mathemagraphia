@@ -1,0 +1,19 @@
+{
+  "nome": "Marion Ilse Walter",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Informal",
+      "subareas_especificas": [
+        "Geometria com espelhos",
+        "Construções geométricas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria dos Números Computacional"
+      ]
+    }
+  ]
+}

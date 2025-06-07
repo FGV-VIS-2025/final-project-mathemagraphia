@@ -1,0 +1,28 @@
+{
+  "nome": "John William Scott Cassels",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas quadráticas racionais"
+      ]
+    },
+    {
+      "subarea": "Geometria dos Números",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Curvas Elípticas",
+      "subareas_especificas": [
+        "Pontos Integrais em Curvas Elípticas"
+      ]
+    }
+  ]
+}

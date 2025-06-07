@@ -1,0 +1,27 @@
+{
+  "nome": "Percy John Daniell",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integral de Daniell"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Equação de Chapman-Kolmogorov",
+        "Processo de Wiener"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Estimadores Lineares de Estatísticas de Ordem",
+        "Média Truncada"
+      ]
+    }
+  ]
+}

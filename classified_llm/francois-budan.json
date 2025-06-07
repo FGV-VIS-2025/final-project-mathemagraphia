@@ -1,0 +1,13 @@
+{
+  "nome": "Ferdinand François Désiré Budan de Boislaurent",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Polinomiais",
+      "subareas_especificas": [
+        "Raízes Reais",
+        "Método Numérico"
+      ]
+    }
+  ]
+}

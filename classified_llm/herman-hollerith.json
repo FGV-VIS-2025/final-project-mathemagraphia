@@ -1,0 +1,13 @@
+{
+  "nome": "Herman Hollerith",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Computacional",
+      "subareas_especificas": [
+        "Processamento de Dados",
+        "Análise de Dados"
+      ]
+    }
+  ]
+}

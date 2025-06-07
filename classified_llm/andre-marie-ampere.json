@@ -1,0 +1,18 @@
+{
+  "nome": "André Marie Ampère",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria dos Jogos"
+      ]
+    }
+  ]
+}

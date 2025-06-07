@@ -1,0 +1,18 @@
+{
+  "nome": "Johann Gabriel Doppelmayr",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "-"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Prática"
+      ]
+    }
+  ]
+}

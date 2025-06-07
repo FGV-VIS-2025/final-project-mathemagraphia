@@ -1,0 +1,27 @@
+{
+  "nome": "Jorge Juan y Santacilia",
+  "area_principal": "Geodesia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Triangulação",
+        "Medidas de Meridianos"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica de Fluidos",
+        "Teoria de Choque e Atrito"
+      ]
+    }
+  ]
+}

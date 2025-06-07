@@ -1,0 +1,19 @@
+{
+  "nome": "Andrew Mattei Gleason",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos localmente compactos",
+        "Subgrupos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medidas em espaços de Hilbert"
+      ]
+    }
+  ]
+}

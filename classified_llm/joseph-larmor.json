@@ -1,0 +1,20 @@
+{
+  "nome": "Joseph Larmor",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletrodinâmica",
+        "Teoria do Eletrão"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Princípio da Mínima Ação"
+      ]
+    }
+  ]
+}

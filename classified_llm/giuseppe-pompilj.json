@@ -1,0 +1,22 @@
+{
+  "nome": "Giuseppe Pompilj",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Abelianas",
+        "Transformações de Cremona",
+        "Superfícies Hiperelípticas ou Trigonais"
+      ]
+    },
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Teoria da Regressão",
+        "Teoria da Conformidade",
+        "Teoria das Variáveis Aleatórias"
+      ]
+    }
+  ]
+}

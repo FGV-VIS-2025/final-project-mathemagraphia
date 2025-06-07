@@ -1,0 +1,13 @@
+{
+  "nome": "James Mercer",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Expansão de funções arbitrárias em séries de funções ortogonais",
+        "Teoria de Mercer"
+      ]
+    }
+  ]
+}

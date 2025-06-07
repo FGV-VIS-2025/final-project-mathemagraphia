@@ -1,0 +1,12 @@
+{
+  "nome": "Ludwig Berwald",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Finsler",
+      "subareas_especificas": [
+        "Geometria Spray"
+      ]
+    }
+  ]
+}

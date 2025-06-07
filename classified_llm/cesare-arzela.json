@@ -1,0 +1,21 @@
+{
+  "nome": "Cesare Arzelà",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Séries de Funções",
+        "Convergência Uniforme"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Funções de Linha",
+        "Espaços Métricos"
+      ]
+    }
+  ]
+}

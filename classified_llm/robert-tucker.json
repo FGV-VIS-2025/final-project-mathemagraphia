@@ -1,0 +1,19 @@
+{
+  "nome": "Robert Tucker",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "círculos",
+        "quadriláteros"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        ""
+      ]
+    }
+  ]
+}

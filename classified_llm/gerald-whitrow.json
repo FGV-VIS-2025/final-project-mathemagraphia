@@ -1,0 +1,21 @@
+{
+  "nome": "Gerald James Whitrow",
+  "area_principal": "Cosmologia",
+  "subareas": [
+    {
+      "subarea": "Relatividade",
+      "subareas_especificas": [
+        "Relatividade Restrita",
+        "Relatividade Geral"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemática Grega",
+        "Matemática do século XVI",
+        "Desenvolvimento da matemática moderna"
+      ]
+    }
+  ]
+}

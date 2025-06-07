@@ -1,0 +1,12 @@
+{
+  "nome": "Jock Hoe",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Chinesa",
+      "subareas_especificas": [
+        "Sistemas de equações polinomiais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nome": "Udo Hugo Helmuth Wegner",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Números",
+      "subareas_especificas": [
+        "Polinômios",
+        "Corpos",
+        "Teoria de Grupos"
+      ]
+    }
+  ]
+}

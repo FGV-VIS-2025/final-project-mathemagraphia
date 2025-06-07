@@ -1,0 +1,20 @@
+{
+  "nome": "Julio Garavito Armero",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas Planas",
+        "Covariantes e Invariantes"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Cálculo de π",
+        "Probabilidade Geométrica"
+      ]
+    }
+  ]
+}

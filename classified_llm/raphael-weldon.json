@@ -1,0 +1,22 @@
+{
+  "nome": "Walter Frank Raphael Weldon",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Bioestatística",
+      "subareas_especificas": [
+        "Análise de Dados Biológicos",
+        "Distribuições de Probabilidade",
+        "Inferência Estatística",
+        "Correlação"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Cálculo de Probabilidade",
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

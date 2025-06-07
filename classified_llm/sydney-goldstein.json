@@ -1,0 +1,21 @@
+{
+  "nome": "Sydney Goldstein",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Teoria da Camada Limite",
+        "Turbulência",
+        "Aerodinâmica"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Navier-Stokes",
+        "Métodos Numéricos"
+      ]
+    }
+  ]
+}

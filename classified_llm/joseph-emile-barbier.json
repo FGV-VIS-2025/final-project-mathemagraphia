@@ -1,0 +1,24 @@
+{
+  "nome": "Joseph Émile Barbier",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Curvas de Largura Constante"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Inteiros"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Integral"
+      ]
+    }
+  ]
+}

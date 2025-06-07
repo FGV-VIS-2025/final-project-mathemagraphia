@@ -1,0 +1,27 @@
+{
+  "nome": "Samuel Stanley Wilks",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Multivariada",
+      "subareas_especificas": [
+        "Análise de Variância Multivariada",
+        "Distribuições Multivariadas"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Teoria da Estimativa",
+        "Teoria dos Testes de Hipóteses",
+        "Limites de Tolerância"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade em Amostras Pequenas"
+      ]
+    }
+  ]
+}

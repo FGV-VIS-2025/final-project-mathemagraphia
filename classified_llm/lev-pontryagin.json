@@ -1,0 +1,25 @@
+{
+  "nome": "Lev Semenovich Pontryagin",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Grupos Topológicos",
+      "subareas_especificas": [
+        "Grupos Abelianos",
+        "Grupos Compactos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Dualidade",
+      "subareas_especificas": [
+        "Grupos de Homologia"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Caracteres",
+      "subareas_especificas": [
+        "Caracteres de Grupos Abelianos"
+      ]
+    }
+  ]
+}

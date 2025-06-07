@@ -1,0 +1,20 @@
+{
+  "nome": "Abraham Robinson",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria de Modelos",
+      "subareas_especificas": [
+        "Teoria de Modelos de Primeira Ordem",
+        "Metamatemática de Sistemas Algébricos"
+      ]
+    },
+    {
+      "subarea": "Análise Não-Padrão",
+      "subareas_especificas": [
+        "Infinitesimais",
+        "Números Hiperreais"
+      ]
+    }
+  ]
+}

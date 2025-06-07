@@ -1,0 +1,14 @@
+{
+  "nome": "Étienne Bézout",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Eliminação",
+        "Determinantes",
+        "Equações Algébricas"
+      ]
+    }
+  ]
+}

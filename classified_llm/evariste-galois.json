@@ -1,0 +1,13 @@
+{
+  "nome": "Évariste Galois",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos",
+        "Teoria de Galois"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Christine Ladd-Franklin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Booleana",
+      "subareas_especificas": [
+        "Lógica Simbólica"
+      ]
+    }
+  ]
+}

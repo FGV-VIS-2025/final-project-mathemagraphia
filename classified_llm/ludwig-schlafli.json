@@ -1,0 +1,33 @@
+{
+  "nome": "Ludwig Schläfli",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica",
+        "Geometria Elíptica"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Superfícies Cúbicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades",
+        "Politopos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Funções",
+      "subareas_especificas": [
+        "Função Gama",
+        "Função de Bessel"
+      ]
+    }
+  ]
+}

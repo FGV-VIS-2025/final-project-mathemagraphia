@@ -1,0 +1,26 @@
+{
+  "nome": "Piero della Francesca",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Perspectiva"
+      ]
+    },
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Poliedros Regulares",
+        "Poliedros de Arquimedes"
+      ]
+    }
+  ]
+}

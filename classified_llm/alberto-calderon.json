@@ -1,0 +1,21 @@
+{
+  "nome": "Alberto Pedro Calderón",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Operadores Integrais Singulares",
+        "Transformada de Hilbert",
+        "Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problema de Cauchy",
+        "Operadores Pseudodiferenciais"
+      ]
+    }
+  ]
+}

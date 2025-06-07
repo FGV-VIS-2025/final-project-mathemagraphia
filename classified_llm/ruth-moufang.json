@@ -1,0 +1,21 @@
+{
+  "nome": "Ruth Moufang",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Planos de Moufang",
+        "Loops de Moufang",
+        "Álgebras alternativas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Metabelianos",
+        "Semigrupos Livres"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Henry More",
+  "area_principal": "Filosofia Natural",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Movimento",
+        "Força",
+        "Espaço"
+      ]
+    },
+    {
+      "subarea": "Metafísica",
+      "subareas_especificas": [
+        "Espaço",
+        "Deus",
+        "Matéria"
+      ]
+    }
+  ]
+}

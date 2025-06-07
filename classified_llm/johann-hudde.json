@@ -1,0 +1,26 @@
+{
+  "nome": "Johann van Waveren Hudde",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Raízes Múltiplas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Máximos e Mínimos",
+        "Tangentes"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Anuidades",
+        "Demografia"
+      ]
+    }
+  ]
+}

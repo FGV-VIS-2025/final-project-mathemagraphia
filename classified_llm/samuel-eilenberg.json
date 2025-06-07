@@ -1,0 +1,21 @@
+{
+  "nome": "Samuel Eilenberg",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de conjuntos de pontos",
+      "subareas_especificas": [
+        "Grupo fundamental",
+        "Homotopia"
+      ]
+    },
+    {
+      "subarea": "Álgebra homológica",
+      "subareas_especificas": [
+        "Cohomologia",
+        "Homologia",
+        "Teoria de categorias"
+      ]
+    }
+  ]
+}

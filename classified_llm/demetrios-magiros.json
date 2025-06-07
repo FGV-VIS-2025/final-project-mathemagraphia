@@ -1,0 +1,31 @@
+{
+  "nome": "Demetrios G Magiros",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias Não-Lineares",
+        "Linearização de Modelos Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Mecânica Não-Linear",
+      "subareas_especificas": [
+        "Oscilações Subarmônicas",
+        "Mecânica Celeste",
+        "Mecânica Orbital"
+      ]
+    },
+    {
+      "subarea": "Análise de Estabilidade",
+      "subareas_especificas": [
+        "Estabilidade no sentido de Lyapunov",
+        "Estabilidade no sentido de Poincaré",
+        "Estabilidade no sentido de Lagrange",
+        "Fenômenos Precessionais",
+        "Separatriz de Sistemas Dinâmicos"
+      ]
+    }
+  ]
+}

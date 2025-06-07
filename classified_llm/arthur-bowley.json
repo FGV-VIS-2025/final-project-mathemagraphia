@@ -1,0 +1,21 @@
+{
+  "nome": "Arthur Lyon Bowley",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Aplicada",
+      "subareas_especificas": [
+        "Econometria",
+        "Análise de Séries Temporais",
+        "Amostragem"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Inferência Estatística"
+      ]
+    }
+  ]
+}

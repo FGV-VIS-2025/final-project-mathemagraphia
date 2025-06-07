@@ -1,0 +1,27 @@
+{
+  "nome": "Oleksandr Mikolaiovich Sharkovsky",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos Discretos",
+      "subareas_especificas": [
+        "Equações de Diferenças",
+        "Teoria da Iteração"
+      ]
+    },
+    {
+      "subarea": "Teoria da Estabilidade",
+      "subareas_especificas": [
+        "Estabilidade de Pontos Fixos",
+        "Estabilidade de Órbitas Periódicas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Funcionais",
+        "Equações Diferenciais com Retardo"
+      ]
+    }
+  ]
+}

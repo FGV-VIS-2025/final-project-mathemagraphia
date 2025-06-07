@@ -1,0 +1,27 @@
+{
+  "nome": "Louis Nirenberg",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Elípticas",
+      "subareas_especificas": [
+        "Equações totalmente não lineares",
+        "Regularidade e solubilidade de equações elípticas de ordem 2n",
+        "Problemas de fronteira livre"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Inequações",
+        "Operadores pseudo-diferenciais"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Problema de Minkowski"
+      ]
+    }
+  ]
+}

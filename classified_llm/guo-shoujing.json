@@ -1,0 +1,20 @@
+{
+  "nome": "Guo Shoujing",
+  "area_principal": "Trigonometria Esférica",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Fórmulas para triângulos esféricos",
+        "Métodos numéricos para resolução de equações"
+      ]
+    },
+    {
+      "subarea": "Interpolação",
+      "subareas_especificas": [
+        "Interpolação cúbica",
+        "Método das diferenças finitas"
+      ]
+    }
+  ]
+}

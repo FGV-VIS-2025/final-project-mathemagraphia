@@ -1,0 +1,19 @@
+{
+  "nome": "Persi Warren Diaconis",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Cadeias de Markov",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Convergência de Cadeias de Markov"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Distribuição de divisores primos"
+      ]
+    }
+  ]
+}

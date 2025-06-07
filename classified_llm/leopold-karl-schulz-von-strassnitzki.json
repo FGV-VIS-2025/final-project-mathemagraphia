@@ -1,0 +1,20 @@
+{
+  "nome": "Leopold Karl Schulz von Strassnitzki",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Teoria dos Números",
+        "Cálculo"
+      ]
+    }
+  ]
+}

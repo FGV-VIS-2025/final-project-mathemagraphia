@@ -1,0 +1,20 @@
+{
+  "nome": "Kuo Tsai Chen",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Fundamentais",
+        "Grupos de Homotopia"
+      ]
+    },
+    {
+      "subarea": "Teoria de Homotopia",
+      "subareas_especificas": [
+        "Espaços de Laços",
+        "Integrais Iteradas"
+      ]
+    }
+  ]
+}

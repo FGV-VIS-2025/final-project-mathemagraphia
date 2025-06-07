@@ -1,0 +1,19 @@
+{
+  "nome": "Panagiotis S Zervos",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Monge",
+        "Sistemas de Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria de Equações Algébricas"
+      ]
+    }
+  ]
+}

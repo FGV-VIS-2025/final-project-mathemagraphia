@@ -1,0 +1,20 @@
+{
+  "nome": "Robert Richard Anstice",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Sistemas Triplos de Steiner",
+      "subareas_especificas": [
+        "Sistemas Triplos de Kirkman",
+        "Quadrados de Room"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Aritmética Modular"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nome": "Maria Margarethe Winckelmann Kirch",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Observação",
+      "subareas_especificas": [
+        "Cometas",
+        "Planetas",
+        "Estrelas",
+        "Eclipses",
+        "Lua"
+      ]
+    },
+    {
+      "subarea": "Efemérides",
+      "subareas_especificas": [
+        "Tabelas Keplerianas",
+        "Cálculos de Posições Celestes"
+      ]
+    }
+  ]
+}

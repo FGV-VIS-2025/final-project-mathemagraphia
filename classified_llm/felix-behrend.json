@@ -1,0 +1,24 @@
+{
+  "nome": "Felix Adalbert Behrend",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Abundantes",
+      "subareas_especificas": [
+        "Teoria Aditiva dos Números"
+      ]
+    },
+    {
+      "subarea": "Distribuição de Números Primos",
+      "subareas_especificas": [
+        "Função de contagem de primos"
+      ]
+    },
+    {
+      "subarea": "Progressões Aritméticas",
+      "subareas_especificas": [
+        "Subconjuntos sem progressões aritméticas de comprimento 3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Wilhelm Otto Ludwig Specht",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Representações",
+      "subareas_especificas": [
+        "Grupos Simétricos",
+        "Grupos de Permutação",
+        "Grupos Finitos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Lineares"
+      ]
+    }
+  ]
+}

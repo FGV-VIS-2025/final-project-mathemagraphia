@@ -1,0 +1,21 @@
+{
+  "nome": "Asger Hartvig Aaboe",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia Babilônica",
+      "subareas_especificas": [
+        "Teoria Planetária",
+        "Tabelas Matemáticas",
+        "Cálculo de posições planetárias"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemática Grega",
+        "Matemática Antiga"
+      ]
+    }
+  ]
+}

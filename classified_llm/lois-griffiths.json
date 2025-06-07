@@ -1,0 +1,20 @@
+{
+  "nome": "Lois Wilfred Griffiths",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas Quadráticas Ternárias",
+        "Formas Quadráticas Quaternárias"
+      ]
+    },
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equações Diofantinas Lineares Homogêneas",
+        "Teorema de Fermat sobre Números Poligonais"
+      ]
+    }
+  ]
+}

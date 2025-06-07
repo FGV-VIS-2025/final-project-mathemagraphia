@@ -1,0 +1,18 @@
+{
+  "nome": "John Collins",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cartografia"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Navegação"
+      ]
+    }
+  ]
+}

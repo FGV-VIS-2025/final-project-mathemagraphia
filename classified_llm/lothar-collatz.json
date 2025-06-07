@@ -1,0 +1,25 @@
+{
+  "nome": "Lothar Collatz",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Aproximação",
+      "subareas_especificas": [
+        "Aproximação de Chebyshev"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear Numérica",
+      "subareas_especificas": [
+        "Cálculo de Autovalores"
+      ]
+    }
+  ]
+}

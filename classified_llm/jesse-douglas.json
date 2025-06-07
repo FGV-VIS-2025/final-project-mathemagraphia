@@ -1,0 +1,20 @@
+{
+  "nome": "Jesse Douglas",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Variedades Riemannianas",
+        "Curvatura"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Problema de Plateau",
+        "Superfícies Mínimas"
+      ]
+    }
+  ]
+}

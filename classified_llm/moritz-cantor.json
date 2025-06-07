@@ -1,0 +1,22 @@
+{
+  "nome": "Moritz Benedikt Cantor",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Matemática Grega",
+        "Matemática Medieval",
+        "Introdução dos Numerais Hindu-arábicos na Europa",
+        "História da Geometria"
+      ]
+    },
+    {
+      "subarea": "Matemática Elementar",
+      "subareas_especificas": [
+        "Aritmética",
+        "Geometria"
+      ]
+    }
+  ]
+}

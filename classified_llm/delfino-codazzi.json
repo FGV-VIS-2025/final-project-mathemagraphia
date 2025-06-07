@@ -1,0 +1,21 @@
+{
+  "nome": "Delfino Codazzi",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Superfícies",
+      "subareas_especificas": [
+        "Fórmulas de Mainardi-Codazzi",
+        "Teoria de Superfícies",
+        "Coordenadas Curvilíneas"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Isometrias",
+        "Geodésicas"
+      ]
+    }
+  ]
+}

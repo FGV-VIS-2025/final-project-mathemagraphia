@@ -1,0 +1,12 @@
+{
+  "nome": "Karlis Zalts",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria de Deformações"
+      ]
+    }
+  ]
+}

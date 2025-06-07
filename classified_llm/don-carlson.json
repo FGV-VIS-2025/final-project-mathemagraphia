@@ -1,0 +1,19 @@
+{
+  "nome": "Donald Earle Carlson",
+  "area_principal": "Mecânica Contínua",
+  "subareas": [
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Elasticidade Finita",
+        "Termoelasticidade Linear"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Sólidos",
+      "subareas_especificas": [
+        "Mecânica dos Meios Contínuos"
+      ]
+    }
+  ]
+}

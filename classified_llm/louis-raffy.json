@@ -1,0 +1,19 @@
+{
+  "nome": "Louis Raffy",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Superfícies",
+      "subareas_especificas": [
+        "Curvaturas",
+        "Deformações de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Integrais Abelianas",
+      "subareas_especificas": [
+        "Curvas Algébricas"
+      ]
+    }
+  ]
+}

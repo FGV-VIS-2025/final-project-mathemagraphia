@@ -1,0 +1,13 @@
+{
+  "nome": "Mina Spiegel Rees",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Álgebras Associativas",
+        "Teoria de Grupos"
+      ]
+    }
+  ]
+}

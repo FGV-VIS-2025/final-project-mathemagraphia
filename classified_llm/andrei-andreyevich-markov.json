@@ -1,0 +1,25 @@
+{
+  "nome": "Andrei Andreyevich Markov",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Aproximação Diofantina"
+      ]
+    },
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas Binárias"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Cadeias de Markov",
+        "Teorema do Limite Central"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Mary Taylor Slow",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Aplicações à Física"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Harry Raymond Pitt",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoremas Tauberianos",
+        "Integração de Lebesgue",
+        "Teoremas de Fubini e Radon-Nikodym"
+      ]
+    },
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Transformadas de Fourier-Stieltjes"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

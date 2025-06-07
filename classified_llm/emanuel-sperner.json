@@ -1,0 +1,13 @@
+{
+  "nome": "Emanuel Sperner",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Combinatória",
+      "subareas_especificas": [
+        "Lema de Sperner",
+        "Teorema do Ponto Fixo de Brouwer"
+      ]
+    }
+  ]
+}

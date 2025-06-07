@@ -1,0 +1,18 @@
+{
+  "nome": "Alfred Bray Kempe",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Linkages"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Teorema das Quatro Cores"
+      ]
+    }
+  ]
+}

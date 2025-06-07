@@ -1,0 +1,30 @@
+{
+  "nome": "Edmond Nicolas Laguerre",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Polinômios de Laguerre"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Polinômios de Laguerre"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Projetiva",
+        "Geometria Diferencial"
+      ]
+    }
+  ]
+}

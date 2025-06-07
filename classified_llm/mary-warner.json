@@ -1,0 +1,21 @@
+{
+  "nome": "Mary Wynne Warner",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Homologia",
+        "Espaços Produto Cartesianos",
+        "Espaços de Tolerância",
+        "Relações Fuzzy"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos Fuzzy",
+      "subareas_especificas": [
+        "Funções com valores em reticulados"
+      ]
+    }
+  ]
+}

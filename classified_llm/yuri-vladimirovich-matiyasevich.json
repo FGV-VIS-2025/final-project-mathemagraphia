@@ -1,0 +1,21 @@
+{
+  "nome": "Yuri Vladimirovich Matiyasevich",
+  "area_principal": "Teoria da Computabilidade",
+  "subareas": [
+    {
+      "subarea": "Teoria da Recursividade",
+      "subareas_especificas": [
+        "Máquinas de Turing",
+        "Funções Recursivas",
+        "Sistemas de Post"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Problema de Hilbert"
+      ]
+    }
+  ]
+}

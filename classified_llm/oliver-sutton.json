@@ -1,0 +1,18 @@
+{
+  "nome": "Oliver Graham Sutton",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Teoria de Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Aplicadas à Meteorologia"
+      ]
+    }
+  ]
+}

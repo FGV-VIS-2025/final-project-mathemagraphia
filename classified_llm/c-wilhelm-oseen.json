@@ -1,0 +1,19 @@
+{
+  "nome": "Carl Wilhelm Oseen",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Stokes",
+        "Equação de Navier-Stokes"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Transformações de Contato"
+      ]
+    }
+  ]
+}

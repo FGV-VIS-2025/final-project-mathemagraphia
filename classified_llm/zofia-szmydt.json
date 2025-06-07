@@ -1,0 +1,27 @@
+{
+  "nome": "Zofia Szmydt",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Integrais primeiras",
+        "Existência e unicidade de soluções"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Hiperbólicas",
+      "subareas_especificas": [
+        "Problema de Goursat",
+        "Soluções assintóticas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Transformada de Fourier",
+        "Teoria das Distribuições"
+      ]
+    }
+  ]
+}

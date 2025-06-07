@@ -1,0 +1,20 @@
+{
+  "nome": "Hubert Stanley Wall",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Aproximantes de Padé",
+        "Frações Contínuas de Stieltjes",
+        "Convergência de Frações Contínuas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Integral de Hellinger"
+      ]
+    }
+  ]
+}

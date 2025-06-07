@@ -1,0 +1,26 @@
+{
+  "nome": "Hieronymous Georg Zeuthen",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Enumerativa",
+      "subareas_especificas": [
+        "Sistemas Cônicos"
+      ]
+    },
+    {
+      "subarea": "Teoria das Superfícies Algébricas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemática Grega",
+        "Matemática Medieval",
+        "Desenvolvimento da Álgebra",
+        "Desenvolvimento da Geometria Analítica",
+        "Desenvolvimento da Análise"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Lucien Alexandre Charles René de Possel",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integração de Riemann-Stieltjes",
+        "Teorema de Lebesgue"
+      ]
+    },
+    {
+      "subarea": "Representação Conforme",
+      "subareas_especificas": [
+        "Mapeamento Conforme de Domínios Simplesmente Conexos",
+        "Variedades Conformas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Jogos",
+      "subareas_especificas": [
+        "Teoria dos Jogos Combinatórios"
+      ]
+    }
+  ]
+}

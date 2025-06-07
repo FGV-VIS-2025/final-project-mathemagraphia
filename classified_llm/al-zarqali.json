@@ -1,0 +1,27 @@
+{
+  "nome": "Abu Ishaq Ibrahim ibn Yahya al-Zarqali",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrometria",
+      "subareas_especificas": [
+        "Coordenadas Celestes",
+        "Instrumentação Astronômica"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Teoria Planetária",
+        "Tabelas Astronômicas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Funções Trigonométricas",
+        "Tabelas Trigonométricas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Horst Tietz",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções de Variável Complexa",
+        "Superfícies de Riemann"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Adolf Weiler",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Axonometria",
+        "Projeções de Mapas"
+      ]
+    },
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Projeções Paralelas"
+      ]
+    }
+  ]
+}

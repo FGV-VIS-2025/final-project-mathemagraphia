@@ -1,0 +1,20 @@
+{
+  "nome": "Pao-Lu Hsu",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Teste de Hipóteses",
+        "Estimação"
+      ]
+    },
+    {
+      "subarea": "Análise Multivariada",
+      "subareas_especificas": [
+        "Análise de Variância Multivariada",
+        "Teoria de Matrizes"
+      ]
+    }
+  ]
+}

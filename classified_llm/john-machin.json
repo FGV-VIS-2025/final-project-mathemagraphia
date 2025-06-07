@@ -1,0 +1,19 @@
+{
+  "nome": "John Machin",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Aproximação de π"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Método de Newton",
+        "Problema de Kepler"
+      ]
+    }
+  ]
+}

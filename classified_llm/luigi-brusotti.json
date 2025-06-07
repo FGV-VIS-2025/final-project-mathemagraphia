@@ -1,0 +1,19 @@
+{
+  "nome": "Luigi Brusotti",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Descritiva",
+        "Curvas Algébricas Reais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Formas Binárias"
+      ]
+    }
+  ]
+}

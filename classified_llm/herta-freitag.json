@@ -1,0 +1,18 @@
+{
+  "nome": "Herta Taussig Freitag",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Sequências Recursivas",
+      "subareas_especificas": [
+        "Sequências de Fibonacci"
+      ]
+    },
+    {
+      "subarea": "Números Irracionais",
+      "subareas_especificas": [
+        "Números Algébricos"
+      ]
+    }
+  ]
+}

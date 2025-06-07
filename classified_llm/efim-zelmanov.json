@@ -1,0 +1,26 @@
+{
+  "nome": "Efim Isaakovich Zelmanov",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra de Lie",
+      "subareas_especificas": [
+        "Identidade de Engel",
+        "Álgebras de Lie nilpotentes"
+      ]
+    },
+    {
+      "subarea": "Álgebras de Jordan",
+      "subareas_especificas": [
+        "Álgebras de Jordan de dimensão infinita"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Problema de Burnside Restrito",
+        "Grupos finitamente gerados"
+      ]
+    }
+  ]
+}

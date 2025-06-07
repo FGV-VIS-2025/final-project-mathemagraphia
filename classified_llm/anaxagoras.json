@@ -1,0 +1,12 @@
+{
+  "nome": "Anaxagoras of Clazomenae",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Quadratura do círculo"
+      ]
+    }
+  ]
+}

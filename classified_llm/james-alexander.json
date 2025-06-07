@@ -1,0 +1,20 @@
+{
+  "nome": "James Waddell Alexander",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Homologia",
+        "Cohomologia",
+        "Teoria de Nós"
+      ]
+    },
+    {
+      "subarea": "Teoria de Superfícies",
+      "subareas_especificas": [
+        "Transformações de Cremona"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Hsien Chung Wang",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Grupos de Homologia",
+      "subareas_especificas": [
+        "Sequências Exatas"
+      ]
+    },
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Subgrupos Discretos"
+      ]
+    }
+  ]
+}

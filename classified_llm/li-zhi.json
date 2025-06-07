@@ -1,0 +1,13 @@
+{
+  "nome": "Li Zhi",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Polinomiais",
+      "subareas_especificas": [
+        "Métodos Numéricos para resolução de equações",
+        "Equações de grau superior"
+      ]
+    }
+  ]
+}

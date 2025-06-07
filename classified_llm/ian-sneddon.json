@@ -1,0 +1,39 @@
+{
+  "nome": "Ian Naismith Sneddon",
+  "area_principal": "Matemática Aplicada",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Laplace",
+        "Problema de Valor de Contorno Misto",
+        "Equação da Onda",
+        "Equação do Calor"
+      ]
+    },
+    {
+      "subarea": "Transformadas Integrais",
+      "subareas_especificas": [
+        "Transformada de Fourier",
+        "Transformada de Mellin",
+        "Transformada de Laplace",
+        "Transformada de Hankel"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções de Legendre",
+        "Funções de Bessel",
+        "Funções de Hermite",
+        "Funções de Laguerre"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Problemas de Trincas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Morgan William Crofton",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Integral",
+      "subareas_especificas": [
+        "Probabilidade Geométrica",
+        "Crofton's formula"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Geométrica",
+        "Buffon's needle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nome": "Heinrich Franz Friedrich Tietze",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Grupos Fundamentais",
+      "subareas_especificas": [
+        "Teoria Combinatória de Grupos",
+        "Transformações de Tietze",
+        "Problema do Isomorfismo"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Nós",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria Geral da Topologia",
+      "subareas_especificas": [
+        "Invariantes Topológicos"
+      ]
+    }
+  ]
+}

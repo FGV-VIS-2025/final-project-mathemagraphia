@@ -1,0 +1,26 @@
+{
+  "nome": "Aryabhata the Elder",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Equações quadráticas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Frações contínuas",
+        "Números irracionais"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria plana",
+        "Trigonometria esférica"
+      ]
+    }
+  ]
+}

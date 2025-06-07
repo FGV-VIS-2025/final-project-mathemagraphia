@@ -1,0 +1,12 @@
+{
+  "nome": "Mary Ann Elizabeth Stephansen",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais de Ordem Superior",
+      "subareas_especificas": [
+        "Equações Diferenciais de Quarta Ordem"
+      ]
+    }
+  ]
+}

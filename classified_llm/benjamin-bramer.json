@@ -1,0 +1,18 @@
+{
+  "nome": "Benjamin Bramer",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Perspectiva Geométrica"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de Senos"
+      ]
+    }
+  ]
+}

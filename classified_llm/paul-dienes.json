@@ -1,0 +1,18 @@
+{
+  "nome": "Paul Alexander Dienes",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Séries de Taylor",
+      "subareas_especificas": [
+        "Teoria das Funções de Variável Complexa"
+      ]
+    },
+    {
+      "subarea": "Singularidades de Funções Analíticas",
+      "subareas_especificas": [
+        "Singularidades Algébro-Logarítmicas"
+      ]
+    }
+  ]
+}

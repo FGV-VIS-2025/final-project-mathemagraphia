@@ -1,0 +1,49 @@
+{
+  "nome": "George Szekeres",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Geometria Combinatória",
+      "subareas_especificas": [
+        "Problemas de Happy Ending"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grafos",
+      "subareas_especificas": [
+        "Grafos Trivalentes Não Coloríveis",
+        "Decomposições Poliedrais de Grafos Cúbicos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Problemas sobre Coeficientes Binomiais",
+        "Aproximação Simultânea Bidimensional"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Cálculo de Integrais de Alta Dimensão",
+        "Frações Contínuas Multidimensionais",
+        "Expansão em Série de Chebyshev"
+      ]
+    },
+    {
+      "subarea": "Relatividade Geral",
+      "subareas_especificas": [
+        "Singularidades de Variedades Riemannianas",
+        "Propagação de Ondas Gravitacionais",
+        "Geometria Spinor"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Metabelianos",
+        "Grupos Abelianos Contáveis sem Torção"
+      ]
+    }
+  ]
+}

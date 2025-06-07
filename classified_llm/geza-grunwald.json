@@ -1,0 +1,13 @@
+{
+  "nome": "Géza Grünwald",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Interpolação de Lagrange",
+        "Polinômios de Chebyshev"
+      ]
+    }
+  ]
+}

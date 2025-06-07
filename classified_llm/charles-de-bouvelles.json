@@ -1,0 +1,18 @@
+{
+  "nome": "Charles de Bouvelles",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Quadratura do círculo"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Perfeitos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Charles Matthew Whish",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Aproximações de π",
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Cálculo de senos e cossenos"
+      ]
+    }
+  ]
+}

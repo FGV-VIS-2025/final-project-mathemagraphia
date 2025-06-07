@@ -1,0 +1,27 @@
+{
+  "nome": "Artur Ávila Cordeiro de Melo",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos unidimensionais",
+      "subareas_especificas": [
+        "Dinâmica real",
+        "Dinâmica complexa"
+      ]
+    },
+    {
+      "subarea": "Teoria Espectral",
+      "subareas_especificas": [
+        "Operadores de Schrödinger",
+        "Expoentes de Lyapunov"
+      ]
+    },
+    {
+      "subarea": "Teoria de Renormalização",
+      "subareas_especificas": [
+        "Mapas unimodais",
+        "Sistemas dinâmicos parcialmente hiperbólicos"
+      ]
+    }
+  ]
+}

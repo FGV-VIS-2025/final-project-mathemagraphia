@@ -1,0 +1,28 @@
+{
+  "nome": "Aleksei Alekseevich Dezin",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Problemas de Valor de Contorno",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno para Sistemas Simétricos de Equações Diferenciais Parciais",
+        "Extensão de Funções",
+        "Teoria de Imersão"
+      ]
+    },
+    {
+      "subarea": "Operadores Diferenciais Invariantes",
+      "subareas_especificas": [
+        "Equações de Cauchy-Riemann",
+        "Sistemas Elípticos Invariantes"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria Espectral",
+        "Espaços de Funções"
+      ]
+    }
+  ]
+}

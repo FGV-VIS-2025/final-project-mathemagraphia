@@ -1,0 +1,18 @@
+{
+  "nome": "Peter Ludwig Mejdell Sylow",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Teoremas de Sylow"
+      ]
+    },
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Equações algébricas"
+      ]
+    }
+  ]
+}

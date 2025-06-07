@@ -1,0 +1,20 @@
+{
+  "nome": "Georges Darmois",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Variáveis Aleatórias",
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

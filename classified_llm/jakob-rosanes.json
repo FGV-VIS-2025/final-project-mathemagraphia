@@ -1,0 +1,21 @@
+{
+  "nome": "Jakob Rosanes",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Sistemas de Cônicas",
+        "Formas Algébricas",
+        "Sistemas de Pontos Linearmente Dependentes"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Transformações Cremona",
+        "Superfícies"
+      ]
+    }
+  ]
+}

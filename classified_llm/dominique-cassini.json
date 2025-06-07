@@ -1,0 +1,19 @@
+{
+  "nome": "Jean-Dominique Comte de Cassini",
+  "area_principal": "Geodésia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Cartografia",
+        "Triangulação"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Trigonometria"
+      ]
+    }
+  ]
+}

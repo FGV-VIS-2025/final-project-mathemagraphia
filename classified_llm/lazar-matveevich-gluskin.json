@@ -1,0 +1,14 @@
+{
+  "nome": "Lazar Matveevich Gluskin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos de Transformações Lineares",
+        "Semigrupos de Endomorfismos de Módulos",
+        "Extensões Densas de Semigrupos Comutativos"
+      ]
+    }
+  ]
+}

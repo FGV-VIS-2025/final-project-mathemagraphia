@@ -1,0 +1,20 @@
+{
+  "nome": "Joseph Winlock",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo Orbital",
+        "Perturbações"
+      ]
+    },
+    {
+      "subarea": "Astrometria",
+      "subareas_especificas": [
+        "Determinação de Posições Estelares",
+        "Observações de Planetas Menores"
+      ]
+    }
+  ]
+}

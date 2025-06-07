@@ -1,0 +1,18 @@
+{
+  "nome": "Humphrey Lloyd",
+  "area_principal": "Óptica",
+  "subareas": [
+    {
+      "subarea": "Óptica Física",
+      "subareas_especificas": [
+        "Refração Cônica"
+      ]
+    },
+    {
+      "subarea": "Magnetismo",
+      "subareas_especificas": [
+        "Geomagnetismo"
+      ]
+    }
+  ]
+}

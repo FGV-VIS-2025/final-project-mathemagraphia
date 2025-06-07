@@ -1,0 +1,18 @@
+{
+  "nome": "Marília de Magalhães Chaves Peixoto",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Inequações Diferenciais de Terceira Ordem"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Estabilidade Estrutural"
+      ]
+    }
+  ]
+}

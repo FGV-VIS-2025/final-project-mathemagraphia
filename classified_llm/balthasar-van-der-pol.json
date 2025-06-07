@@ -1,0 +1,26 @@
+{
+  "nome": "Balthasar van der Pol",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações Não-Lineares",
+        "Oscilações de Relaxação"
+      ]
+    },
+    {
+      "subarea": "Cálculo Operacional",
+      "subareas_especificas": [
+        "Transformada de Laplace"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Função Zeta de Riemann",
+        "Funções Elípticas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "John Frank Charles Kingman",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Teoria de Filas",
+        "Teoria Ergódica Subaditiva"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida e Probabilidade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Gilbert Leslie Frewin",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Integração Numérica",
+      "subareas_especificas": [
+        "Integrais Duplas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Frances Chick Wood",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística aplicada",
+      "subareas_especificas": [
+        "Bioestatística",
+        "Econometria"
+      ]
+    },
+    {
+      "subarea": "Métodos estatísticos",
+      "subareas_especificas": [
+        "Análise de regressão",
+        "Testes de hipóteses"
+      ]
+    }
+  ]
+}

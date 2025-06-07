@@ -1,0 +1,22 @@
+{
+  "nome": "Zoltán Tibor Balogh",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de conjuntos",
+      "subareas_especificas": [
+        "Espaços métricos",
+        "Espaços compactos",
+        "Axioma da escolha"
+      ]
+    },
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Paracompacidade",
+        "Espaços M",
+        "Teoria dos conjuntos"
+      ]
+    }
+  ]
+}

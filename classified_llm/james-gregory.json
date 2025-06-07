@@ -1,0 +1,25 @@
+{
+  "nome": "James Gregory",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integrais Definidas",
+        "Integrais Indefinidas"
+      ]
+    },
+    {
+      "subarea": "Diferenciação",
+      "subareas_especificas": [
+        "Método das Tangentes"
+      ]
+    }
+  ]
+}

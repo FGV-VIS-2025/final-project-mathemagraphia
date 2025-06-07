@@ -1,0 +1,29 @@
+{
+  "nome": "Mary Watson Whitney",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo Orbital",
+        "Teoria de Perturbações"
+      ]
+    },
+    {
+      "subarea": "Astronomia Observacional",
+      "subareas_especificas": [
+        "Observação de Cometas",
+        "Observação de Estrelas Variáveis",
+        "Observação de Asteroides"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Álgebra",
+        "Geometria Analítica",
+        "Cálculo"
+      ]
+    }
+  ]
+}

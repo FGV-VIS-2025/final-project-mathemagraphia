@@ -1,0 +1,28 @@
+{
+  "nome": "William Prager",
+  "area_principal": "Mecânica dos Contínuos",
+  "subareas": [
+    {
+      "subarea": "Teoria da Plasticidade",
+      "subareas_especificas": [
+        "Deformações Plásticas Contínuas",
+        "Análise Limite"
+      ]
+    },
+    {
+      "subarea": "Mecânica do Contínuo",
+      "subareas_especificas": [
+        "Elasticidade",
+        "Plasticidade",
+        "Viscoelasticidade"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Programação em FORTRAN",
+        "Equações Diferenciais Ordinárias"
+      ]
+    }
+  ]
+}

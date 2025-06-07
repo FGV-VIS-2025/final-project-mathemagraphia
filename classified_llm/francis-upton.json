@@ -1,0 +1,20 @@
+{
+  "nome": "Francis Robbins Upton",
+  "area_principal": "Física aplicada",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletrodinâmica",
+        "Circuitos elétricos"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo diferencial",
+        "Cálculo integral"
+      ]
+    }
+  ]
+}

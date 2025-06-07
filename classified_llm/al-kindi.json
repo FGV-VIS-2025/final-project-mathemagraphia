@@ -1,0 +1,21 @@
+{
+  "nome": "Abu Yusuf Yaqub ibn Ishaq al-Sabbah Al-Kindi",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Indianos",
+        "Proporção e tempo",
+        "Procedimentos numéricos e cancelamento"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Teoria dos Paralelos",
+        "Óptica"
+      ]
+    }
+  ]
+}

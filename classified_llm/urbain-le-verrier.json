@@ -1,0 +1,20 @@
+{
+  "nome": "Urbain Jean Joseph Le Verrier",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Perturbações Planetárias",
+      "subareas_especificas": [
+        "Teoria da Perturbação",
+        "Análise Numérica"
+      ]
+    },
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Gravitação",
+        "Cálculo"
+      ]
+    }
+  ]
+}

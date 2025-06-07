@@ -1,0 +1,13 @@
+{
+  "nome": "Mikhail Yakovlevich Suslin",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Conjuntos Descritivos",
+      "subareas_especificas": [
+        "Conjuntos de Borel",
+        "Conjuntos de Suslin"
+      ]
+    }
+  ]
+}

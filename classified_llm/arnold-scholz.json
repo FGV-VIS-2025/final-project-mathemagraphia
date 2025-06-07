@@ -1,0 +1,20 @@
+{
+  "nome": "Arnold Scholz",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Teoria de Corpos de Classes",
+        "Teoria de Galois"
+      ]
+    },
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos de Números Algébricos",
+        "Extensões de Corpos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nome": "Evelyn Merle Roden Nelson",
+  "area_principal": "Álgebra Universal",
+  "subareas": [
+    {
+      "subarea": "Álgebra Universal",
+      "subareas_especificas": [
+        "Semigrupos",
+        "Reticulados",
+        "Equações Algébricas"
+      ]
+    }
+  ]
+}

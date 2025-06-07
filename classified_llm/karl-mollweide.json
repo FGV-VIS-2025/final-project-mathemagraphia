@@ -1,0 +1,24 @@
+{
+  "nome": "Karl Brandan Mollweide",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Plana",
+      "subareas_especificas": [
+        "Identidades Trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Identidades Trigonométricas Esféricas"
+      ]
+    },
+    {
+      "subarea": "Projeções Cartográficas",
+      "subareas_especificas": [
+        "Projeção de Mollweide"
+      ]
+    }
+  ]
+}

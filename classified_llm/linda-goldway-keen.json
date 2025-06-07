@@ -1,0 +1,19 @@
+{
+  "nome": "Linda Goldway Keen",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Hiperbólica",
+      "subareas_especificas": [
+        "Superfícies de Riemann",
+        "Grupos fuchsianos"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Dinâmica Holomórfica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Rosalind Cecilia Hildegard Tanner",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integração de Riemann-Stieltjes",
+        "Integração de Lebesgue-Stieltjes",
+        "Integração multidimensional"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Funções Monótonas",
+        "Teoria da Medida em Espaços de n-dimensões"
+      ]
+    }
+  ]
+}

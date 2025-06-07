@@ -1,0 +1,19 @@
+{
+  "nome": "Joseph Marie de Tilly",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica",
+        "Mecânica Não-Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Fundamentos da Geometria"
+      ]
+    }
+  ]
+}

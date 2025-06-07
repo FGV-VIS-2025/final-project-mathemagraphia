@@ -1,0 +1,20 @@
+{
+  "nome": "John Warner Backus",
+  "area_principal": "Ciência da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Linguagens de Programação",
+        "Teoria da Computabilidade"
+      ]
+    },
+    {
+      "subarea": "Engenharia de Software",
+      "subareas_especificas": [
+        "Projeto de Compiladores",
+        "Gestão de Projetos de Software"
+      ]
+    }
+  ]
+}

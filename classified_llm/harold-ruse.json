@@ -1,0 +1,13 @@
+{
+  "nome": "Harold Stanley Ruse",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Tensor de Curvatura",
+        "Conexão"
+      ]
+    }
+  ]
+}

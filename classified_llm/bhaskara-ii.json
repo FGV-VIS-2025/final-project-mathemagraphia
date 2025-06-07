@@ -1,0 +1,29 @@
+{
+  "nome": "Bhaskara",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Equação de Pell"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Números negativos",
+        "Zero",
+        "Frações",
+        "Progressões aritméticas e geométricas",
+        "Combinações"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Identidades trigonométricas"
+      ]
+    }
+  ]
+}

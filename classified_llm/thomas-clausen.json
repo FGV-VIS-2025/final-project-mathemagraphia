@@ -1,0 +1,19 @@
+{
+  "nome": "Thomas Clausen",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números de Fermat",
+      "subareas_especificas": [
+        "Fatoração de números de Fermat"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números primos",
+        "Fatoração"
+      ]
+    }
+  ]
+}

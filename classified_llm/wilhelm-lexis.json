@@ -1,0 +1,19 @@
+{
+  "nome": "Wilhelm Lexis",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuições Binomiais",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Séries Temporais",
+      "subareas_especificas": [
+        "Análise de Séries Temporais"
+      ]
+    }
+  ]
+}

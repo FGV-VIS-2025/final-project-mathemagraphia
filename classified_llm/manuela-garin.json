@@ -1,0 +1,19 @@
+{
+  "nome": "Manuela Garín Pinillos de Álvarez",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Matrizes",
+      "subareas_especificas": [
+        "Decomposição de Matrizes",
+        "Métodos Matriciais"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "Richard Melvin Schoen",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Geométricas",
+      "subareas_especificas": [
+        "Problema de Yamabe",
+        "Teorema da Massa Positiva",
+        "Teorema da Esfera Diferenciável"
+      ]
+    },
+    {
+      "subarea": "Variedades Mínimas",
+      "subareas_especificas": [
+        "Superfícies Mínimas Estáveis",
+        "Regularidade de Aplicações Harmônicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Curvatura e Topologia",
+        "Manifolds com Curvatura Seccional Positiva"
+      ]
+    }
+  ]
+}

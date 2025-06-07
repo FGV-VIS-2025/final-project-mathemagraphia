@@ -1,0 +1,29 @@
+{
+  "nome": "Emil Leon Post",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Máquinas de Turing",
+        "Funções Recursivas",
+        "Graus de Insolubilidade"
+      ]
+    },
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Sistemas Formais",
+        "Completude",
+        "Consistência"
+      ]
+    },
+    {
+      "subarea": "Lógica Simbólica",
+      "subareas_especificas": [
+        "Cálculo Proposicional",
+        "Lógica de Muitos Valores"
+      ]
+    }
+  ]
+}

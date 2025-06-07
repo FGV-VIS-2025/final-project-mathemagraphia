@@ -1,0 +1,21 @@
+{
+  "nome": "Joseph Ludwig Raabe",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Convergência de Séries",
+        "Teste de Raabe"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral",
+        "Polinômios de Bernoulli"
+      ]
+    }
+  ]
+}

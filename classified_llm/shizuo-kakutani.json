@@ -1,0 +1,24 @@
+{
+  "nome": "Shizuo Kakutani",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoria Ergódica"
+      ]
+    },
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Análise Funcional"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Superfícies de Riemann"
+      ]
+    }
+  ]
+}

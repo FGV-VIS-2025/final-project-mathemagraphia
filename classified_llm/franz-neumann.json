@@ -1,0 +1,24 @@
+{
+  "nome": "Franz Ernst Neumann",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Indução Eletromagnética"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Teoria Mecânica do Calor"
+      ]
+    },
+    {
+      "subarea": "Cristalografia",
+      "subareas_especificas": [
+        "Métodos dos Mínimos Quadrados"
+      ]
+    }
+  ]
+}

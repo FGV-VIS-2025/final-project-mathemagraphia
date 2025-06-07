@@ -1,0 +1,16 @@
+{
+  "nome": "Evelyn Boyd Granville",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Séries de Laguerre"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": []
+    }
+  ]
+}

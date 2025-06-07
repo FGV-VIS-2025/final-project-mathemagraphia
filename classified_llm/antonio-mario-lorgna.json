@@ -1,0 +1,25 @@
+{
+  "nome": "Antonio Maria Lorgna",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Máximos e Mínimos"
+      ]
+    },
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries Convergentes",
+        "Séries Infinitas"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Equações Algébricas de Terceiro Grau"
+      ]
+    }
+  ]
+}

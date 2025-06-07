@@ -1,0 +1,29 @@
+{
+  "nome": "Emmy Amalie Noether",
+  "area_principal": "Álgebra Abstrata",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Teoria de Ideais",
+        "Anéis Comutativos",
+        "Anéis Não-Comutativos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Representação",
+      "subareas_especificas": [
+        "Módulos",
+        "Álgebras",
+        "Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Formas",
+        "Covariantes"
+      ]
+    }
+  ]
+}

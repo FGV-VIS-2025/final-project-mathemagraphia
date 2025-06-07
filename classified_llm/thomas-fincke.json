@@ -1,0 +1,16 @@
+{
+  "nome": "Thomas Fincke",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Plana",
+      "subareas_especificas": [
+        "Lei das Tangentes"
+      ]
+    },
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": []
+    }
+  ]
+}

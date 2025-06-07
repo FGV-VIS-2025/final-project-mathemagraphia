@@ -1,0 +1,19 @@
+{
+  "nome": "Graham Robert Allan",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Banach",
+      "subareas_especificas": [
+        "Teoria espectral",
+        "Funções holomorfas"
+      ]
+    },
+    {
+      "subarea": "Espaços vetoriais localmente convexos",
+      "subareas_especificas": [
+        "Teoria de módulos"
+      ]
+    }
+  ]
+}

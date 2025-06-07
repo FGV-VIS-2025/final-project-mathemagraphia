@@ -1,0 +1,26 @@
+{
+  "nome": "Thorvald Nicolai Thiele",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Interpolação",
+        "Aproximação de Funções"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Cumulantes",
+        "Distribuições de Probabilidade"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Equações Diferenciais"
+      ]
+    }
+  ]
+}

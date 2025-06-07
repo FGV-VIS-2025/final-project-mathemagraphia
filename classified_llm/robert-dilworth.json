@@ -1,0 +1,17 @@
+{
+  "nome": "Robert Palmer Dilworth",
+  "area_principal": "Teoria da Ordem",
+  "subareas": [
+    {
+      "subarea": "Teoria de Reticulados",
+      "subareas_especificas": [
+        "Decomposição de Cadeias em Conjuntos Ordenados",
+        "Reticulados Unicamente Complementados",
+        "Reticulados com Decomposições Irredutíveis Únicas",
+        "Reticulados Modulares e Distributivos",
+        "Reticulados Geométricos e Semimodulares",
+        "Reticulados Multiplicativos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Oene Bottema",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Teoremas de Desargues, Pappus, Pascal"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Diferencial Clássica"
+      ]
+    }
+  ]
+}

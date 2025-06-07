@@ -1,0 +1,18 @@
+{
+  "nome": "Carol Ruth Karp",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Lógicas Infinitárias"
+      ]
+    },
+    {
+      "subarea": "Álgebra Booleana",
+      "subareas_especificas": [
+        "Álgebras Completas"
+      ]
+    }
+  ]
+}

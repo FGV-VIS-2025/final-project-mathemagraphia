@@ -1,0 +1,19 @@
+{
+  "nome": "François Joseph Français",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Aplicações em Física"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Derivações",
+      "subareas_especificas": [
+        "Aplicações em Mecânica"
+      ]
+    }
+  ]
+}

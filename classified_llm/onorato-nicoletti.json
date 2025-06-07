@@ -1,0 +1,35 @@
+{
+  "nome": "Onorato Nicoletti",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias de ordem superior",
+        "Métodos de Aproximações Sucessivas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Método de Picard",
+        "Método de Riemann",
+        "Equações Diferenciais Parciais de ordem superior",
+        "Equações do tipo hiperbólico"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes Hermitianas",
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Equivalência de Poliedros"
+      ]
+    }
+  ]
+}

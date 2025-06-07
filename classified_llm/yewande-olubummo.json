@@ -1,0 +1,27 @@
+{
+  "nome": "Yewande Olubummo",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Espaços duais",
+        "Propriedade de Jordan-Hahn"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medidas em lógicas empíricas",
+        "Estados finitamente aditivos"
+      ]
+    },
+    {
+      "subarea": "Problemas de Monge-Kantorovich",
+      "subareas_especificas": [
+        "Minimização variacional",
+        "Problema de Michell"
+      ]
+    }
+  ]
+}

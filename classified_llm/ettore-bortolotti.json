@@ -1,0 +1,28 @@
+{
+  "nome": "Ettore Bortolotti",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Teoria de Grupos"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Cálculo de Diferenças Finitas",
+        "Frações Contínuas",
+        "Convergência de Algoritmos Infinitos",
+        "Somatório de Séries",
+        "Comportamento Assintótico de Séries e Integrais Impróprias"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Geométrica"
+      ]
+    }
+  ]
+}

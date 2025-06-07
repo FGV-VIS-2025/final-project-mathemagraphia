@@ -1,0 +1,21 @@
+{
+  "nome": "Johannes Widman",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Elementar",
+      "subareas_especificas": [
+        "Equações",
+        "Números Irracionais",
+        "Polinômios"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Frações",
+        "Proporção"
+      ]
+    }
+  ]
+}

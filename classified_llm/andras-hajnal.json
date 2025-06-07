@@ -1,0 +1,23 @@
+{
+  "nome": "András Hajnal",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Teoria Combinatória dos Conjuntos",
+      "subareas_especificas": [
+        "Cálculo de Partições",
+        "Mapeamentos de Conjuntos"
+      ]
+    },
+    {
+      "subarea": "Topologia de Conjuntos",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria dos Conjuntos Axiomáticos",
+      "subareas_especificas": [
+        "Aspectos Combinatórios dos Axiomas de Gödel"
+      ]
+    }
+  ]
+}

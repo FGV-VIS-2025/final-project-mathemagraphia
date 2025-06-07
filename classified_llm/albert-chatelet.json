@@ -1,0 +1,28 @@
+{
+  "nome": "Albert Châtelet",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Frações Contínuas Aritméticas"
+      ]
+    },
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos Abelianos",
+        "Ideais Principais",
+        "Corpos Cíclicos"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria dos Anéis",
+        "Álgebra Linear"
+      ]
+    }
+  ]
+}

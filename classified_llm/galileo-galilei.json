@@ -1,0 +1,27 @@
+{
+  "nome": "Galileo Galilei",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "movimento de planetas",
+        "movimento de satélites"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "telescópios",
+        "lentes"
+      ]
+    },
+    {
+      "subarea": "Cinemática",
+      "subareas_especificas": [
+        "queda livre",
+        "movimento de projéteis"
+      ]
+    }
+  ]
+}

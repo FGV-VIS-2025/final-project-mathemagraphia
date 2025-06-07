@@ -1,0 +1,19 @@
+{
+  "nome": "Jan de Witt",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Geometria das Cônicas",
+      "subareas_especificas": [
+        "Cônicas",
+        "Seções Cônicas"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade aplicada à finança"
+      ]
+    }
+  ]
+}

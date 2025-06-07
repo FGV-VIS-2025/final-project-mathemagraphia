@@ -1,0 +1,18 @@
+{
+  "nome": "Charles Vernon Boys",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Integral"
+      ]
+    }
+  ]
+}

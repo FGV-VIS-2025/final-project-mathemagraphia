@@ -1,0 +1,20 @@
+{
+  "nome": "al-Marrakushi ibn Al-Banna",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Coeficientes Binomiais",
+        "Triângulo de Pascal",
+        "Números Poligonais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Frações Contínuas"
+      ]
+    }
+  ]
+}

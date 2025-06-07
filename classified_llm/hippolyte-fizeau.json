@@ -1,0 +1,20 @@
+{
+  "nome": "Armand-Hippolyte-Louis Fizeau",
+  "area_principal": "Óptica",
+  "subareas": [
+    {
+      "subarea": "Velocidade da Luz",
+      "subareas_especificas": [
+        "Medições terrestres",
+        "Experimentos com água e ar"
+      ]
+    },
+    {
+      "subarea": "Espectroscopia",
+      "subareas_especificas": [
+        "Deslocamento Doppler",
+        "Absorção de linhas espectrais"
+      ]
+    }
+  ]
+}

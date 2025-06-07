@@ -1,0 +1,28 @@
+{
+  "nome": "Yurii Vasilevich Prokhorov",
+  "area_principal": "Probability Theory",
+  "subareas": [
+    {
+      "subarea": "Limit Theorems",
+      "subareas_especificas": [
+        "Strong Law of Large Numbers",
+        "Local Limit Theorems"
+      ]
+    },
+    {
+      "subarea": "Stochastic Processes",
+      "subareas_especificas": [
+        "Martingales",
+        "Markov Processes",
+        "Stationary Processes"
+      ]
+    },
+    {
+      "subarea": "Measure Theory",
+      "subareas_especificas": [
+        "Probability distributions in functional spaces",
+        "Weak convergence in function spaces"
+      ]
+    }
+  ]
+}

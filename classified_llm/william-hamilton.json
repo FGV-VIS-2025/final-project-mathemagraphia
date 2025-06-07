@@ -1,0 +1,12 @@
+{
+  "nome": "William Stirling Hamilton",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Álgebra da Lógica",
+      "subareas_especificas": [
+        "Quantificação do Predicado"
+      ]
+    }
+  ]
+}

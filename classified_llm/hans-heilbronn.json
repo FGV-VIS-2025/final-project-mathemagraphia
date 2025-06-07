@@ -1,0 +1,23 @@
+{
+  "nome": "Hans Arnold Heilbronn",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Teoremas Tauberians",
+        "Função Zeta de Riemann",
+        "Hipótese de Riemann",
+        "Distribuição de Números Primos",
+        "Conjectura de Gauss sobre corpos quadráticos imaginários"
+      ]
+    },
+    {
+      "subarea": "Corpos de Números",
+      "subareas_especificas": [
+        "Corpos Quadráticos",
+        "Algoritmo Euclidiano"
+      ]
+    }
+  ]
+}

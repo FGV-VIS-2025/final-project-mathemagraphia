@@ -1,0 +1,29 @@
+{
+  "nome": "André Lichnerowicz",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Variedades Kähler",
+        "Conexões",
+        "Grupos de Holonomia"
+      ]
+    },
+    {
+      "subarea": "Teoria da Relatividade Geral",
+      "subareas_especificas": [
+        "Equações de Einstein",
+        "Espaços-tempo"
+      ]
+    },
+    {
+      "subarea": "Álgebra de Lie",
+      "subareas_especificas": [
+        "Álgebras de Lie de dimensão infinita",
+        "Variedades de Poisson",
+        "Variedades de Jacobi"
+      ]
+    }
+  ]
+}

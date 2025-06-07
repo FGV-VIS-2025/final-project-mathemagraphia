@@ -1,0 +1,20 @@
+{
+  "nome": "Argelia Velez-Rodriguez",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias Lineares",
+        "Sistemas de Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Aplicações de Equações Diferenciais",
+      "subareas_especificas": [
+        "Mecânica Celeste",
+        "Astronomia"
+      ]
+    }
+  ]
+}

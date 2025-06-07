@@ -1,0 +1,30 @@
+{
+  "nome": "Stanisław Gołąb",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Riemann",
+      "subareas_especificas": [
+        "Espaços de Riemann"
+      ]
+    },
+    {
+      "subarea": "Geometria de Minkowski",
+      "subareas_especificas": [
+        "Espaços de Minkowski"
+      ]
+    },
+    {
+      "subarea": "Geometria de Finsler",
+      "subareas_especificas": [
+        "Espaços de Finsler"
+      ]
+    },
+    {
+      "subarea": "Teoria de Objetos Geométricos",
+      "subareas_especificas": [
+        "Equações Funcionais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Horst Sachs",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espectro de Matrizes de Adjacência"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Isotropica"
+      ]
+    }
+  ]
+}

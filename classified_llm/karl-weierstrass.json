@@ -1,0 +1,30 @@
+{
+  "nome": "Karl Theodor Wilhelm Weierstrass",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Séries de potências",
+        "Funções Elípticas",
+        "Funções Abelianas",
+        "Integrais Abelianas",
+        "Funções inteiras"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Problemas de otimização",
+        "Equações diferenciais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Irracionais",
+        "Formas Quadráticas"
+      ]
+    }
+  ]
+}

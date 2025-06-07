@@ -1,0 +1,20 @@
+{
+  "nome": "Joseph Alphonso Pierce",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Amostragem",
+      "subareas_especificas": [
+        "Amostragem de populações finitas",
+        "Métodos de amostragem"
+      ]
+    }
+  ]
+}

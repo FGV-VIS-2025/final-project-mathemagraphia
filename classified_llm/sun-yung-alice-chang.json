@@ -1,0 +1,18 @@
+{
+  "nome": "Sun-Yung Alice Chang",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Geométricas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Conforme"
+      ]
+    }
+  ]
+}

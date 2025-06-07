@@ -1,0 +1,20 @@
+{
+  "nome": "Gilbert de Beauregard Robinson",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Projetiva",
+        "Geometria Euclidiana"
+      ]
+    }
+  ]
+}

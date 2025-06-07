@@ -1,0 +1,23 @@
+{
+  "nome": "Edward Waring",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Funções Racionais",
+        "Teoria de Galois"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Funções Simétricas",
+      "subareas_especificas": []
+    }
+  ]
+}

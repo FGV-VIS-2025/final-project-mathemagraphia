@@ -1,0 +1,14 @@
+{
+  "nome": "Avraham Naumovich Trahtman",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Identidades de Semigrupos",
+        "Autômatos Finitos",
+        "Teoria de Autômatos"
+      ]
+    }
+  ]
+}

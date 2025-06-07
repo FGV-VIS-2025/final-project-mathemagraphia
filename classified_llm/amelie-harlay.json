@@ -1,0 +1,21 @@
+{
+  "nome": "Marie-Jeanne Amélie Harlay",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Redução de observações estelares",
+        "Cálculo de efemérides",
+        "Tabelas astronômicas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Computação numérica",
+        "Tabelas horárias"
+      ]
+    }
+  ]
+}

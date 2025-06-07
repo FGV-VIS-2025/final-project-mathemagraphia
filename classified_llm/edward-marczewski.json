@@ -1,0 +1,19 @@
+{
+  "nome": "Edward Marczewski",
+  "area_principal": "Teoria da Medida",
+  "subareas": [
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "conjuntos analíticos",
+        "propriedade de Baire"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "dualidade entre conjuntos de primeira categoria e conjuntos de medida zero"
+      ]
+    }
+  ]
+}

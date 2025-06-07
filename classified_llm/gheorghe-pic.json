@@ -1,0 +1,36 @@
+{
+  "nome": "Gheorghe Pic",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos p-nilpotentes",
+        "Subgrupos de Sylow",
+        "Extensões de Grupos",
+        "Grupos Solúveis",
+        "Grupos Nilpotentes"
+      ]
+    },
+    {
+      "subarea": "Álgebra Universal",
+      "subareas_especificas": [
+        "Reticulados",
+        "Reticulados Booleanos",
+        "Homomorfismos de Álgebras Universais",
+        "Relações"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Ideais",
+        "Anéis de Frações",
+        "Domínios de Dedekind",
+        "Anéis Artinianos e Noetherianos",
+        "Radical de Jacobson"
+      ]
+    }
+  ]
+}

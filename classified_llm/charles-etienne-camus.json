@@ -1,0 +1,19 @@
+{
+  "nome": "Charles Étienne Louis Camus",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Mecânica dos Fluidos",
+        "Mecânica dos Sólidos"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Geodésia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Edward Sang",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Logaritmos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Henry Thomas Herbert Piaggio",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Operacional",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": []
+    }
+  ]
+}

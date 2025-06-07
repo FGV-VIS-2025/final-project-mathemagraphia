@@ -1,0 +1,40 @@
+{
+  "nome": "Otto Szász",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Convergência",
+        "Aproximação"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Convergência"
+      ]
+    },
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Polinômios",
+        "Séries de Potências"
+      ]
+    },
+    {
+      "subarea": "Funções Racionais",
+      "subareas_especificas": [
+        "limites",
+        "módulos"
+      ]
+    },
+    {
+      "subarea": "Teoremas Tauberians",
+      "subareas_especificas": [
+        "Somatória",
+        "Fenômeno de Gibbs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Wilhelm Cauer",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções de Variável Complexa",
+        "Integrais de Linha",
+        "Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

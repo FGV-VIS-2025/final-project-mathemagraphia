@@ -1,0 +1,18 @@
+{
+  "nome": "Maria do Pilar Baptista Ribeiro",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Fundamentos da Geometria"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais"
+      ]
+    }
+  ]
+}

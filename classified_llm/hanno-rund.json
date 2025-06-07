@@ -1,0 +1,22 @@
+{
+  "nome": "Hanno Rund",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Finsler",
+      "subareas_especificas": [
+        "Espaços de Finsler",
+        "Paralelismo em Finsler",
+        "Curvatura em Finsler"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Teoria Hamilton-Jacobi",
+        "Problemas Variacionais Múltiplos Integrais",
+        "Espaços Areais"
+      ]
+    }
+  ]
+}

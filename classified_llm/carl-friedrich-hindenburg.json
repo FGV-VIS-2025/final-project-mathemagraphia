@@ -1,0 +1,19 @@
+{
+  "nome": "Carl Friedrich Hindenburg",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Séries",
+        "Fórmulas para diferenciais superiores"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Expansão de funções em séries de potências"
+      ]
+    }
+  ]
+}

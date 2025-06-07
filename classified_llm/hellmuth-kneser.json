@@ -1,0 +1,25 @@
+{
+  "nome": "Hellmuth Kneser",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções de Variáveis Complexas",
+      "subareas_especificas": [
+        "Funções Meromorfas",
+        "Distribuição de Valores"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Topologia de Variedades"
+      ]
+    }
+  ]
+}

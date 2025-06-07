@@ -1,0 +1,21 @@
+{
+  "nome": "Max F Deuring",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos de Classes",
+        "Funções Zeta",
+        "Correspondências Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Algébricas",
+        "Variedades Abelianas"
+      ]
+    }
+  ]
+}

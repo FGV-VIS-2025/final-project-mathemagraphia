@@ -1,0 +1,18 @@
+{
+  "nome": "Marjorie Lee Browne",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos"
+      ]
+    },
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Grupos de Lie"
+      ]
+    }
+  ]
+}

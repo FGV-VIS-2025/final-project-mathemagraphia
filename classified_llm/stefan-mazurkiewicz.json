@@ -1,0 +1,20 @@
+{
+  "nome": "Stefan Mazurkiewicz",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria de Conjuntos",
+      "subareas_especificas": [
+        "Espaços Métricos",
+        "Funções Contínuas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Lei dos Grandes Números",
+        "Sistemas de Axiomas para Probabilidade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Johann Werner",
+  "area_principal": "Trigonometria Esférica",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Conic Sections"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Longitude",
+        "Eclipses lunares",
+        "Instrumentos astronômicos"
+      ]
+    }
+  ]
+}

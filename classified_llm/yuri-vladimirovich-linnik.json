@@ -1,0 +1,24 @@
+{
+  "nome": "Yuri Vladimirovich Linnik",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Crivo Grande",
+      "subareas_especificas": [
+        "Funções L de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Método da Dispersão",
+      "subareas_especificas": [
+        "Problemas Aditivos"
+      ]
+    },
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas Ternárias Positivas"
+      ]
+    }
+  ]
+}

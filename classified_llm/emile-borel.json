@@ -1,0 +1,27 @@
+{
+  "nome": "Félix Edouard Justin Émile Borel",
+  "area_principal": "Teoria das Funções",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries Divergentes",
+        "Séries de Potências"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida de Conjuntos",
+        "Conjuntos de Medida Zero"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Teoria dos Jogos"
+      ]
+    }
+  ]
+}

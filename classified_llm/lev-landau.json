@@ -1,0 +1,36 @@
+{
+  "nome": "Lev Davidovich Landau",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Eletrodinâmica Quântica"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Física de Baixas Temperaturas"
+      ]
+    },
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Estrutura Estelar"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria Cinética dos Gases",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Física de Plasmas",
+      "subareas_especificas": []
+    }
+  ]
+}

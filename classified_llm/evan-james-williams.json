@@ -1,0 +1,26 @@
+{
+  "nome": "Evan James Williams",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Quântica de Campos",
+        "Espectroscopia de Raios-X"
+      ]
+    },
+    {
+      "subarea": "Física Atômica",
+      "subareas_especificas": [
+        "Efeito de Campo Magnético em Metais Líquidos",
+        "Condutividade de Mercúrio e Amálgamas Diluídas"
+      ]
+    },
+    {
+      "subarea": "Pesquisa Operacional",
+      "subareas_especificas": [
+        "Otimização de Ataques a Submarinos"
+      ]
+    }
+  ]
+}

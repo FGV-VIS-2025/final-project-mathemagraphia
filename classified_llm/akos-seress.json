@@ -1,0 +1,21 @@
+{
+  "nome": "Akos Seress",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos",
+        "Algoritmos para Grupos de Permutação"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teoria Extremal de Combinatória",
+        "Designs"
+      ]
+    }
+  ]
+}

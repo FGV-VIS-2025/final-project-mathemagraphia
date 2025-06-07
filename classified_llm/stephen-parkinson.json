@@ -1,0 +1,21 @@
+{
+  "nome": "Stephen Parkinson",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Estática",
+        "Dinâmica",
+        "Hidrostática"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Óptica Geométrica",
+        "Teoria Ondulatória da Luz"
+      ]
+    }
+  ]
+}

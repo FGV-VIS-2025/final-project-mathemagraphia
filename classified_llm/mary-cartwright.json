@@ -1,0 +1,19 @@
+{
+  "nome": "Dame Mary Lucy Cartwright",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções inteiras",
+        "Mapeamentos conformes"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos"
+      ]
+    }
+  ]
+}

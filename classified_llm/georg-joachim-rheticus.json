@@ -1,0 +1,20 @@
+{
+  "nome": "Georg Joachim von Lauchen Rheticus",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Plana",
+      "subareas_especificas": [
+        "Funções Trigonométricas",
+        "Tabelas Trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Mapas estelares",
+        "Instrumentos astronômicos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nome": "Johann Heinrich Rahn",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Elementar",
+      "subareas_especificas": [
+        "Equações",
+        "Inequações",
+        "Sistemas de Equações"
+      ]
+    }
+  ]
+}

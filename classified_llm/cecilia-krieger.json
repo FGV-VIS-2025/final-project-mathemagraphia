@@ -1,0 +1,26 @@
+{
+  "nome": "Cypra Cecilia Krieger Dunaj",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Somabilidade de Séries Trigonométricas",
+        "Séries de Fourier",
+        "Séries Duplas de Fourier"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Funções Elípticas Modulares"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Topologia Geral"
+      ]
+    }
+  ]
+}

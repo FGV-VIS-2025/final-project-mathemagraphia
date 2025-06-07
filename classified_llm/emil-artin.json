@@ -1,0 +1,30 @@
+{
+  "nome": "Emil Artin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Teoria de Galois",
+        "Extensões de Corpos",
+        "Corpos Algebricamente Fechados"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Corpos de Números Quadráticos",
+        "Lei de Reciprocidade",
+        "Função Zeta",
+        "Números Algébricos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Anéis Artinianos",
+        "Álgebras Semi-simples"
+      ]
+    }
+  ]
+}

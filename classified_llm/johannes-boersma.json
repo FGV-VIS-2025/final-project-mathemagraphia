@@ -1,0 +1,16 @@
+{
+  "nome": "Johannes Boersma",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais de Fredholm"
+      ]
+    },
+    {
+      "subarea": "Teoria da Representação",
+      "subareas_especificas": []
+    }
+  ]
+}

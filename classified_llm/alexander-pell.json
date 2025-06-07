@@ -1,0 +1,14 @@
+{
+  "nome": "Alexander Pell",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial de Superfícies",
+      "subareas_especificas": [
+        "Superfícies",
+        "Curvaturas",
+        "Geodésicas"
+      ]
+    }
+  ]
+}

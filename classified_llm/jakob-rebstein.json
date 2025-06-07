@@ -1,0 +1,27 @@
+{
+  "nome": "Johann Jakob Rebstein",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria diferencial",
+      "subareas_especificas": [
+        "Geometria de superfícies",
+        "Teoria de superfícies mínimas"
+      ]
+    },
+    {
+      "subarea": "Geodesia",
+      "subareas_especificas": [
+        "Métodos dos mínimos quadrados",
+        "Teoria dos erros",
+        "Cartografia"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços vetoriais"
+      ]
+    }
+  ]
+}

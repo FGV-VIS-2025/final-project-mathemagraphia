@@ -1,0 +1,21 @@
+{
+  "nome": "Gaspard Gustave de Coriolis",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Dinâmica",
+        "Cinemática",
+        "Estática"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidráulica",
+        "Dinâmica dos Fluidos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Petrus Apianus",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Mapas",
+        "Projeções de Mapas"
+      ]
+    },
+    {
+      "subarea": "Navegação",
+      "subareas_especificas": [
+        "Astronomia Náutica",
+        "Instrumentos de Navegação"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Tabelas de Senos"
+      ]
+    }
+  ]
+}

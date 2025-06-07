@@ -1,0 +1,18 @@
+{
+  "nome": "Frederick Bath",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria de Curvas e Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria de círculos"
+      ]
+    }
+  ]
+}

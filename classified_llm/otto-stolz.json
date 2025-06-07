@@ -1,0 +1,40 @@
+{
+  "nome": "Otto Stolz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Convergência",
+        "Séries Duplas"
+      ]
+    },
+    {
+      "subarea": "Limites",
+      "subareas_especificas": [
+        "Razões Indeterminadas"
+      ]
+    },
+    {
+      "subarea": "Integração",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Elementos Complexos",
+        "Pontos Singulares de Funções e Curvas Algébricas",
+        "Assíntotas de Curvas Algébricas",
+        "Multiplicidade de Interseções de Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Reais",
+        "Números Complexos",
+        "Aritmética"
+      ]
+    }
+  ]
+}

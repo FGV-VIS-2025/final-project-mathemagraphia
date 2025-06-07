@@ -1,0 +1,14 @@
+{
+  "nome": "Kushyar ibn Labban",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Aritmética com Numerais Hindu-arábicos",
+      "subareas_especificas": [
+        "Operações com decimais",
+        "Extração de raízes quadradas e cúbicas",
+        "Método da prova dos noves"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Ernst Friedrich Ferdinand Zermelo",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Axiomatização da Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axioma da Escolha",
+        "Axiomas de Zermelo-Fraenkel"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Hipótese do Contínuo",
+        "Cardinalidade",
+        "Ordinais"
+      ]
+    }
+  ]
+}

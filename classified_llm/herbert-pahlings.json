@@ -1,0 +1,24 @@
+{
+  "nome": "Herbert Pahlings",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Representações",
+      "subareas_especificas": [
+        "Representações Projetivas",
+        "Representações Modulares",
+        "Caracteres de Grupos",
+        "Tabelas de Caracteres",
+        "Algoritmos em Teoria de Representações"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos Simples",
+        "Grupos de Galois"
+      ]
+    }
+  ]
+}

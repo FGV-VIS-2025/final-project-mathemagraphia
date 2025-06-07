@@ -1,0 +1,19 @@
+{
+  "nome": "Nilakantha Somayaji",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Séries de Taylor",
+        "Aproximação de π"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Funções Trigonométricas Inversas"
+      ]
+    }
+  ]
+}

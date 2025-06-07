@@ -1,0 +1,19 @@
+{
+  "nome": "Nicomedes",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas"
+      ]
+    },
+    {
+      "subarea": "Construções Geométricas",
+      "subareas_especificas": [
+        "Trissecção do Ângulo",
+        "Duplicação do Cubo"
+      ]
+    }
+  ]
+}

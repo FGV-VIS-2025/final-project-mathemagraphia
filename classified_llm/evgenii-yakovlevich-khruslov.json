@@ -1,0 +1,21 @@
+{
+  "nome": "Evgenii Yakovlevich Khruslov",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Homogeneização",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Meios Micro-homogêneos",
+        "Domínios Perfurados"
+      ]
+    },
+    {
+      "subarea": "Análise Assintótica",
+      "subareas_especificas": [
+        "Perturbação de Fluidos Viscosos",
+        "Equações de Navier-Stokes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Alice Everett",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Fotografia Astronômica",
+        "Espectroscopia estelar"
+      ]
+    },
+    {
+      "subarea": "Matemática aplicada",
+      "subareas_especificas": [
+        "Cálculo",
+        "Análise numérica"
+      ]
+    }
+  ]
+}

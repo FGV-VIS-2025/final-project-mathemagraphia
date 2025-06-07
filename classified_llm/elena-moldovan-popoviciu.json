@@ -1,0 +1,19 @@
+{
+  "nome": "Elena Moldovan Popoviciu",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Interpolação",
+        "Polinômios de Fejér"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Convexidade"
+      ]
+    }
+  ]
+}

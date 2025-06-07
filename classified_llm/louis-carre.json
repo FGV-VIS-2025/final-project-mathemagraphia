@@ -1,0 +1,22 @@
+{
+  "nome": "Louis Carré",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integração",
+        "Aplicações do Cálculo Integral",
+        "Centros de Gravidade",
+        "Percussão",
+        "Oscilação"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Retificação de Curvas"
+      ]
+    }
+  ]
+}

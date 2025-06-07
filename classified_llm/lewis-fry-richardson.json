@@ -1,0 +1,20 @@
+{
+  "nome": "Lewis Fry Richardson",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Métodos de Diferenças Finitas"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Análise de Regressão",
+        "Testes de Hipóteses"
+      ]
+    }
+  ]
+}

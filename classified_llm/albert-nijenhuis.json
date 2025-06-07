@@ -1,0 +1,21 @@
+{
+  "nome": "Albert Nijenhuis",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Objetos Geométricos",
+      "subareas_especificas": [
+        "Teoria de Deformações",
+        "Cálculo de Ricci",
+        "Conexões Afins"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Teoria de Grupos"
+      ]
+    }
+  ]
+}

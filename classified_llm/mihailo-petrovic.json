@@ -1,0 +1,25 @@
+{
+  "nome": "Mihailo Petrović",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações Diferenciais Algébricas",
+        "Integração Qualitativa de Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Análise Intervalar"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Criptografia"
+      ]
+    }
+  ]
+}

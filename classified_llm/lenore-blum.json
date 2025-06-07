@@ -1,0 +1,19 @@
+{
+  "nome": "Lenore Carol Blum",
+  "area_principal": "Teoria da Computação",
+  "subareas": [
+    {
+      "subarea": "Complexidade Computacional",
+      "subareas_especificas": [
+        "Complexidade contínua",
+        "Teoria da Computação Algébrica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Algébrica dos Números"
+      ]
+    }
+  ]
+}

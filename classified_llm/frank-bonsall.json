@@ -1,0 +1,19 @@
+{
+  "nome": "Frank Featherstone Bonsall",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Banach",
+      "subareas_especificas": [
+        "Teoria espectral",
+        "Operadores lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Pontos Fixos",
+      "subareas_especificas": [
+        "Teorema de Brouwer-Schauder-Tikhonov"
+      ]
+    }
+  ]
+}

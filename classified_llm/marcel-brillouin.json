@@ -1,0 +1,27 @@
+{
+  "nome": "Marcel Louis Brillouin",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletrodinâmica",
+        "Circuitos Elétricos"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidrodinâmica",
+        "Aerodinâmica"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Calor Específico",
+        "Deformações Permanentes"
+      ]
+    }
+  ]
+}

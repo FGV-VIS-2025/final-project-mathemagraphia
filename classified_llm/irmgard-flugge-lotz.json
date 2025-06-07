@@ -1,0 +1,21 @@
+{
+  "nome": "Irmgard Flügge-Lotz",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Teoria de Controle",
+      "subareas_especificas": [
+        "Controle Automático",
+        "Controle Descontínuo",
+        "Controle Ótimo"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Camada Limite",
+        "Aerodinâmica"
+      ]
+    }
+  ]
+}

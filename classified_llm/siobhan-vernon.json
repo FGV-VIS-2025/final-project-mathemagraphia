@@ -1,0 +1,19 @@
+{
+  "nome": "Siobhán O'Shea Vernon",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries infinitas",
+      "subareas_especificas": [
+        "Séries trigonométricas",
+        "Séries de potências"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Polinômios"
+      ]
+    }
+  ]
+}

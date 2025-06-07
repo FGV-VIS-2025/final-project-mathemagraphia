@@ -1,0 +1,20 @@
+{
+  "nome": "Johann Benedict Listing",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Superfícies",
+      "subareas_especificas": [
+        "Superfícies de Segundo Grau",
+        "Característica de Euler"
+      ]
+    },
+    {
+      "subarea": "Complexos Simpliciais",
+      "subareas_especificas": [
+        "Complexos Tridimensionais",
+        "Complexos Tetradimensionais"
+      ]
+    }
+  ]
+}

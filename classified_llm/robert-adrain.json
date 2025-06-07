@@ -1,0 +1,19 @@
+{
+  "nome": "Robert Adrain",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuição Normal",
+        "Método dos Mínimos Quadrados"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geodesia"
+      ]
+    }
+  ]
+}

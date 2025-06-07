@@ -1,0 +1,26 @@
+{
+  "nome": "André Bloch",
+  "area_principal": "Teoria das Funções",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Teorema de Bloch",
+        "Bloch's constant"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Não-Euclidiana",
+        "Geometria Integral"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Análise Diofantina Linear"
+      ]
+    }
+  ]
+}

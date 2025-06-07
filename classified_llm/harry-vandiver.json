@@ -1,0 +1,21 @@
+{
+  "nome": "Harry Schultz Vandiver",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Corpos Ciclotômicos",
+        "Teorema do Último Teorema de Fermat"
+      ]
+    },
+    {
+      "subarea": "Números de Bernoulli",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria dos Corpos Finitos",
+      "subareas_especificas": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Jafar Muhammad Banu Musa",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    }
+  ]
+}

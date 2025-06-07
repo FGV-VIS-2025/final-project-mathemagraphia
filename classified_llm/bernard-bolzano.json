@@ -1,0 +1,21 @@
+{
+  "nome": "Bernard Placidus Johann  Nepomuk Bolzano",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Limites",
+        "Derivadas",
+        "Integrais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Irracionais",
+        "Números Transcendentais"
+      ]
+    }
+  ]
+}

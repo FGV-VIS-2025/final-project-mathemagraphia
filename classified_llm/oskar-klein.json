@@ -1,0 +1,26 @@
+{
+  "nome": "Oskar Klein",
+  "area_principal": "Física Teórica",
+  "subareas": [
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Equação de Klein-Gordon",
+        "Teoria Quântica Relativística"
+      ]
+    },
+    {
+      "subarea": "Teoria da Relatividade",
+      "subareas_especificas": [
+        "Teoria de Kaluza-Klein",
+        "Teoria de Campo Unificada"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Movimento Browniano"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "James Gourlay Clunie",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Integráveis",
+      "subareas_especificas": [
+        "Teoria de Wiman-Valiron",
+        "Funções Univalentes",
+        "Funções de Bloch"
+      ]
+    },
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries Quase-monótonas",
+        "Séries de termos positivos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Albrecht Dürer",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Construções geométricas com régua e compasso",
+        "Poligonos regulares",
+        "Circunferência"
+      ]
+    },
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Projeções",
+        "Sólidos platônicos e arquimedianos",
+        "Perspectiva"
+      ]
+    },
+    {
+      "subarea": "Teoria das Proporções",
+      "subareas_especificas": [
+        "Proporção em arte",
+        "Seções áureas"
+      ]
+    }
+  ]
+}

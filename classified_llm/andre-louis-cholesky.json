@@ -1,0 +1,12 @@
+{
+  "nome": "Andre-Louis Cholesky",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Decomposição de Matrizes",
+      "subareas_especificas": [
+        "Fatoração de Cholesky"
+      ]
+    }
+  ]
+}

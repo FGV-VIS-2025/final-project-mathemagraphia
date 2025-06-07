@@ -1,0 +1,13 @@
+{
+  "nome": "Hippias of Elis",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Construções Geométricas",
+        "Problemas Clássicos da Geometria"
+      ]
+    }
+  ]
+}

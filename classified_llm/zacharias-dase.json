@@ -1,0 +1,18 @@
+{
+  "nome": "Johann Martin Zacharias Dase",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Cálculo de π",
+      "subareas_especificas": [
+        "Aproximações de π"
+      ]
+    },
+    {
+      "subarea": "Fatoração",
+      "subareas_especificas": [
+        "Fatoração de números grandes"
+      ]
+    }
+  ]
+}

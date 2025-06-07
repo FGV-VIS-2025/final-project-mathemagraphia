@@ -1,0 +1,13 @@
+{
+  "nome": "André Sainte-Laguë",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grafos",
+      "subareas_especificas": [
+        "grafos",
+        "redes"
+      ]
+    }
+  ]
+}

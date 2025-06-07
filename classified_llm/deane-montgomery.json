@@ -1,0 +1,21 @@
+{
+  "nome": "Deane Montgomery",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos de Transformação",
+        "Teoria de Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Topologia de Conjuntos Pontuais",
+      "subareas_especificas": [
+        "Conjuntos de Borel",
+        "Conjuntos Analíticos",
+        "Conjuntos Projetivos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "Tadeusz Banachiewicz",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Perturbações Planetárias",
+        "Cálculo de Órbitas"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Cálculo Matricial",
+        "Método dos Mínimos Quadrados",
+        "Interpolação"
+      ]
+    },
+    {
+      "subarea": "Geodésia",
+      "subareas_especificas": [
+        "Gravimetria",
+        "Refração"
+      ]
+    }
+  ]
+}

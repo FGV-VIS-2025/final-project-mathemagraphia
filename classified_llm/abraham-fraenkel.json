@@ -1,0 +1,20 @@
+{
+  "nome": "Adolf Abraham Halevi Fraenkel",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Axiomatização da Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axioma da Escolha",
+        "Axioma de Substituição"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Paradoxos da Teoria dos Conjuntos",
+        "Sistemas Axiomáticos"
+      ]
+    }
+  ]
+}

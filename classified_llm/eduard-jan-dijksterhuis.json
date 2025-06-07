@@ -1,0 +1,19 @@
+{
+  "nome": "Eduard Jan Dijksterhuis",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Queda Livre",
+        "Movimento Projétil"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Diferencial"
+      ]
+    }
+  ]
+}

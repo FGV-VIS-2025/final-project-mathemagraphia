@@ -1,0 +1,20 @@
+{
+  "nome": "Stanisław Leon Ruziewicz",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Conjuntos não mensuráveis"
+      ]
+    },
+    {
+      "subarea": "Funções de Variável Real",
+      "subareas_especificas": [
+        "Funções contínuas",
+        "Derivadas",
+        "Equações funcionais"
+      ]
+    }
+  ]
+}

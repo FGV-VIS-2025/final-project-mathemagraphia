@@ -1,0 +1,25 @@
+{
+  "nome": "Adam Wilhelm Siegmund Günther",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Determinantes",
+      "subareas_especificas": [
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Funções Hiperbólicas",
+      "subareas_especificas": [
+        "Funções Hiperbólicas"
+      ]
+    },
+    {
+      "subarea": "Logaritmo Parabólico e Trigonometria Parabólica",
+      "subareas_especificas": [
+        "Logaritmo Parabólico",
+        "Trigonometria Parabólica"
+      ]
+    }
+  ]
+}

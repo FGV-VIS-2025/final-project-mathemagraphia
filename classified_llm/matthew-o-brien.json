@@ -1,0 +1,22 @@
+{
+  "nome": "Matthew O'Brien",
+  "area_principal": "Álgebra Vetorial",
+  "subareas": [
+    {
+      "subarea": "Cálculo Vetorial",
+      "subareas_especificas": [
+        "Produto Escalar",
+        "Produto Vetorial",
+        "Derivadas Vetoriais",
+        "Integrais Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Espaços Vetoriais"
+      ]
+    }
+  ]
+}

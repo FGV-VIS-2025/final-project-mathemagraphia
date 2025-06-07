@@ -1,0 +1,18 @@
+{
+  "nome": "Otto Toeplitz",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Teoria Espectral"
+      ]
+    },
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Espaços de dimensão infinita"
+      ]
+    }
+  ]
+}

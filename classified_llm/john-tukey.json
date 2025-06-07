@@ -1,0 +1,25 @@
+{
+  "nome": "John Wilder Tukey",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise de Séries Temporais",
+      "subareas_especificas": [
+        "Estimação de Espectros",
+        "Transformada de Fourier Rápida"
+      ]
+    },
+    {
+      "subarea": "Análise de Variância",
+      "subareas_especificas": [
+        "Inferências Simultâneas"
+      ]
+    },
+    {
+      "subarea": "Robustez",
+      "subareas_especificas": [
+        "Métodos Robustos"
+      ]
+    }
+  ]
+}

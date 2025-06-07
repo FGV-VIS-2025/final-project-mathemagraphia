@@ -1,0 +1,22 @@
+{
+  "nome": "Hans Reichardt",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos de Números",
+        "Corpos Quadráticos",
+        "Corpos Cúbicos",
+        "Grupos de Classes de Ideais"
+      ]
+    },
+    {
+      "subarea": "Geometria Diofantina",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Curvas Elípticas"
+      ]
+    }
+  ]
+}

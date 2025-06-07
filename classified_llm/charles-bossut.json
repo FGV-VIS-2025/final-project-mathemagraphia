@@ -1,0 +1,19 @@
+{
+  "nome": "Charles Bossut",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Resistência de Fluidos",
+        "Hidrodinâmica"
+      ]
+    },
+    {
+      "subarea": "Mecânica Aplicada",
+      "subareas_especificas": [
+        "Movimento de Máquinas"
+      ]
+    }
+  ]
+}

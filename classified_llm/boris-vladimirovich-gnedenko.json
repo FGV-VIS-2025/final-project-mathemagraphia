@@ -1,0 +1,21 @@
+{
+  "nome": "Boris Vladimirovich Gnedenko",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuições infinitamente divisíveis",
+        "Teoremas limite para somas de variáveis aleatórias independentes",
+        "Teoria das Filas de Espera"
+      ]
+    },
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Controle de Qualidade"
+      ]
+    }
+  ]
+}

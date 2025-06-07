@@ -1,0 +1,24 @@
+{
+  "nome": "William Peddie",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Dinâmica"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Equação de energia"
+      ]
+    },
+    {
+      "subarea": "Magnetismo",
+      "subareas_especificas": [
+        "Magnetismo molecular"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Thomas Gerald Room",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Espaços Projetivos",
+        "Variedades Determinantais"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Configurações Geométricas",
+        "Espaços de Alta Dimensão"
+      ]
+    }
+  ]
+}

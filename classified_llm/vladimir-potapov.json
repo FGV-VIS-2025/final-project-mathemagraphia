@@ -1,0 +1,14 @@
+{
+  "nome": "Vladimir Petrovich Potapov",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Matrizes",
+      "subareas_especificas": [
+        "Funções matriciais analíticas",
+        "Teoria de J-contração",
+        "Problemas de interpolação"
+      ]
+    }
+  ]
+}

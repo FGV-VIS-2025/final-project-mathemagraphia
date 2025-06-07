@@ -1,0 +1,13 @@
+{
+  "nome": "Lodovico Ferrari",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Polinomiais",
+      "subareas_especificas": [
+        "Equações Cúbicas",
+        "Equações Quárticas"
+      ]
+    }
+  ]
+}

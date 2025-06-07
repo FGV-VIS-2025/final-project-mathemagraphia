@@ -1,0 +1,19 @@
+{
+  "nome": "Barry Edward Johnson",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Banach",
+      "subareas_especificas": [
+        "Cohomologia em Álgebras de Banach",
+        "Derivadas em Álgebras de Operadores"
+      ]
+    },
+    {
+      "subarea": "Álgebras de Operadores",
+      "subareas_especificas": [
+        "Cohomologia em Álgebras de Operadores"
+      ]
+    }
+  ]
+}

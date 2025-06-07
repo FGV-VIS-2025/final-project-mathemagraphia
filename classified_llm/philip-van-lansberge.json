@@ -1,0 +1,25 @@
+{
+  "nome": "Johan Philip van Lansberge",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Plana",
+      "subareas_especificas": [
+        "Triângulos Planos"
+      ]
+    },
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Geometria Esférica",
+        "Triângulos Esféricos"
+      ]
+    },
+    {
+      "subarea": "Cálculo de π",
+      "subareas_especificas": [
+        "Aproximações de π"
+      ]
+    }
+  ]
+}

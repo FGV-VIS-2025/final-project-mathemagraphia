@@ -1,0 +1,20 @@
+{
+  "nome": "Talitha Michal Washington",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Modelagem Matemática",
+      "subareas_especificas": [
+        "Biologia Matemática",
+        "Sistemas Dinâmicos"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos de Diferenças Finitas",
+        "Discretização de Sistemas Dinâmicos"
+      ]
+    }
+  ]
+}

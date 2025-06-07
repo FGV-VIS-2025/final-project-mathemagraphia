@@ -1,0 +1,21 @@
+{
+  "nome": "Caroline Lucretia Herschel",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Observação",
+      "subareas_especificas": [
+        "Busca de Cometas",
+        "Redução de Dados Astronômicos"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Álgebra",
+        "Geometria",
+        "Trigonometria Esférica"
+      ]
+    }
+  ]
+}

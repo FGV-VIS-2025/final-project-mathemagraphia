@@ -1,0 +1,21 @@
+{
+  "nome": "Augustus Edward Hough Love",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Teoria da Elasticidade",
+        "Equilíbrio e Estabilidade de Sólidos Elásticos",
+        "Vibração de Vigas"
+      ]
+    },
+    {
+      "subarea": "Ondas",
+      "subareas_especificas": [
+        "Ondas Sísmicas",
+        "Harmônicos Esféricos"
+      ]
+    }
+  ]
+}

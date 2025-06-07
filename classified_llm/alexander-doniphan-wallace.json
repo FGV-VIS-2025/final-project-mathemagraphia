@@ -1,0 +1,20 @@
+{
+  "nome": "Alexander Doniphan Wallace",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Cohomologia",
+        "Complexos de Cadeias"
+      ]
+    },
+    {
+      "subarea": "Semigrupos Topológicos",
+      "subareas_especificas": [
+        "Idempotentes em Semigrupos",
+        "Subgrupos de Semigrupos"
+      ]
+    }
+  ]
+}

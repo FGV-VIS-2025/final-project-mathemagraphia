@@ -1,0 +1,18 @@
+{
+  "nome": "John Macnaghten Whittaker",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Meromorfas",
+      "subareas_especificas": [
+        "Teoria de Nevanlinna"
+      ]
+    },
+    {
+      "subarea": "Séries de Polinômios",
+      "subareas_especificas": [
+        "Funções inteiras"
+      ]
+    }
+  ]
+}

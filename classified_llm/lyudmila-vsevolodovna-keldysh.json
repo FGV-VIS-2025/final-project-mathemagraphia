@@ -1,0 +1,20 @@
+{
+  "nome": "Lyudmila Vsevolodovna Keldysh",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Conjuntos de Borel",
+      "subareas_especificas": [
+        "Classificação de Borel",
+        "Conjuntos Analíticos"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Embeddings topológicos",
+        "Mapeamentos contínuos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Gerbert of Aurillac",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Operações com números",
+        "Frações",
+        "Proporções"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Cálculo de áreas",
+        "Cálculo de volumes"
+      ]
+    }
+  ]
+}

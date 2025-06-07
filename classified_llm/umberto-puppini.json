@@ -1,0 +1,19 @@
+{
+  "nome": "Umberto Puppini",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Hidráulica",
+      "subareas_especificas": [
+        "Dinâmica dos Fluidos",
+        "Mecânica dos Sólidos"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

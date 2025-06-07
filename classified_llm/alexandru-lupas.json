@@ -1,0 +1,31 @@
+{
+  "nome": "Alexandru Ioan Lupas",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Operadores Lineares Positivos",
+        "Operadores de Bernstein",
+        "Operadores de Szász-Mirakjan",
+        "Operadores de Baskakov",
+        "Operadores de Beta",
+        "Operadores de Stancu"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Quadratura",
+        "Inequalidades"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Operacional Finito (Cálculo Umbral)",
+        "q-Cálculo"
+      ]
+    }
+  ]
+}

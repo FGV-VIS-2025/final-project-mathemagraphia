@@ -1,0 +1,26 @@
+{
+  "nome": "Jean Claude Bouquet",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Superfícies Ortogonais",
+        "Sistemas de Retas no Espaço"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Existência de Integrais",
+        "Funções Elípticas"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Séries de Funções"
+      ]
+    }
+  ]
+}

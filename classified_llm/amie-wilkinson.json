@@ -1,0 +1,20 @@
+{
+  "nome": "Amie Wilkinson",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos Conservativos",
+        "Difomorfismos Parcialmente Hiperbólicos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Hiperbólica",
+        "Superfícies de Riemann"
+      ]
+    }
+  ]
+}

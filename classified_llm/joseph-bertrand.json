@@ -1,0 +1,19 @@
+{
+  "nome": "Joseph Louis François Bertrand",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Contínua",
+        "Paradoxo de Bertrand"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos"
+      ]
+    }
+  ]
+}

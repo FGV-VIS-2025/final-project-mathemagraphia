@@ -1,0 +1,24 @@
+{
+  "nome": "Harold Davenport",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Geometria dos Números"
+      ]
+    },
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Método de Hardy-Littlewood"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Distribuição de Primos"
+      ]
+    }
+  ]
+}

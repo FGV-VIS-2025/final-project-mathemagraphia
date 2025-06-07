@@ -1,0 +1,19 @@
+{
+  "nome": "Józeph Miksa Petzval",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações Lineares",
+        "Equações de Riccati"
+      ]
+    },
+    {
+      "subarea": "Transformada de Laplace",
+      "subareas_especificas": [
+        "Aplicações a Equações Diferenciais Ordinárias"
+      ]
+    }
+  ]
+}

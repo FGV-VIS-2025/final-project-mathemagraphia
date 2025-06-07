@@ -1,0 +1,31 @@
+{
+  "nome": "Blagoj Sazdov Popov",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equação de Riccati",
+        "Equações Diferenciais Lineares"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Polinômios Ortogonais",
+        "Polinômios de Legendre",
+        "Polinômios de Bessel",
+        "Polinômios de Hermite",
+        "Polinômios de Darboux",
+        "Polinômios de Whittaker",
+        "Polinômios de Laplace",
+        "Polinômios de Gegenbauer",
+        "Polinômios de Jacobi",
+        "Polinômios de Laguerre",
+        "Polinômios de Bernoulli",
+        "Polinômios de Chebyshev",
+        "Polinômios de Appell"
+      ]
+    }
+  ]
+}

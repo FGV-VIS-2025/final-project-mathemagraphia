@@ -1,0 +1,21 @@
+{
+  "nome": "Anatolii Volodymyrovych Skorokhod",
+  "area_principal": "Teoria da Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Equações Diferenciais Estocásticas",
+        "Processos de Wiener"
+      ]
+    },
+    {
+      "subarea": "Teoremas Limite",
+      "subareas_especificas": [
+        "Teoremas Limite para Processos Aleatórios",
+        "Distribuições Estáveis"
+      ]
+    }
+  ]
+}

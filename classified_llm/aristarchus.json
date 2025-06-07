@@ -1,0 +1,12 @@
+{
+  "nome": "Aristarchus of Samos",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de Distâncias e Tamanhos"
+      ]
+    }
+  ]
+}

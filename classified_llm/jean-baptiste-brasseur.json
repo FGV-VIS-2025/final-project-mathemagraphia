@@ -1,0 +1,19 @@
+{
+  "nome": "Jean-Baptiste Brasseur",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Projeções",
+        "Aplicações da Geometria Descritiva"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Propriedades da Extensão"
+      ]
+    }
+  ]
+}

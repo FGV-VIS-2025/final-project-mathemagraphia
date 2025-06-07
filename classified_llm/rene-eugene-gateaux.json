@@ -1,0 +1,19 @@
+{
+  "nome": "René Eugène Gateaux",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Cálculo Funcional",
+      "subareas_especificas": [
+        "Diferenciação Funcional",
+        "Integração Funcional"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

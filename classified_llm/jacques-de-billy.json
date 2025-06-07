@@ -1,0 +1,12 @@
+{
+  "nome": "Jacques de Billy",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Análise Indeterminada",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    }
+  ]
+}

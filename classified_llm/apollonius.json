@@ -1,0 +1,19 @@
+{
+  "nome": "Apollonius of Perga",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Curvatura",
+        "Evoluta"
+      ]
+    }
+  ]
+}

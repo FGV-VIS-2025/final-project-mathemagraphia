@@ -1,0 +1,20 @@
+{
+  "nome": "Thomas Harriot",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações polinomiais",
+        "Raízes negativas e complexas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços vetoriais",
+        "Teoria de Módulos"
+      ]
+    }
+  ]
+}

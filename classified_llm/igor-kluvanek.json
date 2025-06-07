@@ -1,0 +1,19 @@
+{
+  "nome": "Igor Stefan Kluvánek",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Medida e Integração",
+      "subareas_especificas": [
+        "Medida Vetorial",
+        "Teoria da Integração"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach"
+      ]
+    }
+  ]
+}

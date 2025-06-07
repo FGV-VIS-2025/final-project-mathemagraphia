@@ -1,0 +1,22 @@
+{
+  "nome": "Giacomo Albanese",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica de Superfícies",
+      "subareas_especificas": [
+        "Sistemas Contínuos de Curvas",
+        "Resolução de Singularidades",
+        "Equivalência Racional de 0-ciclos",
+        "Teoria de Correspondências"
+      ]
+    },
+    {
+      "subarea": "Teoria de Variedades Algébricas",
+      "subareas_especificas": [
+        "Gênero de uma Variedade Algébrica",
+        "Problema de Riemann-Roch"
+      ]
+    }
+  ]
+}

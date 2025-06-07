@@ -1,0 +1,21 @@
+{
+  "nome": "Thomas Murray MacRobert",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções Hipergeométricas",
+        "Funções de Bessel",
+        "Funções de Legendre",
+        "Função E"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias de Segunda Ordem"
+      ]
+    }
+  ]
+}

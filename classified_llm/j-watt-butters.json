@@ -1,0 +1,12 @@
+{
+  "nome": "John Watt Butters",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Algébricas",
+      "subareas_especificas": [
+        "Soluções de Equações Algébricas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Cuthbert Tunstall",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Cálculo numérico"
+      ]
+    }
+  ]
+}

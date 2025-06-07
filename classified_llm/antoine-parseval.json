@@ -1,0 +1,18 @@
+{
+  "nome": "Marc-Antoine Parseval des Chênes",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Lineares de Segunda Ordem"
+      ]
+    }
+  ]
+}

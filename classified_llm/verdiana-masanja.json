@@ -1,0 +1,19 @@
+{
+  "nome": "Verdiana Grace Masanja",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos Numéricos para EDPs",
+        "Fluidos Não-Newtonianos"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Dinâmica dos Fluidos Computacional"
+      ]
+    }
+  ]
+}

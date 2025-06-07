@@ -1,0 +1,20 @@
+{
+  "nome": "David S Broomhead",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Teoria do Caos",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos Não Lineares",
+        "Bifurcações"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Modelos de Dímeros",
+        "Álgebras de Calabi-Yau"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nome": "Carl David Tolmé Runge",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Curvatura",
+        "Torção",
+        "Curvatura Geodésica"
+      ]
+    }
+  ]
+}

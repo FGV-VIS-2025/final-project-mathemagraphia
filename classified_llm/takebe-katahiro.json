@@ -1,0 +1,20 @@
+{
+  "nome": "Takebe Katahiro",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries infinitas",
+      "subareas_especificas": [
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integração",
+        "Diferenciação",
+        "Aproximação de π"
+      ]
+    }
+  ]
+}

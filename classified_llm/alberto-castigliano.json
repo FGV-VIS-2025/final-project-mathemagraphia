@@ -1,0 +1,13 @@
+{
+  "nome": "Carlo Alberto Castigliano",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Sólidos",
+      "subareas_especificas": [
+        "Elasticidade",
+        "Resistência dos Materiais"
+      ]
+    }
+  ]
+}

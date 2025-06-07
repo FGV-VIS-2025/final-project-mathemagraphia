@@ -1,0 +1,20 @@
+{
+  "nome": "Hippocrates of Chios",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Quadratura de figuras",
+        "Cálculo de áreas"
+      ]
+    },
+    {
+      "subarea": "Problemas Clássicos da Geometria",
+      "subareas_especificas": [
+        "Duplicação do cubo",
+        "Quadratura do círculo"
+      ]
+    }
+  ]
+}

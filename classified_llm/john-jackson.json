@@ -1,0 +1,19 @@
+{
+  "nome": "John Jackson",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrometria",
+      "subareas_especificas": [
+        "Paralaxe estelar",
+        "Observações meridionais"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Rotação de planetas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Georg Joseph Sidler",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Perturbações Planetárias"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Método dos Mínimos Quadrados"
+      ]
+    }
+  ]
+}

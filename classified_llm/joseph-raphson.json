@@ -1,0 +1,12 @@
+{
+  "nome": "Joseph Raphson",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Métodos Iterativos",
+      "subareas_especificas": [
+        "Método de Newton-Raphson"
+      ]
+    }
+  ]
+}

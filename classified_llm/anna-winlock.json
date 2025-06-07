@@ -1,0 +1,21 @@
+{
+  "nome": "Anna Winlock",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Cálculos de Órbita",
+        "Redução de Dados",
+        "Efemérides"
+      ]
+    },
+    {
+      "subarea": "Astrometria",
+      "subareas_especificas": [
+        "Catálogos Estelares",
+        "Meridian Circle Computations"
+      ]
+    }
+  ]
+}

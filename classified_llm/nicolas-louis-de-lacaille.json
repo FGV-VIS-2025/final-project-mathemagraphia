@@ -1,0 +1,20 @@
+{
+  "nome": "Nicolas-Louis de Lacaille",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Geometria Esférica",
+      "subareas_especificas": [
+        "Trigonometria Esférica",
+        "Cartografia"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Teoria da Gravitação",
+        "Determinação de Órbitas"
+      ]
+    }
+  ]
+}

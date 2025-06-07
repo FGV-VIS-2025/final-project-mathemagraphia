@@ -1,0 +1,20 @@
+{
+  "nome": "Demetrios Andreou Kappos",
+  "area_principal": "Teoria da Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Álgebras Booleanas",
+        "Espaços de Probabilidade"
+      ]
+    },
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Variáveis Aleatórias",
+        "Espaços Estocásticos"
+      ]
+    }
+  ]
+}

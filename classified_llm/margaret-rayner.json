@@ -1,0 +1,19 @@
+{
+  "nome": "Margaret Eva Rayner",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problema da Membrana Vibrante",
+        "Inequações Isoperimétricas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Inequações de Hölder"
+      ]
+    }
+  ]
+}

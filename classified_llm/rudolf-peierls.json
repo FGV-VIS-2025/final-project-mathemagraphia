@@ -1,0 +1,19 @@
+{
+  "nome": "Rudolf Ernst Peierls",
+  "area_principal": "Física Teórica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Quântica de Campos",
+        "Mecânica Estatística"
+      ]
+    },
+    {
+      "subarea": "Física Nuclear",
+      "subareas_especificas": [
+        "Física de Partículas Elementares"
+      ]
+    }
+  ]
+}

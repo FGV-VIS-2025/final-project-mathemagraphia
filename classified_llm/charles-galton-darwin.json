@@ -1,0 +1,12 @@
+{
+  "nome": "Charles Galton Darwin",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Mecânica Ondulatória"
+      ]
+    }
+  ]
+}

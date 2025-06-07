@@ -1,0 +1,23 @@
+{
+  "nome": "Vera Nikolaevna Kublanovskaya",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear Numérica",
+      "subareas_especificas": [
+        "Autovalores e Autovetores",
+        "Decomposição QR",
+        "Sistemas Lineares",
+        "Matrizes"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Iterativos",
+        "Equações Diferenciais",
+        "Integração Numérica"
+      ]
+    }
+  ]
+}

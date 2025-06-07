@@ -1,0 +1,19 @@
+{
+  "nome": "César-François Cassini de Thury",
+  "area_principal": "Geodesia",
+  "subareas": [
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Triangulação",
+        "Cartografia"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Teoria de Erros"
+      ]
+    }
+  ]
+}

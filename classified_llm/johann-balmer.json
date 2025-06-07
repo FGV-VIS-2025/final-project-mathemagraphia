@@ -1,0 +1,13 @@
+{
+  "nome": "Johann Jakob Balmer",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Séries de Potências"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "Oronce Fine",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Axiomas",
+        "Teoremas",
+        "Construções Geométricas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria Plana",
+        "Cálculo de Áreas e Volumes"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Projeções Cartográficas",
+        "Mapas"
+      ]
+    }
+  ]
+}

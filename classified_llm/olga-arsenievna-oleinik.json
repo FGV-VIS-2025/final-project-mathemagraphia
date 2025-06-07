@@ -1,0 +1,20 @@
+{
+  "nome": "Olga Arsen'evna Oleinik",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Homogeneização",
+      "subareas_especificas": [
+        "Equações Elípticas",
+        "Equações de Elasticidade Linear"
+      ]
+    },
+    {
+      "subarea": "Teoria de Camada Limite",
+      "subareas_especificas": [
+        "Equações de Prandtl",
+        "Equações de Navier-Stokes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Nigel John Kalton",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria de Espaços de Banach",
+        "Operadores em Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Espaços não-localmente convexos",
+      "subareas_especificas": [
+        "Teoria de F-espaços"
+      ]
+    }
+  ]
+}

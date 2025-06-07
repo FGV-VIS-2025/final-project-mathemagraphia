@@ -1,0 +1,19 @@
+{
+  "nome": "Louise Schmir Hay",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Recursão",
+      "subareas_especificas": [
+        "Funções Recursivas Parciais",
+        "Teoria dos Conjuntos Recursivamente Enumeráveis"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Predicados",
+      "subareas_especificas": [
+        "Cálculo de Predicados Infinitamente Valorado"
+      ]
+    }
+  ]
+}

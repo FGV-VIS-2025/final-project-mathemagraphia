@@ -1,0 +1,12 @@
+{
+  "nome": "Carl Louis Ferdinand von Lindemann",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Transcendentais"
+      ]
+    }
+  ]
+}

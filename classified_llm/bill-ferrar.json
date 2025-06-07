@@ -1,0 +1,25 @@
+{
+  "nome": "William Leonard Ferrar",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Convergência de Séries"
+      ]
+    },
+    {
+      "subarea": "Teoria da Interpolação",
+      "subareas_especificas": [
+        "Interpolação"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Integrais Singulares"
+      ]
+    }
+  ]
+}

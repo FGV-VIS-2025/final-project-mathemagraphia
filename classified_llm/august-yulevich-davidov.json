@@ -1,0 +1,31 @@
+{
+  "nome": "August Yulevich Davidov",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Equilíbrio de Corpos Flutuantes",
+      "subareas_especificas": [
+        "Equilíbrio de corpos imersos em líquido",
+        "Estabilidade de equilíbrio de corpos flutuantes"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "-"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "-"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "-"
+      ]
+    }
+  ]
+}

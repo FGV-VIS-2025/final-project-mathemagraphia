@@ -1,0 +1,20 @@
+{
+  "nome": "Hilda Phoebe Hudson",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Transformações de Cremona",
+        "Curvas Nodais",
+        "Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas e Superfícies"
+      ]
+    }
+  ]
+}

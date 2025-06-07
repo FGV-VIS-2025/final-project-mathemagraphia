@@ -1,0 +1,25 @@
+{
+  "nome": "Oscar Zariski",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica Clássica",
+      "subareas_especificas": [
+        "Teoria de Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Anéis de Valoração",
+        "Anéis Locais Regulares"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupo Fundamental"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Ralph Hartzler Fox",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Nós",
+      "subareas_especificas": [
+        "Grupos de Tranças",
+        "Grupos Fundamentais",
+        "Homologia",
+        "Teoria de Homotopia"
+      ]
+    },
+    {
+      "subarea": "Topologia de Baixas Dimensões",
+      "subareas_especificas": [
+        "3-variedades",
+        "Conjectura de Poincaré"
+      ]
+    }
+  ]
+}

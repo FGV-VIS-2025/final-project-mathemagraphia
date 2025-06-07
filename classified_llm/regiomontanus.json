@@ -1,0 +1,20 @@
+{
+  "nome": "Johann Müller Regiomontanus",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Plana",
+      "subareas_especificas": [
+        "Lei dos Senos",
+        "Lei dos Cossenos",
+        "Resolução de Triângulos"
+      ]
+    },
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Resolução de Triângulos Esféricos"
+      ]
+    }
+  ]
+}

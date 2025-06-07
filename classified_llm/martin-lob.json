@@ -1,0 +1,19 @@
+{
+  "nome": "Martin Hugo Löb",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Teorema de Gödel",
+        "Teorema de Löb"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Funções aritméticas"
+      ]
+    }
+  ]
+}

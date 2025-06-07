@@ -1,0 +1,19 @@
+{
+  "nome": "Edward Burns Ross",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Sistemas Dinâmicos"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Problemas de Três Corpos"
+      ]
+    }
+  ]
+}

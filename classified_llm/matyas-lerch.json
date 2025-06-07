@@ -1,0 +1,28 @@
+{
+  "nome": "Matyáš Lerch",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Função Gama",
+        "Funções Elípticas"
+      ]
+    },
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Convergência",
+        "Métodos de Cálculo"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Quadráticas",
+        "Resíduos Quadráticos",
+        "Função Zeta de Lerch"
+      ]
+    }
+  ]
+}

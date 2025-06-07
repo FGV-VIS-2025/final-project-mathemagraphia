@@ -1,0 +1,19 @@
+{
+  "nome": "Friedrich Karl Schmidt",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Teoria de Valoração",
+        "Teoria de Corpos de Classes"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Funções Zeta"
+      ]
+    }
+  ]
+}

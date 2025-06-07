@@ -1,0 +1,29 @@
+{
+  "nome": "Yudell Leo Luke",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Aproximação de Funções",
+      "subareas_especificas": [
+        "Aproximação por Polinômios",
+        "Aproximação por Funções Racionais",
+        "Expansões em Séries"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Funções Hipergeométricas",
+        "Polinômios de Laguerre",
+        "Polinômios de Hermite"
+      ]
+    },
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Método Tau"
+      ]
+    }
+  ]
+}

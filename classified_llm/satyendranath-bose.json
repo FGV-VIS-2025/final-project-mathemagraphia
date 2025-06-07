@@ -1,0 +1,20 @@
+{
+  "nome": "Satyendranath Bose",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases",
+        "Termodinâmica Estatística"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica",
+      "subareas_especificas": [
+        "Mecânica Quântica",
+        "Radiação de Corpo Negro"
+      ]
+    }
+  ]
+}

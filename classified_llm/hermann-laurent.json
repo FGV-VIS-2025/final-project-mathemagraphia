@@ -1,0 +1,23 @@
+{
+  "nome": "Matthieu Paul Hermann Laurent",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções de Variável Complexa"
+      ]
+    },
+    {
+      "subarea": "Determinantes",
+      "subareas_especificas": []
+    }
+  ]
+}

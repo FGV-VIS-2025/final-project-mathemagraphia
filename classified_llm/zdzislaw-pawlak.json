@@ -1,0 +1,28 @@
+{
+  "nome": "Zdzisław Ignacy Pawlak",
+  "area_principal": "Ciência da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Teoria de Autômatos",
+        "Lógica Matemática",
+        "Teoria da Informação"
+      ]
+    },
+    {
+      "subarea": "Matemática Discreta",
+      "subareas_especificas": [
+        "Teoria dos Grafos",
+        "Álgebra Booleana"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Probabilidade",
+        "Teoria dos Números"
+      ]
+    }
+  ]
+}

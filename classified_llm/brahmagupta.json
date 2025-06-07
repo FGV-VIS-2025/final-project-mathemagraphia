@@ -1,0 +1,19 @@
+{
+  "nome": "Brahmagupta",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equações Indeterminadas Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Negativos",
+        "Zero"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Aristotle",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Silogística",
+      "subareas_especificas": [
+        "Silogismos aristotélicos"
+      ]
+    },
+    {
+      "subarea": "Teoria da demonstração",
+      "subareas_especificas": [
+        "Axiomatização",
+        "Dedução"
+      ]
+    }
+  ]
+}

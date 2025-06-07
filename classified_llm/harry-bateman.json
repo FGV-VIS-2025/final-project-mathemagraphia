@@ -1,0 +1,26 @@
+{
+  "nome": "Harry Bateman",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Transformada de Laplace",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Funções de Legendre"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica"
+      ]
+    }
+  ]
+}

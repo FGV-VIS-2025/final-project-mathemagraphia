@@ -1,0 +1,22 @@
+{
+  "nome": "Víctor Manuel Neumann-Lara",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grafos",
+      "subareas_especificas": [
+        "Teoria de Núcleos em Digrafos",
+        "Torneios"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "k-Hamiltonian graphs",
+        "Clique divergence in graphs",
+        "Generalized dichromatic number of a digraph",
+        "Unboundedness for generalized odd cyclic transversality"
+      ]
+    }
+  ]
+}

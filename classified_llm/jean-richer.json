@@ -1,0 +1,27 @@
+{
+  "nome": "Jean Richer",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Determinação de Longitude",
+        "Determinação de Latitude",
+        "Parallax"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Movimento dos Planetas",
+        "Determinação da Distância Sol-Terra"
+      ]
+    },
+    {
+      "subarea": "Cronometria",
+      "subareas_especificas": [
+        "Relógios de Pêndulo"
+      ]
+    }
+  ]
+}

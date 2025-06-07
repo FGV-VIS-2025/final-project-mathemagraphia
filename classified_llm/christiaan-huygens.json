@@ -1,0 +1,27 @@
+{
+  "nome": "Christiaan Huygens",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Dinâmica",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos",
+        "Movimento Pendular",
+        "Força Centrípeta"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Teoria Ondulatória da Luz",
+        "Construção de Telescópios"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Cálculo de Probabilidades"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Claude Mydorge",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Construções Geométricas",
+        "Seções Cônicas"
+      ]
+    },
+    {
+      "subarea": "Óptica Geométrica",
+      "subareas_especificas": [
+        "Refração"
+      ]
+    }
+  ]
+}

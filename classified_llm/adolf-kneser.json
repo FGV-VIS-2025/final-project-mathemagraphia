@@ -1,0 +1,27 @@
+{
+  "nome": "Adolf Kneser",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Problema de Sturm-Liouville"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Aplicações em Física Matemática"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Extremos",
+        "Campos",
+        "Transversais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Shing-Tung Yau",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Variedades Kähler",
+        "Equações de Monge-Ampère",
+        "Fluxos de Ricci"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Elípticas Não-Lineares",
+        "Estimativas a priori"
+      ]
+    }
+  ]
+}

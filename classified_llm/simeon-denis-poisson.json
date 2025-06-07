@@ -1,0 +1,33 @@
+{
+  "nome": "Siméon Denis Poisson",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Aplicações em problemas físicos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Aplicações em problemas físicos",
+        "Teoria do Potencial"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Celeste",
+        "Teoria da Rotação da Terra"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Distribuição de Poisson",
+        "Lei dos Grandes Números"
+      ]
+    }
+  ]
+}

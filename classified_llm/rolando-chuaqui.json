@@ -1,0 +1,26 @@
+{
+  "nome": "Rolando Chuaqui Kettlun",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Teoria Axiomatica dos Conjuntos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Fundamentos da Probabilidade",
+        "Inferência Estatística"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Abstrata",
+        "Álgebras Cardinais"
+      ]
+    }
+  ]
+}

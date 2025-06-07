@@ -1,0 +1,21 @@
+{
+  "nome": "Alexander Semenovich Kronrod",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções de Variável Real",
+      "subareas_especificas": [
+        "Funções de Duas Variáveis",
+        "Séries",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos para Equações Diferenciais",
+        "Álgebra Linear Computacional"
+      ]
+    }
+  ]
+}

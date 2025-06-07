@@ -1,0 +1,19 @@
+{
+  "nome": "Pierre Maurice Marie Duhem",
+  "area_principal": "Termodinâmica",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Hidrodinâmica",
+        "Elasticidade"
+      ]
+    },
+    {
+      "subarea": "Magnetismo",
+      "subareas_especificas": [
+        "Eletromagnetismo"
+      ]
+    }
+  ]
+}

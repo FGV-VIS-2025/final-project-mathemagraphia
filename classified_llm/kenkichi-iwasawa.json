@@ -1,0 +1,19 @@
+{
+  "nome": "Kenkichi Iwasawa",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Teoria de Corpos de Classes",
+        "Funções L de Iwasawa"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica Aritmética",
+      "subareas_especificas": [
+        "Variedades Algébricas sobre Corpos de Números"
+      ]
+    }
+  ]
+}

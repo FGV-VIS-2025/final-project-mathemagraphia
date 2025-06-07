@@ -1,0 +1,25 @@
+{
+  "nome": "Leonardo Pisano Fibonacci",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Triplas Pitagóricas",
+        "Congruências"
+      ]
+    },
+    {
+      "subarea": "Números Irracionais",
+      "subareas_especificas": [
+        "Aproximações Racionais"
+      ]
+    },
+    {
+      "subarea": "Sequências",
+      "subareas_especificas": [
+        "Sequência de Fibonacci"
+      ]
+    }
+  ]
+}

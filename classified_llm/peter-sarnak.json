@@ -1,0 +1,26 @@
+{
+  "nome": "Peter Clive Sarnak",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Análise Harmônica",
+        "Teoria Espectral"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Hiperbólica",
+        "Geometria Riemanniana"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Fluxos Geodésicos"
+      ]
+    }
+  ]
+}

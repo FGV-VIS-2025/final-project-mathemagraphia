@@ -1,0 +1,19 @@
+{
+  "nome": "Leonid Vitalyevich Kantorovich",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços Vetoriais Ordenados",
+      "subareas_especificas": [
+        "K-espaços"
+      ]
+    },
+    {
+      "subarea": "Programação Linear",
+      "subareas_especificas": [
+        "Métodos primal-dual",
+        "Método de geração de colunas"
+      ]
+    }
+  ]
+}

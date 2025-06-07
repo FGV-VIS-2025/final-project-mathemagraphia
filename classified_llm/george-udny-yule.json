@@ -1,0 +1,28 @@
+{
+  "nome": "George Udny Yule",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Regressão e Correlação",
+      "subareas_especificas": [
+        "Coeficientes de Correlação",
+        "Mínimos Quadrados"
+      ]
+    },
+    {
+      "subarea": "Teoria de Amostragem",
+      "subareas_especificas": [
+        "Amostras Grandes e Pequenas",
+        "Qui-quadrado",
+        "Análise de Variância"
+      ]
+    },
+    {
+      "subarea": "Séries Temporais",
+      "subareas_especificas": [
+        "Correlograma",
+        "Séries Autoregressivas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nome": "Boris Yakovlevic Bukreev",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Funções fuchsianas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Séries",
+      "subareas_especificas": [
+        "Séries de funções transcendentais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações diferenciais lineares de segunda ordem"
+      ]
+    }
+  ]
+}

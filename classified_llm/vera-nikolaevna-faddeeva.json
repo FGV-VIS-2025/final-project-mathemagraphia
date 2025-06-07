@@ -1,0 +1,20 @@
+{
+  "nome": "Vera Nikolaevna Faddeeva",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Sistemas Lineares",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Matrizes"
+      ]
+    },
+    {
+      "subarea": "Autovalores e Autovetores",
+      "subareas_especificas": [
+        "Métodos Iterativos",
+        "Decomposição de Matrizes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Annibale Giuseppe Nicolò Giordano",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Construções Geométricas",
+        "Problemas de Inscrição e Circunscrição"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas e Superfícies"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nome": "Adolphe-Louis Jacques Bertillon",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Demográfica",
+      "subareas_especificas": [
+        "Taxas de mortalidade",
+        "Taxas de suicídio",
+        "Taxas de divórcio",
+        "Análise de dados demográficos"
+      ]
+    },
+    {
+      "subarea": "Estatística Aplicada",
+      "subareas_especificas": [
+        "Estatística em saúde pública",
+        "Métodos de coleta de dados",
+        "Classificação de dados",
+        "Análise de dados"
+      ]
+    }
+  ]
+}

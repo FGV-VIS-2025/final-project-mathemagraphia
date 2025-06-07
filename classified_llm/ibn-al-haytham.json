@@ -1,0 +1,20 @@
+{
+  "nome": "Abu Ali al-Hasan ibn al-Haytham",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Reflexão da Luz"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Números Perfeitos",
+        "Congruências"
+      ]
+    }
+  ]
+}

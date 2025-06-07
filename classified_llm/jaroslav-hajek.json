@@ -1,0 +1,21 @@
+{
+  "nome": "Jaroslav Hájek",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Estimação",
+        "Métodos Não-paramétricos"
+      ]
+    },
+    {
+      "subarea": "Amostragem",
+      "subareas_especificas": [
+        "Amostragem Probabilística",
+        "Amostragem em Populações Finitas"
+      ]
+    }
+  ]
+}

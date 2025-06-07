@@ -1,0 +1,23 @@
+{
+  "nome": "Jean-François Le Gall",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Movimento Browniano",
+        "Equações Diferenciais Estocásticas",
+        "Processos de ramificação espacial",
+        "Árvores aleatórias contínuas",
+        "Geometria aleatória"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medidas de probabilidade",
+        "Integração estocástica"
+      ]
+    }
+  ]
+}

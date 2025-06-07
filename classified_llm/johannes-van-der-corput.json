@@ -1,0 +1,20 @@
+{
+  "nome": "Johannes Gaultherus van der Corput",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Método das somas exponenciais",
+        "Problema do círculo",
+        "Aproximações diofantinas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Pontos de rede"
+      ]
+    }
+  ]
+}

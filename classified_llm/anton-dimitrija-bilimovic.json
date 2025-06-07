@@ -1,0 +1,26 @@
+{
+  "nome": "Anton Dimitrija Bilimovic",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Racional",
+      "subareas_especificas": [
+        "Dinâmica de corpos rígidos",
+        "Dinâmica de corpos elásticos",
+        "Equações de movimento"
+      ]
+    },
+    {
+      "subarea": "Mecânica Não-Holonômica",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos",
+        "Integrais de movimento lineares",
+        "Restrições não-holonômicas"
+      ]
+    },
+    {
+      "subarea": "Teoria de curvas e superfícies",
+      "subareas_especificas": []
+    }
+  ]
+}

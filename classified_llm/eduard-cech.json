@@ -1,0 +1,27 @@
+{
+  "nome": "Eduard Čech",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Combinatória",
+      "subareas_especificas": [
+        "Teoria da Homologia",
+        "Grupos de Homotopia",
+        "Dualidade em Variedades"
+      ]
+    },
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Compactificação de Stone-Čech",
+        "Espaços Bicompactos"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Diferencial Projetiva"
+      ]
+    }
+  ]
+}

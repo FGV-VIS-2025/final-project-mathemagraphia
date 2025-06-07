@@ -1,0 +1,19 @@
+{
+  "nome": "Hans Albrecht Bethe",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Eletrodinâmica Quântica",
+        "Física do Estado Sólido"
+      ]
+    },
+    {
+      "subarea": "Física Nuclear",
+      "subareas_especificas": [
+        "Nucleossíntese estelar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nome": "Mitchell Jay Feigenbaum",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Teoria do Caos",
+      "subareas_especificas": [
+        "Bifurcações",
+        "Mapas Logísticos",
+        "Números de Feigenbaum"
+      ]
+    }
+  ]
+}

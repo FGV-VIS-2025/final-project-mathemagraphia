@@ -1,0 +1,27 @@
+{
+  "nome": "Graham Higman",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos Simples",
+        "Grupos Nilpotentes",
+        "Problema de Burnside"
+      ]
+    },
+    {
+      "subarea": "Grupos Infinitos",
+      "subareas_especificas": [
+        "Grupos Recursivamente Apresentados",
+        "Extensões HNN"
+      ]
+    },
+    {
+      "subarea": "Anéis de Grupos",
+      "subareas_especificas": [
+        "Unidades em Anéis de Grupos"
+      ]
+    }
+  ]
+}

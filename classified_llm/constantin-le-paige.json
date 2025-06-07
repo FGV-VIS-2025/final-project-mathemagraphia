@@ -1,0 +1,20 @@
+{
+  "nome": "Constantin Marie Michel Hubert Jérôme Le Paige",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Formas Algébricas",
+      "subareas_especificas": [
+        "Invariantes",
+        "Involuções"
+      ]
+    },
+    {
+      "subarea": "Geometria de Curvas e Superfícies Algébricas",
+      "subareas_especificas": [
+        "Curvas Cúbicas e Quárticas",
+        "Superfícies Cúbicas"
+      ]
+    }
+  ]
+}

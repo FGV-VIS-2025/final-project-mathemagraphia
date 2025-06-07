@@ -1,0 +1,28 @@
+{
+  "nome": "Benjamin Osgood Peirce",
+  "area_principal": "Matemática Aplicada",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Laplace",
+        "Equação do Calor",
+        "Equação da Onda"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Função Potencial Newtoniana",
+        "Integrais"
+      ]
+    },
+    {
+      "subarea": "Magnetismo",
+      "subareas_especificas": [
+        "Propriedades Magnéticas do Ferro",
+        "Eletromagnetismo"
+      ]
+    }
+  ]
+}

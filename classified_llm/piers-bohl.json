@@ -1,0 +1,20 @@
+{
+  "nome": "Piers Bohl",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Manifolds estáveis e instáveis",
+        "Teorema do ponto fixo de Brouwer"
+      ]
+    },
+    {
+      "subarea": "Funções Quase-Periódicas",
+      "subareas_especificas": [
+        "Mecânica Celeste",
+        "Séries Trigonométricas"
+      ]
+    }
+  ]
+}

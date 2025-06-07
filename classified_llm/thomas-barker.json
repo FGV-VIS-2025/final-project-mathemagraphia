@@ -1,0 +1,20 @@
+{
+  "nome": "Thomas Barker",
+  "area_principal": "Álgebra Booleana",
+  "subareas": [
+    {
+      "subarea": "Lógica Simbólica",
+      "subareas_especificas": [
+        "Álgebra de Boole",
+        "Lógica Proposicional"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Axiomatização"
+      ]
+    }
+  ]
+}

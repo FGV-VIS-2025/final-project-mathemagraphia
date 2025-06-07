@@ -1,0 +1,20 @@
+{
+  "nome": "René François Walter de Sluze",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integração",
+        "Tangentes"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Curvas",
+        "Sólidos de Revolução"
+      ]
+    }
+  ]
+}

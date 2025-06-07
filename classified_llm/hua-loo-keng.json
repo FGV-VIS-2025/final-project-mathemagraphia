@@ -1,0 +1,28 @@
+{
+  "nome": "Hua Loo-Keng",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Problema de Waring",
+        "Método do Círculo",
+        "Somatórios Trigonométricos"
+      ]
+    },
+    {
+      "subarea": "Funções de Várias Variáveis Complexas",
+      "subareas_especificas": [
+        "Domínios Clássicos"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Corpos não comutativos",
+        "Grupos Clássicos",
+        "Teoria de Matrizes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "John Scott Russell",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Não-Lineares",
+        "Solitons"
+      ]
+    },
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Ondas Solitárias"
+      ]
+    }
+  ]
+}

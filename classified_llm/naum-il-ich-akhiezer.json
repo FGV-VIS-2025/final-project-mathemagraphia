@@ -1,0 +1,23 @@
+{
+  "nome": "Naum Il'ich Akhiezer",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Funções de Variável Complexa",
+        "Polinômios de Chebyshev",
+        "Frações Contínuas",
+        "Aproximação de Funções"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Momentos",
+      "subareas_especificas": [
+        "Problema Clássico dos Momentos",
+        "Integrais Singulares"
+      ]
+    }
+  ]
+}

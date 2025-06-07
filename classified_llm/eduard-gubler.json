@@ -1,0 +1,18 @@
+{
+  "nome": "Salomon Eduard Gubler",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções de Bessel"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais Definidas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Karl Gustav Axel von Harnack",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Funções Harmônicas",
+        "Inequação de Harnack"
+      ]
+    }
+  ]
+}

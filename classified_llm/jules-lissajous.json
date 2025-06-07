@@ -1,0 +1,21 @@
+{
+  "nome": "Jules Antoine Lissajous",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Ondulatória",
+      "subareas_especificas": [
+        "Vibrações",
+        "Acústica",
+        "Óptica"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Vibrações de cordas",
+        "Movimento harmônico"
+      ]
+    }
+  ]
+}

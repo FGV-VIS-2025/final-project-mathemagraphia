@@ -1,0 +1,22 @@
+{
+  "nome": "Ladislaus Josephowitsch Bortkiewicz",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Distribuição de Poisson",
+        "Teoria da Probabilidade",
+        "Análise de Dados",
+        "Inferência Estatística"
+      ]
+    },
+    {
+      "subarea": "Econometria",
+      "subareas_especificas": [
+        "Análise de Séries Temporais",
+        "Modelos Econométricos"
+      ]
+    }
+  ]
+}

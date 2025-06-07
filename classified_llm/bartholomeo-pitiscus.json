@@ -1,0 +1,19 @@
+{
+  "nome": "Bartholomeo Pitiscus",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Plana",
+      "subareas_especificas": [
+        "Teoremas Fundamentais",
+        "Construção de tabelas de funções trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Teoremas Fundamentais"
+      ]
+    }
+  ]
+}

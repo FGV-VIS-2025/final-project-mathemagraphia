@@ -1,0 +1,20 @@
+{
+  "nome": "Stephen de Gurbs",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Derivadas",
+        "Aplicações de derivadas"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais",
+        "Teorema Fundamental do Cálculo"
+      ]
+    }
+  ]
+}
