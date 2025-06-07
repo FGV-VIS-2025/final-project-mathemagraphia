@@ -147,7 +147,7 @@ def main():
 
     arquivos = [f for f in os.listdir(pasta_entrada) if f.endswith(".json")]
 
-    max_threads = 500000
+    max_threads = 5
     with ThreadPoolExecutor(max_workers=max_threads) as executor:
         futures = [
             executor.submit(process_file, filename, pasta_entrada, pasta_saida)

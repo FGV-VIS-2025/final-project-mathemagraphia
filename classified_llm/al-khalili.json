@@ -1,0 +1,14 @@
+{
+  "nome": "Shams al-Din Abu Abdallah Al-Khalili",
+  "area_principal": "Trigonometria Esférica",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Resolução de Triângulos Esféricos",
+        "Coordenadas Eclipticas",
+        "Coordenadas Equatoriais"
+      ]
+    }
+  ]
+}
