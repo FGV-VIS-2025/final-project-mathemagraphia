@@ -64,7 +64,7 @@ def main():
 
     resultados = []
 
-    for bio in biografias[:4]:
+    for bio in biografias[:100]:
         nome = bio["nome_completo"]
         texto_biografia = bio["biografia"]
         try:
