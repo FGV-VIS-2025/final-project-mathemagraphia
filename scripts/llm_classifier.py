@@ -2,7 +2,7 @@ import json
 import google.generativeai as genai
 from dotenv import load_dotenv
 import os
-import time
+from time import sleep
 with open(os.path.join("scripts", "application.json"), encoding="utf-8") as f:
     tools = json.load(f)
 
@@ -12,16 +12,32 @@ genai.configure(api_key=api_key)
 
 model = genai.GenerativeModel(
     #usei o 1.5 flash, no futuro da pra ver outros modelos comof fica
-    model_name="gemini-1.5-pro",
-    tools=tools
+    model_name="gemini-1.5-flash",
+    tools=tools,    
+    generation_config={
+        "temperature": 0.2  
+    }
+
 )
 
 def classify_area_and_subareas(bio_text, nome):
-    prompt = f"""..."""  # seu prompt
+    prompt = f"""
+    Você é um dos especialistas mais respeitados do mundo em história da matemática, Professor PhD na melhor universidade da Europa.
 
+    Com base na biografia a seguir, classifique a área principal da matemática, suas subáreas e sub-áreas específicas associadas ao trabalho do matemático.
+
+    Você é uma referência no assunto. Não alucine e não invente informações falsas. Se o texto não fornecer nenhuma informação, retorne -1.
+
+    O texto está na língua inglesa, todavia, retorne a sua classificação em portugês somente.
+
+    Biografia de {nome}:
+    \"\"\"
+    {bio_text}
+    \"\"\"
+    """
     while True:
         try:
-            response = model.generate_content(prompt)
+            response = model.generate_content(prompt,)
             call = response.candidates[0].content.parts[0].function_call
             subareas = [
                 {
@@ -37,8 +53,8 @@ def classify_area_and_subareas(bio_text, nome):
             }
         except Exception as e:
             if "429" in str(e):
-                print(f"[429] Quota excedida para {nome}. Aguardando 30 segundos...")
-                time.sleep(30)
+                print(f"[429] Quota excedida para {nome}. Aguardando 10 segundos...")
+                sleep(10)
             else:
                 raise e
 

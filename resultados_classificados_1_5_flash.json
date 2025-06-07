@@ -6,21 +6,30 @@
       {
         "subarea": "História da Matemática",
         "subareas_especificas": [
-          "Matemática Hindu",
-          "Numerais Hindu-arábicos",
-          "Astronomia",
+          "Matemática Indiana",
+          "Numeração Hindu-arábica",
+          "Trigonometria",
+          "Álgebra",
           "Geometria"
         ]
       },
       {
-        "subarea": "Teoria dos Números",
+        "subarea": "Geometria",
         "subareas_especificas": [
-          "Equações indeterminadas de segundo grau"
+          "Geometria Clássica"
+        ]
+      },
+      {
+        "subarea": "Astronomia",
+        "subareas_especificas": [
+          "Calendários"
         ]
       },
       {
         "subarea": "Estatística",
-        "subareas_especificas": []
+        "subareas_especificas": [
+          "Teoria dos Números"
+        ]
       }
     ]
   },
@@ -32,7 +41,7 @@
         "subarea": "Álgebras Associativas",
         "subareas_especificas": [
           "Álgebras de Divisão",
-          "Teoria de Radicais"
+          "Teoria de Anéis"
         ]
       },
       {
@@ -45,18 +54,11 @@
       {
         "subarea": "Teoria dos Números",
         "subareas_especificas": []
-      },
-      {
-        "subarea": "Geometria",
-        "subareas_especificas": [
-          "Matrizes de Riemann",
-          "Variedades Complexas"
-        ]
       }
     ]
   },
   {
-    "nome": "Ãamon de Valera",
+    "nome": "Ãamon de Valera",
     "area_principal": "Matemática",
     "subareas": [
       {
@@ -87,15 +89,14 @@
   },
   {
     "nome": "Abdel-Shafy Fahmy Obada",
-    "area_principal": "Matemática Aplicada",
+    "area_principal": "Matemática",
     "subareas": [
       {
         "subarea": "Física Matemática",
         "subareas_especificas": [
-          "Óptica Quântica",
-          "Teoria da Radiação",
-          "Computação Quântica",
-          "Informação Quântica"
+          "Óptica",
+          "Teoria Quântica",
+          "Mecânica Quântica"
         ]
       }
     ]
