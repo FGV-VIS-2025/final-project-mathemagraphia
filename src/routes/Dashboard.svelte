@@ -7,61 +7,49 @@
   import VizContainer from '../components/VizContainer.svelte';
   import FixedBar from '../components/FixedBar.svelte';
 
-  // container do mapa
   let mapContainer;
-
-  // dados do mapa
-  let allPoints = [];
-  let filteredPoints = [];
+  let allPoints = [], filteredPoints = [];
   let landFeatures = { type: 'FeatureCollection', features: [] };
+  let selectedPoint = null;       // ponto atualmente clicado
+  let detailData = null;
 
-  // busca/autocomplete
   let searchTerm = '';
   let suggestions = [];
   let showSuggestions = false;
-  let detailData = null;
 
-  // zoom/pan
   let svg, projection, path, zoomGroup;
   let currentTransform = d3.zoomIdentity;
   let scaleFactor = 1;
 
-  // modal expandido
   let expanded = null;
   const expand = id => expanded = id;
   const closeModal = () => expanded = null;
 
-  // parseYear: extrai ano de data_nascimento em vários formatos
+  // extrai ano para filtro
   function parseYear(str) {
     if (!str) return null;
     const s = str.trim();
-    // X BC ou about X BC
     const bc = s.match(/(\d+)\s*BC$/i);
-    if (bc) return -parseInt(bc[1], 10);
-    // ano de 4 dígitos
+    if (bc) return -+bc[1];
     const fy = s.match(/(\d{4})/);
-    if (fy) return parseInt(fy[1], 10);
-    // qualquer número
+    if (fy) return +fy[1];
     const any = s.match(/(\d+)/);
-    if (any) return parseInt(any[1], 10);
+    if (any) return +any[1];
     return null;
   }
 
   function slugify(name) {
     return name.toLowerCase()
-      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-      .replace(/\s+/g, '-')
-      .replace(/[^\w-]/g, '');
+      .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+      .replace(/\s+/g,'-').replace(/[^\w-]/g,'');
   }
 
-  // carrega TopoJSON e coords
   async function loadData() {
-    const MAP_URL    = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
-    const COORDS_URL = 'public/data/mac_tutor_com_coords.json';
-
+    // usa BASE_URL para funcionar em dev/build
+    const base = import.meta.env.BASE_URL;
     const [world, raw] = await Promise.all([
-      d3.json(MAP_URL),
-      d3.json(COORDS_URL)
+      d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'),
+      d3.json(`${base}data/mac_tutor_com_coords.json`)
     ]);
 
     const worldFeatures = topojson.feature(world, world.objects.countries);
@@ -73,45 +61,35 @@
     allPoints = raw
       .map(d => {
         const year = parseYear(d.data_nascimento);
-        if (
-          typeof d.lat_nasc === 'number' &&
-          typeof d.lon_nasc === 'number' &&
-          year !== null
-        ) {
+        if (year !== null && typeof d.lat_nasc === 'number' && typeof d.lon_nasc === 'number') {
           return {
-            nome_completo:   d.nome_completo,
-            nome_curto:      d.nome_curto,
-            link:            d.link,
-            coords:          [d.lon_nasc, d.lat_nasc],
-            birthYear:       year
+            ...d,
+            coords: [d.lon_nasc, d.lat_nasc],
+            birthYear: year
           };
         }
         return null;
       })
-      .filter(d => d !== null);
+      .filter(d => d);
 
-    filteredPoints = []; // sem filtro inicial
+    filteredPoints = [];
   }
 
   function initMap() {
     const { width, height } = mapContainer.getBoundingClientRect();
-
     svg = d3.select(mapContainer)
-      .append('svg')
-      .attr('width',  width)
-      .attr('height', height);
+      .append('svg').attr('width', width).attr('height', height);
 
     projection = d3.geoNaturalEarth1()
       .scale(width / 6.5)
-      .translate([width / 2, height / 2]);
-
+      .translate([width/2, height/2]);
     path = d3.geoPath(projection);
 
     const zoom = d3.zoom()
       .scaleExtent([0.5, 8])
       .on('zoom', e => {
         currentTransform = e.transform;
-        scaleFactor      = e.transform.k;
+        scaleFactor = e.transform.k;
         zoomGroup.attr('transform', currentTransform);
         zoomGroup.selectAll('circle')
           .attr('r',            3 / scaleFactor)
@@ -123,25 +101,28 @@
 
   function drawMap() {
     svg.selectAll('*').remove();
-    zoomGroup = svg.append('g')
-      .attr('transform', currentTransform);
+    zoomGroup = svg.append('g').attr('transform', currentTransform);
 
-    // fundo para limpar seleção
+    // background clicável para limpar seleção
     svg.append('rect')
-      .attr('width', '100%').attr('height', '100%')
-      .attr('fill', '#eef').lower()
-      .on('click', () => detailData = null);
+      .attr('width','100%').attr('height','100%')
+      .attr('fill','#eef').lower()
+      .on('click', () => {
+        selectedPoint = null;
+        detailData    = null;
+        drawMap();
+      });
 
-    // países
+    // desenha países
     zoomGroup.append('g')
       .selectAll('path')
       .data(landFeatures.features)
       .join('path')
       .attr('d', path)
-      .attr('fill', '#ddd')
-      .attr('stroke', '#999');
+      .attr('fill','#ddd')
+      .attr('stroke','#999');
 
-    // marcadores (filtrados ou todos)
+    // desenha pontos
     zoomGroup.append('g')
       .selectAll('circle')
       .data(filteredPoints.length ? filteredPoints : allPoints)
@@ -149,24 +130,29 @@
       .attr('cx', d => projection(d.coords)[0])
       .attr('cy', d => projection(d.coords)[1])
       .attr('r', 3 / scaleFactor)
-      .attr('fill', 'crimson')
-      .attr('stroke', '#000')
+      .style('cursor','pointer')
+      .attr('fill', d => d === selectedPoint ? 'orange' : 'crimson')
+      .attr('stroke','#000')
       .attr('stroke-width', 0.5 / scaleFactor)
-      .on('click', (_, d) => choosePoint(d));
+      .on('click', (event, d) => {
+        event.stopPropagation();    // não deixa o background limpar depois
+        choosePoint(d);
+      });
   }
 
   async function choosePoint(d) {
-    detailData = null;
-    const slug = slugify(d.nome_curto);
+    selectedPoint = d;
+    detailData    = null;
+    const base    = import.meta.env.BASE_URL;
+    const slug    = slugify(d.nome_curto);
+
     try {
-      detailData = await fetch(`/MacTutorData/${slug}.json`)
-        .then(r => r.ok ? r.json() : null);
+      const res = await fetch(`${base}MacTutorData/${slug}.json`);
+      if (res.ok) detailData = await res.json();
     } catch {
       detailData = null;
     }
-    const [x, y] = projection(d.coords);
-    svg.transition().duration(600)
-      .call(d3.zoom().translateTo, x, y);
+    drawMap();
   }
 
   function onSearch() {
@@ -176,15 +162,11 @@
         p.nome_curto.toLowerCase().includes(term) ||
         p.nome_completo.toLowerCase().includes(term)
       )
-      .slice(0, 8);
+      .slice(0,8);
   }
 
-  // filtra pelos anos de nascimento
-  function filterByEra([start, end]) {
-    filteredPoints = allPoints.filter(p =>
-      p.birthYear >= start &&
-      p.birthYear < end
-    );
+  function filterByEra([start,end]) {
+    filteredPoints = allPoints.filter(p => p.birthYear >= start && p.birthYear < end);
     drawMap();
   }
 
@@ -202,7 +184,6 @@
 
 <div class="dashboard-layout">
   <aside class="sidebar">
-    <!-- timeline dispara selectEra com [start, end] -->
     <Timeline on:selectEra={({ detail }) => filterByEra(detail)} />
   </aside>
 
@@ -229,17 +210,21 @@
             </ul>
           {/if}
 
-          {#if detailData}
-            <div class="detail-panel">
-              <h2>{detailData.nome_completo}</h2>
+          <div class="info-container">
+            {#if detailData}
+              <h3>{detailData.nome_curto}</h3>
               <p><strong>Nasceu:</strong> {detailData.data_nascimento}</p>
-              <p><strong>Local:</strong>  {detailData.local_nascimento}</p>
+              <p><strong>Local:</strong> {detailData.local_nascimento}</p>
               <p><strong>Morreu:</strong> {detailData.data_morte}</p>
-              <p><strong>Local:</strong>  {detailData.local_morte}</p>
+              <p><strong>Local:</strong> {detailData.local_morte}</p>
               <p>{detailData.summary}</p>
               <p><a href={detailData.link} target="_blank">Biografia completa</a></p>
-            </div>
-          {/if}
+            {:else}
+              <p class="info-placeholder">
+                Clique em um ponto no mapa para ver detalhes aqui.
+              </p>
+            {/if}
+          </div>
         </div>
       </div>
     </section>
@@ -266,41 +251,41 @@
 {/if}
 
 
+
+
 <style>
   /* Reset global para ocupar toda a página */
   :global(html, body) {
     margin: 0;
     padding: 0;
     height: 100%;
-    overflow: hidden; /* Evita scroll na página */
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    overflow: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+      sans-serif;
   }
 
-  /* Container principal ocupa 100% da viewport */
   .dashboard-layout {
     display: flex;
     height: 100vh;
     width: 100vw;
     overflow: hidden;
-    position: fixed; /* Garante que ocupe toda a tela */
+    position: fixed;
     top: 0;
     left: 0;
   }
 
-  /* Sidebar mais estreita e sem padding */
   .sidebar {
-    width: 60px; /* Ainda mais estreita */
-    min-width: 60px; /* Evita que diminua demais */
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-right: 2px solid rgba(255, 255, 255, 0.1);
+    width: 60px;
+    min-width: 60px;
+    background: transparent;
+    border-right: 2px solid rgba(0, 0, 0, 0.1);
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.05);
     z-index: 10;
   }
 
-  /* Conteúdo principal maximizado */
   .main-content {
     flex: 1;
     display: flex;
@@ -308,26 +293,23 @@
     padding: 0.8rem;
     box-sizing: border-box;
     background: #f8fafc;
-    overflow: hidden; /* Evita scroll interno */
+    overflow: hidden;
   }
 
-  /* Seção do mapa com altura otimizada */
   .map-section {
-    flex: 0 0 45%; /* Aumentado para 45% */
+    flex: 0 0 45%;
     margin-bottom: 0.8rem;
-    min-height: 300px; /* Altura mínima */
+    min-height: 300px;
   }
 
-  /* Layout do mapa e busca */
   .map-and-search {
     display: flex;
     height: 100%;
     gap: 1rem;
   }
 
-  /* Mapa com proporção maior */
   .map-wrapper {
-    flex: 4; /* Proporção 4:1 em vez de 5:1 */
+    flex: 4;
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
@@ -335,12 +317,11 @@
     background: #fff;
   }
 
-  /* Caixa de busca otimizada */
   .search-box {
     flex: 1;
     display: flex;
     flex-direction: column;
-    min-width: 250px; /* Largura mínima */
+    min-width: 250px;
   }
 
   .search-box input {
@@ -358,7 +339,6 @@
     box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
   }
 
-  /* Sugestões melhoradas */
   .suggestions-list {
     list-style: none;
     padding: 0;
@@ -387,51 +367,50 @@
     border-bottom: none;
   }
 
-  /* Painel de detalhes melhorado */
-  .detail-panel {
+  /* Novo: container de detalhes logo abaixo da busca */
+  .info-container {
     margin-top: 1rem;
     padding: 1rem;
-    border: 1px solid #e2e8f0;
-    border-radius: 12px;
     background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    min-height: 150px;
+    max-height: 300px;
     overflow-y: auto;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-    max-height: calc(100% - 200px); /* Limita altura */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   }
 
-  .detail-panel h2 {
-    margin: 0 0 1rem;
-    font-size: 1.2rem;
+  .info-container h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.1rem;
     color: #1e293b;
-    font-weight: 600;
   }
 
-  .detail-panel p {
-    margin: 0.5rem 0;
-    line-height: 1.5;
+  .info-container p {
+    margin: 0.4rem 0;
+    line-height: 1.4;
     color: #475569;
   }
 
-  .detail-panel strong {
-    color: #1e293b;
-  }
-
-  .detail-panel a {
+  .info-container a {
     color: #667eea;
     text-decoration: none;
-    font-weight: 500;
   }
 
-  .detail-panel a:hover {
+  .info-container a:hover {
     text-decoration: underline;
   }
 
-  /* Seção das visualizações maximizada */
+  .info-placeholder {
+    color: #94a3b8;
+    font-style: italic;
+  }
+
   .viz-section {
-    flex: 1; /* Ocupa todo o espaço restante */
+    flex: 1;
     display: flex;
     gap: 1rem;
-    min-height: 0; /* Permite flexbox funcionar corretamente */
+    min-height: 0;
   }
 
   .viz-wrapper {
@@ -441,10 +420,9 @@
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
     padding: 1.2rem;
     border: 1px solid rgba(255, 255, 255, 0.2);
-    overflow: hidden; /* Evita conteúdo vazando */
+    overflow: hidden;
   }
 
-  /* Modal melhorado */
   .modal-overlay {
     position: fixed;
     inset: 0;
@@ -489,29 +467,24 @@
     background: #e2e8f0;
   }
 
-  /* Responsividade */
   @media (max-width: 768px) {
     .sidebar {
       width: 50px;
       min-width: 50px;
     }
-    
     .map-and-search {
       flex-direction: column;
       gap: 0.5rem;
     }
-    
     .map-wrapper {
       flex: none;
       height: 60%;
     }
-    
     .search-box {
       flex: none;
       height: 40%;
       min-width: auto;
     }
-    
     .viz-section {
       flex-direction: column;
     }
