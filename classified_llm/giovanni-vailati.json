@@ -1,0 +1,22 @@
+{
+  "nome": "Giovanni Vailati",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Axiomatização",
+        "Teoria dos Conjuntos",
+        "Lógica Simbólica"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemática Grega",
+        "Métodos Dedutivos",
+        "Classificação das Ciências"
+      ]
+    }
+  ]
+}

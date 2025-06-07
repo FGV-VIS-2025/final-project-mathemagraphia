@@ -1,0 +1,19 @@
+{
+  "nome": "Roger Penrose",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Teoria de Grupos"
+      ]
+    },
+    {
+      "subarea": "Relatividade Geral",
+      "subareas_especificas": [
+        "Singularidades",
+        "Espaço-tempo"
+      ]
+    }
+  ]
+}

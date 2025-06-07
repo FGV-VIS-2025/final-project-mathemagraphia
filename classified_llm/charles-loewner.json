@@ -1,0 +1,20 @@
+{
+  "nome": "Charles Loewner",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções Geométricas",
+      "subareas_especificas": [
+        "Conjectura de Bieberbach",
+        "Equação Diferencial de Loewner"
+      ]
+    },
+    {
+      "subarea": "Funções n-monotônicas",
+      "subareas_especificas": [
+        "Semigrupos de operadores",
+        "Mapeamentos que preservam ordem"
+      ]
+    }
+  ]
+}

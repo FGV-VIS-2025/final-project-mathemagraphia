@@ -1,0 +1,18 @@
+{
+  "nome": "Julius Wilhelm Richard Dedekind",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Corpos de Números Algébricos",
+      "subareas_especificas": [
+        "Ideais"
+      ]
+    },
+    {
+      "subarea": "Números Irracionais",
+      "subareas_especificas": [
+        "Dedekind Cuts"
+      ]
+    }
+  ]
+}

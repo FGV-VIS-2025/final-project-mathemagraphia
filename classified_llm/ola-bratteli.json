@@ -1,0 +1,13 @@
+{
+  "nome": "Ola Bratteli",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra de Operadores",
+      "subareas_especificas": [
+        "C*-álgebras",
+        "Álgebras de von Neumann"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Alan Baker",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Aproximações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Transcendentais",
+      "subareas_especificas": [
+        "Números Transcendentais"
+      ]
+    }
+  ]
+}

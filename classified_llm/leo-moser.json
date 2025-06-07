@@ -1,0 +1,15 @@
+{
+  "nome": "Leo Moser",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Distribuição de Primos",
+        "Funções de Representação de Primos",
+        "Números de Bell",
+        "Teoria Combinatória dos Números"
+      ]
+    }
+  ]
+}

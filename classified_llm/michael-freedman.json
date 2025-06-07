@@ -1,0 +1,19 @@
+{
+  "nome": "Michael Hartley Freedman",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixas Dimensões",
+      "subareas_especificas": [
+        "Variedades de 4 dimensões",
+        "Conjectura de Poincaré"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Nós",
+      "subareas_especificas": [
+        "Cirurgia de Codimensão Dois"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Alonzo Church",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Funções Recursivas",
+        "Máquina de Turing",
+        "λ-cálculo"
+      ]
+    },
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Cálculo de Predicados",
+        "Sistemas Formais",
+        "Teorema da Incompletude de Gödel"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Teoria dos Tipos",
+        "Paradoxo de Russell"
+      ]
+    }
+  ]
+}

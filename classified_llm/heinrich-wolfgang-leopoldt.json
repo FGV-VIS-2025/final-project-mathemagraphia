@@ -1,0 +1,20 @@
+{
+  "nome": "Heinrich-Wolfgang Leopoldt",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Corpos de Classes",
+      "subareas_especificas": [
+        "Corpos Abelianos",
+        "Funções L p-ádicas"
+      ]
+    },
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Unidades em Corpos de Números",
+        "Grupos de Classes de Ideais"
+      ]
+    }
+  ]
+}

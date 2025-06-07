@@ -1,0 +1,25 @@
+{
+  "nome": "Frederick Valentine Atkinson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Função Zeta de Riemann"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Equações a Diferenças",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Harald August Bohr",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Dirichlet",
+      "subareas_especificas": [
+        "Função Zeta de Riemann"
+      ]
+    },
+    {
+      "subarea": "Funções Quase Periódicas",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Aproximação Uniforme"
+      ]
+    }
+  ]
+}

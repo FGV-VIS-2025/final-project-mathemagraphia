@@ -1,0 +1,22 @@
+{
+  "nome": "Bernardino Gaetano Scorza",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Algébricas",
+        "Correspondências (p,p) em curvas de gênero p",
+        "Teoria de Riemann",
+        "Álgebras"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Álgebras de Grupos",
+        "Grupos não abelianos"
+      ]
+    }
+  ]
+}

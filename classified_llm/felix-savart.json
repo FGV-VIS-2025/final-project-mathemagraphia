@@ -1,0 +1,19 @@
+{
+  "nome": "Félix Savart",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Acústica",
+      "subareas_especificas": [
+        "Vibrações de corpos sólidos",
+        "Acústica de instrumentos musicais"
+      ]
+    },
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Lei de Biot-Savart"
+      ]
+    }
+  ]
+}

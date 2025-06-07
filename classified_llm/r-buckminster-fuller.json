@@ -1,0 +1,20 @@
+{
+  "nome": "Richard Buckminster Fuller",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Espacial",
+      "subareas_especificas": [
+        "Geometria de Tetraedros",
+        "Geometria de Domes Geodésicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Vetorial",
+      "subareas_especificas": [
+        "Sistemas Vetoriais",
+        "Geometria Energética-Sinérgica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Marie Françoise Ouedraogo",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra de Lie",
+      "subareas_especificas": [
+        "Superálgebras de Lie",
+        "Superálgebras de Malcev"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Operadores pseudo-diferenciais",
+        "Determinantes regularizados"
+      ]
+    }
+  ]
+}

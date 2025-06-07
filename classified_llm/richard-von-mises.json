@@ -1,0 +1,20 @@
+{
+  "nome": "Richard von Mises",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Frequência Limite",
+        "Sequências Aleatórias"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos para Equações Diferenciais"
+      ]
+    }
+  ]
+}

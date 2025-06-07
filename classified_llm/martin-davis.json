@@ -1,0 +1,29 @@
+{
+  "nome": "Martin David Davis",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Máquinas de Turing",
+        "Funções Recursivas",
+        "Problemas indecidíveis"
+      ]
+    },
+    {
+      "subarea": "Teoria da Recursividade",
+      "subareas_especificas": [
+        "Funções Recursivas",
+        "Conjuntos Recursivamente Enumeráveis",
+        "Hierarquia Hiperaritmética"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Décimo Problema de Hilbert"
+      ]
+    }
+  ]
+}

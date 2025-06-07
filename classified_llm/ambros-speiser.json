@@ -1,0 +1,18 @@
+{
+  "nome": "Ambrosius Paul Speiser",
+  "area_principal": "Computação",
+  "subareas": [
+    {
+      "subarea": "Arquitetura de Computadores",
+      "subareas_especificas": [
+        "Máquinas de Von Neumann"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos de Aproximação"
+      ]
+    }
+  ]
+}

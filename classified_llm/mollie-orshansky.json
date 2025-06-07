@@ -1,0 +1,21 @@
+{
+  "nome": "Mollie Orshansky",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Coleta de Dados",
+        "Processamento de Dados",
+        "Interpretação de Dados"
+      ]
+    }
+  ]
+}

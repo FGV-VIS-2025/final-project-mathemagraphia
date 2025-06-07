@@ -1,0 +1,19 @@
+{
+  "nome": "Georg Simon Klügel",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Postulado das Paralelas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Funções Trigonométricas",
+        "Fórmulas Trigonométricas"
+      ]
+    }
+  ]
+}

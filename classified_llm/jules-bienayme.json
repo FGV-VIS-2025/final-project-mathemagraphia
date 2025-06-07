@@ -1,0 +1,22 @@
+{
+  "nome": "Irenée-Jules Bienaymé",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Lei dos Grandes Números",
+        "Teorema do Limite Central",
+        "Processos de Ramificação"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Método dos Mínimos Quadrados",
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    }
+  ]
+}

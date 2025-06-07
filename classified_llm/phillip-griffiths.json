@@ -1,0 +1,20 @@
+{
+  "nome": "Phillip Augustus Griffiths",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades Complexas",
+        "Sistemas Diferenciais Exteriores"
+      ]
+    },
+    {
+      "subarea": "Teoria de Hodge",
+      "subareas_especificas": [
+        "Estruturas de Hodge",
+        "Ciclos Algébricos"
+      ]
+    }
+  ]
+}

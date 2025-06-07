@@ -1,0 +1,19 @@
+{
+  "nome": "Edwin Ford Beckenbach",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Inequações",
+        "Funções Subharmônicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Superfícies Mínimas"
+      ]
+    }
+  ]
+}

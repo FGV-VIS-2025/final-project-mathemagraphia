@@ -1,0 +1,19 @@
+{
+  "nome": "Moritz Pasch",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Axiomatização da Geometria",
+        "Fundamentos da Geometria"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Fundamentos da Análise"
+      ]
+    }
+  ]
+}

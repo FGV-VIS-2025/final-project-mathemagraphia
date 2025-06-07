@@ -1,0 +1,19 @@
+{
+  "nome": "Hendrika Cornelia Scott Swart",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Grafos Hamiltonianos",
+      "subareas_especificas": [
+        "Ciclos Geradores"
+      ]
+    },
+    {
+      "subarea": "Planos Projetivos",
+      "subareas_especificas": [
+        "Subplanos de Baer",
+        "Substituição de Subplanos"
+      ]
+    }
+  ]
+}

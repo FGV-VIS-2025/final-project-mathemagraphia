@@ -1,0 +1,14 @@
+{
+  "nome": "Charles Glover Barkla",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Raios-X",
+      "subareas_especificas": [
+        "Espectroscopia de Raios-X",
+        "Polarização de Raios-X",
+        "Emissão Secundária de Raios-X"
+      ]
+    }
+  ]
+}

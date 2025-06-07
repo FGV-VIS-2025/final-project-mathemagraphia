@@ -1,0 +1,18 @@
+{
+  "nome": "Jean Charles de La Faille",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Centro de Gravidade"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Quadratura do Círculo"
+      ]
+    }
+  ]
+}

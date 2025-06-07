@@ -1,0 +1,34 @@
+{
+  "nome": "Leonida Tonelli",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções de Variável Real",
+      "subareas_especificas": [
+        "Funções derivadas",
+        "Aproximações polinomiais de Chebyshev",
+        "Semicontinuidade de integrais duplos",
+        "Variação limitada",
+        "Continuidade absoluta"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços abstratos"
+      ]
+    },
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": []
+    }
+  ]
+}

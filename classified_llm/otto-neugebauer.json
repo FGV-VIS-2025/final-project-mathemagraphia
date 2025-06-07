@@ -1,0 +1,20 @@
+{
+  "nome": "Otto Neugebauer",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Antiga",
+      "subareas_especificas": [
+        "Matemática Egípcia",
+        "Matemática Babilônica"
+      ]
+    },
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Crítica textual",
+        "Análise de fontes primárias"
+      ]
+    }
+  ]
+}

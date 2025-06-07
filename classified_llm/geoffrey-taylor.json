@@ -1,0 +1,26 @@
+{
+  "nome": "Geoffrey Ingram Taylor",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Turbulência",
+      "subareas_especificas": [
+        "Turbulência Atmosférica",
+        "Turbulência em Fluidos"
+      ]
+    },
+    {
+      "subarea": "Ondas de Choque",
+      "subareas_especificas": [
+        "Propagação de Ondas de Choque"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Sólidos",
+      "subareas_especificas": [
+        "Deformação de Materiais Cristalinos",
+        "Resistência dos Materiais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Ernst Julius Öpik",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Perturbações Estelares",
+        "Órbitas de Cometas"
+      ]
+    },
+    {
+      "subarea": "Astronomia Observacional",
+      "subareas_especificas": [
+        "Observações de Meteoros",
+        "Fotometria",
+        "Distâncias de Nebulosas"
+      ]
+    }
+  ]
+}

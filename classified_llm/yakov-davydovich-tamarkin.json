@@ -1,0 +1,20 @@
+{
+  "nome": "Jacob David Tamarkin",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais de Fredholm",
+        "Equações Integrais de Volterra",
+        "Problema dos Momentos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Hidehiko Yamabe",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Lie locais",
+        "Subgrupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação do calor",
+        "Funções de Green"
+      ]
+    }
+  ]
+}

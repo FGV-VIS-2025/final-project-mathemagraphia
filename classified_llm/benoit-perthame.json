@@ -1,0 +1,34 @@
+{
+  "nome": "Benoît Lucien Albert Perthame",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações de Hamilton-Jacobi",
+      "subareas_especificas": [
+        "Controle Ótimo",
+        "Inequações Quase-Variacionais"
+      ]
+    },
+    {
+      "subarea": "Equações Cinéticas",
+      "subareas_especificas": [
+        "Teoria de Semigrupos Acretivos",
+        "Métodos de Compacidade"
+      ]
+    },
+    {
+      "subarea": "Sistemas Hiperbólicos",
+      "subareas_especificas": [
+        "Leis de Conservação Escalares",
+        "Compacidade Compensada"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos de Malha Adaptativa",
+        "Discretização Implícita"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Jacques Tits",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Algébricos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Grupos Simples",
+        "Grupos de Kac-Moody"
+      ]
+    },
+    {
+      "subarea": "Teoria de Edifícios",
+      "subareas_especificas": [
+        "Edifícios de tipo esférico",
+        "Edifícios e grupos de Lie excepcionais"
+      ]
+    }
+  ]
+}

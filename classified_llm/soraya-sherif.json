@@ -1,0 +1,12 @@
+{
+  "nome": "Soraya Sherif",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Teoremas Tauberians"
+      ]
+    }
+  ]
+}

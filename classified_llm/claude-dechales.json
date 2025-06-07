@@ -1,0 +1,21 @@
+{
+  "nome": "Claude François Milliet Dechales",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Geometria Aplicada",
+      "subareas_especificas": [
+        "Navegação",
+        "Engenharia Militar",
+        "Mecânica",
+        "Óptica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "William Srecko Feller",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoria da Medida em Espaços de Funções"
+      ]
+    },
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Movimento Browniano",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Analítica dos Números"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Anaximander of Miletus",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Espacial",
+      "subareas_especificas": [
+        "Cartografia",
+        "Cosmografia"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Gnomônica"
+      ]
+    }
+  ]
+}

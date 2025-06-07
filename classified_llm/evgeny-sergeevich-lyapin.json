@@ -1,0 +1,13 @@
+{
+  "nome": "Evgeny Sergeevich Lyapin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos",
+        "Groupos Parciais"
+      ]
+    }
+  ]
+}

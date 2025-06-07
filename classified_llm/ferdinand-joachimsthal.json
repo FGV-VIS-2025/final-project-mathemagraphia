@@ -1,0 +1,23 @@
+{
+  "nome": "Ferdinand Joachimsthal",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas algébricas",
+        "Superfícies",
+        "Cônicas",
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Teoria das Superfícies",
+      "subareas_especificas": [
+        "Linhas de Curvatura",
+        "Normais",
+        "Superfícies de Rotação"
+      ]
+    }
+  ]
+}

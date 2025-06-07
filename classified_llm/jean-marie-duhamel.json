@@ -1,0 +1,26 @@
+{
+  "nome": "Jean Marie Constant Duhamel",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Teoria do Calor",
+      "subareas_especificas": [
+        "Propagação do Calor",
+        "Condutividade Térmica"
+      ]
+    },
+    {
+      "subarea": "Mecânica Racional",
+      "subareas_especificas": [
+        "Acústica",
+        "Vibrações"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Cálculo Infinitesimal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Tjalling Charles Koopmans",
+  "area_principal": "Econometria",
+  "subareas": [
+    {
+      "subarea": "Programação Linear",
+      "subareas_especificas": [
+        "Análise de Atividades",
+        "Método Simplex"
+      ]
+    },
+    {
+      "subarea": "Teoria da Decisão",
+      "subareas_especificas": [
+        "Alocação de Recursos",
+        "Modelos de Crescimento Ótimo"
+      ]
+    },
+    {
+      "subarea": "Equações Estruturais",
+      "subareas_especificas": [
+        "Métodos de Matrizes"
+      ]
+    }
+  ]
+}

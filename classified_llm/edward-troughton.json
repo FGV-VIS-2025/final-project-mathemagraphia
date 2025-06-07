@@ -1,0 +1,13 @@
+{
+  "nome": "Edward Troughton",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Precisão",
+      "subareas_especificas": [
+        "Instrumentação",
+        "Medidas Angulares"
+      ]
+    }
+  ]
+}

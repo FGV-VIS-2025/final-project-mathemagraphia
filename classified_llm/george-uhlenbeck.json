@@ -1,0 +1,19 @@
+{
+  "nome": "George Eugene Uhlenbeck",
+  "area_principal": "Física Estatística",
+  "subareas": [
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Movimento Browniano",
+        "Equação de Boltzmann"
+      ]
+    },
+    {
+      "subarea": "Teoria Cinética",
+      "subareas_especificas": [
+        "Teoria Cinética da Matéria"
+      ]
+    }
+  ]
+}

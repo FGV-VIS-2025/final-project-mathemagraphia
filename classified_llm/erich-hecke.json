@@ -1,0 +1,24 @@
+{
+  "nome": "Erich Hecke",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Funções Zeta",
+        "Séries de Dirichlet",
+        "Funções Modulares",
+        "Formas Modulares Elípticas",
+        "Operadores de Hecke",
+        "Produtos de Euler"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Corpos de Classes",
+      "subareas_especificas": [
+        "Discriminantes",
+        "Corpos Numéricos"
+      ]
+    }
+  ]
+}

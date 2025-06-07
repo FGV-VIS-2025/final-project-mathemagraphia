@@ -1,0 +1,21 @@
+{
+  "nome": "Kurt Hensel",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Corpos Numéricos Algébricos",
+      "subareas_especificas": [
+        "Números p-ádicos",
+        "Discriminante",
+        "Formas Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos de Classes",
+        "Anéis de Valoração Discreta"
+      ]
+    }
+  ]
+}

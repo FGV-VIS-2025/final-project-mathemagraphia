@@ -1,0 +1,15 @@
+{
+  "nome": "Pierre-Louis Lions",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Não-Lineares",
+      "subareas_especificas": [
+        "Soluções de Viscosidade",
+        "Equações de Hamilton-Jacobi",
+        "Equação de Boltzmann",
+        "Problemas Variacionais"
+      ]
+    }
+  ]
+}

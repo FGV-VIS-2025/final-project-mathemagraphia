@@ -1,0 +1,21 @@
+{
+  "nome": "Patrick Keast",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Método de Crank-Nicolson",
+        "Método de Diferenças Finitas"
+      ]
+    },
+    {
+      "subarea": "Métodos Iterativos",
+      "subareas_especificas": [
+        "Equação de Laplace",
+        "Equação de Poisson"
+      ]
+    }
+  ]
+}

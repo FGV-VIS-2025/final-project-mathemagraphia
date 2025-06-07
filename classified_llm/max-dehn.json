@@ -1,0 +1,12 @@
+{
+  "nome": "Max Wilhelm Dehn",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Grupos",
+      "subareas_especificas": [
+        "Apresentação de grupos"
+      ]
+    }
+  ]
+}

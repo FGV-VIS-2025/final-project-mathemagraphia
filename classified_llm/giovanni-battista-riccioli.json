@@ -1,0 +1,27 @@
+{
+  "nome": "Giovanni Battista Riccioli",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Queda de Corpos",
+        "Movimento Pendular"
+      ]
+    },
+    {
+      "subarea": "Cartografia Lunar",
+      "subareas_especificas": [
+        "Nomenclatura Lunar",
+        "Observação Lunar"
+      ]
+    },
+    {
+      "subarea": "Geodésia",
+      "subareas_especificas": [
+        "Triangulação",
+        "Determinação de Meridianos"
+      ]
+    }
+  ]
+}

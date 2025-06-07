@@ -1,0 +1,12 @@
+{
+  "nome": "Yativrsabha",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Transfinitos",
+      "subareas_especificas": [
+        "Cardinais Transfinitos"
+      ]
+    }
+  ]
+}

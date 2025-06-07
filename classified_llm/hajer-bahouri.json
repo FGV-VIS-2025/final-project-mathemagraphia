@@ -1,0 +1,22 @@
+{
+  "nome": "Hajer Bahouri",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Lineares",
+      "subareas_especificas": [
+        "Equações de onda lineares",
+        "Equações de calor lineares",
+        "Sistemas hiperbólicos simétricos lineares"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais Não-Lineares",
+      "subareas_especificas": [
+        "Equações de onda quase-lineares",
+        "Equações de Schrödinger semi-lineares e quase-lineares",
+        "Equações de transporte"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Prthudakasvami",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Método Kuttaka",
+        "Frações contínuas"
+      ]
+    }
+  ]
+}

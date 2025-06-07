@@ -1,0 +1,20 @@
+{
+  "nome": "Francis Bashforth",
+  "area_principal": "Balística",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Resistência do ar",
+        "Trajetórias"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integração",
+        "Equações diferenciais"
+      ]
+    }
+  ]
+}

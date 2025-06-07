@@ -1,0 +1,28 @@
+{
+  "nome": "Rudolf Emil Kalman",
+  "area_principal": "Teoria de Sistemas",
+  "subareas": [
+    {
+      "subarea": "Controle Ótimo",
+      "subareas_especificas": [
+        "Equações de Riccati",
+        "Filtro de Kalman"
+      ]
+    },
+    {
+      "subarea": "Teoria de Sistemas Lineares",
+      "subareas_especificas": [
+        "Controlabilidade",
+        "Observabilidade",
+        "Realizabilidade"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais",
+        "Teoria de Módulos"
+      ]
+    }
+  ]
+}

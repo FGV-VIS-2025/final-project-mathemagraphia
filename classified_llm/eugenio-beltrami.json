@@ -1,0 +1,18 @@
+{
+  "nome": "Eugenio Beltrami",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Curvatura de Superfícies"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "David Leigh Donoho",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação Robusta",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Visualização de Dados",
+        "Processamento de Sinais",
+        "Aprendizado de Máquina"
+      ]
+    },
+    {
+      "subarea": "Processamento de Sinais",
+      "subareas_especificas": [
+        "Compressive Sensing",
+        "Recuperação de Sinais Esparsos"
+      ]
+    }
+  ]
+}

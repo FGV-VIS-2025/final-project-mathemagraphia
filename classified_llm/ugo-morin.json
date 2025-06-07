@@ -1,0 +1,28 @@
+{
+  "nome": "Ugo Morin",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Sistemas de Planos",
+        "Quadricas",
+        "Espaços Projetivos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos e Corpos"
+      ]
+    },
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Curvas Planas",
+        "Curvas Esquemáticas",
+        "Superfícies"
+      ]
+    }
+  ]
+}

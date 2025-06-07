@@ -1,0 +1,19 @@
+{
+  "nome": "Kazimierz Urbanik",
+  "area_principal": "Teoria da Medida",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Processos Estocásticos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Álgebras de Marczewski"
+      ]
+    }
+  ]
+}

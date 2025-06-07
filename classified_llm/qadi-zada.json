@@ -1,0 +1,12 @@
+{
+  "nome": "Qadi Zada al-Rumi",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Cálculo de sen 1°"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Erich Kähler",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Kähleriana"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria dos Anéis",
+        "Teoria dos Módulos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Gabriel Cramer",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas algébricas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Sistemas Lineares"
+      ]
+    }
+  ]
+}

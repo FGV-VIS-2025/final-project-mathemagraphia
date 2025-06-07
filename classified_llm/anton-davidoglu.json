@@ -1,0 +1,19 @@
+{
+  "nome": "Anton Davidoglu",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações Diferenciais de Segunda Ordem",
+        "Método das Aproximações Sucessivas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Vibrações Transversais"
+      ]
+    }
+  ]
+}

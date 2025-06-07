@@ -1,0 +1,12 @@
+{
+  "nome": "Xenocrates of Chalcedon",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Permutações"
+      ]
+    }
+  ]
+}

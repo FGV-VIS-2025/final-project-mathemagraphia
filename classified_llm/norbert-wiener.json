@@ -1,0 +1,26 @@
+{
+  "nome": "Norbert Wiener",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Transformada de Fourier"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Movimento Browniano",
+        "Processos Estocásticos"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Problema de Dirichlet"
+      ]
+    }
+  ]
+}

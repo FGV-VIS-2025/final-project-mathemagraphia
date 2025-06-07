@@ -1,0 +1,20 @@
+{
+  "nome": "Giovanni Domenico Cassini",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas",
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Geodesia",
+      "subareas_especificas": [
+        "Medidas de meridianos",
+        "Determinação da forma da Terra"
+      ]
+    }
+  ]
+}

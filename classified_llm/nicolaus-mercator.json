@@ -1,0 +1,19 @@
+{
+  "nome": "Nicolaus Mercator",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Séries infinitas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria esférica",
+        "Logaritmos"
+      ]
+    }
+  ]
+}

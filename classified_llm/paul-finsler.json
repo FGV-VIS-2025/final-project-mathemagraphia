@@ -1,0 +1,27 @@
+{
+  "nome": "Paul Finsler",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Finsleriana",
+      "subareas_especificas": [
+        "Espaços Finsler",
+        "Variedades Finslerianas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axiomas dos Conjuntos",
+        "Paradoxo de Russell",
+        "Fundamentos da Matemática"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos"
+      ]
+    }
+  ]
+}

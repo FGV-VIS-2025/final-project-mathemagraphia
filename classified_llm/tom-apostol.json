@@ -1,0 +1,21 @@
+{
+  "nome": "Tom Mike Apostol",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Séries Infinitas",
+        "Cálculo Avançado"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Funções Zeta",
+        "Séries de Dirichlet",
+        "Somatórios de Dedekind"
+      ]
+    }
+  ]
+}

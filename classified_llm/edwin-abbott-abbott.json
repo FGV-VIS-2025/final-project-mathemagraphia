@@ -1,0 +1,12 @@
+{
+  "nome": "Edwin Abbott Abbott",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Dimensões Superiores",
+      "subareas_especificas": [
+        "Geometria de n dimensões"
+      ]
+    }
+  ]
+}

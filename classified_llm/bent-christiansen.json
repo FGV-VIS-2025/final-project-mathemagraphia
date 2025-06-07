@@ -1,0 +1,13 @@
+{
+  "nome": "Bent Christiansen",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Contagem",
+        "Probabilidade"
+      ]
+    }
+  ]
+}

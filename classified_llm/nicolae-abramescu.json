@@ -1,0 +1,20 @@
+{
+  "nome": "Nicolae Abramescu",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Geometria Não-Euclidiana",
+        "Geometria Vetorial"
+      ]
+    },
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Métodos de Geometria Descritiva em Geometria Analítica"
+      ]
+    }
+  ]
+}

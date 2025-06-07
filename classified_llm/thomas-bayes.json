@@ -1,0 +1,14 @@
+{
+  "nome": "Thomas Bayes",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teorema de Bayes",
+        "Distribuição Binomial",
+        "Probabilidade Condicional"
+      ]
+    }
+  ]
+}

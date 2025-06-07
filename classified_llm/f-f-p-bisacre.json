@@ -1,0 +1,13 @@
+{
+  "nome": "Frederick Francis Percival Bisacre",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Difração de Luz",
+        "Redes de Difração"
+      ]
+    }
+  ]
+}

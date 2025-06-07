@@ -1,0 +1,27 @@
+{
+  "nome": "Marcel Paul Schützenberger",
+  "area_principal": "Álgebra Abstrata",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Grupos de Schützenberger",
+        "Representações de Schützenberger"
+      ]
+    },
+    {
+      "subarea": "Teoria de Linguagens Formais",
+      "subareas_especificas": [
+        "Linguagens Livres de Contexto",
+        "Códigos"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Tableau de Young",
+        "Correspondência de Schensted"
+      ]
+    }
+  ]
+}

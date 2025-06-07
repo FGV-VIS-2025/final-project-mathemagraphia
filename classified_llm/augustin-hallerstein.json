@@ -1,0 +1,20 @@
+{
+  "nome": "Ferdinand Augustin Hallerstein",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Observação",
+      "subareas_especificas": [
+        "Observação de Estrelas",
+        "Instrumentação Astronômica"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Trigonometria",
+        "Cálculo"
+      ]
+    }
+  ]
+}

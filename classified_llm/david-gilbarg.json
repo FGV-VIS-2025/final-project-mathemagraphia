@@ -1,0 +1,20 @@
+{
+  "nome": "David Gilbarg",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Elípticas",
+      "subareas_especificas": [
+        "Teoria de Schauder",
+        "Espaços de Sobolev"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Dinâmica dos Fluidos",
+        "Transformações de Schwarz-Christoffel"
+      ]
+    }
+  ]
+}

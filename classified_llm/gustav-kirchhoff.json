@@ -1,0 +1,18 @@
+{
+  "nome": "Gustav Robert Kirchhoff",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Circuitos Elétricos",
+      "subareas_especificas": [
+        "Leis de Kirchhoff"
+      ]
+    },
+    {
+      "subarea": "Espectroscopia",
+      "subareas_especificas": [
+        "Análise Espectral"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Anneli Cahn Lax",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problema de Cauchy"
+      ]
+    }
+  ]
+}

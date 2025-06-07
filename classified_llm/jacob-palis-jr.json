@@ -1,0 +1,21 @@
+{
+  "nome": "Jacob Palis Jr",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Teoria Qualitativa de Equações Diferenciais",
+      "subareas_especificas": [
+        "Estabilidade Estrutural",
+        "Bifurcações",
+        "Sistemas Morse-Smale"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Sistemas Caóticos",
+        "Dimensões Fractais"
+      ]
+    }
+  ]
+}

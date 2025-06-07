@@ -1,0 +1,14 @@
+{
+  "nome": "George Lawson",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Elementar",
+      "subareas_especificas": [
+        "Números negativos",
+        "Equações",
+        "Inequações"
+      ]
+    }
+  ]
+}

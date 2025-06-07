@@ -1,0 +1,25 @@
+{
+  "nome": "Ruan Yuan",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Calendários",
+      "subareas_especificas": [
+        "Computação de calendários"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Geometria"
+      ]
+    },
+    {
+      "subarea": "Matemática aplicada",
+      "subareas_especificas": [
+        "Álgebra",
+        "Geometria"
+      ]
+    }
+  ]
+}

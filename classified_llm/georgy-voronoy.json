@@ -1,0 +1,27 @@
+{
+  "nome": "Georgy Fedoseevich Voronoy",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números algébricos",
+      "subareas_especificas": [
+        "Inteiros algébricos",
+        "Equações cúbicas"
+      ]
+    },
+    {
+      "subarea": "Frações contínuas",
+      "subareas_especificas": [
+        "Algoritmos para frações contínuas"
+      ]
+    },
+    {
+      "subarea": "Geometria dos números",
+      "subareas_especificas": [
+        "Formas quadráticas",
+        "Paraleloedros primitivos",
+        "Diagramas de Voronoi"
+      ]
+    }
+  ]
+}

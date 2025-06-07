@@ -1,0 +1,21 @@
+{
+  "nome": "John Robinson Airey",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Funções de Neumann",
+        "Funções de Lommel-Weber"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Integrais",
+        "Harmônicos Zonais"
+      ]
+    }
+  ]
+}

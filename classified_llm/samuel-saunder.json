@@ -1,0 +1,19 @@
+{
+  "nome": "Samuel Arthur Saunder",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Cartografia Lunar",
+      "subareas_especificas": [
+        "Determinação de Posições Selenográficas",
+        "Nomenclatura Lunar"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Teoria das Marés"
+      ]
+    }
+  ]
+}

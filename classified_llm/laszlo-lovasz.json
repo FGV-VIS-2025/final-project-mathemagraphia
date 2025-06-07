@@ -1,0 +1,28 @@
+{
+  "nome": "László Lovász",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grafos",
+      "subareas_especificas": [
+        "grafos",
+        "grafos aleatórios",
+        "coloração de grafos"
+      ]
+    },
+    {
+      "subarea": "Otimização Combinatória",
+      "subareas_especificas": [
+        "algoritmos",
+        "método elipsóide",
+        "programação semidefinida"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "redução de base de rede"
+      ]
+    }
+  ]
+}

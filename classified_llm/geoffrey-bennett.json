@@ -1,0 +1,18 @@
+{
+  "nome": "Geoffrey Thomas Bennett",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria de Mecanismos"
+      ]
+    }
+  ]
+}

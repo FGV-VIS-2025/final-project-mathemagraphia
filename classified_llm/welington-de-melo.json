@@ -1,0 +1,21 @@
+{
+  "nome": "Welington Celso de Melo",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos unidimensionais",
+      "subareas_especificas": [
+        "Estabilidade Estrutural",
+        "Intervalos Errantes",
+        "Atratores",
+        "Teoria de Julia-Fatou-Sullivan"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos em variedades de dimensão dois",
+      "subareas_especificas": [
+        "Estabilidade Estrutural"
+      ]
+    }
+  ]
+}

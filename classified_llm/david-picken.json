@@ -1,0 +1,27 @@
+{
+  "nome": "David Kennedy Picken",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Transformações Geométricas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria Plana",
+        "Trigonometria Esférica"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Projeções",
+        "Dualidade"
+      ]
+    }
+  ]
+}

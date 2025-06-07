@@ -1,0 +1,18 @@
+{
+  "nome": "Al-Sabi Thabit ibn Qurra al-Harrani",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Amigáveis",
+      "subareas_especificas": [
+        "Números Perfeitos",
+        "Números Abundantes",
+        "Números Deficientes"
+      ]
+    },
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Mihály Bauer",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Extensões de Galois",
+        "Corpos de Números"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Distribuição de Primos"
+      ]
+    }
+  ]
+}

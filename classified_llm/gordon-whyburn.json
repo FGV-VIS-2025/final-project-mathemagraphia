@@ -1,0 +1,21 @@
+{
+  "nome": "Gordon Thomas Whyburn",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Conjuntos",
+      "subareas_especificas": [
+        "Continuos",
+        "Elementos Cíclicos",
+        "Teoria da Homologia"
+      ]
+    },
+    {
+      "subarea": "Topologia Analítica",
+      "subareas_especificas": [
+        "Mapas Abertos",
+        "Transformações Contínuas"
+      ]
+    }
+  ]
+}

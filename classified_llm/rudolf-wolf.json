@@ -1,0 +1,20 @@
+{
+  "nome": "Johann Rudolf Wolf",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria de Probabilidade",
+      "subareas_especificas": [
+        "Experimentos de Monte Carlo",
+        "Estimação de parâmetros"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Método dos mínimos quadrados",
+        "Análise de dados"
+      ]
+    }
+  ]
+}

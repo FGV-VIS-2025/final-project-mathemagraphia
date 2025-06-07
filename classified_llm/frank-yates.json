@@ -1,0 +1,21 @@
+{
+  "nome": "Frank Yates",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Experimentação",
+      "subareas_especificas": [
+        "Delineamento de Experimentos",
+        "Análise de Variância",
+        "Amostragem Sistemática"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Estimação"
+      ]
+    }
+  ]
+}

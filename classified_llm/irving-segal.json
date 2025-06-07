@@ -1,0 +1,20 @@
+{
+  "nome": "Irving Ezra Segal",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos localmente compactos",
+        "Álgebras de Grupos"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria da Integração",
+        "Teoria de operadores"
+      ]
+    }
+  ]
+}

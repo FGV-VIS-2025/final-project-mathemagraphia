@@ -1,0 +1,30 @@
+{
+  "nome": "Miroslav Fiedler",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Matrizes Especiais",
+        "M-matrizes",
+        "P-matrizes",
+        "Matrizes de Hankel",
+        "Matrizes de Bézout",
+        "Matrizes de Loewner"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grafos",
+      "subareas_especificas": [
+        "Bases W de grafos dirigidos",
+        "Aplicações da Teoria de Grafos"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Solução numérica de equações algébricas"
+      ]
+    }
+  ]
+}

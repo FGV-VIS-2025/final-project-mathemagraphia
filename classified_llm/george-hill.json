@@ -1,0 +1,25 @@
+{
+  "nome": "George William Hill",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Problema de Três Corpos",
+      "subareas_especificas": [
+        "Problema Restrito de Três Corpos"
+      ]
+    },
+    {
+      "subarea": "Teoria Lunar",
+      "subareas_especificas": [
+        "Determinantes Infinitos",
+        "Equações Diferenciais Periódicas"
+      ]
+    },
+    {
+      "subarea": "Perturbações Seculares",
+      "subareas_especificas": [
+        "Órbitas de Júpiter e Saturno"
+      ]
+    }
+  ]
+}

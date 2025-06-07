@@ -1,0 +1,21 @@
+{
+  "nome": "James Joseph Sylvester",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Teoria de invariantes",
+        "Formas algébricas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações cúbicas",
+        "Equações quadráticas",
+        "Discriminante"
+      ]
+    }
+  ]
+}

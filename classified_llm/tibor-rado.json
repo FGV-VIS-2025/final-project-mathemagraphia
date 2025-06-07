@@ -1,0 +1,26 @@
+{
+  "nome": "Tibor Radó",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Representação conforme"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Superfícies Mínimas",
+        "Problema de Plateau"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Superfícies",
+        "Triangulação de Superfícies"
+      ]
+    }
+  ]
+}

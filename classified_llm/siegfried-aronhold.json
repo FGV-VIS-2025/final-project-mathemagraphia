@@ -1,0 +1,13 @@
+{
+  "nome": "Siegfried Heinrich Aronhold",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos invariantes",
+      "subareas_especificas": [
+        "Equações diferenciais parciais lineares",
+        "Curvas algébricas"
+      ]
+    }
+  ]
+}

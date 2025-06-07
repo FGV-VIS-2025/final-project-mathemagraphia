@@ -1,0 +1,32 @@
+{
+  "nome": "Otto Martin Karl Dörge",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equações Diofantinas em duas variáveis"
+      ]
+    },
+    {
+      "subarea": "Teorema da Irreducibilidade de Hilbert",
+      "subareas_especificas": [
+        "Demonstrações do Teorema da Irreducibilidade de Hilbert",
+        "Aplicações do Teorema da Irreducibilidade de Hilbert"
+      ]
+    },
+    {
+      "subarea": "Polinômios",
+      "subareas_especificas": [
+        "Irreducibilidade de Polinômios",
+        "Distribuição de Polinômios Irredutíveis"
+      ]
+    },
+    {
+      "subarea": "Resíduos Quadráticos",
+      "subareas_especificas": [
+        "Distribuição de Resíduos Quadráticos"
+      ]
+    }
+  ]
+}

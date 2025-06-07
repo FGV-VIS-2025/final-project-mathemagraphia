@@ -1,0 +1,27 @@
+{
+  "nome": "Lambert Adolphe Jacques Quetelet",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Inferência Estatística"
+      ]
+    },
+    {
+      "subarea": "Estatística Descritiva",
+      "subareas_especificas": [
+        "Medidas de Tendência Central",
+        "Medidas de Dispersão"
+      ]
+    },
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Regressão",
+        "Séries Temporais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Werner Romberg",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Integração Numérica",
+      "subareas_especificas": [
+        "Regra do Trapézio",
+        "Extrapolation de Richardson",
+        "Integração de Romberg"
+      ]
+    },
+    {
+      "subarea": "Métodos de Solução de Problemas de Autovalores",
+      "subareas_especificas": [
+        "Métodos Iterativos",
+        "Sequências de Sturm"
+      ]
+    }
+  ]
+}

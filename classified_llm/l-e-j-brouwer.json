@@ -1,0 +1,21 @@
+{
+  "nome": "Luitzen Egbertus Jan Brouwer",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixa Dimensão",
+      "subareas_especificas": [
+        "Teoremas de Ponto Fixo",
+        "Invariância de Dimensão",
+        "Aproximação Simplicial"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Intucionismo",
+        "Teoria dos Conjuntos Intuicionista"
+      ]
+    }
+  ]
+}

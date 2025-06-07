@@ -1,0 +1,18 @@
+{
+  "nome": "Laurence Chisholm Young",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integração de Lebesgue-Stieltjes"
+      ]
+    },
+    {
+      "subarea": "Teoria das Curvas Generalizadas",
+      "subareas_especificas": [
+        "Curvas e Superfícies em espaços métricos"
+      ]
+    }
+  ]
+}

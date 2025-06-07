@@ -1,0 +1,18 @@
+{
+  "nome": "Abramo Giulio Umberto Federigo Enriques",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Superfícies Algébricas",
+      "subareas_especificas": [
+        "Teoria Birracional de Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Descritiva"
+      ]
+    }
+  ]
+}

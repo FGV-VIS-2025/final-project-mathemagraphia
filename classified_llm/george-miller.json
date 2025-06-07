@@ -1,0 +1,20 @@
+{
+  "nome": "George Abram Miller",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos de permutação",
+        "Grupos com um pequeno número de classes de conjugação",
+        "Subgrupos característicos de grupos finitos"
+      ]
+    },
+    {
+      "subarea": "Grupos gerados por dois elementos",
+      "subareas_especificas": [
+        "Grupos gerados por dois elementos de ordem três cujo produto é de ordem quatro, três ou seis"
+      ]
+    }
+  ]
+}

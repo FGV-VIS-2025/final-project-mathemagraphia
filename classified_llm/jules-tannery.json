@@ -1,0 +1,12 @@
+{
+  "nome": "Jules Tannery",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Lineares",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares com Coeficientes Variáveis"
+      ]
+    }
+  ]
+}

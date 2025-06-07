@@ -1,0 +1,18 @@
+{
+  "nome": "John Henry Constantine Whitehead",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades diferenciáveis"
+      ]
+    },
+    {
+      "subarea": "Homotopia",
+      "subareas_especificas": [
+        "Equivalência de homotopia"
+      ]
+    }
+  ]
+}

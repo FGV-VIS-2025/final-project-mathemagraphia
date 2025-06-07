@@ -1,0 +1,21 @@
+{
+  "nome": "Pierre Simon Girard",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Resistência dos Materiais",
+      "subareas_especificas": [
+        "Resistência de sólidos",
+        "Resistência à flexão e flambagem de madeira",
+        "Testes de compressão em colunas de madeira"
+      ]
+    },
+    {
+      "subarea": "Hidráulica",
+      "subareas_especificas": [
+        "Escoamento de fluidos em tubos e canais abertos",
+        "Fluxo em tubos capilares"
+      ]
+    }
+  ]
+}

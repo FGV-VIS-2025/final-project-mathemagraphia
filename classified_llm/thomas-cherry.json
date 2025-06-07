@@ -1,0 +1,19 @@
+{
+  "nome": "Thomas Macfarland Cherry",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos",
+        "Mecânica Celeste"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Mecânica dos Fluidos Compressíveis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Johann Faulhaber",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria dos Números"
+      ]
+    }
+  ]
+}

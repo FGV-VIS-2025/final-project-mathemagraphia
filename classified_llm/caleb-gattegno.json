@@ -1,0 +1,19 @@
+{
+  "nome": "Caleb Gattegno",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Equações de Hamilton-Jacobi"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Espaço de Conhecimento"
+      ]
+    }
+  ]
+}

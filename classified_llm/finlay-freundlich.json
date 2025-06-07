@@ -1,0 +1,20 @@
+{
+  "nome": "Erwin Finlay Freundlich",
+  "area_principal": "Relatividade Geral",
+  "subareas": [
+    {
+      "subarea": "Teoria da Relatividade",
+      "subareas_especificas": [
+        "Relatividade Geral",
+        "Relatividade Restrita"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Órbitas Planetárias",
+        "Deflexão da Luz"
+      ]
+    }
+  ]
+}

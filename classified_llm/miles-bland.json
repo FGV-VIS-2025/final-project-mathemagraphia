@@ -1,0 +1,19 @@
+{
+  "nome": "Miles Bland",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Equações"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Trigonometria"
+      ]
+    }
+  ]
+}

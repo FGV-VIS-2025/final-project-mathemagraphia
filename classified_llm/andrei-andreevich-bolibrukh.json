@@ -1,0 +1,19 @@
+{
+  "nome": "Andrei Andreevich Bolibrukh",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Sistemas de Equações Diferenciais",
+      "subareas_especificas": [
+        "Sistemas de Fuchsian",
+        "Problema de Riemann-Hilbert"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Fibrados Holomórficos"
+      ]
+    }
+  ]
+}

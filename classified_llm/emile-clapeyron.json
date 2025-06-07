@@ -1,0 +1,12 @@
+{
+  "nome": "Benoit Paul Émile Clapeyron",
+  "area_principal": "Termodinâmica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equação de Clapeyron"
+      ]
+    }
+  ]
+}

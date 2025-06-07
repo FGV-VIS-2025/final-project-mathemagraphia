@@ -1,0 +1,28 @@
+{
+  "nome": "Gaston Tarry",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Quadrados Mágicos",
+      "subareas_especificas": [
+        "Quadrados Panmágicos",
+        "Quadrados Bimagic",
+        "Quadrados Trimagic",
+        "Quadrados Tetramagic"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Busca em profundidade",
+        "Circuitos Eulerianos"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Quadrados Latinos Ortogonais"
+      ]
+    }
+  ]
+}

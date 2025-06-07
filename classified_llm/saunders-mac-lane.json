@@ -1,0 +1,22 @@
+{
+  "nome": "Leslie Saunders Mac Lane",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Anéis",
+        "Teoria de Módulos"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Homologia",
+        "Cohomologia",
+        "Teoria de categorias"
+      ]
+    }
+  ]
+}

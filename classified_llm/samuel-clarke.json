@@ -1,0 +1,13 @@
+{
+  "nome": "Samuel Clarke",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Dinâmica",
+        "Estática"
+      ]
+    }
+  ]
+}

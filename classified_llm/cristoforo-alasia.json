@@ -1,0 +1,19 @@
+{
+  "nome": "Cristoforo Vincenzo Francesco Alasia",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria do Triângulo",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Geometria Não-Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria de Equações"
+      ]
+    }
+  ]
+}

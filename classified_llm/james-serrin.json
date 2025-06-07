@@ -1,0 +1,28 @@
+{
+  "nome": "James Burton Serrin",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Elípticas",
+      "subareas_especificas": [
+        "Singularidades Isoladas",
+        "Princípio do Máximo",
+        "Desigualdade de Harnack"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidrodinâmica",
+        "Teoria da Cavitação"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Problemas de Contorno Livre",
+        "Superfícies Mínimas"
+      ]
+    }
+  ]
+}

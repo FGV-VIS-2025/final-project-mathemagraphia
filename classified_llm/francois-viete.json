@@ -1,0 +1,28 @@
+{
+  "nome": "François Viète",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações polinomiais",
+        "Métodos numéricos para resolução de equações"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria plana",
+        "Trigonometria esférica",
+        "Tabelas trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Construções geométricas",
+        "Geometria analítica"
+      ]
+    }
+  ]
+}

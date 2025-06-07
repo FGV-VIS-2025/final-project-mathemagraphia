@@ -1,0 +1,18 @@
+{
+  "nome": "Linards Eduardovich Reiziņš",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Sistemas de Equações Diferenciais",
+        "Pontos Singulares",
+        "Comportamento Qualitativo de Equações Diferenciais Homogêneas"
+      ]
+    },
+    {
+      "subarea": "Equações de Pfaff",
+      "subareas_especificas": []
+    }
+  ]
+}

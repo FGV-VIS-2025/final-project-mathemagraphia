@@ -1,0 +1,19 @@
+{
+  "nome": "Seán Hugh Dineen",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de funções holomorfas",
+      "subareas_especificas": [
+        "Polinômios homogêneos",
+        "Teoria de holomorfia"
+      ]
+    },
+    {
+      "subarea": "Teoria da aproximação",
+      "subareas_especificas": [
+        "Teorema de Malgrange"
+      ]
+    }
+  ]
+}

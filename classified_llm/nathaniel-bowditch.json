@@ -1,0 +1,20 @@
+{
+  "nome": "Nathaniel Bowditch",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Mecânica Newtoniana",
+        "Cálculo Diferencial e Integral"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Mecânica Celeste",
+        "Órbitas de Cometas"
+      ]
+    }
+  ]
+}

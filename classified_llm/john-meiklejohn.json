@@ -1,0 +1,13 @@
+{
+  "nome": "John George Brotchie Meiklejohn",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    }
+  ]
+}

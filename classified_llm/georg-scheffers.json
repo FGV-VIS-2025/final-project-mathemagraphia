@@ -1,0 +1,21 @@
+{
+  "nome": "Georg Wilhelm Scheffers",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Contato",
+      "subareas_especificas": [
+        "Transformações de Contato",
+        "Grupos de Transformações"
+      ]
+    },
+    {
+      "subarea": "Teoria de Curvas e Superfícies",
+      "subareas_especificas": [
+        "Curvas no Plano e no Espaço",
+        "Superfícies",
+        "Representações Geométricas"
+      ]
+    }
+  ]
+}

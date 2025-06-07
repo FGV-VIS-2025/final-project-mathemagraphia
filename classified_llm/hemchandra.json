@@ -1,0 +1,12 @@
+{
+  "nome": "Acharya Hemchandra",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Sequências",
+      "subareas_especificas": [
+        "Sequências Recursivas"
+      ]
+    }
+  ]
+}

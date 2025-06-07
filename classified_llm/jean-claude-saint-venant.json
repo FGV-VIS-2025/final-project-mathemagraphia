@@ -1,0 +1,25 @@
+{
+  "nome": "Adhémar Jean Claude Barré de Saint-Venant",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidrostática",
+        "Hidrodinâmica",
+        "Equações de Navier-Stokes"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Torção de Cilindros",
+        "Flexão de Vigas"
+      ]
+    },
+    {
+      "subarea": "Cálculo Vetorial",
+      "subareas_especificas": []
+    }
+  ]
+}

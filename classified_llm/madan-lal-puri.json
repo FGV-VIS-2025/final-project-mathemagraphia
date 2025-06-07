@@ -1,0 +1,22 @@
+{
+  "nome": "Madan Lal Puri",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Não-paramétrica",
+      "subareas_especificas": [
+        "Testes de Homogeneidade",
+        "Estimação de contrastes em modelos lineares",
+        "Teoria de valores extremos",
+        "Séries temporais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teoremas limites",
+        "Processos estocásticos"
+      ]
+    }
+  ]
+}

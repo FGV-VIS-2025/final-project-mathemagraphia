@@ -1,0 +1,26 @@
+{
+  "nome": "Ferenc Radó",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Planos Projetivos",
+        "Colineações"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Geometria de Anéis"
+      ]
+    },
+    {
+      "subarea": "Programação Matemática",
+      "subareas_especificas": [
+        "Programação Disjuntiva",
+        "Branch and Bound"
+      ]
+    }
+  ]
+}

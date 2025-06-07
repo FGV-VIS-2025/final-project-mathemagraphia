@@ -1,0 +1,27 @@
+{
+  "nome": "Hermann Minkowski",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas quadráticas em n variáveis",
+        "Genus de uma forma"
+      ]
+    },
+    {
+      "subarea": "Geometria dos Números",
+      "subareas_especificas": [
+        "Aproximações Diofantinas",
+        "Corpos Convexos",
+        "Problemas de Empacotamento"
+      ]
+    },
+    {
+      "subarea": "Números Algébricos",
+      "subareas_especificas": [
+        "Frações contínuas"
+      ]
+    }
+  ]
+}

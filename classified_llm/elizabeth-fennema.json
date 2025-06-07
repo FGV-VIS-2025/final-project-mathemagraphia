@@ -1,0 +1,22 @@
+{
+  "nome": "Ann Elizabeth Hammer Fennema",
+  "area_principal": "Educação Matemática",
+  "subareas": [
+    {
+      "subarea": "Aprendizagem Matemática",
+      "subareas_especificas": [
+        "Modelagem Matemática",
+        "Cognição Matemática",
+        "Equidade em Educação Matemática"
+      ]
+    },
+    {
+      "subarea": "Atitudes em relação à Matemática",
+      "subareas_especificas": [
+        "Autoeficácia",
+        "Crendices",
+        "Ansiedade"
+      ]
+    }
+  ]
+}

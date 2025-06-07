@@ -1,0 +1,27 @@
+{
+  "nome": "Gheorghe  Calugăreănu",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Meromorfas",
+      "subareas_especificas": [
+        "Funções Univalentes",
+        "Teorema de Picard",
+        "Teoremas de Borel e Nevanlinna"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Teoria dos invariantes e covariantes da continuação analítica",
+        "Teoria dos nós"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria dos grupos"
+      ]
+    }
+  ]
+}

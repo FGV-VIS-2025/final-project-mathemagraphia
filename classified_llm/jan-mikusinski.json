@@ -1,0 +1,27 @@
+{
+  "nome": "Jan Geniusz Mikusiński",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo Operacional",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Equações Integrais",
+        "Funções Especiais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida e Integração",
+      "subareas_especificas": [
+        "Integral de Lebesgue",
+        "Integral de Bochner"
+      ]
+    },
+    {
+      "subarea": "Teoria das Distribuições",
+      "subareas_especificas": [
+        "Funções Generalizadas"
+      ]
+    }
+  ]
+}

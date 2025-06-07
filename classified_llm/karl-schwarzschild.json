@@ -1,0 +1,26 @@
+{
+  "nome": "Karl Schwarzschild",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Teoria de Órbitas"
+      ]
+    },
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Fotometria",
+        "Espectroscopia",
+        "Equilíbrio Radiativo"
+      ]
+    },
+    {
+      "subarea": "Relatividade Geral",
+      "subareas_especificas": [
+        "Soluções das Equações de Einstein"
+      ]
+    }
+  ]
+}

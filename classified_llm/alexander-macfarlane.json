@@ -1,0 +1,18 @@
+{
+  "nome": "Alexander Macfarlane",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Vetorial",
+      "subareas_especificas": [
+        "Quaternions"
+      ]
+    },
+    {
+      "subarea": "Álgebra da Lógica",
+      "subareas_especificas": [
+        "Álgebra Booleana"
+      ]
+    }
+  ]
+}

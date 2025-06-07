@@ -1,0 +1,28 @@
+{
+  "nome": "Marie Paris Pishmish de Recillas",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Fotometria Estelar",
+        "Estrelas Variáveis",
+        "Agrupamentos Galácticos",
+        "Rotação Galáctica",
+        "Dinâmica Estelar",
+        "Espectroscopia Estelar",
+        "Cinemática Galáctica",
+        "Absorção interestelar",
+        "Nebulosas Galácticas",
+        "Estruturas em espiral de galáxias",
+        "Buracos negros"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Geometria Infinitesimal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Alicia Boole Stott",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Dimensões Superiores",
+      "subareas_especificas": [
+        "Politopos Regulares",
+        "Seções Centrais de Politopos"
+      ]
+    }
+  ]
+}

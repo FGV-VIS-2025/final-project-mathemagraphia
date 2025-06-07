@@ -1,0 +1,20 @@
+{
+  "nome": "Ivo Milan Babuska",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos de Elementos Finitos",
+        "Métodos de Diferenças Finitas"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica de Problemas de Engenharia",
+      "subareas_especificas": [
+        "Estimação de Erros a Posteriori",
+        "Métodos Adaptativos de Elementos Finitos"
+      ]
+    }
+  ]
+}

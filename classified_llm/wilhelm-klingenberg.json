@@ -1,0 +1,18 @@
+{
+  "nome": "Wilhelm Paul Albert Klingenberg",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Geodésicas Fechadas"
+      ]
+    },
+    {
+      "subarea": "Geometria Afim",
+      "subareas_especificas": [
+        "Configurações em Planos Afins"
+      ]
+    }
+  ]
+}

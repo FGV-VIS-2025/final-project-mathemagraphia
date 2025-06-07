@@ -1,0 +1,29 @@
+{
+  "nome": "Friedrich Ernst Peter Hirzebruch",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria das Variedades",
+      "subareas_especificas": [
+        "Teoria de Riemann-Roch",
+        "Teoria de Feixes",
+        "Classes Características",
+        "K-teoria"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades Diferenciáveis",
+        "Formas Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teorema da Reciprocidade de Dedekind",
+        "Formas Modulares de Hilbert"
+      ]
+    }
+  ]
+}

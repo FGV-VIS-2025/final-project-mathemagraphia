@@ -1,0 +1,19 @@
+{
+  "nome": "Georg Landsberg",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria de Ideais",
+        "Funções Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Teoria de Invariantes"
+      ]
+    }
+  ]
+}

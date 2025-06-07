@@ -1,0 +1,20 @@
+{
+  "nome": "Hendrik Douwe Kloosterman",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas quadráticas em quatro variáveis",
+        "Somatório de quadrados"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Método do círculo de Hardy-Littlewood",
+        "Somatórios de Kloosterman"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "William Ferrel",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Teoria das Marés",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Mecânica dos Fluidos"
+      ]
+    },
+    {
+      "subarea": "Dinâmica de Fluidos Geofísicos",
+      "subareas_especificas": [
+        "Circulação Atmosférica",
+        "Modelo de Célula de Ferrel"
+      ]
+    }
+  ]
+}

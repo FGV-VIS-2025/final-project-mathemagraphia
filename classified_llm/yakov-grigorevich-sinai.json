@@ -1,0 +1,26 @@
+{
+  "nome": "Yakov Grigorevich Sinai",
+  "area_principal": "Teoria Ergódica",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Sistemas Hiperbólicos",
+        "Bilhares",
+        "Gases de Esferas Rígidas"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Transições de Fase"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teorema do Limite Central"
+      ]
+    }
+  ]
+}

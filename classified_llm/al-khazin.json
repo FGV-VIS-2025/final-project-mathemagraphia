@@ -1,0 +1,12 @@
+{
+  "nome": "Abu Jafar Muhammad ibn al-Hasan Al-Khazin",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equações quadráticas"
+      ]
+    }
+  ]
+}

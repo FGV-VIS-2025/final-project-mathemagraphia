@@ -1,0 +1,20 @@
+{
+  "nome": "Ismail Jacobus Mohamed",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos nilpotentes",
+        "Grupos metabelianos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grupos",
+      "subareas_especificas": [
+        "Grupos de Automorfismos",
+        "Subgrupos Subnormais"
+      ]
+    }
+  ]
+}

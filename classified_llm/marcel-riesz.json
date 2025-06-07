@@ -1,0 +1,39 @@
+{
+  "nome": "Marcel Riesz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries Trigonométricas",
+        "Séries de Potências",
+        "Séries de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços Vetoriais",
+        "Teoria da Medida"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação da Onda"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Resíduos Quadráticos"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebras de Clifford"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Norman Larrabee Alling",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria de Valoração"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Superfícies de Riemann",
+        "Superfícies de Klein",
+        "Curvas Elípticas Reais"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Análise em Corpos de Números Surreais"
+      ]
+    }
+  ]
+}

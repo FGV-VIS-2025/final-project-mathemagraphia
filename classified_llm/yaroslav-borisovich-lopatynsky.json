@@ -1,0 +1,22 @@
+{
+  "nome": "Yaroslav Borisovich Lopatynsky",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": []
+    }
+  ]
+}

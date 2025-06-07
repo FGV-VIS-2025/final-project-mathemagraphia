@@ -1,0 +1,27 @@
+{
+  "nome": "Arnold Johannes Wilhelm Sommerfeld",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoria de Sturm-Liouville",
+        "Métodos de separação de variáveis"
+      ]
+    },
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Atômica",
+        "Espectroscopia"
+      ]
+    },
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Mecânica de Corpos Rígidos",
+        "Teoria de Giroscópios"
+      ]
+    }
+  ]
+}

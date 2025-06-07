@@ -1,0 +1,27 @@
+{
+  "nome": "José Fernando Escobar",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Análise Geométrica",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Problema de Yamabe"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Curvatura Escalar",
+        "Curvatura Média",
+        "Laplaciano"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Isoperimetria"
+      ]
+    }
+  ]
+}

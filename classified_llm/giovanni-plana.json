@@ -1,0 +1,16 @@
+{
+  "nome": "Giovanni Antonio Amedeo Plana",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": []
+    }
+  ]
+}

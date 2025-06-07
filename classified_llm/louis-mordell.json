@@ -1,0 +1,26 @@
+{
+  "nome": "Louis Joel Mordell",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equação de Mordell",
+        "Curvas Elípticas"
+      ]
+    },
+    {
+      "subarea": "Funções Modulares",
+      "subareas_especificas": [
+        "Função Tau de Ramanujan",
+        "Operador de Hecke"
+      ]
+    },
+    {
+      "subarea": "Geometria dos Números",
+      "subareas_especificas": [
+        "Formas Quadráticas"
+      ]
+    }
+  ]
+}

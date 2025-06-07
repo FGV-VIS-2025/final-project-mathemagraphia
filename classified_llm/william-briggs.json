@@ -1,0 +1,21 @@
+{
+  "nome": "William Briggs",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica Plana",
+      "subareas_especificas": [
+        "Cônicas",
+        "Retas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica Espacial",
+      "subareas_especificas": [
+        "Planos",
+        "Retas",
+        "Superfícies Cônicas"
+      ]
+    }
+  ]
+}

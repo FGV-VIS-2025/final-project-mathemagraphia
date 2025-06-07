@@ -1,0 +1,19 @@
+{
+  "nome": "Mario Pieri",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria das Superfícies"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Geometria",
+      "subareas_especificas": [
+        "Axiomatização da Geometria Projetiva",
+        "Geometria Lógica"
+      ]
+    }
+  ]
+}

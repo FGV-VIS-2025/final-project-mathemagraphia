@@ -1,0 +1,19 @@
+{
+  "nome": "Louis Poinsot",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria espacial",
+      "subareas_especificas": [
+        "Poliedros regulares"
+      ]
+    },
+    {
+      "subarea": "Mecânica Geométrica",
+      "subareas_especificas": [
+        "Composição de forças",
+        "Sistemas de forças em corpos rígidos"
+      ]
+    }
+  ]
+}

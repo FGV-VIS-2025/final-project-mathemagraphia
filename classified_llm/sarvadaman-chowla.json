@@ -1,0 +1,42 @@
+{
+  "nome": "Sarvadaman Chowla",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Funções Zeta",
+        "Funções L",
+        "Distribuição de Números Primos"
+      ]
+    },
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas Quadráticas Binárias",
+        "Números de Classes"
+      ]
+    },
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Aproximação Diofantina",
+        "Frações Contínuas"
+      ]
+    },
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Problema de Waring",
+        "Partições"
+      ]
+    },
+    {
+      "subarea": "Somatórios de Caracteres",
+      "subareas_especificas": [
+        "Somatórios de Gauss",
+        "Somatórios de Kloosterman"
+      ]
+    }
+  ]
+}

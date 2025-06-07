@@ -1,0 +1,19 @@
+{
+  "nome": "Leon Melvyn Simon",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades",
+        "Teoria Geométrica da Medida"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Elípticas"
+      ]
+    }
+  ]
+}

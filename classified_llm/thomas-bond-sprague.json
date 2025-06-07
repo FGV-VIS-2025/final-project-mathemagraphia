@@ -1,0 +1,22 @@
+{
+  "nome": "Thomas Bond Sprague",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Mortalidade",
+      "subareas_especificas": [
+        "Tabelas de Mortalidade",
+        "Força de Mortalidade",
+        "Seleção de Tabelas de Mortalidade"
+      ]
+    },
+    {
+      "subarea": "Atuária",
+      "subareas_especificas": [
+        "Notação Atuarial",
+        "Contabilidade de Escritórios de Seguros de Vida",
+        "Solvência de Escritórios de Seguros de Vida"
+      ]
+    }
+  ]
+}

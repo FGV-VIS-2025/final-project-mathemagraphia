@@ -1,0 +1,23 @@
+{
+  "nome": "Julius Ludwig Weisbach",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidráulica"
+      ]
+    },
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Mecânica Aplicada",
+      "subareas_especificas": [
+        "Máquinas",
+        "Desenho de Máquinas"
+      ]
+    }
+  ]
+}

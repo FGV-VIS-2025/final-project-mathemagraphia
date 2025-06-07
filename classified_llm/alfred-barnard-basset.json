@@ -1,0 +1,21 @@
+{
+  "nome": "Alfred Barnard Basset",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Equilíbrio de fluidos em rotação",
+        "Viscosidade",
+        "Problema de Boussinesq"
+      ]
+    },
+    {
+      "subarea": "Teoria da Elasticidade",
+      "subareas_especificas": [
+        "Placas elásticas",
+        "Cascas elásticas"
+      ]
+    }
+  ]
+}

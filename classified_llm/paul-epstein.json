@@ -1,0 +1,20 @@
+{
+  "nome": "Paul Epstein",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Zeta",
+      "subareas_especificas": [
+        "Funções Zeta de Epstein",
+        "Função Zeta de Riemann",
+        "Séries de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Frações Contínuas de Möbius"
+      ]
+    }
+  ]
+}

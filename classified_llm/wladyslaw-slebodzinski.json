@@ -1,0 +1,19 @@
+{
+  "nome": "Władysław Zygmunt Ślebodziński",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Espaços Riemannianos",
+        "Curvatura"
+      ]
+    },
+    {
+      "subarea": "Teoria de Lie",
+      "subareas_especificas": [
+        "Derivada de Lie"
+      ]
+    }
+  ]
+}

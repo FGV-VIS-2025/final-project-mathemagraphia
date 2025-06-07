@@ -1,0 +1,23 @@
+{
+  "nome": "Charles Ehresmann",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Variedades Diferenciáveis",
+        "Fibrados",
+        "Folheações",
+        "Jatos"
+      ]
+    },
+    {
+      "subarea": "Teoria das Categorias",
+      "subareas_especificas": [
+        "Categorias Locais",
+        "Estruturas Definidas por Atlas",
+        "Germes de Categorias"
+      ]
+    }
+  ]
+}

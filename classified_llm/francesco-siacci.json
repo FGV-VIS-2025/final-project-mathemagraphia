@@ -1,0 +1,12 @@
+{
+  "nome": "Francesco Siacci",
+  "area_principal": "Mecânica Analítica",
+  "subareas": [
+    {
+      "subarea": "Balística",
+      "subareas_especificas": [
+        "Mecânica Aplicada à Artilharia"
+      ]
+    }
+  ]
+}

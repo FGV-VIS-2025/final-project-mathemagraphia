@@ -1,0 +1,20 @@
+{
+  "nome": "Étienne Louis Malus",
+  "area_principal": "Óptica",
+  "subareas": [
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Sistemas de raios",
+        "Complexos de linhas"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Teoria da refração",
+        "Polarização da luz"
+      ]
+    }
+  ]
+}

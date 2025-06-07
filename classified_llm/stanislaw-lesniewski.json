@@ -1,0 +1,20 @@
+{
+  "nome": "Stanisław Leśniewski",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Paradoxo de Russell",
+        "Lei do Terceiro Excluído"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Teoria de Classes",
+        "Mereologia"
+      ]
+    }
+  ]
+}

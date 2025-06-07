@@ -1,0 +1,22 @@
+{
+  "nome": "Edsger Wybe Dijkstra",
+  "area_principal": "Ciência da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Algoritmos",
+        "Teoria de Grafos",
+        "Semáforos"
+      ]
+    },
+    {
+      "subarea": "Programação",
+      "subareas_especificas": [
+        "Programação Estruturada",
+        "Compiladores",
+        "Sistemas Operacionais"
+      ]
+    }
+  ]
+}

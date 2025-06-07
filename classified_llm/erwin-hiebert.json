@@ -1,0 +1,19 @@
+{
+  "nome": "Erwin Nick Hiebert",
+  "area_principal": "História da Ciência",
+  "subareas": [
+    {
+      "subarea": "História da Física",
+      "subareas_especificas": [
+        "Termodinâmica",
+        "Energia"
+      ]
+    },
+    {
+      "subarea": "História da Química",
+      "subareas_especificas": [
+        "Química Física"
+      ]
+    }
+  ]
+}

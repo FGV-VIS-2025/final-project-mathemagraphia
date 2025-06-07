@@ -1,0 +1,20 @@
+{
+  "nome": "Marinus of Neapolis",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Parallax"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Precessão",
+        "Via Láctea"
+      ]
+    }
+  ]
+}

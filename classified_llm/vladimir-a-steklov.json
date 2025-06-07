@@ -1,0 +1,20 @@
+{
+  "nome": "Vladimir Andreevich Steklov",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Equação de Laplace"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Autofunções",
+        "Séries de Fourier"
+      ]
+    }
+  ]
+}

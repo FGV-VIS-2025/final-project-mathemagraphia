@@ -1,0 +1,21 @@
+{
+  "nome": "Max Black",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Intucionismo",
+        "Formalismo",
+        "Principia Mathematica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos Fuzzy",
+        "Conjuntos Vagos"
+      ]
+    }
+  ]
+}

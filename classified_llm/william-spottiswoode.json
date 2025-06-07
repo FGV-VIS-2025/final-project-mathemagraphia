@@ -1,0 +1,18 @@
+{
+  "nome": "William Spottiswoode",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Cálculo de Probabilidades"
+      ]
+    }
+  ]
+}

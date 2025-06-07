@@ -1,0 +1,19 @@
+{
+  "nome": "William Davidson Niven",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Harmônicos esféricos",
+        "Harmônicos elipsoidais"
+      ]
+    },
+    {
+      "subarea": "Análise Vetorial",
+      "subareas_especificas": [
+        "Eletromagnetismo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "John Thomas Graves",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Logaritmos",
+      "subareas_especificas": [
+        "Logaritmos complexos",
+        "Séries logarítmicas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Identidade dos oito quadrados"
+      ]
+    }
+  ]
+}

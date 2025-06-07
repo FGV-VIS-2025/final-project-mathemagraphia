@@ -1,0 +1,18 @@
+{
+  "nome": "John Leech",
+  "area_principal": "Teoria dos Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Simples",
+      "subareas_especificas": [
+        "Grupos Esporádicos"
+      ]
+    },
+    {
+      "subarea": "Teoria Combinatória de Grupos",
+      "subareas_especificas": [
+        "Algoritmo de Enumeração de Cosets de Todd-Coxeter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Poul Heegaard",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixa Dimensão",
+      "subareas_especificas": [
+        "Variedades de 3-dimensões",
+        "Decomposições de Heegaard"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Dualidade de Poincaré"
+      ]
+    }
+  ]
+}

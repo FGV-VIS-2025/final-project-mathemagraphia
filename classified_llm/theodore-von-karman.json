@@ -1,0 +1,20 @@
+{
+  "nome": "Theodore von Kármán",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Turbulência",
+        "Aerodinâmica"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Teoria da Flambagem",
+        "Resistência dos Materiais"
+      ]
+    }
+  ]
+}

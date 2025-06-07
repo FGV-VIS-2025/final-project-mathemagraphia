@@ -1,0 +1,26 @@
+{
+  "nome": "Francesco Severi",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Enumerativa",
+      "subareas_especificas": [
+        "Singularidades de Curvas em Hipersuperfícies"
+      ]
+    },
+    {
+      "subarea": "Geometria Birracional de Superfícies",
+      "subareas_especificas": [
+        "Equivalência Algébrica",
+        "Teorema da Base"
+      ]
+    },
+    {
+      "subarea": "Teoria das Superfícies Algébricas",
+      "subareas_especificas": [
+        "Integrais de Picard",
+        "Sistemas Contínuos de Curvas"
+      ]
+    }
+  ]
+}

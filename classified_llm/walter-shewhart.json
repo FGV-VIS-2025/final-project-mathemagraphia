@@ -1,0 +1,13 @@
+{
+  "nome": "Walter Andrew Shewhart",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Controle Estatístico de Qualidade",
+      "subareas_especificas": [
+        "Cartas de Controle",
+        "Amostragem Estatística"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Leon Mirsky",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números r-livres",
+      "subareas_especificas": [
+        "Analogias do resultado de Vinogradov",
+        "Conjectura de Goldbach",
+        "Conjectura dos primos gêmeos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes com autovalores e elementos diagonais dados"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teorema de Hall",
+        "Teoria Transversal"
+      ]
+    }
+  ]
+}

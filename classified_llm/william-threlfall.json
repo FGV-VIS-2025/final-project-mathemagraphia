@@ -1,0 +1,21 @@
+{
+  "nome": "William Richard Maximilian Hugo Threlfall",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Superfícies",
+      "subareas_especificas": [
+        "Grupos Fundamentais",
+        "Classificação de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Teoria de Morse",
+      "subareas_especificas": [
+        "Pontos Críticos",
+        "Homologia",
+        "Teoria de Floer"
+      ]
+    }
+  ]
+}

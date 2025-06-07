@@ -1,0 +1,19 @@
+{
+  "nome": "Charlotte Angas Scott",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Singularidades",
+        "Transformações"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Invariantes e Covariantes"
+      ]
+    }
+  ]
+}

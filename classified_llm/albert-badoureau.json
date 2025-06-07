@@ -1,0 +1,12 @@
+{
+  "nome": "Jean Paul Albert Badoureau",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Polyedros",
+      "subareas_especificas": [
+        "Poliedros Uniformes"
+      ]
+    }
+  ]
+}

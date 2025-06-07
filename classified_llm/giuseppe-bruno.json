@@ -1,0 +1,12 @@
+{
+  "nome": "Giuseppe Bruno",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Descritiva"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Sergei Nikolaevich Chernikov",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Infinitos",
+      "subareas_especificas": [
+        "Grupos Localmente Solúveis",
+        "Condições de Finitudes em Grupos"
+      ]
+    },
+    {
+      "subarea": "Sistemas de Inequações Lineares",
+      "subareas_especificas": [
+        "Sistemas Poliedralmente Fechados"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Claude Jacques Roger Berge",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Grafos",
+        "Hipergrafos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Jogos",
+      "subareas_especificas": [
+        "Jogos com informação perfeita",
+        "Jogos alternativos"
+      ]
+    }
+  ]
+}

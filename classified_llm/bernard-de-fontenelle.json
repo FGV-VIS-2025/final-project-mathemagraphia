@@ -1,0 +1,14 @@
+{
+  "nome": "Bernard le Bovier de Fontenelle",
+  "area_principal": "Filosofia da Ciência",
+  "subareas": [
+    {
+      "subarea": "História da Ciência",
+      "subareas_especificas": [
+        "Astronomia",
+        "Matemática",
+        "Física"
+      ]
+    }
+  ]
+}

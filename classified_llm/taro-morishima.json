@@ -1,0 +1,13 @@
+{
+  "nome": "Taro Morishima",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Teoria de Corpos de Classes",
+        "Teorema do Último Teorema de Fermat"
+      ]
+    }
+  ]
+}

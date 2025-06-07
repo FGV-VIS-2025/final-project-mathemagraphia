@@ -1,0 +1,19 @@
+{
+  "nome": "David Gale",
+  "area_principal": "Teoria dos Jogos",
+  "subareas": [
+    {
+      "subarea": "Jogos de Soma Zero",
+      "subareas_especificas": [
+        "Jogos de Dois Jogadores",
+        "Matrizes de Pagamento"
+      ]
+    },
+    {
+      "subarea": "Programação Linear",
+      "subareas_especificas": [
+        "Modelos Econômicos Lineares"
+      ]
+    }
+  ]
+}

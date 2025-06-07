@@ -1,0 +1,13 @@
+{
+  "nome": "Ada Isabel Maddison",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Soluções Singulares"
+      ]
+    }
+  ]
+}

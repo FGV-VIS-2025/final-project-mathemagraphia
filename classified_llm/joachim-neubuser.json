@@ -1,0 +1,20 @@
+{
+  "nome": "Joachim Neubüser",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Subgrupos",
+        "Redes de Subgrupos"
+      ]
+    },
+    {
+      "subarea": "Teoria Computacional de Grupos",
+      "subareas_especificas": [
+        "Algoritmos de Grupos",
+        "Sistemas de Álgebra Computacional"
+      ]
+    }
+  ]
+}

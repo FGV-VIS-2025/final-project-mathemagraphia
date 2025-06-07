@@ -1,0 +1,18 @@
+{
+  "nome": "Erasmus Bartholin",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Problemas de Tangentes Inversas"
+      ]
+    },
+    {
+      "subarea": "Óptica Geométrica",
+      "subareas_especificas": [
+        "Refração da Luz"
+      ]
+    }
+  ]
+}

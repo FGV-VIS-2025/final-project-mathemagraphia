@@ -1,0 +1,41 @@
+{
+  "nome": "Vladimir Gershonovich Drinfeld",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Módulos de Drinfeld",
+        "Conjecturas de Langlands"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Geometria Aritmética",
+        "Variedades de Kähler"
+      ]
+    },
+    {
+      "subarea": "Física Matemática",
+      "subareas_especificas": [
+        "Grupos Quânticos",
+        "Sistemas Integráveis Quânticos"
+      ]
+    }
+  ]
+}

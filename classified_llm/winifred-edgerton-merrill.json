@@ -1,0 +1,19 @@
+{
+  "nome": "Winifred Edgerton Merrill",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Sistemas de Coordenadas",
+        "Transformações Geométricas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integrais Múltiplas"
+      ]
+    }
+  ]
+}

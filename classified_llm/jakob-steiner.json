@@ -1,0 +1,20 @@
+{
+  "nome": "Jakob Steiner",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria das Cônicas",
+      "subareas_especificas": [
+        "Seções Cônicas",
+        "Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Construções Geométricas",
+      "subareas_especificas": [
+        "Regra e Compasso",
+        "Construções com régua e compasso"
+      ]
+    }
+  ]
+}

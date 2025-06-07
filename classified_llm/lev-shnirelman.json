@@ -1,0 +1,18 @@
+{
+  "nome": "Lev Genrikhovich Shnirelman",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geodésicas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Conjectura de Goldbach"
+      ]
+    }
+  ]
+}

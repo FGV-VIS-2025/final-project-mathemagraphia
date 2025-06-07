@@ -1,0 +1,19 @@
+{
+  "nome": "Duncan Liddel",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Tabulae directionum"
+      ]
+    },
+    {
+      "subarea": "Teoria Planetária",
+      "subareas_especificas": [
+        "Modelos Geocêntricos",
+        "Modelo Heliocêntrico"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Ronald Lewis Graham",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Combinatória dos Números",
+      "subareas_especificas": [
+        "Teoria de Ramsey",
+        "Partições"
+      ]
+    },
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Problemas de Frobenius",
+        "Somatórios de Frações Unitárias"
+      ]
+    },
+    {
+      "subarea": "Geometria Computacional",
+      "subareas_especificas": [
+        "Algoritmos de Aproximação"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Octav Onicescu",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Variedades Diferenciáveis",
+        "Teoria da Relatividade Geral"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Cadeias de Markov",
+        "Teoria da Probabilidade em Álgebras Booleanas"
+      ]
+    }
+  ]
+}

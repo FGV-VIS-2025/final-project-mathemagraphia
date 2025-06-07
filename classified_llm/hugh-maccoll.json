@@ -1,0 +1,13 @@
+{
+  "nome": "Hugh MacColl",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Lógica Simbólica",
+      "subareas_especificas": [
+        "Cálculo de Enunciados Equivalentes",
+        "Raciocínio Simbólico"
+      ]
+    }
+  ]
+}

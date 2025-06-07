@@ -1,0 +1,13 @@
+{
+  "nome": "Kenneth Kilpatrick Weatherhead",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Matemática Atuarial",
+      "subareas_especificas": [
+        "Cálculo de Probabilidades",
+        "Estatística Atuarial"
+      ]
+    }
+  ]
+}

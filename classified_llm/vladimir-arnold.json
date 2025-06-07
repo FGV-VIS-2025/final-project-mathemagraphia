@@ -1,0 +1,44 @@
+{
+  "nome": "Vladimir Igorevich Arnold",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica e Celeste",
+      "subareas_especificas": [
+        "Estabilidade de Sistemas Dinâmicos",
+        "Difusão de Arnold"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria simplética",
+        "Geometria de contato",
+        "Geometria algébrica real"
+      ]
+    },
+    {
+      "subarea": "Teoria das Singularidades",
+      "subareas_especificas": [
+        "Teoria das Catástrofes"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Topologia em Hidrodinâmica"
+      ]
+    },
+    {
+      "subarea": "Teoria de Superposição",
+      "subareas_especificas": []
+    }
+  ]
+}

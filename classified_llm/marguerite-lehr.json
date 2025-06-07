@@ -1,0 +1,14 @@
+{
+  "nome": "Anna Marguerite Marie Lehr",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Algébricas",
+        "Superfícies Algébricas",
+        "Transformações Cremona"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nome": "Claire Voisin",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Hodge",
+      "subareas_especificas": [
+        "Teoria de ciclos algébricos",
+        "Variedades de Calabi-Yau"
+      ]
+    },
+    {
+      "subarea": "Geometria Kähler",
+      "subareas_especificas": [
+        "Variedades complexas projetivas",
+        "Variedades de Kähler compactas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Intersecção",
+      "subareas_especificas": [
+        "Anéis de Chow",
+        "Grupos de cohomologia"
+      ]
+    },
+    {
+      "subarea": "Geometria Hiperkähler",
+      "subareas_especificas": [
+        "Variedades hiperkähler compactas"
+      ]
+    }
+  ]
+}

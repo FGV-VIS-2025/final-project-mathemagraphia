@@ -1,0 +1,26 @@
+{
+  "nome": "Hermann Alexander Brück",
+  "area_principal": "Astrofísica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Teoria da Relatividade"
+      ]
+    },
+    {
+      "subarea": "Física Teórica",
+      "subareas_especificas": [
+        "Mecânica Quântica",
+        "Espectroscopia"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

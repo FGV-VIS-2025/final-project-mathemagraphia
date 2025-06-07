@@ -1,0 +1,12 @@
+{
+  "nome": "William George Penney",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Física de Cristais"
+      ]
+    }
+  ]
+}

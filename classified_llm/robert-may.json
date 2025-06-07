@@ -1,0 +1,19 @@
+{
+  "nome": "Robert McCredie May",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Supercondutividade"
+      ]
+    },
+    {
+      "subarea": "Teoria de Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Ecologia Matemática",
+        "Caos Determinístico"
+      ]
+    }
+  ]
+}

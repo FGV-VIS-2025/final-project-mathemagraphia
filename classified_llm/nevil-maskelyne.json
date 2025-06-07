@@ -1,0 +1,20 @@
+{
+  "nome": "Nevil Maskelyne",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Determinação de Longitude",
+        "Observação de Trânsito de Vênus",
+        "Parallax"
+      ]
+    },
+    {
+      "subarea": "Geodésia",
+      "subareas_especificas": [
+        "Determinação da Densidade da Terra"
+      ]
+    }
+  ]
+}

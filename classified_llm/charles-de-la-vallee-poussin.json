@@ -1,0 +1,16 @@
+{
+  "nome": "Charles Jean Gustave Nicolas Baron de la Vallée Poussin",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Zeta",
+      "subareas_especificas": [
+        "Hipótese de Riemann"
+      ]
+    },
+    {
+      "subarea": "Teorema do Número Primo",
+      "subareas_especificas": []
+    }
+  ]
+}

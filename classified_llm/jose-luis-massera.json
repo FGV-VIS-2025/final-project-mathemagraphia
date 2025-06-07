@@ -1,0 +1,19 @@
+{
+  "nome": "José Luis Massera",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Estabilidade",
+        "Soluções Subarmônicas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach"
+      ]
+    }
+  ]
+}

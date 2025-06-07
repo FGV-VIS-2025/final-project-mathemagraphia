@@ -1,0 +1,20 @@
+{
+  "nome": "Beniamino Segre",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica clássica",
+      "subareas_especificas": [
+        "Superfícies cúbicas",
+        "Variedades algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria sobre corpos finitos",
+      "subareas_especificas": [
+        "Geometrias de Galois",
+        "Formas e geometrias hermitianas"
+      ]
+    }
+  ]
+}

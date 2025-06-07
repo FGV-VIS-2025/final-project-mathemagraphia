@@ -1,0 +1,25 @@
+{
+  "nome": "Ralph Philip Boas Jr",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Transformadas de Fourier",
+        "Integrais Trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teorema de Hewitt-Marczewski-Pondiczery"
+      ]
+    },
+    {
+      "subarea": "Transformada de Stieltjes",
+      "subareas_especificas": [
+        "Transformada Iterada de Stieltjes"
+      ]
+    }
+  ]
+}

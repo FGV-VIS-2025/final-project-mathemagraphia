@@ -1,0 +1,27 @@
+{
+  "nome": "Jakob Hermann",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Diferenciação",
+        "Aplicações do Cálculo Diferencial"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integração",
+        "Aplicações do Cálculo Integral"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

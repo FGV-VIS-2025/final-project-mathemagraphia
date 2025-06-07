@@ -1,0 +1,20 @@
+{
+  "nome": "Michael Stifel",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Triangulares"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Números Negativos",
+        "Equações Cúbicas",
+        "Equações Quárticas"
+      ]
+    }
+  ]
+}

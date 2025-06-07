@@ -1,0 +1,20 @@
+{
+  "nome": "Bernadette Perrin-Riou",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria de Iwasawa",
+      "subareas_especificas": [
+        "Funções L p-ádicas",
+        "Representações p-ádicas",
+        "Curvas Elípticas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diofantina",
+      "subareas_especificas": [
+        "Conjecturas de Birch e Swinnerton-Dyer"
+      ]
+    }
+  ]
+}

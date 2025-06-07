@@ -1,0 +1,18 @@
+{
+  "nome": "William Henry Young",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integração de Lebesgue"
+      ]
+    },
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries Ortogonais"
+      ]
+    }
+  ]
+}

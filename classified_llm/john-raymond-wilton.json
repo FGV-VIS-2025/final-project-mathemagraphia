@@ -1,0 +1,19 @@
+{
+  "nome": "John Raymond Wilton",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Ondas"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Ondas em águas profundas",
+        "Fluidos rotativos"
+      ]
+    }
+  ]
+}

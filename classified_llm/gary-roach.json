@@ -1,0 +1,22 @@
+{
+  "nome": "Gary Francis Roach",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Aplicada",
+      "subareas_especificas": [
+        "Teoria de Operadores",
+        "Processos Evolucionários Não-Lineares",
+        "Teoria de Espalhamento",
+        "Problemas de Espalhamento Inverso"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Funções de Green",
+        "Problemas de Valor de Contorno"
+      ]
+    }
+  ]
+}

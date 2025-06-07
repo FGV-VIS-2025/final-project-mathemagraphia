@@ -1,0 +1,22 @@
+{
+  "nome": "Demetrios Lambrou Christodoulou",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Relatividade Geral",
+      "subareas_especificas": [
+        "Equações de Einstein",
+        "Estabilidade de Minkowski",
+        "Formação de Buracos Negros",
+        "Ondas Gravitacionais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Sistemas Hiperbólicos Não-Lineares",
+        "Formação de Choques"
+      ]
+    }
+  ]
+}

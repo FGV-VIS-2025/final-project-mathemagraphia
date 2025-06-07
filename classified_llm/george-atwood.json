@@ -1,0 +1,27 @@
+{
+  "nome": "George Atwood",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Movimento Retilíneo",
+        "Rotação de Corpos",
+        "Movimento Harmônico Simples"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Determinação de Longitude",
+        "Densidade da Terra"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria aplicada a instrumentos de navegação"
+      ]
+    }
+  ]
+}

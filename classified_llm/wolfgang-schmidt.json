@@ -1,0 +1,28 @@
+{
+  "nome": "Wolfgang M Schmidt",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Geometria dos Números",
+      "subareas_especificas": [
+        "Aproximação Diofantina",
+        "Formas Quadráticas",
+        "Determinantes Críticos"
+      ]
+    },
+    {
+      "subarea": "Distribuição Uniforme",
+      "subareas_especificas": [
+        "Irregularidades de Distribuição",
+        "Médias sobre Redes"
+      ]
+    },
+    {
+      "subarea": "Teoria Transcendental dos Números",
+      "subareas_especificas": [
+        "Números T",
+        "Aproximação de Números Algébricos"
+      ]
+    }
+  ]
+}

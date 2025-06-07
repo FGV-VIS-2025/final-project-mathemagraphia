@@ -1,0 +1,19 @@
+{
+  "nome": "Domenico Montesano",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Transformações de Cremona",
+        "Complexos de Retas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Superfícies Racionais"
+      ]
+    }
+  ]
+}

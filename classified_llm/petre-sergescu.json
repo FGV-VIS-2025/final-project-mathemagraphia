@@ -1,0 +1,18 @@
+{
+  "nome": "Petre Sergescu",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Analítica dos Números"
+      ]
+    }
+  ]
+}

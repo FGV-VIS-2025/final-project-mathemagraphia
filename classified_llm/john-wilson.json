@@ -1,0 +1,12 @@
+{
+  "nome": "John Wilson",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoremas sobre números primos"
+      ]
+    }
+  ]
+}

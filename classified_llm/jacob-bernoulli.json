@@ -1,0 +1,27 @@
+{
+  "nome": "Jacob (Jacques) Bernoulli",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Método de Separação de Variáveis"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Séries Infinitas",
+        "Integração"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Lei dos Grandes Números",
+        "Teoria das Probabilidades"
+      ]
+    }
+  ]
+}

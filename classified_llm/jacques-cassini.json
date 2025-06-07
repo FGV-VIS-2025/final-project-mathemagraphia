@@ -1,0 +1,19 @@
+{
+  "nome": "Jacques Cassini",
+  "area_principal": "Geodesia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Medidas de meridianos",
+        "Determinação de longitude"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Mapeamento da França"
+      ]
+    }
+  ]
+}

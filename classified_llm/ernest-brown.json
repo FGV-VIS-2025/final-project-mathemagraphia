@@ -1,0 +1,19 @@
+{
+  "nome": "Ernest William Brown",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Teoria Lunar",
+      "subareas_especificas": [
+        "Movimento da Lua",
+        "Teoria das perturbações"
+      ]
+    },
+    {
+      "subarea": "Teoria Planetária",
+      "subareas_especificas": [
+        "Movimento Planetário"
+      ]
+    }
+  ]
+}

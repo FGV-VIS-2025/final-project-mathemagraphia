@@ -1,0 +1,22 @@
+{
+  "nome": "Henry Moseley",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Estática",
+        "Dinâmica",
+        "Hidrostática",
+        "Hidrodinâmica"
+      ]
+    },
+    {
+      "subarea": "Engenharia",
+      "subareas_especificas": [
+        "Engenharia Civil",
+        "Construção de Pontes"
+      ]
+    }
+  ]
+}

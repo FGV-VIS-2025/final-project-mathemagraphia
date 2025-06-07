@@ -1,0 +1,21 @@
+{
+  "nome": "Oded Schramm",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Processos Estocásticos",
+        "Teoria da Medida",
+        "Limites de Escalas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Conforme",
+        "Geometria Fractal"
+      ]
+    }
+  ]
+}

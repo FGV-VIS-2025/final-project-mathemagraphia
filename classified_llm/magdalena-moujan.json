@@ -1,0 +1,27 @@
+{
+  "nome": "Magdalena Araceli Mouján Otaño",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Representações de Grupos",
+        "Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Pesquisa Operacional",
+      "subareas_especificas": [
+        "Otimização",
+        "Modelos Matemáticos"
+      ]
+    }
+  ]
+}

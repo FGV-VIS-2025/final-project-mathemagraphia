@@ -1,0 +1,18 @@
+{
+  "nome": "Menaechmus",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Problemas Clássicos da Geometria Grega",
+      "subareas_especificas": [
+        "Duplicação do Cubo"
+      ]
+    }
+  ]
+}

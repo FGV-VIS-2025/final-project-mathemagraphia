@@ -1,0 +1,20 @@
+{
+  "nome": "Luigi Federico Menabrea",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Sólidos",
+      "subareas_especificas": [
+        "Elasticidade",
+        "Princípio do Trabalho Virtual",
+        "Princípio dos Mínimos Trabalhos"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos para Equações Diferenciais"
+      ]
+    }
+  ]
+}

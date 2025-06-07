@@ -1,0 +1,13 @@
+{
+  "nome": "Wilhelm Ljunggren",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equações de Pell",
+        "Equações de Mordell"
+      ]
+    }
+  ]
+}

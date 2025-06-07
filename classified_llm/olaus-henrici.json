@@ -1,0 +1,26 @@
+{
+  "nome": "Olaus Magnus Friedrich Erdmann Henrici",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Descritiva",
+        "Perspectiva"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Vetores",
+        "Rotores"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Análise Harmônica"
+      ]
+    }
+  ]
+}

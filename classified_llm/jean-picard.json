@@ -1,0 +1,22 @@
+{
+  "nome": "Jean Picard",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geodesia",
+      "subareas_especificas": [
+        "Triangulação",
+        "Medidas de Latitude",
+        "Cartografia"
+      ]
+    },
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Medidas de Distâncias Celestes",
+        "Observações de Estrelas",
+        "Parallax"
+      ]
+    }
+  ]
+}

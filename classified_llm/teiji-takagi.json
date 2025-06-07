@@ -1,0 +1,13 @@
+{
+  "nome": "Teiji Takagi",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos de Classes Abelianos",
+        "Extensões Abelianas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Karl Pearson",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise de Regressão",
+      "subareas_especificas": [
+        "Regressão Linear",
+        "Regressão Múltipla"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Métodos de Amostragem",
+        "Visualização de Dados"
+      ]
+    }
+  ]
+}

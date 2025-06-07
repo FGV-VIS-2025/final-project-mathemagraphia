@@ -1,0 +1,26 @@
+{
+  "nome": "Nikolai Mitrofanovich Krylov",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Interpolação",
+        "Soluções Aproximadas"
+      ]
+    },
+    {
+      "subarea": "Mecânica Não-Linear",
+      "subareas_especificas": [
+        "Oscilações Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria de Perturbações",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Mecânica Quântica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Marius Lacombe",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Geometria Projetiva",
+        "Geometria Analítica"
+      ]
+    },
+    {
+      "subarea": "Educação Matemática",
+      "subareas_especificas": [
+        "Ensino de Matemática para Engenheiros"
+      ]
+    }
+  ]
+}

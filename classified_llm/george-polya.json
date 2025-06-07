@@ -1,0 +1,39 @@
+{
+  "nome": "George Pólya",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números complexos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Processos Estocásticos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Discreta",
+        "Grupos de Permutação"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Mapeamentos Conformes"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno"
+      ]
+    }
+  ]
+}

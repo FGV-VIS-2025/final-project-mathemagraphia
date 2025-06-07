@@ -1,0 +1,22 @@
+{
+  "nome": "Guillaume François Antoine Marquis de L'Hôpital",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Derivadas",
+        "Regra de L’Hôpital",
+        "Tangentes"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais",
+        "Curvas",
+        "Evolutas e Involuta"
+      ]
+    }
+  ]
+}

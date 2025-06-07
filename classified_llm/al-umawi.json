@@ -1,0 +1,22 @@
+{
+  "nome": "Abu Abdallah Yaish ibn Ibrahim Al-Umawi",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Poligonais",
+        "Números Piramidais",
+        "Congruências"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Somatórios",
+        "Séries Geométricas",
+        "Séries Aritméticas"
+      ]
+    }
+  ]
+}

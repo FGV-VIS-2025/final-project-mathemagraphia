@@ -1,0 +1,28 @@
+{
+  "nome": "Walter William Rouse Ball",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Recreativa",
+      "subareas_especificas": [
+        "Quadrados Mágicos",
+        "Problemas de Tabuleiro de Xadrez",
+        "Tesselações"
+      ]
+    },
+    {
+      "subarea": "História da Matemática Grega",
+      "subareas_especificas": [
+        "Paradoxos de Zeno",
+        "Trissecção do Ângulo",
+        "Problemas Clássicos da Geometria"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Elementar"
+      ]
+    }
+  ]
+}

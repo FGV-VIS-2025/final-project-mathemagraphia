@@ -1,0 +1,19 @@
+{
+  "nome": "Saharon Shelah",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Modelos",
+      "subareas_especificas": [
+        "Teoria da Estabilidade",
+        "Forcing"
+      ]
+    },
+    {
+      "subarea": "Teoria de Cardinalidade",
+      "subareas_especificas": [
+        "Teoria pcf"
+      ]
+    }
+  ]
+}

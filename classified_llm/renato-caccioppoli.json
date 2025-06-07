@@ -1,0 +1,20 @@
+{
+  "nome": "Renato Caccioppoli",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Espaços de Banach",
+        "Teoremas de Ponto Fixo"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Elípticas"
+      ]
+    }
+  ]
+}

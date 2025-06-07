@@ -1,0 +1,26 @@
+{
+  "nome": "Alexander Craig Aitken",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Matrizes",
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Simétricos"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos de Interpolação",
+        "Aceleração da Convergência"
+      ]
+    }
+  ]
+}

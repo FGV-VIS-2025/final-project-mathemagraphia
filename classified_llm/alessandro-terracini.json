@@ -1,0 +1,20 @@
+{
+  "nome": "Alessandro Marco Benedetto Terracini",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva Diferencial",
+      "subareas_especificas": [
+        "Variedades Hiperspaciais",
+        "Equações Diferenciais Geométricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Algébricas",
+        "Superfícies Algébricas"
+      ]
+    }
+  ]
+}

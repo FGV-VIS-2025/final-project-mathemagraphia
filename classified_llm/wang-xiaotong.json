@@ -1,0 +1,12 @@
+{
+  "nome": "Wang Xiaotong",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Cúbicas",
+      "subareas_especificas": [
+        "Métodos Numéricos para resolução de equações cúbicas"
+      ]
+    }
+  ]
+}

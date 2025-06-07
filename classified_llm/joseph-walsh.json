@@ -1,0 +1,27 @@
+{
+  "nome": "Joseph Leonard Walsh",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Aproximação polinomial",
+        "Interpolação",
+        "Aproximação por funções racionais",
+        "Funções de Walsh"
+      ]
+    },
+    {
+      "subarea": "Funções Harmônicas",
+      "subareas_especificas": [
+        "Pontos críticos",
+        "Linhas de nível",
+        "Funções de Green"
+      ]
+    },
+    {
+      "subarea": "Mapeamentos Conformes",
+      "subareas_especificas": []
+    }
+  ]
+}

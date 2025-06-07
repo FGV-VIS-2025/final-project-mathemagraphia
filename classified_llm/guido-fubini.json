@@ -1,0 +1,38 @@
+{
+  "nome": "Guido Fubini",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva Diferencial",
+      "subareas_especificas": [
+        "Cálculo Diferencial Absoluto"
+      ]
+    },
+    {
+      "subarea": "Espaços Não-Euclidianos",
+      "subareas_especificas": [
+        "Geometria Elíptica"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Funções Harmônicas",
+        "Equações Diferenciais",
+        "Cálculo de Variações",
+        "Equações Integrais",
+        "Funções Analíticas",
+        "Funções de Várias Variáveis Complexas",
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Lineares",
+        "Grupos Contínuos",
+        "Grupos de Funções Automórficas"
+      ]
+    }
+  ]
+}

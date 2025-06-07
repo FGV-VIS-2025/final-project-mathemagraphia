@@ -1,0 +1,27 @@
+{
+  "nome": "Gabriel Xavier Paul Koenigs",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geodésicas",
+        "Geometria Reglada"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Teoria da Iteração",
+        "Funções Complexas"
+      ]
+    },
+    {
+      "subarea": "Mecânica Analítica",
+      "subareas_especificas": [
+        "Invariantes Integrais",
+        "Cinemática"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Iain Thomas Arthur Carpenter Adamson",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Teoria de Galois"
+      ]
+    },
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Módulos",
+        "Álgebras"
+      ]
+    }
+  ]
+}

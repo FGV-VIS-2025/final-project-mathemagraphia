@@ -1,0 +1,20 @@
+{
+  "nome": "Cornelius Lanczos",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Polinômios Ortogonais",
+        "Interpolação"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Matriciais",
+        "Transformada Rápida de Fourier"
+      ]
+    }
+  ]
+}

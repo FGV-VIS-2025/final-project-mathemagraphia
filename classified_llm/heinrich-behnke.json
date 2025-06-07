@@ -1,0 +1,30 @@
+{
+  "nome": "Heinrich Behnke",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Várias Variáveis Complexas",
+      "subareas_especificas": [
+        "Funções holomorfas e meromorfas",
+        "Domínios de holomorfia",
+        "Problema de Levi",
+        "Problemas de Cousin",
+        "Aproximação de Runge",
+        "Aplicações holomorfas e grupos de transformação"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções de uma Variável Complexa",
+      "subareas_especificas": [
+        "Superfícies de Riemann",
+        "Funções analíticas em superfícies de Riemann"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria dos Números Algébrica"
+      ]
+    }
+  ]
+}

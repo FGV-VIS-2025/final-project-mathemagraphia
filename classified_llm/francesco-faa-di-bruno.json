@@ -1,0 +1,20 @@
+{
+  "nome": "Francesco da Paola Virgilio Secondo Maria Faà di Bruno",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Formas",
+      "subareas_especificas": [
+        "Formas Binárias",
+        "Invariantes"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Fórmula de Faà di Bruno"
+      ]
+    }
+  ]
+}

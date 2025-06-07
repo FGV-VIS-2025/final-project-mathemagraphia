@@ -1,0 +1,19 @@
+{
+  "nome": "Robert Boyle",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica dos Fluidos",
+        "Elasticidade"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Gases"
+      ]
+    }
+  ]
+}

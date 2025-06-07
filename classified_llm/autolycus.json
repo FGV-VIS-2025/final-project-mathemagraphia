@@ -1,0 +1,12 @@
+{
+  "nome": "Autolycus of Pitane",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Espacial",
+      "subareas_especificas": [
+        "Geometria da Esfera"
+      ]
+    }
+  ]
+}

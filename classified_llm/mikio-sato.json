@@ -1,0 +1,19 @@
+{
+  "nome": "Mikio Sato",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoria de Hiperfunções",
+        "Análise Microlocal"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades de Grassmann"
+      ]
+    }
+  ]
+}

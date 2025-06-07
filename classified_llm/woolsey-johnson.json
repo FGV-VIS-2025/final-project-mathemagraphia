@@ -1,0 +1,28 @@
+{
+  "nome": "William Woolsey Johnson",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria de Curvas Planas",
+        "Geometria de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral",
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Distribuição de Primos"
+      ]
+    }
+  ]
+}

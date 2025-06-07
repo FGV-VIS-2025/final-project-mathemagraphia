@@ -1,0 +1,31 @@
+{
+  "nome": "Edward Charles Titchmarsh",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Análise de Fourier",
+        "Integrais de Fourier"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações diferenciais"
+      ]
+    },
+    {
+      "subarea": "Função Zeta de Riemann",
+      "subareas_especificas": [
+        "Teoria Analítica dos Números"
+      ]
+    },
+    {
+      "subarea": "Expansões de Autofunções",
+      "subareas_especificas": [
+        "Equações Diferenciais de Segunda Ordem"
+      ]
+    }
+  ]
+}

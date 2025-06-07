@@ -1,0 +1,27 @@
+{
+  "nome": "Calixto Pedro Calderón",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Integrais Singulares",
+        "Séries de Fourier",
+        "Transformadas Integrais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Navier-Stokes"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teorema do Limite Central",
+        "Lei Forte dos Grandes Números"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Guidobaldo Marchese del Monte",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Perspectiva"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Estática",
+        "Dinâmica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Heinz Hopf",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Homotopia",
+      "subareas_especificas": [
+        "Classes de Homotopia",
+        "Campos Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Cohomologia",
+      "subareas_especificas": [
+        "Anéis de Intersecção",
+        "Álgebras de Hopf"
+      ]
+    },
+    {
+      "subarea": "Teoria de Homologia",
+      "subareas_especificas": [
+        "Grupos de Homologia",
+        "Homologia de Variedades"
+      ]
+    }
+  ]
+}

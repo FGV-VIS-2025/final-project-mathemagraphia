@@ -1,0 +1,13 @@
+{
+  "nome": "Zu Geng",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Cálculo de Volumes",
+        "Relação entre figuras geométricas"
+      ]
+    }
+  ]
+}

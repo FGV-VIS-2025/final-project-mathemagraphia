@@ -1,0 +1,32 @@
+{
+  "nome": "Jacob Lüroth",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Teoria de Invariantes",
+        "Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria de Von Staudt"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções de Variável Real",
+        "Superfícies de Riemann"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Distribuição t"
+      ]
+    }
+  ]
+}

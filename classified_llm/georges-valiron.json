@@ -1,0 +1,20 @@
+{
+  "nome": "Georges Jean Marie Valiron",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Funções inteiras",
+        "Funções meromorfas",
+        "Séries de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Teoria da aproximação",
+      "subareas_especificas": [
+        "Cálculo aproximado de funções inteiras"
+      ]
+    }
+  ]
+}

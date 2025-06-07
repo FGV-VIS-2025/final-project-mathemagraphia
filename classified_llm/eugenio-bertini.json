@@ -1,0 +1,18 @@
+{
+  "nome": "Eugenio Bertini",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Transformações de Cremona"
+      ]
+    },
+    {
+      "subarea": "Teoria das Singularidades",
+      "subareas_especificas": [
+        "Resolução de Singularidades de Curvas"
+      ]
+    }
+  ]
+}

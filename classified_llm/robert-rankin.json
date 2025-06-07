@@ -1,0 +1,20 @@
+{
+  "nome": "Robert Alexander Rankin",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Modulares",
+      "subareas_especificas": [
+        "Formas Modulares",
+        "Grupo Modular"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Distribuição de Números Primos",
+        "Função Tau de Ramanujan"
+      ]
+    }
+  ]
+}

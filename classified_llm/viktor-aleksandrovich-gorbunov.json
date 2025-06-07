@@ -1,0 +1,22 @@
+{
+  "nome": "Viktor Aleksandrovich Gorbunov",
+  "area_principal": "Álgebra Universal",
+  "subareas": [
+    {
+      "subarea": "Teoria de Quasivarieties",
+      "subareas_especificas": [
+        "Quasivarieties de Sistemas Algébricos",
+        "Retículas de Quasivarieties",
+        "Identidades em Estruturas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Retículas",
+      "subareas_especificas": [
+        "Retículas Finamente Apresentadas",
+        "Estruturas Subdiretamente Irredutíveis",
+        "Retículas Semidistributivas"
+      ]
+    }
+  ]
+}

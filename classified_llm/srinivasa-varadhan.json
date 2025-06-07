@@ -1,0 +1,22 @@
+{
+  "nome": "Sathamangalam Ranga Iyengar Srinivasa Varadhan",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Teoria das Probabilidades",
+      "subareas_especificas": [
+        "Processos Estocásticos",
+        "Teoria de Grandes Desvios",
+        "Martingales",
+        "Processos de Markov",
+        "Movimento Browniano"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Estocásticas",
+      "subareas_especificas": [
+        "Soluções de Martingale"
+      ]
+    }
+  ]
+}

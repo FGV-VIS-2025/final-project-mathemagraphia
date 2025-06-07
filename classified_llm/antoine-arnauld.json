@@ -1,0 +1,20 @@
+{
+  "nome": "Antoine Arnauld",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Lógica Simbólica",
+      "subareas_especificas": [
+        "Teoria da Dedução",
+        "Teoria de Modelos"
+      ]
+    },
+    {
+      "subarea": "Filosofia da Matemática",
+      "subareas_especificas": [
+        "Fundamentos da Matemática",
+        "Epistemologia Matemática"
+      ]
+    }
+  ]
+}

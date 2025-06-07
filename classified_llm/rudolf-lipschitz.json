@@ -1,0 +1,25 @@
+{
+  "nome": "Rudolf Otto Sigismund Lipschitz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Algébrica dos Números"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana"
+      ]
+    }
+  ]
+}

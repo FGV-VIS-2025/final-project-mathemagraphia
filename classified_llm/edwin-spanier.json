@@ -1,0 +1,27 @@
+{
+  "nome": "Edwin Henry Spanier",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria da Homotopia",
+      "subareas_especificas": [
+        "Grupos de Homotopia",
+        "Operações de Cohomologia",
+        "Dualidade em Teoria da Homotopia"
+      ]
+    },
+    {
+      "subarea": "Teoria da Homologia",
+      "subareas_especificas": [
+        "Grupos de Homologia",
+        "Homologia Alexander-Spanier"
+      ]
+    },
+    {
+      "subarea": "Espaços de recobrimento",
+      "subareas_especificas": [
+        "Fibrados de esferas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nome": "Paulo Ribenboim",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Corpos",
+      "subareas_especificas": [
+        "Teoria de Valuações",
+        "Corpos de Números Algébricos",
+        "Teoria de Galois"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Números algébricos",
+        "Inteiros algébricos",
+        "Discriminante",
+        "Decomposição de ideais",
+        "Números p-ádicos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Transcendentes",
+      "subareas_especificas": [
+        "Números transcendentes",
+        "Números de Liouville",
+        "Números de Fibonacci",
+        "Números de Catalan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Jason John Nassau",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Matrizes",
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos"
+      ]
+    }
+  ]
+}

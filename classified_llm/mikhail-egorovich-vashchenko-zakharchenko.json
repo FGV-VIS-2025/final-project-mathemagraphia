@@ -1,0 +1,34 @@
+{
+  "nome": "Mikhail Egorovich Vashchenko-Zakharchenko",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica"
+      ]
+    },
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Determinantes"
+      ]
+    }
+  ]
+}

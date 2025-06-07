@@ -1,0 +1,26 @@
+{
+  "nome": "Ivar Otto Bendixson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Soluções Periódicas",
+        "Pontos Singulares"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos Perfeitos",
+        "Derivada de Bendixson"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Soluções de Equações Algébricas"
+      ]
+    }
+  ]
+}

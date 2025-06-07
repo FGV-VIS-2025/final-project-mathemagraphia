@@ -1,0 +1,15 @@
+{
+  "nome": "Brian Kuttner",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Sommabilidades",
+        "Médias de Riesz",
+        "Métodos de Nörlund",
+        "Teoria Tauberiana"
+      ]
+    }
+  ]
+}

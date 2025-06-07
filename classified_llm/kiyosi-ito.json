@@ -1,0 +1,14 @@
+{
+  "nome": "Kiyosi Ito",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Equações Diferenciais Estocásticas",
+        "Integrais Estocásticas",
+        "Movimento Browniano"
+      ]
+    }
+  ]
+}

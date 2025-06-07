@@ -1,0 +1,44 @@
+{
+  "nome": "Hans Lewy",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Elípticas",
+      "subareas_especificas": [
+        "Teoria da Regularidade",
+        "Aplicações Geométricas",
+        "Aproximação de Soluções"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Hiperbólicas",
+      "subareas_especificas": [
+        "Problema de Valor Inicial"
+      ]
+    },
+    {
+      "subarea": "Problemas Variacionais",
+      "subareas_especificas": [
+        "Regularidade de Soluções",
+        "Problemas de Fronteira Livre",
+        "Teoria de Superfícies Mínimas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais e Variáveis Complexas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Equações Diferenciais e Mecânica de Fluidos",
+      "subareas_especificas": [
+        "Ondas em praias inclinadas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Problema de Minkowski"
+      ]
+    }
+  ]
+}

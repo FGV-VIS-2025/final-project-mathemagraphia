@@ -1,0 +1,31 @@
+{
+  "nome": "Jean-Pierre Albert Achille Serre",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria das Sequências Espectrais",
+      "subareas_especificas": [
+        "Sequências Espectrais de Serre"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Feixes",
+      "subareas_especificas": [
+        "Cohomologia de Feixes"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Teorema de Riemann-Roch"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Modulares",
+        "Representações Galoisianas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nome": "Sergei Natanovich Bernstein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Elípticas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Polinômios de Bernstein",
+        "Teorema de Weierstrass"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Quase-Analíticas"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teorema do Limite Central",
+        "Processos Estocásticos",
+        "Axiomatização da Probabilidade"
+      ]
+    }
+  ]
+}

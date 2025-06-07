@@ -1,0 +1,13 @@
+{
+  "nome": "Edward Cocker",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Aritmética básica",
+        "Álgebra elementar"
+      ]
+    }
+  ]
+}

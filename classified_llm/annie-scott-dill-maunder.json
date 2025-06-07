@@ -1,0 +1,21 @@
+{
+  "nome": "Annie Scott Dill Maunder",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica Solar",
+      "subareas_especificas": [
+        "Fotografia Solar",
+        "Análise de manchas solares",
+        "Observação de eclipses solares"
+      ]
+    },
+    {
+      "subarea": "Cronologia",
+      "subareas_especificas": [
+        "Datação de eventos astronômicos",
+        "Constelações antigas"
+      ]
+    }
+  ]
+}

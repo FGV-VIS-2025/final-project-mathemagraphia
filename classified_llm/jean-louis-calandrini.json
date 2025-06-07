@@ -1,0 +1,19 @@
+{
+  "nome": "Jean-Louis Calandrini",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Gravitação",
+        "Dinâmica"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Teoria Planetária"
+      ]
+    }
+  ]
+}

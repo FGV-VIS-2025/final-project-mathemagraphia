@@ -1,0 +1,21 @@
+{
+  "nome": "Nathan Jacobson",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Radical de Jacobson",
+        "Anéis não associativos",
+        "Álgebras de Lie",
+        "Álgebras de Jordan"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Teoria de Galois"
+      ]
+    }
+  ]
+}

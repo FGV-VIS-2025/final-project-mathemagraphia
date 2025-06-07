@@ -1,0 +1,31 @@
+{
+  "nome": "Laura Maria Catarina Bassi",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica"
+      ]
+    },
+    {
+      "subarea": "Hidráulica",
+      "subareas_especificas": [
+        "Dinâmica dos Fluidos"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Óptica Newtoniana"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Augustin Louis Cauchy",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral",
+        "Séries Infinitas",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Complexas",
+        "Funções de Variável Complexa",
+        "Resíduos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Soluções de EDPs"
+      ]
+    }
+  ]
+}

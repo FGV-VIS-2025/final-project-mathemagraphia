@@ -1,0 +1,27 @@
+{
+  "nome": "Timofei Fedorovic Osipovsky",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções de Variável Real",
+        "Séries de Funções"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Problemas de Otimização"
+      ]
+    }
+  ]
+}

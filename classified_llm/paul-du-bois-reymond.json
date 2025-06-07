@@ -1,0 +1,28 @@
+{
+  "nome": "Paul David Gustav du Bois-Reymond",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Segunda Ordem",
+        "Equações Diferenciais Parciais de Terceira Ordem"
+      ]
+    },
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Convergência de Séries de Fourier",
+        "Divergência de Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Contínuas",
+        "Funções Diferenciáveis",
+        "Funções em Variáveis Reais"
+      ]
+    }
+  ]
+}

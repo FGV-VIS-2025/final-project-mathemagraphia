@@ -1,0 +1,20 @@
+{
+  "nome": "Jean Nicolas Pierre Hachette",
+  "area_principal": "Geometria Descritiva",
+  "subareas": [
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica",
+        "Geometria Projetiva"
+      ]
+    },
+    {
+      "subarea": "Mecânica Aplicada",
+      "subareas_especificas": [
+        "Teoria de Máquinas",
+        "Hidrodinâmica Aplicada"
+      ]
+    }
+  ]
+}

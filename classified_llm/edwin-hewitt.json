@@ -1,0 +1,21 @@
+{
+  "nome": "Edwin Hewitt",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de conjuntos",
+      "subareas_especificas": [
+        "Espaços topológicos",
+        "Axiomas de separação",
+        "Expansões topológicas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Medidas",
+        "Teoria da medida"
+      ]
+    }
+  ]
+}

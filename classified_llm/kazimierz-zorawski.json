@@ -1,0 +1,20 @@
+{
+  "nome": "Kazimierz Żorawski",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Geometria diferencial",
+        "Equações diferenciais"
+      ]
+    },
+    {
+      "subarea": "Formas Diferenciais",
+      "subareas_especificas": [
+        "Invariantes de formas diferenciais",
+        "Integrais invariantes de grupos de Lie"
+      ]
+    }
+  ]
+}

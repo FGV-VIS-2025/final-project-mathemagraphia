@@ -1,0 +1,22 @@
+{
+  "nome": "Charles Max Mason",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Equações Integrais"
+      ]
+    }
+  ]
+}

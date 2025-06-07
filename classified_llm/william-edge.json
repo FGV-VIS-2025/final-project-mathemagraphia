@@ -1,0 +1,19 @@
+{
+  "nome": "William Leonard Edge",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Finita"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Superfícies Algébricas",
+        "Curvas Algébricas"
+      ]
+    }
+  ]
+}

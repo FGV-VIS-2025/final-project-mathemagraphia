@@ -1,0 +1,14 @@
+{
+  "nome": "Zeno of Sidon",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Fundamentos da Geometria",
+      "subareas_especificas": [
+        "Axiomas",
+        "Postulados",
+        "Teoremas"
+      ]
+    }
+  ]
+}

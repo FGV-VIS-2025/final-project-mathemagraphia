@@ -1,0 +1,21 @@
+{
+  "nome": "Edwin Bailey Elliott",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos invariantes",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Geometria algébrica"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": []
+    }
+  ]
+}

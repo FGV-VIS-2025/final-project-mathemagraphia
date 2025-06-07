@@ -1,0 +1,18 @@
+{
+  "nome": "Tibor Szele",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Grupos",
+      "subareas_especificas": [
+        "Grupos Abelianos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Anéis Semissimples"
+      ]
+    }
+  ]
+}

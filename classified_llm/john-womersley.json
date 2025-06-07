@@ -1,0 +1,26 @@
+{
+  "nome": "John Ronald Womersley",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Interpolação",
+        "Integração Numérica"
+      ]
+    },
+    {
+      "subarea": "Computação Científica",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Simulação Computacional"
+      ]
+    }
+  ]
+}

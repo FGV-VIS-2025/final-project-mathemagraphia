@@ -1,0 +1,18 @@
+{
+  "nome": "Oskar Morgenstern",
+  "area_principal": "Economia",
+  "subareas": [
+    {
+      "subarea": "Econometria",
+      "subareas_especificas": [
+        "Teoria dos Jogos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Decisão",
+      "subareas_especificas": [
+        "Previsão Econômica"
+      ]
+    }
+  ]
+}

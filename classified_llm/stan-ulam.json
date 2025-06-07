@@ -1,0 +1,19 @@
+{
+  "nome": "Stanisław Marcin Ulam",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida em espaços produto",
+        "Teorema de Bernstein generalizado"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Teoria ergódica"
+      ]
+    }
+  ]
+}

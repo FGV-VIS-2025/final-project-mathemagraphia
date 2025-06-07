@@ -1,0 +1,18 @@
+{
+  "nome": "Mikhail Fedorovich Subbotin",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Teoria das Probabilidades",
+      "subareas_especificas": [
+        "Probabilidade"
+      ]
+    }
+  ]
+}

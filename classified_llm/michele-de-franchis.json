@@ -1,0 +1,22 @@
+{
+  "nome": "Michele de Franchis",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica de Superfícies",
+      "subareas_especificas": [
+        "Superfícies Irregulares",
+        "Superfícies Hiperelípticas",
+        "Correspondências Algébricas entre Curvas",
+        "Fibrados de Formas Holomorfas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica de Curvas",
+      "subareas_especificas": [
+        "Curvas Planas",
+        "Sistemas Lineares em Curvas Planas"
+      ]
+    }
+  ]
+}

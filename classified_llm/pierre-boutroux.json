@@ -1,0 +1,20 @@
+{
+  "nome": "Pierre Léon Boutroux",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Singularidades de Equações Diferenciais",
+        "Funções Multiformes"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Filosofia da Matemática",
+        "Análise do Progresso do Pensamento Matemático"
+      ]
+    }
+  ]
+}

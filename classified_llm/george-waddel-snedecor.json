@@ -1,0 +1,28 @@
+{
+  "nome": "George Waddel Snedecor",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Delineamento de Experimentos",
+      "subareas_especificas": [
+        "Blocos Casualizados",
+        "Quadrados Latinos",
+        "Planos Fatoriais"
+      ]
+    },
+    {
+      "subarea": "Métodos Estatísticos Aplicados",
+      "subareas_especificas": [
+        "Análise de Regressão",
+        "Análise de Variância"
+      ]
+    }
+  ]
+}

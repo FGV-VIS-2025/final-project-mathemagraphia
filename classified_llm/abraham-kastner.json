@@ -1,0 +1,19 @@
+{
+  "nome": "Abraham Gotthelf Kästner",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Postulado das Paralelas"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Geometria",
+      "subareas_especificas": [
+        "Axiomatização",
+        "Conceitos Fundamentais"
+      ]
+    }
+  ]
+}

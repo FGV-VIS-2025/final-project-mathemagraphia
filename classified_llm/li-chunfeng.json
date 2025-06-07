@@ -1,0 +1,21 @@
+{
+  "nome": "Li Chunfeng",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Calendário",
+      "subareas_especificas": [
+        "Predição de eclipses",
+        "Cálculo da velocidade angular do movimento aparente do sol",
+        "Método das diferenças finitas"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Mínimo múltiplo comum",
+        "Volume da esfera"
+      ]
+    }
+  ]
+}

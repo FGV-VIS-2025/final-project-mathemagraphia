@@ -1,0 +1,20 @@
+{
+  "nome": "Aida Yasuaki",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Elipses",
+        "Círculos",
+        "Esferas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Frações Contínuas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Guido Stampacchia",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Métodos Analíticos Funcionais"
+      ]
+    }
+  ]
+}

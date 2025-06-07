@@ -1,0 +1,21 @@
+{
+  "nome": "Morris Kline",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos de Homotopia",
+        "Homologia",
+        "Cohomologia"
+      ]
+    },
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Variedades Diferenciáveis",
+        "Teoria de Morse"
+      ]
+    }
+  ]
+}

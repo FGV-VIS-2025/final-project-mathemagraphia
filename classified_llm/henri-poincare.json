@@ -1,0 +1,39 @@
+{
+  "nome": "Jules Henri Poincaré",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupo Fundamental",
+        "Conjectura de Poincaré",
+        "Teoria de Homotopia",
+        "Variedades"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Não-Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Funções Automórficas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Problema Diofantino"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Problema dos Três Corpos"
+      ]
+    }
+  ]
+}

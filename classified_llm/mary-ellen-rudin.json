@@ -1,0 +1,24 @@
+{
+  "nome": "Mary Ellen Rudin",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Espaços de Moore",
+        "Axiomas de separação",
+        "Teoria dos conjuntos",
+        "Produtos cartesianos",
+        "Espaços normais",
+        "Espaços de Hausdorff",
+        "Paracompacidade"
+      ]
+    },
+    {
+      "subarea": "Topologia Combinatória",
+      "subareas_especificas": [
+        "Conjuntos dispersos"
+      ]
+    }
+  ]
+}

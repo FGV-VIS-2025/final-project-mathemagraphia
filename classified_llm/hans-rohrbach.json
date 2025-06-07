@@ -1,0 +1,19 @@
+{
+  "nome": "Hans Rohrbach",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Problema do carimbo de Rohrbach",
+        "limites assintóticos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grupos",
+      "subareas_especificas": [
+        "Grupos de Congruência"
+      ]
+    }
+  ]
+}

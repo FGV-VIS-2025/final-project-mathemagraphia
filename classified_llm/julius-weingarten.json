@@ -1,0 +1,14 @@
+{
+  "nome": "Julius Weingarten",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Teoria de Superfícies",
+      "subareas_especificas": [
+        "Deformação Infinitesimal de Superfícies",
+        "Superfícies Isométricas",
+        "Superfícies de Weingarten"
+      ]
+    }
+  ]
+}

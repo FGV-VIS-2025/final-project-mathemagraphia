@@ -1,0 +1,21 @@
+{
+  "nome": "Erich Hans Rothe",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Lineares",
+        "Equações Diferenciais Parciais Não-Lineares",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Teoria do Grau"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Grace Brewster Murray Hopper",
+  "area_principal": "Ciência da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Compiladores",
+        "Linguagens de Programação"
+      ]
+    },
+    {
+      "subarea": "Matemática Discreta",
+      "subareas_especificas": [
+        "Lógica",
+        "Teoria dos Grafos"
+      ]
+    }
+  ]
+}

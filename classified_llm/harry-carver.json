@@ -1,0 +1,19 @@
+{
+  "nome": "Harry Clyde Carver",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Teoria da Amostragem"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

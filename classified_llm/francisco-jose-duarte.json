@@ -1,0 +1,20 @@
+{
+  "nome": "Francisco José Duarte",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Teorema de Fermat"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Cálculo",
+        "Interpolação"
+      ]
+    }
+  ]
+}

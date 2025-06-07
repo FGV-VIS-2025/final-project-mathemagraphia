@@ -1,0 +1,19 @@
+{
+  "nome": "Ibrahim ibn Sinan  ibn Thabit ibn Qurra",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integração",
+        "Quadratura"
+      ]
+    }
+  ]
+}

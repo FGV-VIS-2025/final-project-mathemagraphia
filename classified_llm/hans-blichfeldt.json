@@ -1,0 +1,20 @@
+{
+  "nome": "Hans Frederick Blichfeldt",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos de Transformação",
+        "Grupos de Colineação Finita"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Aproximações Diofantinas",
+        "Geometria dos Números"
+      ]
+    }
+  ]
+}

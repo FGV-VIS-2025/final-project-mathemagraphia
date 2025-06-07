@@ -1,0 +1,27 @@
+{
+  "nome": "František Josef Gerstner",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidrodinâmica",
+        "Ondas"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Sólidos",
+      "subareas_especificas": [
+        "Resistência dos Materiais",
+        "Estruturas"
+      ]
+    },
+    {
+      "subarea": "Mecânica Aplicada",
+      "subareas_especificas": [
+        "Engenharia",
+        "Máquinas"
+      ]
+    }
+  ]
+}

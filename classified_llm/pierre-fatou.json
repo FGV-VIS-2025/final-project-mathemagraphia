@@ -1,0 +1,28 @@
+{
+  "nome": "Pierre Joseph Louis Fatou",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Teoria da Integração",
+      "subareas_especificas": [
+        "Integração de Lebesgue",
+        "Integral de Poisson"
+      ]
+    },
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Funções de Variável Complexa",
+        "Iteração de Funções",
+        "Famílias Normais"
+      ]
+    }
+  ]
+}

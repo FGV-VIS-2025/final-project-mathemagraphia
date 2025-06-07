@@ -1,0 +1,26 @@
+{
+  "nome": "André Abraham Weil",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Funções Zeta",
+        "Variedades Abelianas",
+        "Formas Modulares"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Kähler"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Topológicos"
+      ]
+    }
+  ]
+}

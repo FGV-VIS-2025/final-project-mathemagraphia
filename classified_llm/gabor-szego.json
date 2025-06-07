@@ -1,0 +1,27 @@
+{
+  "nome": "Gábor Szegő",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Polinômios Ortogonais",
+      "subareas_especificas": [
+        "Polinômios Ortogonais na Circunferência Unitária",
+        "Teorema Limite de Szegő"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções de Variável Complexa",
+        "Teoria da Aproximação"
+      ]
+    },
+    {
+      "subarea": "Matrizes de Toeplitz",
+      "subareas_especificas": [
+        "Determinantes de Toeplitz",
+        "Formas de Toeplitz"
+      ]
+    }
+  ]
+}

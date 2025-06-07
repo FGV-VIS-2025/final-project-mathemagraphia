@@ -1,0 +1,18 @@
+{
+  "nome": "Moritz Abraham Stern",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Teoria de Números"
+      ]
+    },
+    {
+      "subarea": "Resíduos Quadráticos",
+      "subareas_especificas": [
+        "Teoria de Números"
+      ]
+    }
+  ]
+}

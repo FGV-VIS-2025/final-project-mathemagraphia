@@ -1,0 +1,19 @@
+{
+  "nome": "János Apáczai Csere",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Aritmética Elementar"
+      ]
+    }
+  ]
+}

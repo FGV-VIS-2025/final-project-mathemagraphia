@@ -1,0 +1,13 @@
+{
+  "nome": "Gavin Brown",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Semi-álgebras",
+      "subareas_especificas": [
+        "Normas",
+        "Estabilidade"
+      ]
+    }
+  ]
+}

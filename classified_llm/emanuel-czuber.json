@@ -1,0 +1,22 @@
+{
+  "nome": "Emanuel Czuber",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade Aplicada",
+        "Teoria dos Erros",
+        "Atuária"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Métodos Estatísticos",
+        "Pesquisa Estatística",
+        "Teoria da População"
+      ]
+    }
+  ]
+}

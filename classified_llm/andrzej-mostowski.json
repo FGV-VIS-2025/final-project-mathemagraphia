@@ -1,0 +1,48 @@
+{
+  "nome": "Andrzej Mostowski",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Modelos",
+      "subareas_especificas": [
+        "Modelos para Teoria de Conjuntos",
+        "Modelos para Aritmética",
+        "Produtos de Modelos",
+        "Famílias de Modelos como Espaços Topológicos",
+        "Modelos com Elementos Indiscerníveis",
+        "Teorema de Ehrenfeucht-Mostowski"
+      ]
+    },
+    {
+      "subarea": "Teoria de Conjuntos",
+      "subareas_especificas": [
+        "Axioma da Escolha",
+        "Hierarquia Projetiva",
+        "Conjuntos Aritmeticamente Definíveis",
+        "Axioma da Construtibilidade"
+      ]
+    },
+    {
+      "subarea": "Teoria da Recursão",
+      "subareas_especificas": [
+        "Funções Recursivas",
+        "Hierarquia de Kleene-Mostowski"
+      ]
+    },
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Métodos Infinitisticos em Matemática",
+        "w-modelos e b-modelos para aritmética",
+        "Forcing de Cohen"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Incompletude de Gödel",
+        "Consistência e Independência da Hipótese do Contínuo"
+      ]
+    }
+  ]
+}

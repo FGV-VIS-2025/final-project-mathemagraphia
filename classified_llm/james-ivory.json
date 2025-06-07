@@ -1,0 +1,25 @@
+{
+  "nome": "James Ivory",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Gravitação",
+      "subareas_especificas": [
+        "Atração de Elipsóides",
+        "Equilíbrio Elipsoidal de Fluidos Autogravitantes"
+      ]
+    },
+    {
+      "subarea": "Órbitas",
+      "subareas_especificas": [
+        "Órbitas de Cometas"
+      ]
+    },
+    {
+      "subarea": "Ação Capilar",
+      "subareas_especificas": [
+        "Tensão Superficial"
+      ]
+    }
+  ]
+}

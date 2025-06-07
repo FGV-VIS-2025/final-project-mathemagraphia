@@ -1,0 +1,19 @@
+{
+  "nome": "Henri Eugène Padé",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Aproximações Diofantinas",
+      "subareas_especificas": [
+        "Frações Contínuas",
+        "Aproximações Racionais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Interpolação"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Edmund Taylor Whittaker",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Equações Diferenciais Ordinárias",
+        "Funções Especiais"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Cálculo Numérico"
+      ]
+    }
+  ]
+}

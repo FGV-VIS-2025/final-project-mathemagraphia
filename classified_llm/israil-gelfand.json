@@ -1,0 +1,41 @@
+{
+  "nome": "Israil Moiseevic Gelfand",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional Comutativa",
+      "subareas_especificas": [
+        "Anéis Normativos",
+        "Ideais Maximais"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional Não Comutativa",
+      "subareas_especificas": [
+        "Anéis Normativos com Involução",
+        "Representação em Espaços de Hilbert"
+      ]
+    },
+    {
+      "subarea": "Teoria das Representações de Grupos",
+      "subareas_especificas": [
+        "Grupos Compactos",
+        "Grupos Não Compactos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Problema Inverso de Sturm-Liouville",
+        "Teoria das Distribuições"
+      ]
+    },
+    {
+      "subarea": "Geometria Integral",
+      "subareas_especificas": [
+        "Transformada de Radon",
+        "Cohomologia de Álgebras de Lie de dimensão infinita"
+      ]
+    }
+  ]
+}

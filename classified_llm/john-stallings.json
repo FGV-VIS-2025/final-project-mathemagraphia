@@ -1,0 +1,20 @@
+{
+  "nome": "John Robert Stallings",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitamente Apresentados",
+        "Grupos Livres"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Homotopia",
+        "Conjectura de Poincaré"
+      ]
+    }
+  ]
+}

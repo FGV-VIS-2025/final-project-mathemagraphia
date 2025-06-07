@@ -1,0 +1,21 @@
+{
+  "nome": "Caius Iacob",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Escoamentos Irrotacionais",
+        "Escoamentos Compressíveis",
+        "Escoamentos Viscosos"
+      ]
+    },
+    {
+      "subarea": "Aerodinâmica",
+      "subareas_especificas": [
+        "Escoamento Supersônico",
+        "Teoria da Asa"
+      ]
+    }
+  ]
+}

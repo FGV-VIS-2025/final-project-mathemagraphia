@@ -1,0 +1,19 @@
+{
+  "nome": "Ernst Paul Heinz Prüfer",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Grupos",
+      "subareas_especificas": [
+        "Grupos Abelianos",
+        "Grupos de elementos de ordem finita"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Números Algébricos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Rudolf Julius Emmanuel Clausius",
+  "area_principal": "Termodinâmica",
+  "subareas": [
+    {
+      "subarea": "Termodinâmica Clássica",
+      "subareas_especificas": [
+        "Primeira Lei da Termodinâmica",
+        "Segunda Lei da Termodinâmica",
+        "Entropia",
+        "Ciclo de Carnot"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases"
+      ]
+    }
+  ]
+}

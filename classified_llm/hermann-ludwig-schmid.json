@@ -1,0 +1,26 @@
+{
+  "nome": "Hermann Ludwig Schmid",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Corpos de Funções Algébricas",
+        "Lei de Reciprocidade"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Teoria das Formas"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Equações Diferenciais de Lamé",
+        "Frações Contínuas"
+      ]
+    }
+  ]
+}

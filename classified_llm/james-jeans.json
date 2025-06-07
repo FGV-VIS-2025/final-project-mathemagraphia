@@ -1,0 +1,20 @@
+{
+  "nome": "James Hopwood Jeans",
+  "area_principal": "Mecânica Estatística",
+  "subareas": [
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases",
+        "Equilíbrio Térmico"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Dinâmica Estelar",
+        "Formação de Sistemas Planetários"
+      ]
+    }
+  ]
+}

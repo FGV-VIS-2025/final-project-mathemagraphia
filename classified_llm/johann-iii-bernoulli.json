@@ -1,0 +1,18 @@
+{
+  "nome": "Johann(III) Bernoulli",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade"
+      ]
+    },
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações Recursivas"
+      ]
+    }
+  ]
+}

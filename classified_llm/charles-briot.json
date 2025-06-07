@@ -1,0 +1,20 @@
+{
+  "nome": "Charles Auguste Briot",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Funções Duplamente Periódicas"
+      ]
+    },
+    {
+      "subarea": "Funções Abelianas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": []
+    }
+  ]
+}

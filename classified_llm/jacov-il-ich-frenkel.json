@@ -1,0 +1,32 @@
+{
+  "nome": "Jacov Il'ich Frenkel",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Analítica",
+        "Mecânica Teórica"
+      ]
+    },
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletrodinâmica"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Física Estatística"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica",
+      "subareas_especificas": [
+        "Mecânica Quântica",
+        "Mecânica Ondulatória"
+      ]
+    }
+  ]
+}

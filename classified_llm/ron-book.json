@@ -1,0 +1,28 @@
+{
+  "nome": "Ronald Vernon Book",
+  "area_principal": "Teoria da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria de Linguagens Formais",
+      "subareas_especificas": [
+        "Gramáticas",
+        "Autômatos",
+        "Complexidade"
+      ]
+    },
+    {
+      "subarea": "Sistemas de Reescreita de Strings",
+      "subareas_especificas": [
+        "Sistemas de Thue",
+        "Propriedade Church-Rosser"
+      ]
+    },
+    {
+      "subarea": "Teoria da Complexidade",
+      "subareas_especificas": [
+        "Relativizações Restritivas",
+        "Conjuntos esparsos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "Fritz David Carlson",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Séries de Dirichlet",
+      "subareas_especificas": [
+        "Convergência",
+        "Funções Zeta"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções Analíticas",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Princípio de Phragmén-Lindelöf",
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Desigualdades",
+      "subareas_especificas": [
+        "Desigualdade de Carlson",
+        "Desigualdade de Schwarz"
+      ]
+    }
+  ]
+}

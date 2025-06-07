@@ -1,0 +1,19 @@
+{
+  "nome": "Rafael Bombelli",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Algébricas",
+      "subareas_especificas": [
+        "Equações Cúbicas",
+        "Equações Quárticas"
+      ]
+    },
+    {
+      "subarea": "Números Complexos",
+      "subareas_especificas": [
+        "Operações com Números Complexos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nome": "Salomon Bochner",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Funções quase periódicas",
+        "Transformadas de Fourier-Stieltjes",
+        "Integrais de Fourier"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria de Distribuições"
+      ]
+    },
+    {
+      "subarea": "Variáveis Complexas",
+      "subareas_especificas": [
+        "Funções de várias variáveis complexas",
+        "Fórmula de Bochner-Martinelli"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Análise Harmônica e Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Frank Plumpton Ramsey",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Teoria dos Tipos",
+        "Axioma da Reducibilidade"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Subjetiva"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teoria de Ramsey"
+      ]
+    }
+  ]
+}

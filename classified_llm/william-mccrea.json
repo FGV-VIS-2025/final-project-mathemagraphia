@@ -1,0 +1,26 @@
+{
+  "nome": "William Hunter McCrea",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Cosmologia",
+        "Atmosferas Estelares"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Equilíbrio Mecânico"
+      ]
+    },
+    {
+      "subarea": "Relatividade",
+      "subareas_especificas": [
+        "Teoria da Relatividade Especial",
+        "Teoria da Relatividade Geral"
+      ]
+    }
+  ]
+}

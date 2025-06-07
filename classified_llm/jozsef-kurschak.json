@@ -1,0 +1,20 @@
+{
+  "nome": "József Kürschák",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes",
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Avaliações",
+        "Números p-ádicos"
+      ]
+    }
+  ]
+}

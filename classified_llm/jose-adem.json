@@ -1,0 +1,19 @@
+{
+  "nome": "José Adem Chahín",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Cohomologia",
+      "subareas_especificas": [
+        "Operações de Steenrod",
+        "Relações de Adem"
+      ]
+    },
+    {
+      "subarea": "Homotopia",
+      "subareas_especificas": [
+        "Problemas de Homotopia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Colin Maclaurin",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Séries infinitas",
+      "subareas_especificas": [
+        "Séries de Taylor",
+        "Teste da integral para convergência"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Seções cônicas"
+      ]
+    },
+    {
+      "subarea": "Equações diferenciais",
+      "subareas_especificas": [
+        "Equações diferenciais ordinárias"
+      ]
+    }
+  ]
+}

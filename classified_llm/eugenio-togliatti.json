@@ -1,0 +1,19 @@
+{
+  "nome": "Eugenio Giuseppe Togliatti",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Projetivo-Diferencial",
+        "Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades Algébricas"
+      ]
+    }
+  ]
+}

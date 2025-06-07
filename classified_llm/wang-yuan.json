@@ -1,0 +1,15 @@
+{
+  "nome": "Yuan Wang",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Conjectura de Goldbach",
+        "Hipótese de Riemann",
+        "Métodos de Peneira",
+        "Métodos do Círculo"
+      ]
+    }
+  ]
+}

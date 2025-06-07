@@ -1,0 +1,12 @@
+{
+  "nome": "George Bernard Dantzig",
+  "area_principal": "Otimização",
+  "subareas": [
+    {
+      "subarea": "Programação Linear",
+      "subareas_especificas": [
+        "Método Simplex"
+      ]
+    }
+  ]
+}

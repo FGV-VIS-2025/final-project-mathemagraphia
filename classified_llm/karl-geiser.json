@@ -1,0 +1,25 @@
+{
+  "nome": "Karl Friedrich Geiser",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Geometria Sintética",
+        "Superfícies Mínimas",
+        "Transformações Quadráticas",
+        "Curvas de Quarta Ordem"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Teoria de Superfícies Gaussianas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": []
+    }
+  ]
+}

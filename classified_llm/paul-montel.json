@@ -1,0 +1,20 @@
+{
+  "nome": "Paul Antoine Aristide Montel",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Famílias Normais",
+      "subareas_especificas": [
+        "Teoria da Iteração",
+        "Teoremas de Picard-Landau-Schottky"
+      ]
+    },
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Teorema de Mapeamento de Riemann",
+        "Funções Inteiras de Ordem Finita"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Doris Jean Wood Schattschneider",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Discreta",
+      "subareas_especificas": [
+        "Tesselações",
+        "Grupos de Simetria"
+      ]
+    },
+    {
+      "subarea": "Geometria não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica",
+        "Superfícies de Riemann"
+      ]
+    }
+  ]
+}

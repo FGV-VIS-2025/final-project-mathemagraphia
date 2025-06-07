@@ -1,0 +1,25 @@
+{
+  "nome": "Johannes de Sacrobosco",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Adição",
+        "Subtração",
+        "Multiplicação",
+        "Divisão",
+        "Raízes quadradas",
+        "Raízes cúbicas"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Coordenadas celestes",
+        "Movimentos planetários",
+        "Eclipses"
+      ]
+    }
+  ]
+}

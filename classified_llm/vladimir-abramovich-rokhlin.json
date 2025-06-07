@@ -1,0 +1,23 @@
+{
+  "nome": "Vladimir Abramovich Rokhlin",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Topologia de dimensão quatro"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Teoria Espectral",
+        "Teoria da Entropia"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica Real",
+      "subareas_especificas": []
+    }
+  ]
+}

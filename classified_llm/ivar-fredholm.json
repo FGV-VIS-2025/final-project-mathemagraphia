@@ -1,0 +1,16 @@
+{
+  "nome": "Erik Ivar Fredholm",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Teoria Espectral"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": []
+    }
+  ]
+}

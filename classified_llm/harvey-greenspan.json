@@ -1,0 +1,19 @@
+{
+  "nome": "Harvey Philip Greenspan",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Ondas",
+      "subareas_especificas": [
+        "Ondas de superfície",
+        "Ondas de borda"
+      ]
+    },
+    {
+      "subarea": "Magnetohidrodinâmica",
+      "subareas_especificas": [
+        "Escoamento em placas planas"
+      ]
+    }
+  ]
+}

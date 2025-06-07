@@ -1,0 +1,14 @@
+{
+  "nome": "Estienne de La Roche",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Elementar",
+      "subareas_especificas": [
+        "Equações",
+        "Inequações",
+        "Sistemas de Equações"
+      ]
+    }
+  ]
+}

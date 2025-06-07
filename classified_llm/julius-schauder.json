@@ -1,0 +1,25 @@
+{
+  "nome": "Juliusz Pawel Schauder",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Elípticas",
+        "Equações Hiperbólicas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Pontos Fixos",
+      "subareas_especificas": [
+        "Teorema do Ponto Fixo de Schauder"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Teoria do Grau Topológico"
+      ]
+    }
+  ]
+}

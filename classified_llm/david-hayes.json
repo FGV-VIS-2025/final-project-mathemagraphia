@@ -1,0 +1,21 @@
+{
+  "nome": "David Ryan Hayes",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números em Corpos de Funções",
+      "subareas_especificas": [
+        "Conjecturas de Stark",
+        "Unidades Elípticas em Corpos de Funções",
+        "Distribuição de Ideais Mínimos em Corpos Quadráticos Imaginários"
+      ]
+    },
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Conjectura de Goldbach para Polinômios",
+        "Teorema de Vinogradov para Polinômios"
+      ]
+    }
+  ]
+}

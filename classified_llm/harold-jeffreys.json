@@ -1,0 +1,20 @@
+{
+  "nome": "Harold Jeffreys",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Métodos Matemáticos da Física",
+      "subareas_especificas": [
+        "Transformadas de Laplace",
+        "Tensores",
+        "Aproximações Assintóticas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Inferência Bayesiana"
+      ]
+    }
+  ]
+}

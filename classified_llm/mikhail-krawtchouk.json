@@ -1,0 +1,44 @@
+{
+  "nome": "Mykhailo Pilipovich Krawtchouk",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Polinômios Ortogonais",
+      "subareas_especificas": [
+        "Polinômios de Krawtchouk"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Integração de Equações Diferenciais",
+        "Método dos Mínimos Quadrados",
+        "Método de Ritz"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Teoria da Correlação",
+        "Regressão",
+        "Método dos Momentos",
+        "Distribuição Binomial",
+        "Distribuição Hipergeométrica"
+      ]
+    }
+  ]
+}

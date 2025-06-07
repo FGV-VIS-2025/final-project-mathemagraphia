@@ -1,0 +1,20 @@
+{
+  "nome": "August Ferdinand Möbius",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Coordenadas Homogêneas",
+        "Transformações Projetivas"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Superfícies Unilaterais",
+        "Teoria de Grafos"
+      ]
+    }
+  ]
+}

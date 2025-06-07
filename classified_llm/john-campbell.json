@@ -1,0 +1,19 @@
+{
+  "nome": "John Edward Campbell",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Álgebras de Lie"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana"
+      ]
+    }
+  ]
+}

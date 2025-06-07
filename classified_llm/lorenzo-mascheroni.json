@@ -1,0 +1,12 @@
+{
+  "nome": "Lorenzo Mascheroni",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Computacional",
+      "subareas_especificas": [
+        "Construções Geométricas"
+      ]
+    }
+  ]
+}

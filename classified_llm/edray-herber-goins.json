@@ -1,0 +1,20 @@
+{
+  "nome": "Edray Herber Goins",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Representações de Galois",
+      "subareas_especificas": [
+        "Curvas Elípticas",
+        "Formas Modulares"
+      ]
+    },
+    {
+      "subarea": "Conjectura de Artin",
+      "subareas_especificas": [
+        "Funções L",
+        "Representações Automórficas"
+      ]
+    }
+  ]
+}

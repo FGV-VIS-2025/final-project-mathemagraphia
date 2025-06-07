@@ -1,0 +1,21 @@
+{
+  "nome": "William Kingdon Clifford",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Geometria Hiperbólica"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Quaternions",
+        "Álgebras de Clifford"
+      ]
+    }
+  ]
+}

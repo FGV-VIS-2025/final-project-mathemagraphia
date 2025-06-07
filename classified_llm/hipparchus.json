@@ -1,0 +1,20 @@
+{
+  "nome": "Hipparchus",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Astronomia",
+        "Coordenadas Celestes"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Distâncias",
+      "subareas_especificas": [
+        "Parallax",
+        "Epicycles"
+      ]
+    }
+  ]
+}

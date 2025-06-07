@@ -1,0 +1,18 @@
+{
+  "nome": "Ivan Vsevolodovich Meshchersky",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Dinâmica",
+      "subareas_especificas": [
+        "Corpos de massa variável"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Escoamento em torno de cunhas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Roland George Dwight Richardson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Integração",
+        "Integrais Múltiplas"
+      ]
+    }
+  ]
+}

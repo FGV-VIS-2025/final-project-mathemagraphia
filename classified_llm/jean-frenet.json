@@ -1,0 +1,13 @@
+{
+  "nome": "Jean Frédéric Frenet",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Curvas",
+      "subareas_especificas": [
+        "Curvas no Espaço",
+        "Fórmulas de Frenet-Serret"
+      ]
+    }
+  ]
+}

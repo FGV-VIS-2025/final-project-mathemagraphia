@@ -1,0 +1,28 @@
+{
+  "nome": "Martin Eichler",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas Quadráticas em Espaços Vetoriais",
+        "Grupos Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebras de Quatérnios",
+        "Teoria de Unidades em Álgebras Simples"
+      ]
+    },
+    {
+      "subarea": "Funções e Números Algébricos",
+      "subareas_especificas": [
+        "Funções Algébricas",
+        "Números Algébricos",
+        "Formas Modulares"
+      ]
+    }
+  ]
+}

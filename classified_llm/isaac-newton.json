@@ -1,0 +1,22 @@
+{
+  "nome": "Isaac Newton",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Diferenciação",
+        "Máximos e Mínimos",
+        "Tangentes"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integração",
+        "Áreas",
+        "Comprimento de Curvas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Henry C Heaton",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Geométrica",
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

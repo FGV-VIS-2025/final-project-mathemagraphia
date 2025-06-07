@@ -1,0 +1,24 @@
+{
+  "nome": "Reinhard Selten",
+  "area_principal": "Teoria dos Jogos",
+  "subareas": [
+    {
+      "subarea": "Equilíbrios de Nash",
+      "subareas_especificas": [
+        "Equilíbrio de Nash Refinado"
+      ]
+    },
+    {
+      "subarea": "Jogos Cooperativos",
+      "subareas_especificas": [
+        "Teoria dos Jogos Cooperativos"
+      ]
+    },
+    {
+      "subarea": "Jogos Não-Cooperativos",
+      "subareas_especificas": [
+        "Jogos Dinâmicos"
+      ]
+    }
+  ]
+}

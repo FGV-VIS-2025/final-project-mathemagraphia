@@ -1,0 +1,27 @@
+{
+  "nome": "Maurice Stevenson Bartlett",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Estimação"
+      ]
+    },
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Séries Temporais",
+        "Modelos de Epidemias"
+      ]
+    },
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Análise de Variância",
+        "Análise Fatorial"
+      ]
+    }
+  ]
+}

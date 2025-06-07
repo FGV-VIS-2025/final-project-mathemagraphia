@@ -1,0 +1,18 @@
+{
+  "nome": "Carlo Emilio Bonferroni",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Desigualdades de Bonferroni"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes Múltiplos"
+      ]
+    }
+  ]
+}

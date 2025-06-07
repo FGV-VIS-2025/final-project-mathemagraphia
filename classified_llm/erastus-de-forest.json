@@ -1,0 +1,19 @@
+{
+  "nome": "Erastus Lyman De Forest",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Métodos dos Mínimos Quadrados",
+        "Testes de Hipóteses"
+      ]
+    }
+  ]
+}

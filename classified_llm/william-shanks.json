@@ -1,0 +1,20 @@
+{
+  "nome": "William Shanks",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximações de π",
+      "subareas_especificas": [
+        "Cálculo numérico",
+        "Séries infinitas"
+      ]
+    },
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": [
+        "Contagem de primos",
+        "Distribuição de primos"
+      ]
+    }
+  ]
+}

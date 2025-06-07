@@ -1,0 +1,19 @@
+{
+  "nome": "Louis Bertrand Castel",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "óptica geométrica",
+        "óptica ondulatória"
+      ]
+    }
+  ]
+}

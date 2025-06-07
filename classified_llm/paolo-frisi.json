@@ -1,0 +1,26 @@
+{
+  "nome": "Paolo Frisi",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Problema de três corpos",
+        "Movimento da Terra",
+        "Movimento da Lua"
+      ]
+    },
+    {
+      "subarea": "Hidráulica",
+      "subareas_especificas": [
+        "Regulação de rios e canais"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Problemas isoperimétricos"
+      ]
+    }
+  ]
+}

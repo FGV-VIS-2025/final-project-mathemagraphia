@@ -1,0 +1,28 @@
+{
+  "nome": "Paul Leo Butzer",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria de Semigrupos de Operadores",
+        "Espaços de Interpolação"
+      ]
+    },
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Polinômios de Bernstein",
+        "Séries de Fourier",
+        "Análise Harmônica",
+        "Integrais de Convolução"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teorema do Limite Central"
+      ]
+    }
+  ]
+}

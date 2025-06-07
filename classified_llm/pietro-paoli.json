@@ -1,0 +1,28 @@
+{
+  "nome": "Pietro Paoli",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas",
+        "Superfícies"
+      ]
+    }
+  ]
+}

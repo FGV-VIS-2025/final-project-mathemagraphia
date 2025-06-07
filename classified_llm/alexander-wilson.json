@@ -1,0 +1,20 @@
+{
+  "nome": "Alexander Wilson",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Telescópios",
+        "Instrumentos ópticos"
+      ]
+    },
+    {
+      "subarea": "Observação Solar",
+      "subareas_especificas": [
+        "Manchas Solares",
+        "Wilson Effect"
+      ]
+    }
+  ]
+}

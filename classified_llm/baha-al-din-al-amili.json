@@ -1,0 +1,13 @@
+{
+  "nome": "Baha' ad-Din al-Amili",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Algoritmos Numéricos",
+        "Aproximações Numéricas"
+      ]
+    }
+  ]
+}

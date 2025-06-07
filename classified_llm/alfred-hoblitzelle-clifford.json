@@ -1,0 +1,15 @@
+{
+  "nome": "Alfred Hoblitzelle Clifford",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos inversos",
+        "Semigrupos bissimples",
+        "Semigrupos ortodoxos",
+        "Teoria da estrutura de semigrupos"
+      ]
+    }
+  ]
+}

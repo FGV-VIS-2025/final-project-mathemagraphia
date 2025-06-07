@@ -1,0 +1,21 @@
+{
+  "nome": "Edmund Gunter",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Logaritmos",
+      "subareas_especificas": [
+        "Logaritmos de funções trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Instrumentação matemática",
+      "subareas_especificas": [
+        "Regra de cálculo",
+        "Sector",
+        "Quadrante",
+        "Escala logarítmica"
+      ]
+    }
+  ]
+}

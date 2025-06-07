@@ -1,0 +1,14 @@
+{
+  "nome": "János Dezső Aczél",
+  "area_principal": "Equações Funcionais",
+  "subareas": [
+    {
+      "subarea": "Equações Funcionais",
+      "subareas_especificas": [
+        "Equações em Diferenças Finitas",
+        "Teoria de Médias",
+        "Aplicações em Ciências Sociais"
+      ]
+    }
+  ]
+}

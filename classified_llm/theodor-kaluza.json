@@ -1,0 +1,13 @@
+{
+  "nome": "Theodor Franz Eduard Kaluza",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Teoria de Kaluza-Klein",
+      "subareas_especificas": [
+        "Geometria de cinco dimensões",
+        "Teoria de campos unificada"
+      ]
+    }
+  ]
+}

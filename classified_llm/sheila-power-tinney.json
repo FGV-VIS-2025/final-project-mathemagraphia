@@ -1,0 +1,16 @@
+{
+  "nome": "Sheila Christina Power Tinney",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Estabilidade de redes cristalinas"
+      ]
+    },
+    {
+      "subarea": "Eletrodinâmica Quântica",
+      "subareas_especificas": []
+    }
+  ]
+}

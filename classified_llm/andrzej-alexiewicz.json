@@ -1,0 +1,26 @@
+{
+  "nome": "Andrzej Tadeusz Alexiewicz",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria de Operadores Lineares",
+        "Integração de Funções Abstratas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Funções Mensuráveis",
+        "Integrais de Denjoy"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais com Funções Vetoriais"
+      ]
+    }
+  ]
+}

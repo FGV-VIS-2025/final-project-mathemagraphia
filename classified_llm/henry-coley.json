@@ -1,0 +1,48 @@
+{
+  "nome": "Henry Coley",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrologia",
+      "subareas_especificas": [
+        "Natividades",
+        "Astrologia Horária"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Geometria",
+        "Astronomia"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Números",
+        "Frações",
+        "Logaritmos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Mensuração"
+      ]
+    },
+    {
+      "subarea": "Navegação",
+      "subareas_especificas": [
+        "Cartografia",
+        "Cálculo de Distâncias"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Logaritmos"
+      ]
+    }
+  ]
+}

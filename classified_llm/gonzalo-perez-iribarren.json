@@ -1,0 +1,26 @@
+{
+  "nome": "Gonzalo Pérez Iribarren",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Cadeias de Markov",
+        "Processos de Poisson"
+      ]
+    },
+    {
+      "subarea": "Regressão",
+      "subareas_especificas": [
+        "Regressão Não-Paramétrica"
+      ]
+    }
+  ]
+}

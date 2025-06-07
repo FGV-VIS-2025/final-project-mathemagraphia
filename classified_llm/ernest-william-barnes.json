@@ -1,0 +1,19 @@
+{
+  "nome": "Ernest Barnes",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Função Gama",
+        "Funções Hipergeométricas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais a Diferenças"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Alessandro Padoa",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Definição",
+      "subareas_especificas": [
+        "Método de Padoa"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Modelos",
+      "subareas_especificas": [
+        "Axiomatização",
+        "Independência de Axiomas"
+      ]
+    }
+  ]
+}

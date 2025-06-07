@@ -1,0 +1,20 @@
+{
+  "nome": "Francisco Javier González Acuña",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixas Dimensões",
+      "subareas_especificas": [
+        "Teoria dos Nós",
+        "Variedades de 3-Dimensões"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos de Homologia",
+        "Cobordismo"
+      ]
+    }
+  ]
+}

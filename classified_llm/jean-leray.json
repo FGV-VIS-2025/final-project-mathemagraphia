@@ -1,0 +1,29 @@
+{
+  "nome": "Jean Leray",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria de Espaços de Banach",
+        "Teoria de Feixes",
+        "Sequências Espectrais"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Estimativas de Energia",
+        "Teoremas de Ponto Fixo"
+      ]
+    },
+    {
+      "subarea": "Teoria de Equações Diferenciais",
+      "subareas_especificas": [
+        "Problema de Cauchy",
+        "Equações Hiperbólicas",
+        "Equações de Navier-Stokes"
+      ]
+    }
+  ]
+}

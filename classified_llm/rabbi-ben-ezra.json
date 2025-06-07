@@ -1,0 +1,20 @@
+{
+  "nome": "Abraham ben Meir ibn Ezra",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Sistema de Numeração Decimal",
+        "Frações Decimais"
+      ]
+    },
+    {
+      "subarea": "Combinação e Permutação",
+      "subareas_especificas": [
+        "Combinação",
+        "Permutação"
+      ]
+    }
+  ]
+}

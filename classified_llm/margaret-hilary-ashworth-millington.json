@@ -1,0 +1,14 @@
+{
+  "nome": "Margaret Hilary Ashworth Millington",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Modulares",
+      "subareas_especificas": [
+        "Subgrupos do grupo modular",
+        "Congruências de Ramanujan",
+        "Funções de Fourier"
+      ]
+    }
+  ]
+}

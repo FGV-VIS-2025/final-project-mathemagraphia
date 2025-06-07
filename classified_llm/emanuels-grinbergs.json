@@ -1,0 +1,20 @@
+{
+  "nome": "Emanuels Grinbergs",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria de Curvas",
+        "Geometria de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Grafos Planares",
+        "Splines"
+      ]
+    }
+  ]
+}

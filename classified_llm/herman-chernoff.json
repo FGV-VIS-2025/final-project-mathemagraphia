@@ -1,0 +1,22 @@
+{
+  "nome": "Herman Chernoff",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Análise Sequencial",
+        "Estimação"
+      ]
+    },
+    {
+      "subarea": "Teoria da Decisão",
+      "subareas_especificas": [
+        "Decisões sob Incerteza",
+        "Métodos Bayesianos",
+        "Minimax"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Jerzy Maria Michał Łoś",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Anéis",
+        "Teoria de Módulos"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teoria de Modelos",
+        "Álgebra Booleana"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Fundamentos da Probabilidade"
+      ]
+    }
+  ]
+}

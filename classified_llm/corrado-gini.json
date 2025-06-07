@@ -1,0 +1,28 @@
+{
+  "nome": "Corrado Gini",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Condicional",
+        "Variáveis Aleatórias"
+      ]
+    },
+    {
+      "subarea": "Estatística Descritiva",
+      "subareas_especificas": [
+        "Medidas de Tendência Central",
+        "Medidas de Dispersão",
+        "Representação de Dados"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "John Frederick William Herschel",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    },
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Diferenças Finitas",
+      "subareas_especificas": [
+        "Aplicações de Diferenças Finitas"
+      ]
+    }
+  ]
+}

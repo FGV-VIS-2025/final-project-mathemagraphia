@@ -1,0 +1,34 @@
+{
+  "nome": "Julian Lowell Coolidge",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Dual-Projetiva",
+        "Espaços Elípticos",
+        "Espaços Esféricos"
+      ]
+    },
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Algébricas Planas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Problema de Plateau"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": []
+    }
+  ]
+}

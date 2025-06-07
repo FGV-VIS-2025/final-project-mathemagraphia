@@ -1,0 +1,13 @@
+{
+  "nome": "Katyayana",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Sagrada",
+      "subareas_especificas": [
+        "Construções Geométricas",
+        "Aplicações Religiosas"
+      ]
+    }
+  ]
+}

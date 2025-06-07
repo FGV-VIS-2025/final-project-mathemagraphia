@@ -1,0 +1,21 @@
+{
+  "nome": "Karl Johannes Herbert Seifert",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixas Dimensões",
+      "subareas_especificas": [
+        "Variedades de 3-dimensões",
+        "Espaços Fibrados",
+        "Teoria de Morse"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Nós",
+      "subareas_especificas": [
+        "Invariantes Homológicos de Nós",
+        "Superfícies de Seifert"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "nome": "Hermann Ludwig Ferdinand von Helmholtz",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Teoria dos Vórtices"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Conservação de Energia"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Não-Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Acústica Fisiológica",
+      "subareas_especificas": [
+        "Teoria da Ressonância"
+      ]
+    },
+    {
+      "subarea": "Óptica Fisiológica",
+      "subareas_especificas": [
+        "Teoria da Visão em Cores"
+      ]
+    }
+  ]
+}

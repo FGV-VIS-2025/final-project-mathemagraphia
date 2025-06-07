@@ -1,0 +1,36 @@
+{
+  "nome": "Richard Peter Stanley",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Teoria de Partições",
+      "subareas_especificas": [
+        "Partições ordenadas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Anéis de face"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Teorema de Lefschetz"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Sylow"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números de Catalan"
+      ]
+    }
+  ]
+}

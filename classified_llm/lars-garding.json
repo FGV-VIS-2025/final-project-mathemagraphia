@@ -1,0 +1,20 @@
+{
+  "nome": "Lars Gårding",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Hiperbólicas",
+        "Problema de Cauchy",
+        "Teoria de Distribuições"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Representações de Grupos"
+      ]
+    }
+  ]
+}

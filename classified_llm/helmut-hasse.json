@@ -1,0 +1,21 @@
+{
+  "nome": "Helmut Hasse",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos de Números Algébricos",
+        "Funções Zeta",
+        "Hipótese de Riemann"
+      ]
+    },
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Princípio Local-Global",
+        "Representação de Números por Formas"
+      ]
+    }
+  ]
+}

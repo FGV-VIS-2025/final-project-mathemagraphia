@@ -1,0 +1,21 @@
+{
+  "nome": "John Henry Coates",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Curvas Elípticas",
+      "subareas_especificas": [
+        "Conjectura de Birch e Swinnerton-Dyer",
+        "Teoria de Iwasawa",
+        "Funções L p-ádicas"
+      ]
+    },
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Método de Baker",
+        "Teoria de Mahler"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nome": "Paul Erdős",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Teorema dos Números Primos",
+        "Distribuição de Números Primos"
+      ]
+    }
+  ]
+}

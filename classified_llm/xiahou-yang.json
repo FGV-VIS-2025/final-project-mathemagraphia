@@ -1,0 +1,13 @@
+{
+  "nome": "Xiahou Yang",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Sistema de Numeração",
+      "subareas_especificas": [
+        "Representação Decimal",
+        "Frações Decimais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Serenus",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Seções Cilíndricas",
+        "Seções Cônicas"
+      ]
+    }
+  ]
+}

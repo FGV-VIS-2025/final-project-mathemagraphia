@@ -1,0 +1,21 @@
+{
+  "nome": "David George Kendall",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Probabilidade Aplicada",
+      "subareas_especificas": [
+        "Geometria Estocástica",
+        "Análise de Dados",
+        "Teoria da Forma"
+      ]
+    },
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Métodos Estatísticos"
+      ]
+    }
+  ]
+}

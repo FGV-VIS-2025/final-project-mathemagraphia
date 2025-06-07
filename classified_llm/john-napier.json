@@ -1,0 +1,13 @@
+{
+  "nome": "John Napier",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Logaritmos",
+      "subareas_especificas": [
+        "Cálculo",
+        "Trigonometria"
+      ]
+    }
+  ]
+}

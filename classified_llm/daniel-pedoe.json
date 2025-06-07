@@ -1,0 +1,20 @@
+{
+  "nome": "Daniel Pedoe",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Espaços Projetivos"
+      ]
+    },
+    {
+      "subarea": "Teoria das Superfícies Algébricas",
+      "subareas_especificas": [
+        "Curvas Excepcionais",
+        "Sistemas Canônicos"
+      ]
+    }
+  ]
+}

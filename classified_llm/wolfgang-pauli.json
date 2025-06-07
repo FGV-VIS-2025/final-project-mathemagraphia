@@ -1,0 +1,20 @@
+{
+  "nome": "Wolfgang Ernst Pauli",
+  "area_principal": "Mecânica Quântica",
+  "subareas": [
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Espectroscopia",
+        "Princípio de Exclusão de Pauli"
+      ]
+    },
+    {
+      "subarea": "Teoria da Relatividade",
+      "subareas_especificas": [
+        "Relatividade Restrita",
+        "Relatividade Geral"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Jean Le Fèvre",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Cálculo Astronômico",
+      "subareas_especificas": [
+        "Tabelas Astronômicas",
+        "Ephemerides"
+      ]
+    }
+  ]
+}

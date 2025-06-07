@@ -1,0 +1,13 @@
+{
+  "nome": "Enrico Bompiani",
+  "area_principal": "Geometria Diferencial Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva Diferencial",
+      "subareas_especificas": [
+        "Geometria Hiperespacial",
+        "Sistemas de Círculos em Espaço 3D"
+      ]
+    }
+  ]
+}

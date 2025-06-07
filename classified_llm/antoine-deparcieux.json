@@ -1,0 +1,19 @@
+{
+  "nome": "Antoine Deparcieux",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise de Sobrevivência",
+      "subareas_especificas": [
+        "Tabelas de Mortalidade",
+        "Expectativa de Vida"
+      ]
+    },
+    {
+      "subarea": "Teoria das Probabilidades",
+      "subareas_especificas": [
+        "Probabilidade Condicional"
+      ]
+    }
+  ]
+}

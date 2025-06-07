@@ -1,0 +1,28 @@
+{
+  "nome": "Guri Ivanovich Marchuk",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Álgebra Linear",
+        "Análise Numérica"
+      ]
+    },
+    {
+      "subarea": "Teoria do Transporte de Radiação",
+      "subareas_especificas": [
+        "Métodos de Monte Carlo",
+        "Aproximações de Ordenadas Discretas"
+      ]
+    },
+    {
+      "subarea": "Modelagem Matemática",
+      "subareas_especificas": [
+        "Previsão do Tempo Numérica",
+        "Modelagem de Reações Nucleares"
+      ]
+    }
+  ]
+}

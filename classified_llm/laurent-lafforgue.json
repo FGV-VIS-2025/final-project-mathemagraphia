@@ -1,0 +1,19 @@
+{
+  "nome": "Laurent Lafforgue",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Correspondências de Langlands"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades de Módulos",
+        "Compactificações"
+      ]
+    }
+  ]
+}

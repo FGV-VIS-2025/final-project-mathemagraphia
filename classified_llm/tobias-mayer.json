@@ -1,0 +1,19 @@
+{
+  "nome": "Tobias Mayer",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Aplicações da Álgebra Linear em Geometria"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Mapas",
+        "Projeções Mapas"
+      ]
+    }
+  ]
+}

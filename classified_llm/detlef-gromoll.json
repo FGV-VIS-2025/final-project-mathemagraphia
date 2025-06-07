@@ -1,0 +1,21 @@
+{
+  "nome": "Detlef Gromoll",
+  "area_principal": "Geometria Riemanniana",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana Global",
+      "subareas_especificas": [
+        "Variedades de Curvatura Não-Negativa",
+        "Geodésicas",
+        "Teorema da Alma"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Estruturas Diferenciáveis",
+        "Métricas Riemannianas"
+      ]
+    }
+  ]
+}

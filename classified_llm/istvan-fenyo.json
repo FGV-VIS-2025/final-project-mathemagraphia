@@ -1,0 +1,20 @@
+{
+  "nome": "István Fenyő",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais de Volterra",
+        "Equações Integrais de Fredholm"
+      ]
+    },
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Operadores Lineares",
+        "Teoria Espectral"
+      ]
+    }
+  ]
+}

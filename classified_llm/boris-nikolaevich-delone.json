@@ -1,0 +1,20 @@
+{
+  "nome": "Boris Nikolaevich Delone",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Números",
+      "subareas_especificas": [
+        "Teoria de Corpos",
+        "Teoria de Ideais",
+        "Formas Binárias Cúbicas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Teoria de Galois"
+      ]
+    }
+  ]
+}

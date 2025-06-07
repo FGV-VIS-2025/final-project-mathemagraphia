@@ -1,0 +1,12 @@
+{
+  "nome": "Anicius Manlius Severinus Boethius",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Teoria dos Números Pitagóricos"
+      ]
+    }
+  ]
+}

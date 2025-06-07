@@ -1,0 +1,24 @@
+{
+  "nome": "Gregori Aleksandrovic Margulis",
+  "area_principal": "Teoria dos Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Subgrupos Discretos"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Quadráticas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Abu'l Hasan ibn Ali al Qalasadi",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Simbólica",
+      "subareas_especificas": [
+        "Notação Algébrica",
+        "Símbolos Matemáticos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Jürgen Kurt Moser",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Teoria Espectral",
+        "Sistemas Hamiltonianos",
+        "Mecânica Celeste"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoria Espectral"
+      ]
+    }
+  ]
+}

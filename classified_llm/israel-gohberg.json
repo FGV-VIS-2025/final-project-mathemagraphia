@@ -1,0 +1,13 @@
+{
+  "nome": "Israel Gohberg",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Equações Integrais",
+        "Teoria de Operadores"
+      ]
+    }
+  ]
+}

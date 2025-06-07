@@ -1,0 +1,20 @@
+{
+  "nome": "George Cunliffe McVittie",
+  "area_principal": "Relatividade Geral",
+  "subareas": [
+    {
+      "subarea": "Cosmologia",
+      "subareas_especificas": [
+        "Modelos Cosmológicos",
+        "Teoria do Universo em Expansão"
+      ]
+    },
+    {
+      "subarea": "Teoria de Campo Unificado",
+      "subareas_especificas": [
+        "Teoria de Einstein",
+        "Modificação de Levi-Civita"
+      ]
+    }
+  ]
+}

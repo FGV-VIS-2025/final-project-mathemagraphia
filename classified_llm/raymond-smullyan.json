@@ -1,0 +1,29 @@
+{
+  "nome": "Raymond Merrill Smullyan",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Teoria da Recursividade",
+        "Sistemas Formais",
+        "Funções Recursivas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos Axiomáticos",
+        "Conjuntos infinitos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Teoremas de Incompletude de Gödel",
+        "Sistemas Formais",
+        "Lógica de Primeira Ordem"
+      ]
+    }
+  ]
+}

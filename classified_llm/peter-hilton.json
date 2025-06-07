@@ -1,0 +1,22 @@
+{
+  "nome": "Peter John Hilton",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria da Homotopia",
+      "subareas_especificas": [
+        "Grupos de Homotopia",
+        "Espaços de Recobrimento",
+        "Teoria de Obstrução"
+      ]
+    },
+    {
+      "subarea": "Teoria da Homologia",
+      "subareas_especificas": [
+        "Homologia Singular",
+        "Homologia Simplicial",
+        "Teoria de Cohomologia"
+      ]
+    }
+  ]
+}

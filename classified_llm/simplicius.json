@@ -1,0 +1,20 @@
+{
+  "nome": "Simplicius",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Grega",
+      "subareas_especificas": [
+        "Método da Exaustão",
+        "Quadratura do Círculo",
+        "Lúnulas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Irracionais"
+      ]
+    }
+  ]
+}

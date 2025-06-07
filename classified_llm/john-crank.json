@@ -1,0 +1,13 @@
+{
+  "nome": "John Crank",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Estabilidade Numérica",
+        "Diferenças Finitas"
+      ]
+    }
+  ]
+}

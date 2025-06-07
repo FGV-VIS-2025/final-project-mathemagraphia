@@ -1,0 +1,22 @@
+{
+  "nome": "Pia Maria Nalli",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Geometria Projetiva",
+        "Teoria de Superfícies",
+        "Teoria de Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Teoria da Integração",
+        "Séries de Fourier",
+        "Equações Integrais"
+      ]
+    }
+  ]
+}

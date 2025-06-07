@@ -1,0 +1,20 @@
+{
+  "nome": "Benedetto Antonio Castelli",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Hidráulica",
+      "subareas_especificas": [
+        "Medição de fluxo de água",
+        "Dinâmica de fluidos"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Observação de corpos celestes",
+        "Movimentos planetários"
+      ]
+    }
+  ]
+}

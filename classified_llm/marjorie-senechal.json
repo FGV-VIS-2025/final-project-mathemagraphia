@@ -1,0 +1,20 @@
+{
+  "nome": "Marjorie Lee Wikler Senechal",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Cristalografia Matemática",
+      "subareas_especificas": [
+        "Grupos Espaciais",
+        "Empacotamento e Revestimentos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Séries de Dirichlet",
+        "Equações Funcionais Aproximadas"
+      ]
+    }
+  ]
+}

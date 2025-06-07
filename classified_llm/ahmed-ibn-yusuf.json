@@ -1,0 +1,20 @@
+{
+  "nome": "Ahmed ibn Yusuf  al-Misri",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Teoria das Proporções",
+        "Semelhança de Arcos"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Astrolabe",
+        "Tabelas Astronômicas"
+      ]
+    }
+  ]
+}

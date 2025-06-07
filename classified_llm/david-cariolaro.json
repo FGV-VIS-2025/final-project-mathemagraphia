@@ -1,0 +1,19 @@
+{
+  "nome": "David Cariolaro",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Ramsey",
+      "subareas_especificas": [
+        "Teoria de Ramsey",
+        "Dominação"
+      ]
+    },
+    {
+      "subarea": "Fatoração de Grafos",
+      "subareas_especificas": [
+        "Fatoração de Grafos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nome": "Michel Pierre Talagrand",
+  "area_principal": "Teoria da Medida",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida em Espaços de Banach",
+      "subareas_especificas": [
+        "Medidas Invariantes",
+        "Compactos de Funções Mensuráveis",
+        "Espaços de Banach Fracamente K-analíticos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Limites Centrais",
+        "Processos Estocásticos",
+        "Concentração de Medida",
+        "Processos Gaussianos",
+        "Spin Glasses"
+      ]
+    }
+  ]
+}

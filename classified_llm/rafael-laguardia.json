@@ -1,0 +1,19 @@
+{
+  "nome": "Rafael Laguardia",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Representação Conforme"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Soluções de Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

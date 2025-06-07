@@ -1,0 +1,20 @@
+{
+  "nome": "Pietro Abbati Marescotti",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações de grau superior a 5",
+        "Solução por radicais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Números Primos"
+      ]
+    }
+  ]
+}

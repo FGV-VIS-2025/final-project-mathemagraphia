@@ -1,0 +1,27 @@
+{
+  "nome": "Carlo Miranda",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Elípticas",
+      "subareas_especificas": [
+        "Teoria do Potencial",
+        "Métodos Variacionais",
+        "Estimativas a priori"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares",
+        "Teoria de Hilbert-Schmidt"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Diferencial Global"
+      ]
+    }
+  ]
+}

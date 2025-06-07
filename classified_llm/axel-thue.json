@@ -1,0 +1,12 @@
+{
+  "nome": "Axel Thue",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Teorema de Thue"
+      ]
+    }
+  ]
+}

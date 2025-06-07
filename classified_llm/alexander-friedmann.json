@@ -1,0 +1,20 @@
+{
+  "nome": "Aleksandr Aleksandrovich Friedmann",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Curvatura de Espaço",
+        "Equações de Campo de Einstein"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica dos Fluidos Compressíveis",
+        "Hidrodinâmica"
+      ]
+    }
+  ]
+}

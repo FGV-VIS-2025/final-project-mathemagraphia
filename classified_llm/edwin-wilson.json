@@ -1,0 +1,19 @@
+{
+  "nome": "Edwin Bidwell Wilson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Projetiva"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Intervalos de Confiança"
+      ]
+    }
+  ]
+}

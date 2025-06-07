@@ -1,0 +1,20 @@
+{
+  "nome": "Sarah Woodhead",
+  "area_principal": "Matemática",
+  "subareas": [
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Cálculo",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Teoria de Grupos"
+      ]
+    }
+  ]
+}

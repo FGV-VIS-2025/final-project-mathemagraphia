@@ -1,0 +1,13 @@
+{
+  "nome": "Catherina Elisabetha Koopman Hevelius",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Observações Astronômicas",
+      "subareas_especificas": [
+        "Observações Telescópicas",
+        "Cálculos Matemáticos"
+      ]
+    }
+  ]
+}

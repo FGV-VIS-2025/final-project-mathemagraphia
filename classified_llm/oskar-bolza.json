@@ -1,0 +1,16 @@
+{
+  "nome": "Oskar Bolza",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Teoria de Controle"
+      ]
+    },
+    {
+      "subarea": "Funções Hiperelípticas",
+      "subareas_especificas": []
+    }
+  ]
+}

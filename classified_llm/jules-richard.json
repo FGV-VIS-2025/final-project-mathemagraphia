@@ -1,0 +1,19 @@
+{
+  "nome": "Jules Antoine Richard",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Axiomatização da Geometria Projetiva"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Geometria",
+      "subareas_especificas": [
+        "Axiomas da Geometria",
+        "Geometrias Não-Euclidianas"
+      ]
+    }
+  ]
+}

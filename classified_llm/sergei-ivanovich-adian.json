@@ -1,0 +1,18 @@
+{
+  "nome": "Sergei Ivanovich Adian",
+  "area_principal": "Teoria dos Grupos",
+  "subareas": [
+    {
+      "subarea": "Problema da palavra",
+      "subareas_especificas": [
+        "Grupos finitamente apresentados"
+      ]
+    },
+    {
+      "subarea": "Problema de Burnside",
+      "subareas_especificas": [
+        "Grupos periódicos infinitos"
+      ]
+    }
+  ]
+}

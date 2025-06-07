@@ -1,0 +1,27 @@
+{
+  "nome": "John Willard Milnor",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria de nós",
+        "Grupos de enlace"
+      ]
+    },
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Variedades",
+        "Estruturas diferenciais"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Sistemas dinâmicos holomórficos",
+        "Dinâmica em uma variável complexa"
+      ]
+    }
+  ]
+}

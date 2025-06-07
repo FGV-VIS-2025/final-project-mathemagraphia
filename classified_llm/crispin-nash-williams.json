@@ -1,0 +1,24 @@
+{
+  "nome": "Crispin St John Alvah Nash-Williams",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Grafos Infinitos",
+      "subareas_especificas": [
+        "Cadeias infinitas",
+        "Passeios aleatórios em redes",
+        "Grupos abelianos"
+      ]
+    },
+    {
+      "subarea": "Grafos Finitos",
+      "subareas_especificas": [
+        "Ciclos Hamiltonianos",
+        "Grafos Eulerianos",
+        "Árvores Geradoras Mínimas",
+        "Problema do Casamento",
+        "Reconstrução de grafos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "Jonathan Michael Borwein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Aproximação de funções",
+        "Cálculo de π",
+        "Integração numérica"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Operadores Monótonos",
+        "Análise Variacional"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Transcendentais",
+        "Funções Elípticas"
+      ]
+    }
+  ]
+}

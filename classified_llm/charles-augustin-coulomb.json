@@ -1,0 +1,21 @@
+{
+  "nome": "Charles Augustin de Coulomb",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Mecânica de Sólidos",
+        "Mecânica dos Fluidos",
+        "Teoria da Elasticidade"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Problemas de Máximos e Mínimos",
+        "Aplicações em Engenharia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Harlow Shapley",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica Estelar",
+      "subareas_especificas": [
+        "Estrelas Variáveis",
+        "Binárias de Eclipse",
+        "Cefeidas"
+      ]
+    },
+    {
+      "subarea": "Cosmologia",
+      "subareas_especificas": [
+        "Distâncias de Estrelas",
+        "Distribuição de Galáxias",
+        "Estrutura do Universo"
+      ]
+    }
+  ]
+}

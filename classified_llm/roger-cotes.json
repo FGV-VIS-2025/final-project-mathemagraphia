@@ -1,0 +1,28 @@
+{
+  "nome": "Roger Cotes",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integração",
+        "Interpolação",
+        "Séries"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Frações contínuas",
+        "Aproximações racionais"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica",
+        "Curvas"
+      ]
+    }
+  ]
+}

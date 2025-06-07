@@ -1,0 +1,18 @@
+{
+  "nome": "Lajos Dávid",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Média aritmético-geométrica"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria não-euclidiana"
+      ]
+    }
+  ]
+}

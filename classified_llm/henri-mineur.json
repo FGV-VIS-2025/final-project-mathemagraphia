@@ -1,0 +1,27 @@
+{
+  "nome": "Henri Paul Mineur",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Mecânica Analítica",
+        "Problema de Dois Corpos"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Método dos Mínimos Quadrados",
+        "Análise Numérica"
+      ]
+    },
+    {
+      "subarea": "Cosmologia",
+      "subareas_especificas": [
+        "Lei Período-Luminosidade de Variáveis Cefeidas",
+        "Expansão do Universo"
+      ]
+    }
+  ]
+}

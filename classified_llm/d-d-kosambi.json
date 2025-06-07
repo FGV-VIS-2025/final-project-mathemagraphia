@@ -1,0 +1,27 @@
+{
+  "nome": "Damodar Dharmanand Kosambi",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Cálculo de Variações",
+        "Teoria de Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Probabilística dos Números"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Análise Funcional",
+        "Processamento de Sinais"
+      ]
+    }
+  ]
+}

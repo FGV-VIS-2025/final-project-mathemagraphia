@@ -1,0 +1,21 @@
+{
+  "nome": "Henryk Iwaniec",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Crivo",
+        "Métodos de Crivo",
+        "Formas Automórficas",
+        "Funções L"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Formas Modulares"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Franciszek Hugon Szafraniec",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Teoria de Operadores",
+      "subareas_especificas": [
+        "Operadores Subnormais",
+        "Problemas de Momentos",
+        "Extensões Normais de Operadores Não Limitados"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nome": "Bernhard Hermann Neumann",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Livres",
+      "subareas_especificas": [
+        "Automorfismos de Grupos Livres"
+      ]
+    },
+    {
+      "subarea": "Variedades de Grupos",
+      "subareas_especificas": [
+        "Problema da Base Finita"
+      ]
+    },
+    {
+      "subarea": "Produtos de Grupos",
+      "subareas_especificas": [
+        "Produtos de Coroas",
+        "Produtos Permutacionais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grupos Infinitos",
+      "subareas_especificas": [
+        "Grupos Hopfianos",
+        "Extensões HNN"
+      ]
+    }
+  ]
+}

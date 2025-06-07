@@ -1,0 +1,20 @@
+{
+  "nome": "Thomas Simpson",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Integração Numérica",
+        "Método de Newton-Raphson"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria das Probabilidades",
+        "Teoria dos Erros"
+      ]
+    }
+  ]
+}

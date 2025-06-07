@@ -1,0 +1,30 @@
+{
+  "nome": "Jerzy Słupecki",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Cálculo Proposicional",
+      "subareas_especificas": [
+        "Sistemas Dedutivos",
+        "Lógicas Plurivalentes"
+      ]
+    },
+    {
+      "subarea": "Teoria da Dedução",
+      "subareas_especificas": [
+        "Metalogica da lógica clássica e não clássica",
+        "Operação de consequência da rejeição"
+      ]
+    },
+    {
+      "subarea": "Sistemas de Leśniewski",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "História da Lógica",
+      "subareas_especificas": [
+        "Investigações modernas sobre a silogística de Aristóteles"
+      ]
+    }
+  ]
+}

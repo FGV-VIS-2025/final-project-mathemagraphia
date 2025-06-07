@@ -1,0 +1,22 @@
+{
+  "nome": "Derek Thomas Whiteside",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática do século XVII",
+      "subareas_especificas": [
+        "Cálculo",
+        "Geometria Analítica",
+        "Álgebra"
+      ]
+    },
+    {
+      "subarea": "Matemática do século XVIII",
+      "subareas_especificas": [
+        "Cálculo",
+        "Geometria Analítica",
+        "Álgebra"
+      ]
+    }
+  ]
+}

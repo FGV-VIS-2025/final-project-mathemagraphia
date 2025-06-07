@@ -1,0 +1,20 @@
+{
+  "nome": "Theodore Strong",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Derivadas",
+        "Integrais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais Definidas",
+        "Integrais Indefinidas"
+      ]
+    }
+  ]
+}

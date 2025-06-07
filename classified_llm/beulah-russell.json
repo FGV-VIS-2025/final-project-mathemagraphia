@@ -1,0 +1,20 @@
+{
+  "nome": "Beatrice Beulah Russell",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    },
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Potências",
+        "Séries de Fourier"
+      ]
+    }
+  ]
+}

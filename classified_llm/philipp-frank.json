@@ -1,0 +1,25 @@
+{
+  "nome": "Philipp Frank",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Cálculo das Variações"
+      ]
+    },
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries de Fourier"
+      ]
+    }
+  ]
+}

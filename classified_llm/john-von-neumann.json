@@ -1,0 +1,24 @@
+{
+  "nome": "John von Neumann",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebra de Operadores",
+      "subareas_especificas": [
+        "Álgebras de von Neumann"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Teoremas Ergódicos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida de Haar"
+      ]
+    }
+  ]
+}

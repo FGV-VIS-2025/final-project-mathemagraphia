@@ -1,0 +1,18 @@
+{
+  "nome": "José Anastácio da Cunha",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Convergência de Séries"
+      ]
+    },
+    {
+      "subarea": "Diferencial de Funções",
+      "subareas_especificas": [
+        "Definição de Diferencial"
+      ]
+    }
+  ]
+}

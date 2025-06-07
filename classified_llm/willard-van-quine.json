@@ -1,0 +1,19 @@
+{
+  "nome": "Willard Van Orman Quine",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Teoria de Conjuntos NF"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Sistemas Formais",
+        "Consistência"
+      ]
+    }
+  ]
+}

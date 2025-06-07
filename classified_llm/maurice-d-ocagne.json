@@ -1,0 +1,19 @@
+{
+  "nome": "Philbert Maurice d'Ocagne",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Geometria Infinitesimal"
+      ]
+    },
+    {
+      "subarea": "Nomografia",
+      "subareas_especificas": [
+        "Representação Gráfica de Equações",
+        "Cálculo Gráfico"
+      ]
+    }
+  ]
+}

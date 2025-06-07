@@ -1,0 +1,22 @@
+{
+  "nome": "Jacobus Hendricus van Lint",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Modulares",
+      "subareas_especificas": [
+        "Operadores de Hecke",
+        "Séries de Dirichlet",
+        "Formas modulares"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teoria de Códigos",
+        "Teoria de Grafos",
+        "Desing Theory"
+      ]
+    }
+  ]
+}

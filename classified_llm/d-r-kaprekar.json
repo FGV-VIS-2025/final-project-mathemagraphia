@@ -1,0 +1,21 @@
+{
+  "nome": "Dattatreya Ramachandra Kaprekar",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números de Kaprekar",
+      "subareas_especificas": [
+        "Números de Kaprekar",
+        "Números auto-gerados",
+        "Números de Harshad"
+      ]
+    },
+    {
+      "subarea": "Outros",
+      "subareas_especificas": [
+        "Sequências numéricas",
+        "Divisores unitários"
+      ]
+    }
+  ]
+}

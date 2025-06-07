@@ -1,0 +1,17 @@
+{
+  "nome": "Carlos Benjamin de Lyra",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Homotopia",
+        "Espaços de recobrimento",
+        "Teoria de fibrados",
+        "Cohomologia",
+        "Operações cohomológicas",
+        "Sistemas de Postnikov"
+      ]
+    }
+  ]
+}

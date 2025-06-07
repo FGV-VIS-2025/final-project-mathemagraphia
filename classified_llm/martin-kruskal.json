@@ -1,0 +1,20 @@
+{
+  "nome": "Martin David Kruskal",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Solitons",
+        "Análise Assintótica"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Sistemas Hamiltonianos",
+        "Geometria simplética"
+      ]
+    }
+  ]
+}

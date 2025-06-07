@@ -1,0 +1,13 @@
+{
+  "nome": "Benoit Mandelbrot",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Fractal",
+      "subareas_especificas": [
+        "Conjuntos de Julia",
+        "Conjuntos de Mandelbrot"
+      ]
+    }
+  ]
+}

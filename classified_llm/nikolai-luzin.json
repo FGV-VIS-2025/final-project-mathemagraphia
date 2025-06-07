@@ -1,0 +1,25 @@
+{
+  "nome": "Nikolai Nikolaevich Luzin",
+  "area_principal": "Teoria da Medida",
+  "subareas": [
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Topologia Descritiva"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos Efetivos"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Séries Trigonométricas"
+      ]
+    }
+  ]
+}

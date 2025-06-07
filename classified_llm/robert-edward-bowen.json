@@ -1,0 +1,18 @@
+{
+  "nome": "Robert Edward Bowen",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Medidas Invariantes"
+      ]
+    },
+    {
+      "subarea": "Dinâmica Simbólica",
+      "subareas_especificas": [
+        "Partições de Markov"
+      ]
+    }
+  ]
+}

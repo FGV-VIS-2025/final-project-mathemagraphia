@@ -1,0 +1,19 @@
+{
+  "nome": "Charles Marie de La Condamine",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Posição",
+      "subareas_especificas": [
+        "Medições de meridianos",
+        "Cartografia"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Probabilidade"
+      ]
+    }
+  ]
+}

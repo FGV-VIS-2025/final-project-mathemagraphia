@@ -1,0 +1,21 @@
+{
+  "nome": "Adegoke Olubummo",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Banach",
+      "subareas_especificas": [
+        "Álgebras de Banach comutativas",
+        "Álgebras de Banach não comutativas"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Transformadas de Fourier",
+        "Transformadas de Fourier-Stieltjes",
+        "Medidas vetoriais"
+      ]
+    }
+  ]
+}

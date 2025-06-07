@@ -1,0 +1,19 @@
+{
+  "nome": "Leo Félix Pollaczek",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Corpos Ciclotômicos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria das Filas",
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

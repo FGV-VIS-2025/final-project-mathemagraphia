@@ -1,0 +1,19 @@
+{
+  "nome": "Felix Hausdorff",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Hipótese do Contínuo"
+      ]
+    },
+    {
+      "subarea": "Espaços Métricos",
+      "subareas_especificas": [
+        "Dimensão de Hausdorff"
+      ]
+    }
+  ]
+}

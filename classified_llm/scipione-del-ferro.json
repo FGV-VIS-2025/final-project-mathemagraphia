@@ -1,0 +1,13 @@
+{
+  "nome": "Scipione del Ferro",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Cúbicas",
+      "subareas_especificas": [
+        "Soluções de equações cúbicas",
+        "Métodos algébricos para resolução de equações cúbicas"
+      ]
+    }
+  ]
+}

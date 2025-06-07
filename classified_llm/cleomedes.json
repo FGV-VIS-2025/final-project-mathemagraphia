@@ -1,0 +1,19 @@
+{
+  "nome": "Cleomedes",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Geometria Esférica"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Cálculo de Distâncias",
+        "Medidas de Circunferência"
+      ]
+    }
+  ]
+}

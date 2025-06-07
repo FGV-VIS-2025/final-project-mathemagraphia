@@ -1,0 +1,20 @@
+{
+  "nome": "Henry Abel Dye",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Operadores",
+      "subareas_especificas": [
+        "Álgebras de von Neumann",
+        "Teoria de medida não-comutativa"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos",
+        "Transformações que preservam medida"
+      ]
+    }
+  ]
+}

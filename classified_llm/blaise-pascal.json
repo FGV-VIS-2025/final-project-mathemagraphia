@@ -1,0 +1,26 @@
+{
+  "nome": "Blaise Pascal",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Hexagrama Místico"
+      ]
+    },
+    {
+      "subarea": "Teoria das Probabilidades",
+      "subareas_especificas": [
+        "Problema dos Dados",
+        "Problema dos Pontos"
+      ]
+    },
+    {
+      "subarea": "Análise Combinatória",
+      "subareas_especificas": [
+        "Triângulo de Pascal",
+        "Coeficientes Binomiais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Krystyna Maria Trybulec Kuperberg",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria da Forma",
+      "subareas_especificas": [
+        "Teoria de Homologia",
+        "Grupos Fundamentais"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos em Variedades de Baixa Dimensão",
+        "Conjectura de Seifert"
+      ]
+    }
+  ]
+}

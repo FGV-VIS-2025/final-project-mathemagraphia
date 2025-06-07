@@ -1,0 +1,12 @@
+{
+  "nome": "Shams al-Din ibn Ashraf Al-Samarqandi",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Proposições de Euclides"
+      ]
+    }
+  ]
+}

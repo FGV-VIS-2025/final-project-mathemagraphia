@@ -1,0 +1,27 @@
+{
+  "nome": "Helge Arnulf Tverberg",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Euler trails",
+        "Hamiltonian cycles"
+      ]
+    },
+    {
+      "subarea": "Geometria Combinatória",
+      "subareas_especificas": [
+        "Teorema de Radon",
+        "Teorema de Helly",
+        "Teorema de Carathéodory"
+      ]
+    },
+    {
+      "subarea": "Teoria da Informação",
+      "subareas_especificas": [
+        "Função de Informação"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "William Sealy Gosset",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Estimação"
+      ]
+    },
+    {
+      "subarea": "Distribuições de Probabilidade",
+      "subareas_especificas": [
+        "Distribuição t de Student",
+        "Distribuição Binomial",
+        "Distribuição de Poisson"
+      ]
+    }
+  ]
+}

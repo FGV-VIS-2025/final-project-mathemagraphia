@@ -1,0 +1,20 @@
+{
+  "nome": "Annibale Comessatti",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Superfícies Algébricas",
+      "subareas_especificas": [
+        "Superfícies Racionais Reais",
+        "Variedades Abelianas Reais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Curvas Algébricas",
+      "subareas_especificas": [
+        "Curvas de Galois",
+        "Involuções Irracionais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Agnes Mary Clerke",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Cosmogonia",
+        "Espectroscopia estelar"
+      ]
+    },
+    {
+      "subarea": "História da Astronomia",
+      "subareas_especificas": [
+        "Astronomia no século XIX"
+      ]
+    }
+  ]
+}

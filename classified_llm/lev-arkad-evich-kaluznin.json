@@ -1,0 +1,19 @@
+{
+  "nome": "Lev Arkad'evich Kaluznin",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos de Permutação",
+      "subareas_especificas": [
+        "Subgrupos de Sylow",
+        "Produto de Coroas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Extensões Normais de Corpos"
+      ]
+    }
+  ]
+}

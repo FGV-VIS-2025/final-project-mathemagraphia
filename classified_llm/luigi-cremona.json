@@ -1,0 +1,21 @@
+{
+  "nome": "Antonio Luigi Gaudenzio  Giuseppe Cremona",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Transformações Cremona",
+        "Curvas algébricas",
+        "Superfícies"
+      ]
+    },
+    {
+      "subarea": "Geometria Sintética",
+      "subareas_especificas": [
+        "Cônicas",
+        "Cúbicas Torcidas"
+      ]
+    }
+  ]
+}

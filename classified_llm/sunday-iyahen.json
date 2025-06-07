@@ -1,0 +1,20 @@
+{
+  "nome": "Sunday Osarumwense Iyahen",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços Topológicos",
+      "subareas_especificas": [
+        "Espaços Barrelados",
+        "Espaços Quase-Barrelados",
+        "Espaços Semi-Convexos"
+      ]
+    },
+    {
+      "subarea": "Espaços Vetoriais Topológicos",
+      "subareas_especificas": [
+        "Teoria dos Espaços Vetoriais Topológicos"
+      ]
+    }
+  ]
+}

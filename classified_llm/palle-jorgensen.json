@@ -1,0 +1,28 @@
+{
+  "nome": "Palle Erik Tikob Jorgensen",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria de Operadores",
+      "subareas_especificas": [
+        "Álgebras de Operadores",
+        "Grupos e Semigrupos de Operadores",
+        "Operadores Não Limitados"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos Discretos",
+        "Análise Harmônica"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Ondelets",
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

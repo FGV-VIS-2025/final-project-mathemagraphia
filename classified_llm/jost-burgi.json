@@ -1,0 +1,24 @@
+{
+  "nome": "Jost Bürgi",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Cronometria",
+      "subareas_especificas": [
+        "Construção de relógios de alta precisão"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de tabelas de senos"
+      ]
+    },
+    {
+      "subarea": "Logaritmos",
+      "subareas_especificas": [
+        "Invenção de logaritmos para cálculos astronômicos"
+      ]
+    }
+  ]
+}

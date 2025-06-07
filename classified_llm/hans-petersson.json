@@ -1,0 +1,19 @@
+{
+  "nome": "Hans Petersson",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Modulares",
+      "subareas_especificas": [
+        "Formas Modulares Elípticas",
+        "Funções Theta"
+      ]
+    },
+    {
+      "subarea": "Formas Automórficas",
+      "subareas_especificas": [
+        "Produto Interno de Petersson"
+      ]
+    }
+  ]
+}

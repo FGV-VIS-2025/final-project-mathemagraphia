@@ -1,0 +1,13 @@
+{
+  "nome": "Ernst Jacobsthal",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Resíduos Quadráticos",
+      "subareas_especificas": [
+        "Resíduos Quadráticos",
+        "Somatórios de Legendre"
+      ]
+    }
+  ]
+}

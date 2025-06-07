@@ -1,0 +1,28 @@
+{
+  "nome": "Clement Vavasor Durell",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Transformações Geométricas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria Plana",
+        "Trigonometria Esférica",
+        "Funções Trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    }
+  ]
+}

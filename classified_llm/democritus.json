@@ -1,0 +1,12 @@
+{
+  "nome": "Democritus of Abdera",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Volumes de sólidos geométricos"
+      ]
+    }
+  ]
+}

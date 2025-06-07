@@ -1,0 +1,19 @@
+{
+  "nome": "Sophie Willock Bryant",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Geometria Discreta",
+      "subareas_especificas": [
+        "Formas Geométricas em Contextos Naturais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nome": "Josip Plemelj",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções Analíticas",
+      "subareas_especificas": [
+        "Teoria da Uniformização",
+        "Teorema de Koebe"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": []
+    }
+  ]
+}

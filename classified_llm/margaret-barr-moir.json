@@ -1,0 +1,13 @@
+{
+  "nome": "Margaret Barr Moir",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Magnetismo",
+      "subareas_especificas": [
+        "Magnetismo em materiais",
+        "Influência da temperatura no magnetismo"
+      ]
+    }
+  ]
+}

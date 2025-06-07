@@ -1,0 +1,27 @@
+{
+  "nome": "George David Birkhoff",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Expansões Assintóticas",
+        "Problemas do tipo Sturm-Liouville"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria Ergódica",
+        "Problema de Três Corpos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Fatores Primos de an-bn"
+      ]
+    }
+  ]
+}

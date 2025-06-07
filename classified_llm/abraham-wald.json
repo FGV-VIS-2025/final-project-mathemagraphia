@@ -1,0 +1,30 @@
+{
+  "nome": "Abraham Wald",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise Sequencial",
+      "subareas_especificas": [
+        "Testes de Hipóteses Sequenciais",
+        "Controle de Qualidade Industrial"
+      ]
+    },
+    {
+      "subarea": "Teoria da Decisão",
+      "subareas_especificas": [
+        "Funções de Perda",
+        "Regras de Decisão de Bayes",
+        "Regras de Decisão Admissíveis",
+        "Regras de Decisão Minimax"
+      ]
+    },
+    {
+      "subarea": "Econometria",
+      "subareas_especificas": [
+        "Modelos Econômicos Competitivos",
+        "Séries Temporais",
+        "Números de Índice Econômico"
+      ]
+    }
+  ]
+}

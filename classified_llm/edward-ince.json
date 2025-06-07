@@ -1,0 +1,21 @@
+{
+  "nome": "Edward Lindsay Ince",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações de Mathieu",
+        "Funções de Mathieu",
+        "Frações Contínuas",
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Lineares Simultâneas de Segunda Ordem"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Wawrzyniec Żmurko",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Integração de Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Integral",
+        "Cálculo Vetorial"
+      ]
+    },
+    {
+      "subarea": "Funções",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Funções Reais"
+      ]
+    }
+  ]
+}

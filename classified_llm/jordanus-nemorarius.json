@@ -1,0 +1,20 @@
+{
+  "nome": "Jordanus Nemorarius",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra elementar",
+      "subareas_especificas": [
+        "Equações",
+        "Números"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números inteiros",
+        "Equações diofantinas"
+      ]
+    }
+  ]
+}

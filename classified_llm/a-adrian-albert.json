@@ -1,0 +1,25 @@
+{
+  "nome": "Abraham Adrian Albert",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Associativa",
+      "subareas_especificas": [
+        "Álgebras de Divisão",
+        "Teoria de Estruturas de Álgebras"
+      ]
+    },
+    {
+      "subarea": "Álgebras Não-Associativas",
+      "subareas_especificas": [
+        "Álgebras de Jordan"
+      ]
+    },
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Matrizes de Riemann"
+      ]
+    }
+  ]
+}

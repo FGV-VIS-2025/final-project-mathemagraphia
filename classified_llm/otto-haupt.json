@@ -1,0 +1,19 @@
+{
+  "nome": "Otto Haupt",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Finita",
+      "subareas_especificas": [
+        "Geometrias de incidência"
+      ]
+    },
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Cálculo Diferencial e Integral",
+        "Teoria da Medida"
+      ]
+    }
+  ]
+}

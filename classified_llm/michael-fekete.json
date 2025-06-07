@@ -1,0 +1,20 @@
+{
+  "nome": "Michael Fekete",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Dirichlet",
+        "Séries de Potências"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Funções Aditivas",
+        "Congruências Lineares"
+      ]
+    }
+  ]
+}

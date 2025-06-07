@@ -1,0 +1,12 @@
+{
+  "nome": "David Gawen Champernowne",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Normais",
+      "subareas_especificas": [
+        "Construção de Números Normais"
+      ]
+    }
+  ]
+}

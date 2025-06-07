@@ -1,0 +1,16 @@
+{
+  "nome": "Giuseppe Veronese",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Geometria Projetiva de dimensão superior"
+      ]
+    },
+    {
+      "subarea": "Geometrias Não-Arquimedianas",
+      "subareas_especificas": []
+    }
+  ]
+}

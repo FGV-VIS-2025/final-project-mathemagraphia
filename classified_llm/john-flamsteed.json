@@ -1,0 +1,18 @@
+{
+  "nome": "John Flamsteed",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Projeções cartográficas"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Órbitas planetárias"
+      ]
+    }
+  ]
+}

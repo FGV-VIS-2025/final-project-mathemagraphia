@@ -1,0 +1,41 @@
+{
+  "nome": "Marguerite Josephine Straus Frank",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra de Lie",
+      "subareas_especificas": [
+        "Álgebras de Lie Simples",
+        "Álgebras de Witt"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Geometria Algébrica"
+      ]
+    },
+    {
+      "subarea": "Programação Matemática",
+      "subareas_especificas": [
+        "Programação Linear",
+        "Programação Quadrática",
+        "Teoria dos Jogos"
+      ]
+    }
+  ]
+}

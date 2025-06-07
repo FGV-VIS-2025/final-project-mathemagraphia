@@ -1,0 +1,30 @@
+{
+  "nome": "Shreeram Shankar Abhyankar",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Resolução de Singularidades",
+      "subareas_especificas": [
+        "Variedades algébricas",
+        "Superfícies algébricas"
+      ]
+    },
+    {
+      "subarea": "Revestimentos Tamen",
+      "subareas_especificas": [
+        "Grupos fundamentais algébricos"
+      ]
+    },
+    {
+      "subarea": "Geometria Afim",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Grupos de Galois",
+      "subareas_especificas": [
+        "Extensões de curvas",
+        "Corpos numéricos"
+      ]
+    }
+  ]
+}

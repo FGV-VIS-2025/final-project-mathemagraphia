@@ -1,0 +1,12 @@
+{
+  "nome": "Warren Weaver",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade Aplicada"
+      ]
+    }
+  ]
+}

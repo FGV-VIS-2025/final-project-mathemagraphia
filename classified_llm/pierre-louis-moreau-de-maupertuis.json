@@ -1,0 +1,19 @@
+{
+  "nome": "Pierre Louis Moreau de Maupertuis",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Gravitação",
+        "Forma da Terra"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Princípio da Mínima Ação"
+      ]
+    }
+  ]
+}

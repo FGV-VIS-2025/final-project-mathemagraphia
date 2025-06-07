@@ -1,0 +1,21 @@
+{
+  "nome": "João Delgado",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides",
+        "Axiomas",
+        "Teoremas"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Esfera Celeste",
+        "Teoria dos Planetas de Ptolomeu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "nome": "Frank Morley",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Inversiva",
+      "subareas_especificas": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Tadashi Nakayama",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Corpos de Classes Locais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Representações",
+      "subareas_especificas": [
+        "Álgebras de Frobenius",
+        "Representações de Grupos"
+      ]
+    }
+  ]
+}

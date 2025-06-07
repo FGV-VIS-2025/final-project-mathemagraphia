@@ -1,0 +1,20 @@
+{
+  "nome": "Robert de Montessus de Ballore",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Convergência de Frações Contínuas",
+        "Aproximações de Padé"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria das Probabilidades",
+        "Teoria de Erros"
+      ]
+    }
+  ]
+}

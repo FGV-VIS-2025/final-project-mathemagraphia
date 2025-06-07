@@ -1,0 +1,32 @@
+{
+  "nome": "Henry Ernest Dudeney",
+  "area_principal": "Recreational Mathematics",
+  "subareas": [
+    {
+      "subarea": "Geometric Puzzles",
+      "subareas_especificas": [
+        "Dissection Puzzles"
+      ]
+    },
+    {
+      "subarea": "Arithmetical Puzzles",
+      "subareas_especificas": [
+        "Verbal Arithmetic",
+        "Linear Equations"
+      ]
+    },
+    {
+      "subarea": "Algebraic Puzzles",
+      "subareas_especificas": [
+        "Quadratic Equations"
+      ]
+    },
+    {
+      "subarea": "Combinatorial Problems",
+      "subareas_especificas": [
+        "Combinatorics",
+        "Graph Theory"
+      ]
+    }
+  ]
+}

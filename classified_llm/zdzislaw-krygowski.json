@@ -1,0 +1,27 @@
+{
+  "nome": "Zdzisław Jan Ewangeli Antoni Krygowski",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Funções Hiperelípticas",
+        "Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Combinatória"
+      ]
+    }
+  ]
+}

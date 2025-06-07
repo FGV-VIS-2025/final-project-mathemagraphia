@@ -1,0 +1,21 @@
+{
+  "nome": "Pietro Mengoli",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Convergência e Divergência de Séries",
+        "Séries Harmônicas",
+        "Séries Geométricas"
+      ]
+    },
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integrais Definidas",
+        "Método dos Indivisíveis"
+      ]
+    }
+  ]
+}

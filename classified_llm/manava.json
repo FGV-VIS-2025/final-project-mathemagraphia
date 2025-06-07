@@ -1,0 +1,13 @@
+{
+  "nome": "Manava",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Construções Geométricas",
+        "Aproximações de π"
+      ]
+    }
+  ]
+}

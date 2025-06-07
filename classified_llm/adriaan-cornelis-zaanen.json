@@ -1,0 +1,28 @@
+{
+  "nome": "Adriaan Cornelis Zaanen",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Lineares",
+        "Espaços de Orlicz"
+      ]
+    },
+    {
+      "subarea": "Teoria da Integração",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Integral de Daniell",
+        "Integral de Lebesgue"
+      ]
+    },
+    {
+      "subarea": "Espaços de Riesz",
+      "subareas_especificas": [
+        "Teoria de reticulados",
+        "Teoria de anéis"
+      ]
+    }
+  ]
+}

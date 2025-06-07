@@ -1,0 +1,28 @@
+{
+  "nome": "Lamberto Cesari",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Convergência de Séries de Fourier",
+        "Séries Duplas"
+      ]
+    },
+    {
+      "subarea": "Cálculo das Variações",
+      "subareas_especificas": [
+        "Problemas Variacionais",
+        "Teoria da Área",
+        "Integrais Múltiplas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Estabilidade",
+        "Comportamento Assintótico"
+      ]
+    }
+  ]
+}

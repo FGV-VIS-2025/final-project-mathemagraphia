@@ -1,0 +1,18 @@
+{
+  "nome": "Dirk Jan Struik",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Análise Tensorial",
+      "subareas_especificas": [
+        "Variedades Riemannianas"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemáticos do Renascimento"
+      ]
+    }
+  ]
+}

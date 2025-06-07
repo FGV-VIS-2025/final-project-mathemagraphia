@@ -1,0 +1,18 @@
+{
+  "nome": "Florimond de Beaune",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica Plana",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Tangentes"
+      ]
+    }
+  ]
+}

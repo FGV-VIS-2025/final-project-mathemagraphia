@@ -1,0 +1,20 @@
+{
+  "nome": "August Adler",
+  "area_principal": "Geometria Descritiva",
+  "subareas": [
+    {
+      "subarea": "Geometria de Curvas e Superfícies",
+      "subareas_especificas": [
+        "Curvas no Espaço",
+        "Superfícies Regradas"
+      ]
+    },
+    {
+      "subarea": "Construções Geométricas",
+      "subareas_especificas": [
+        "Construções com Compasso",
+        "Construções com Régua e Compasso"
+      ]
+    }
+  ]
+}

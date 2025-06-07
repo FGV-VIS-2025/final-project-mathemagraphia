@@ -1,0 +1,27 @@
+{
+  "nome": "Charles Louis Fefferman",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Integrais Singulares",
+        "Espaços de Hardy",
+        "Multiplicadores de Fourier"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Elípticas",
+        "Regularidade de Soluções"
+      ]
+    },
+    {
+      "subarea": "Geometria Conforme",
+      "subareas_especificas": [
+        "Métrica Ambiente"
+      ]
+    }
+  ]
+}

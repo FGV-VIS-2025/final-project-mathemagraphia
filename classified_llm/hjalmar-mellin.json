@@ -1,0 +1,26 @@
+{
+  "nome": "Robert Hjalmar Mellin",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Função Gama",
+        "Funções Hipergeométricas"
+      ]
+    },
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Dirichlet",
+        "Função Zeta de Riemann"
+      ]
+    },
+    {
+      "subarea": "Transformada de Mellin",
+      "subareas_especificas": [
+        "Aplicações a equações diferenciais parciais"
+      ]
+    }
+  ]
+}

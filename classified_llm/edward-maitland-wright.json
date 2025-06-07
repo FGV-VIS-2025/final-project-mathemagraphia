@@ -1,0 +1,18 @@
+{
+  "nome": "Edward Maitland Wright",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Problema de Waring",
+        "Função W de Lambert",
+        "Partições"
+      ]
+    },
+    {
+      "subarea": "Geometria dos Números",
+      "subareas_especificas": []
+    }
+  ]
+}

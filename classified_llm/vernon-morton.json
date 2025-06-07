@@ -1,0 +1,18 @@
+{
+  "nome": "Vernon Charles Morton",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Algébricas"
+      ]
+    }
+  ]
+}

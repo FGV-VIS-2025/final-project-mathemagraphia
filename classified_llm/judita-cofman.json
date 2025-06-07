@@ -1,0 +1,21 @@
+{
+  "nome": "Judita Cofman",
+  "area_principal": "Geometria Finita",
+  "subareas": [
+    {
+      "subarea": "Planos Projetivos Finitos",
+      "subareas_especificas": [
+        "Planos Desarguesianos",
+        "Planos Não-Desarguesianos"
+      ]
+    },
+    {
+      "subarea": "Geometrias de Möbius Finitas",
+      "subareas_especificas": [
+        "Transitividade Dupla",
+        "Transitividade Tripla",
+        "Involuções de Baer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Giovanni Giorgio Bidone",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Transcendentais",
+      "subareas_especificas": [
+        "Soluções de Equações Transcendentais"
+      ]
+    },
+    {
+      "subarea": "Integrais Definidas",
+      "subareas_especificas": [
+        "Redução de Integrais",
+        "Integrais Elípticas"
+      ]
+    }
+  ]
+}

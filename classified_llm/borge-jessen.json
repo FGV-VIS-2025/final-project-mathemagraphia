@@ -1,0 +1,26 @@
+{
+  "nome": "Børge Christian Jessen",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integração",
+        "Teoria da Medida em Espaços de Dimensão Infinita"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Funções Quase Periódicas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Função Zeta de Riemann"
+      ]
+    }
+  ]
+}

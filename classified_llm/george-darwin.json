@@ -1,0 +1,20 @@
+{
+  "nome": "George Howard Darwin",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Problema de Três Corpos",
+      "subareas_especificas": [
+        "Estabilidade de Fluidos Rotativos",
+        "Efeitos de Maré"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Cálculo"
+      ]
+    }
+  ]
+}

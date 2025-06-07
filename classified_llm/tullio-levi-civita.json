@@ -1,0 +1,26 @@
+{
+  "nome": "Tullio Levi-Civita",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Cálculo Tensorial",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Teoria da Relatividade"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Celeste",
+        "Dinâmica Analítica"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

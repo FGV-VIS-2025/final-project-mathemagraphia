@@ -1,0 +1,19 @@
+{
+  "nome": "Abu'l-Hasan Ali ibn Abd al-Rahman ibn Yunus",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria esférica"
+      ]
+    },
+    {
+      "subarea": "Teoria Lunar",
+      "subareas_especificas": [
+        "Tabelas lunares",
+        "Predição de eclipses lunares"
+      ]
+    }
+  ]
+}

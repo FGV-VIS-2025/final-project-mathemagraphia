@@ -1,0 +1,17 @@
+{
+  "nome": "Ernst Eduard Wiltheiss",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Abelianas",
+      "subareas_especificas": [
+        "Funções Hiperelípticas",
+        "Funções Theta"
+      ]
+    },
+    {
+      "subarea": "Teoria dos invariantes",
+      "subareas_especificas": []
+    }
+  ]
+}

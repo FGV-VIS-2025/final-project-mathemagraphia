@@ -1,0 +1,19 @@
+{
+  "nome": "Johann Bernoulli",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integração por Partes",
+        "Cálculo de Variações"
+      ]
+    }
+  ]
+}

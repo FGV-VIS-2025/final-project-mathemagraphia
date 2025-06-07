@@ -1,0 +1,18 @@
+{
+  "nome": "Juan de Ortega",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equação de Pell"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Extração de Raízes Quadradas"
+      ]
+    }
+  ]
+}

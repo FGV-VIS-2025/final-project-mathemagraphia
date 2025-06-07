@@ -1,0 +1,36 @@
+{
+  "nome": "Torsten Carleman",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares"
+      ]
+    },
+    {
+      "subarea": "Funções Quase-Analíticas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Transformada de Fourier"
+      ]
+    },
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Aproximação de Funções",
+      "subareas_especificas": [
+        "Funções inteiras"
+      ]
+    },
+    {
+      "subarea": "Equação de Boltzmann",
+      "subareas_especificas": []
+    }
+  ]
+}

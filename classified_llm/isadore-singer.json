@@ -1,0 +1,25 @@
+{
+  "nome": "Isadore Manuel Singer",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Teoria de operadores elípticos"
+      ]
+    },
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Teoria K"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Análise Funcional",
+        "Álgebra de operadores"
+      ]
+    }
+  ]
+}

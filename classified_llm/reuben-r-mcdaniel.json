@@ -1,0 +1,13 @@
+{
+  "nome": "Reuben Roosevelt McDaniel",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas Quadráticas n-árias",
+        "Redução de Formas Quadráticas"
+      ]
+    }
+  ]
+}

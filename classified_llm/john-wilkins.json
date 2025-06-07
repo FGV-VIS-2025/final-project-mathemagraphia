@@ -1,0 +1,20 @@
+{
+  "nome": "John Wilkins",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Máquinas Simples",
+        "Movimento",
+        "Forças"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Descritiva"
+      ]
+    }
+  ]
+}

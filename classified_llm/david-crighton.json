@@ -1,0 +1,13 @@
+{
+  "nome": "David George Crighton",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares",
+        "Equações Integrais com Núcleos de Cauchy"
+      ]
+    }
+  ]
+}

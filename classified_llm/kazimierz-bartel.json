@@ -1,0 +1,12 @@
+{
+  "nome": "Kazimierz Wladyslaw Bartel",
+  "area_principal": "Geometria Descritiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Perspectiva"
+      ]
+    }
+  ]
+}

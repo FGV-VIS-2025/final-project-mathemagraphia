@@ -1,0 +1,26 @@
+{
+  "nome": "Aurel Angelescu",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Polinômios Ortogonais",
+      "subareas_especificas": [
+        "Polinômios de Legendre",
+        "Polinômios de Hermite",
+        "Polinômios de Laguerre"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Séries Trigonométricas"
+      ]
+    }
+  ]
+}

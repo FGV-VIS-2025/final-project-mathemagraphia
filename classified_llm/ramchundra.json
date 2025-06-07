@@ -1,0 +1,12 @@
+{
+  "nome": "Ramchundra",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial e Integral",
+      "subareas_especificas": [
+        "Máximos e Mínimos"
+      ]
+    }
+  ]
+}

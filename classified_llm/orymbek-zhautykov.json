@@ -1,0 +1,19 @@
+{
+  "nome": "Orymbek Akhmetbekovich Zhautykov",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Sistemas de Equações Diferenciais",
+      "subareas_especificas": [
+        "Sistemas Infinitos de Equações Diferenciais Ordinárias",
+        "Estabilidade de Sistemas Dinâmicos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problema de Cauchy"
+      ]
+    }
+  ]
+}

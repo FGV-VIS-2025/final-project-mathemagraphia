@@ -1,0 +1,18 @@
+{
+  "nome": "Pietro Antonio Cataldi",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Perfeitos",
+      "subareas_especificas": [
+        "Números primos de Mersenne"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Aproximação de raízes quadradas"
+      ]
+    }
+  ]
+}

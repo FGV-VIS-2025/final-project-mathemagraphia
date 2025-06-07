@@ -1,0 +1,20 @@
+{
+  "nome": "Gilbert Thomas Walker",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Dinâmica",
+      "subareas_especificas": [
+        "Dinâmica de corpos rígidos",
+        "Mecânica celeste"
+      ]
+    },
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletrodinâmica",
+        "Teoria do campo eletromagnético"
+      ]
+    }
+  ]
+}

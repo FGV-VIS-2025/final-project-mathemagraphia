@@ -1,0 +1,13 @@
+{
+  "nome": "Charles Julien Brianchon",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Cônicas",
+      "subareas_especificas": [
+        "Teorema de Brianchon",
+        "Teorema de Pascal"
+      ]
+    }
+  ]
+}

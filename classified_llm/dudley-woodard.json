@@ -1,0 +1,18 @@
+{
+  "nome": "Dudley Weldon Woodard",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Plana",
+      "subareas_especificas": [
+        "Teorema da Curva de Jordan"
+      ]
+    },
+    {
+      "subarea": "Sistemas de Axiomas",
+      "subareas_especificas": [
+        "Axiomas de R.L. Moore"
+      ]
+    }
+  ]
+}

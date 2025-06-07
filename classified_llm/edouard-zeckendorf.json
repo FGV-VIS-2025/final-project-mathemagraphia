@@ -1,0 +1,12 @@
+{
+  "nome": "Édouard Zeckendorf",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Sequências",
+      "subareas_especificas": [
+        "Números de Fibonacci"
+      ]
+    }
+  ]
+}

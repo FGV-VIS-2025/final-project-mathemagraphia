@@ -1,0 +1,18 @@
+{
+  "nome": "Victoria Ruth Neale",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Problema de Waring"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Primos",
+      "subareas_especificas": [
+        "Conjectura dos Primos Gêmeos"
+      ]
+    }
+  ]
+}

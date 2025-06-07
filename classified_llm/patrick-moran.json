@@ -1,0 +1,29 @@
+{
+  "nome": "Patrick Alfred Pierce Moran",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de ramificação",
+        "Teoria de filas",
+        "Processos de Markov"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de hipóteses",
+        "Estimação",
+        "Análise de variância"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida de Hausdorff",
+        "Integração"
+      ]
+    }
+  ]
+}

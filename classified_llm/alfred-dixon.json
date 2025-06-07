@@ -1,0 +1,30 @@
+{
+  "nome": "Alfred Cardew Dixon",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Integrais Abelianas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Integrais Abelianas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Integrais de Fredholm"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Coeficientes Binomiais"
+      ]
+    }
+  ]
+}

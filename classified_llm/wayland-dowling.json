@@ -1,0 +1,18 @@
+{
+  "nome": "Linnaeus Wayland Dowling",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Curvas",
+      "subareas_especificas": [
+        "Curvas Quínticas"
+      ]
+    }
+  ]
+}

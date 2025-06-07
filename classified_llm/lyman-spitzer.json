@@ -1,0 +1,27 @@
+{
+  "nome": "Lyman Spitzer",
+  "area_principal": "Astrofísica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Dinâmica Estelar",
+        "Dinâmica de Aglomerados Estelares"
+      ]
+    },
+    {
+      "subarea": "Física de Plasmas",
+      "subareas_especificas": [
+        "Fusão Nuclear Controlada",
+        "Confinamento Magnético"
+      ]
+    },
+    {
+      "subarea": "Meio Interstelar",
+      "subareas_especificas": [
+        "Formação Estelar",
+        "Nuvens Moleculares"
+      ]
+    }
+  ]
+}

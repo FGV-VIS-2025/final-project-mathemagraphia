@@ -1,0 +1,21 @@
+{
+  "nome": "Guido Ascoli",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problema de Dirichlet",
+        "Singularidades de Funções Harmônicas",
+        "Equação de Laplace"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Equações Funcionais",
+        "Funções de Mathieu"
+      ]
+    }
+  ]
+}

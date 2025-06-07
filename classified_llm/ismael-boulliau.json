@@ -1,0 +1,21 @@
+{
+  "nome": "Ismael Boulliau",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Leis de Kepler",
+        "Gravitação"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Geometria",
+        "Álgebra",
+        "Cálculo"
+      ]
+    }
+  ]
+}

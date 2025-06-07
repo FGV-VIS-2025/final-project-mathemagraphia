@@ -1,0 +1,21 @@
+{
+  "nome": "Raymond Edward Alan Christopher Paley",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries Lacunares",
+        "Interpolação",
+        "Funções Quase-Analíticas",
+        "Funções Inteiras"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

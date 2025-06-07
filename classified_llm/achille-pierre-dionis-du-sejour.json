@@ -1,0 +1,24 @@
+{
+  "nome": "Achille Pierre Dionis du Séjour",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo de órbitas",
+        "Eclipses",
+        "Ocultações"
+      ]
+    },
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Demografia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Karl Frithiof Sundman",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Problema dos Três Corpos",
+      "subareas_especificas": [
+        "Regularização de Singularidades",
+        "Soluções Analíticas de Séries Infinitas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Frieda Nugel",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria das Curvas e Superfícies",
+      "subareas_especificas": [
+        "Curvas no Espaço",
+        "Superfícies no Espaço"
+      ]
+    }
+  ]
+}

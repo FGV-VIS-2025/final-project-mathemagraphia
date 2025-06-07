@@ -1,0 +1,18 @@
+{
+  "nome": "George Elmer Forsythe",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Métodos de Diferenças Finitas",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear Numérica",
+      "subareas_especificas": [
+        "Sistemas de Equações Lineares"
+      ]
+    }
+  ]
+}

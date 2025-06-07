@@ -1,0 +1,22 @@
+{
+  "nome": "Jakob Nielsen",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Livres",
+        "Grupos de Transformações Topológicas",
+        "Grupos Descontínuos de Isometrias do Plano Hiperbólico"
+      ]
+    },
+    {
+      "subarea": "Teoria de Superfícies",
+      "subareas_especificas": [
+        "Grupos de Classes de Mapeamento de um Toro",
+        "Superfícies de Gênero 1",
+        "Superfícies de Gênero Superior"
+      ]
+    }
+  ]
+}

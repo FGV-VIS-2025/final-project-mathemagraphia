@@ -1,0 +1,27 @@
+{
+  "nome": "Thomas Bradwardine",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Geometria não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica",
+        "Geometria Elíptica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Aritmética",
+        "Números Primos"
+      ]
+    }
+  ]
+}

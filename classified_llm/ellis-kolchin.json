@@ -1,0 +1,18 @@
+{
+  "nome": "Ellis Robert Kolchin",
+  "area_principal": "Álgebra Diferencial",
+  "subareas": [
+    {
+      "subarea": "Teoria de Galois de Corpos Diferenciais",
+      "subareas_especificas": [
+        "Teoria de Grupos Algébricos Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria de Picard-Vessiot",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares Ordinárias Homogêneas"
+      ]
+    }
+  ]
+}

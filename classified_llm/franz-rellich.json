@@ -1,0 +1,19 @@
+{
+  "nome": "Franz Rellich",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Teoria Espectral",
+      "subareas_especificas": [
+        "Teoria de Operadores",
+        "Perturbação de Operadores Lineares"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Teoria de Perturbação do Espectro Contínuo"
+      ]
+    }
+  ]
+}

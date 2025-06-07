@@ -1,0 +1,19 @@
+{
+  "nome": "Maurício Matos Peixoto",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Estabilidade Estrutural"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Topologia Diferencial"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Felix Earl Browder",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Operadores Monotônicos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Elípticas"
+      ]
+    }
+  ]
+}

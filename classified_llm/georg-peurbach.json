@@ -1,0 +1,19 @@
+{
+  "nome": "Georg Peurbach",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Teoria dos Epiciclos",
+        "Tabelas Astronômicas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de Senos e Cordas"
+      ]
+    }
+  ]
+}

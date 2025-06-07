@@ -1,0 +1,22 @@
+{
+  "nome": "James Dickson Murray",
+  "area_principal": "Mecânica de Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica de Fluidos",
+      "subareas_especificas": [
+        "Camada Limite",
+        "Escoamento em Tubos",
+        "Ondas de Choque"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Navier-Stokes",
+        "Análise Assintótica",
+        "Perturbação Singular"
+      ]
+    }
+  ]
+}

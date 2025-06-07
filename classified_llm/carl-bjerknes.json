@@ -1,0 +1,13 @@
+{
+  "nome": "Carl Anton Bjerknes",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Dinâmica dos Fluidos",
+        "Analogias Eletromagnéticas"
+      ]
+    }
+  ]
+}

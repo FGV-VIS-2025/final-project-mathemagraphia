@@ -1,0 +1,20 @@
+{
+  "nome": "Nkechi Madonna Adeleine Agwu",
+  "area_principal": "Matemática Discreta",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Teoria de Grafos",
+        "Aplicações da Teoria de Grafos"
+      ]
+    },
+    {
+      "subarea": "Criptografia",
+      "subareas_especificas": [
+        "Criptografia Simétrica",
+        "Criptografia Assimétrica"
+      ]
+    }
+  ]
+}

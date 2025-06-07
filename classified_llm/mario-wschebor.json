@@ -1,0 +1,21 @@
+{
+  "nome": "Mario Israel Wschebor Wonsever",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos Gaussianos",
+        "Tempos Locais",
+        "Teoria de Coberturas Aleatórias"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Métodos Estatísticos em Processos Estocásticos"
+      ]
+    }
+  ]
+}

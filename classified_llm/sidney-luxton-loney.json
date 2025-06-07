@@ -1,0 +1,22 @@
+{
+  "nome": "Sidney Luxton Loney",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica Plana",
+      "subareas_especificas": [
+        "Cônicas",
+        "Retas",
+        "Circunferências"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica Espacial",
+      "subareas_especificas": [
+        "Planos",
+        "Retas",
+        "Superfícies Cônicas"
+      ]
+    }
+  ]
+}

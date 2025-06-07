@@ -1,0 +1,22 @@
+{
+  "nome": "George Gabriel Stokes",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Movimento de fluidos incompressíveis",
+        "Viscosidade",
+        "Equações de Navier-Stokes"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Aberração da luz",
+        "Difração",
+        "Fluorescência"
+      ]
+    }
+  ]
+}

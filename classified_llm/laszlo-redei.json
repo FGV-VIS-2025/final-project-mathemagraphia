@@ -1,0 +1,27 @@
+{
+  "nome": "László Rédei",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Corpos de Números",
+      "subareas_especificas": [
+        "Corpos Quadráticos",
+        "Grupos de Classes",
+        "Equação de Pell"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Abelianos Finitos",
+        "Grupos p"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Anéis Euclidianos"
+      ]
+    }
+  ]
+}

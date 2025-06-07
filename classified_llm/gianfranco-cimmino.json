@@ -1,0 +1,18 @@
+{
+  "nome": "Gianfranco Luigi Giuseppe Cimmino",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Elípticas",
+      "subareas_especificas": [
+        "Problema de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos para Sistemas Lineares"
+      ]
+    }
+  ]
+}

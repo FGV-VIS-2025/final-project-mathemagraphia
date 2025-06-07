@@ -1,0 +1,21 @@
+{
+  "nome": "Konrad Zuse",
+  "area_principal": "Computação",
+  "subareas": [
+    {
+      "subarea": "Arquitetura de Computadores",
+      "subareas_especificas": [
+        "Computadores Mecânicos",
+        "Computadores Eletromecânicos",
+        "Computadores Eletrônicos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Programação",
+        "Linguagens de Programação"
+      ]
+    }
+  ]
+}

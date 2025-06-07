@@ -1,0 +1,27 @@
+{
+  "nome": "Ronald Aylmer Fisher",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Delineamento de Experimentos",
+      "subareas_especificas": [
+        "Análise de Variância",
+        "Randomização"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Brian David Sleeman",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Teoria Espectral",
+      "subareas_especificas": [
+        "Teoria Espectral Multiparamétrica"
+      ]
+    },
+    {
+      "subarea": "Teoria de Espalhamento",
+      "subareas_especificas": [
+        "Teoria de Espalhamento Inverso"
+      ]
+    }
+  ]
+}

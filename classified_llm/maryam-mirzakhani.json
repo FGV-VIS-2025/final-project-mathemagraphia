@@ -1,0 +1,20 @@
+{
+  "nome": "Maryam Mirzakhani",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Hiperbólica",
+      "subareas_especificas": [
+        "Geodésicas",
+        "Superfícies de Riemann",
+        "Espaços de Moduli"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Fluxo de Terremoto"
+      ]
+    }
+  ]
+}

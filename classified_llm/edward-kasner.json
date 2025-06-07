@@ -1,0 +1,15 @@
+{
+  "nome": "Edward Kasner",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Aspectos Geométricos da Dinâmica",
+        "Aspectos Geométricos da Teoria da Relatividade",
+        "Funções Poligênicas",
+        "Ângulos de Chifre"
+      ]
+    }
+  ]
+}

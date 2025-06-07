@@ -1,0 +1,18 @@
+{
+  "nome": "William Gordon Welchman",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Algébrica Projetiva"
+      ]
+    },
+    {
+      "subarea": "Teoria de Superfícies",
+      "subareas_especificas": [
+        "Superfícies Regradas"
+      ]
+    }
+  ]
+}

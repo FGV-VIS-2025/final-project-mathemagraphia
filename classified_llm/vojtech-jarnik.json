@@ -1,0 +1,19 @@
+{
+  "nome": "Vojtěch Jarník",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Aproximação Diofantina"
+      ]
+    },
+    {
+      "subarea": "Geometria dos Números",
+      "subareas_especificas": [
+        "Problema do Círculo de Gauss",
+        "Desigualdade de Minkowski para corpos convexos"
+      ]
+    }
+  ]
+}

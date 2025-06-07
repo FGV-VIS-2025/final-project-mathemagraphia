@@ -1,0 +1,20 @@
+{
+  "nome": "Nicole Oresme",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Coordenadas",
+        "Gráficos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Irracionais",
+        "Séries Infinitas"
+      ]
+    }
+  ]
+}

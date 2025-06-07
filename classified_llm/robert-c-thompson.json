@@ -1,0 +1,15 @@
+{
+  "nome": "Robert Charles Thompson",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Comutadores",
+        "Submatrizes Principais",
+        "Fatores Invariantes",
+        "Matrizes com coeficientes em corpos finitos"
+      ]
+    }
+  ]
+}

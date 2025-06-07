@@ -1,0 +1,21 @@
+{
+  "nome": "Charles Terence Clegg Wall",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Singularidades",
+        "Variedades",
+        "Teoria da Cirurgia"
+      ]
+    },
+    {
+      "subarea": "Topologia Geométrica",
+      "subareas_especificas": [
+        "Teorema de Alexander",
+        "Teorema da Curva de Jordan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Osborne Reynolds",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Turbulência",
+        "Estabilidade Hidrodinâmica",
+        "Lubrificação"
+      ]
+    },
+    {
+      "subarea": "Transferência de Calor",
+      "subareas_especificas": [
+        "Condensação",
+        "Transferência de Calor entre Sólidos e Fluidos"
+      ]
+    }
+  ]
+}

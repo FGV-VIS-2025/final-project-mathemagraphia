@@ -1,0 +1,19 @@
+{
+  "nome": "Johannes Robert Rydberg",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Espectroscopia",
+      "subareas_especificas": [
+        "Espectros Atômicos",
+        "Séries Espectrais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Constantes Matemáticas"
+      ]
+    }
+  ]
+}

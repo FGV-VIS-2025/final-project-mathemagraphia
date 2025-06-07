@@ -1,0 +1,19 @@
+{
+  "nome": "Karl Rudolf Fueter",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Corpos de Números",
+      "subareas_especificas": [
+        "Corpos Quadráticos",
+        "Corpos Abelianos"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Multiplicação Complexa"
+      ]
+    }
+  ]
+}

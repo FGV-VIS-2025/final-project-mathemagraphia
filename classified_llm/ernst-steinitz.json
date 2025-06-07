@@ -1,0 +1,27 @@
+{
+  "nome": "Ernst Steinitz",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Extensões de Corpos",
+        "Corpos Algebricamente Fechados",
+        "Teoria de Galois"
+      ]
+    },
+    {
+      "subarea": "Teoria de Módulos",
+      "subareas_especificas": [
+        "Módulos sobre Anéis",
+        "Anéis de Dedekind"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria de Polyedros"
+      ]
+    }
+  ]
+}

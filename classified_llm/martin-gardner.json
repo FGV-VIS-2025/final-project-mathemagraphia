@@ -1,0 +1,21 @@
+{
+  "nome": "Martin Gardner",
+  "area_principal": "Recreational Mathematics",
+  "subareas": [
+    {
+      "subarea": "Mathematical Puzzles",
+      "subareas_especificas": [
+        "Combinatorics",
+        "Graph Theory",
+        "Logic"
+      ]
+    },
+    {
+      "subarea": "Mathematical Magic",
+      "subareas_especificas": [
+        "Number Theory",
+        "Geometry"
+      ]
+    }
+  ]
+}

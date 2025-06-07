@@ -1,0 +1,22 @@
+{
+  "nome": "Paul Tannery",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Grega",
+      "subareas_especificas": [
+        "Geometria Grega",
+        "Teoria dos Números na Grécia",
+        "Álgebra Grega"
+      ]
+    },
+    {
+      "subarea": "Edição de Textos Matemáticos",
+      "subareas_especificas": [
+        "Obras de Fermat",
+        "Obras de Diofanto",
+        "Obras de Descartes"
+      ]
+    }
+  ]
+}

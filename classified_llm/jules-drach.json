@@ -1,0 +1,34 @@
+{
+  "nome": "Jules Joseph Drach",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Teoria de Galois aplicada a equações diferenciais",
+      "subareas_especificas": [
+        "Extensão da Teoria de Galois para equações diferenciais",
+        "Grupos de racionalidade"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Linhas de Darboux",
+        "Sistemas completamente ortogonais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Método de descida",
+        "Números representados por somas de quadrados e números triangulares"
+      ]
+    },
+    {
+      "subarea": "Mecânica Analítica",
+      "subareas_especificas": [
+        "Sistemas Hamiltonianos",
+        "Integrabilidade completa e teoria espectral"
+      ]
+    }
+  ]
+}

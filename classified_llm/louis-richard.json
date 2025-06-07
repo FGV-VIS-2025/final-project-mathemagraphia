@@ -1,0 +1,19 @@
+{
+  "nome": "Louis Paul Emile Richard",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Números",
+      "subareas_especificas": [
+        "Números Algébricos"
+      ]
+    }
+  ]
+}

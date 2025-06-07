@@ -1,0 +1,22 @@
+{
+  "nome": "James Bowman Lindsay",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletricidade",
+        "Magnetismo",
+        "Telegrafia elétrica",
+        "Luz elétrica"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Cronologia",
+        "Eclipses"
+      ]
+    }
+  ]
+}

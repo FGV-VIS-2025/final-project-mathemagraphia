@@ -1,0 +1,25 @@
+{
+  "nome": "Giuseppe Basso",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Óptica Física",
+      "subareas_especificas": [
+        "Polarização da Luz",
+        "Cristais Birrefringentes"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Calorimetria"
+      ]
+    },
+    {
+      "subarea": "Magnetismo",
+      "subareas_especificas": [
+        "Eletromagnetismo"
+      ]
+    }
+  ]
+}

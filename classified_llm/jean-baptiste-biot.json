@@ -1,0 +1,19 @@
+{
+  "nome": "Jean Baptiste Biot",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas e Superfícies de Segundo Grau"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Curvas e Superfícies",
+        "Espaços Curvos"
+      ]
+    }
+  ]
+}

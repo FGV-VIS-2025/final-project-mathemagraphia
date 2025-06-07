@@ -1,0 +1,21 @@
+{
+  "nome": "Wassily Hoeffding",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Estimação",
+        "Análise Sequencial"
+      ]
+    },
+    {
+      "subarea": "Estatística Não-Paramétrica",
+      "subareas_especificas": [
+        "Testes Não-Paramétricos",
+        "U-estatísticas"
+      ]
+    }
+  ]
+}

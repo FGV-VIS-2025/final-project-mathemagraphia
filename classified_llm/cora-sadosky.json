@@ -1,0 +1,21 @@
+{
+  "nome": "Cora Susana Sadosky",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Integrais Singulares",
+        "Teoria de Interpolação de Operadores"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Parabólicas",
+        "Equações Diferenciais Parciais Elípticas",
+        "Equações Diferenciais Parciais Hiperbólicas"
+      ]
+    }
+  ]
+}

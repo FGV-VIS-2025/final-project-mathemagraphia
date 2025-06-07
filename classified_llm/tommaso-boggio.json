@@ -1,0 +1,27 @@
+{
+  "nome": "Tommaso Boggio",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação da Membrana",
+        "Equação da Placa",
+        "Funções de Green"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Vetorial",
+        "Integração de Lebesgue"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Racional"
+      ]
+    }
+  ]
+}

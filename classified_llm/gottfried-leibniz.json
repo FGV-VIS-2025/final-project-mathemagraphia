@@ -1,0 +1,32 @@
+{
+  "nome": "Gottfried Wilhelm von Leibniz",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Diferenciação",
+        "Derivadas",
+        "Regra da Cadeia",
+        "Aplicações de Derivadas"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integração",
+        "Integrais Definidas",
+        "Integrais Indefinidas",
+        "Teorema Fundamental do Cálculo"
+      ]
+    },
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Séries de Potências",
+        "Convergência e Divergência",
+        "Séries de Taylor"
+      ]
+    }
+  ]
+}

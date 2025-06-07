@@ -1,0 +1,19 @@
+{
+  "nome": "Daniel Joseph Kelly O'Connell",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica Estelar",
+      "subareas_especificas": [
+        "Estrelas Variáveis",
+        "Binárias Eclipsantes"
+      ]
+    },
+    {
+      "subarea": "Cosmologia",
+      "subareas_especificas": [
+        "Teoria do Universo em Expansão"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Benjamin Franklin",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Quadrados Mágicos",
+      "subareas_especificas": [
+        "Quadrados Mágicos Tradicionais",
+        "Círculos Mágicos"
+      ]
+    }
+  ]
+}

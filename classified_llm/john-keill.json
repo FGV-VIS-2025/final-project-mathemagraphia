@@ -1,0 +1,13 @@
+{
+  "nome": "John Keill",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Newtoniana",
+      "subareas_especificas": [
+        "Cálculo",
+        "Geometria Analítica"
+      ]
+    }
+  ]
+}

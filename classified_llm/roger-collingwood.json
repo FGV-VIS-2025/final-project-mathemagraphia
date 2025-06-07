@@ -1,0 +1,12 @@
+{
+  "nome": "Roger Collingwood",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Aritmética Prática",
+      "subareas_especificas": [
+        "Aplicações da Aritmética"
+      ]
+    }
+  ]
+}

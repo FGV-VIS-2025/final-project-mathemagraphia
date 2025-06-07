@@ -1,0 +1,26 @@
+{
+  "nome": "Johan Jacob Seidel",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grafos",
+      "subareas_especificas": [
+        "Grafos fortemente regulares",
+        "Teoria de desenho"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Elíptica"
+      ]
+    }
+  ]
+}

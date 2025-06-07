@@ -1,0 +1,20 @@
+{
+  "nome": "Joseph Privat de Molières",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Teoria dos Vórtices",
+        "Leis de Kepler"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Álgebra",
+        "Cálculo Diferencial e Integral"
+      ]
+    }
+  ]
+}

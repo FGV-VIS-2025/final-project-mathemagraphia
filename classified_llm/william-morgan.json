@@ -1,0 +1,21 @@
+{
+  "nome": "William Morgan",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria das Probabilidades",
+      "subareas_especificas": [
+        "Teorema de Bayes",
+        "Probabilidade Condicional"
+      ]
+    },
+    {
+      "subarea": "Análise Atuarial",
+      "subareas_especificas": [
+        "Cálculo de anuidades",
+        "Valoração de passivos",
+        "Tabelas de mortalidade"
+      ]
+    }
+  ]
+}

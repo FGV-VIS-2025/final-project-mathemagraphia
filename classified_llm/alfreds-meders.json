@@ -1,0 +1,18 @@
+{
+  "nome": "Alfreds Arnolds Adolfs Meders",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Curvas",
+      "subareas_especificas": [
+        "Pontos Singulares"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Integrais Definidas"
+      ]
+    }
+  ]
+}

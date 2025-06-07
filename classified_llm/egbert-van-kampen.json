@@ -1,0 +1,18 @@
+{
+  "nome": "Egbert Rudolf van Kampen",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Combinatória",
+      "subareas_especificas": [
+        "Dualidade"
+      ]
+    },
+    {
+      "subarea": "Grupos Fundamentais",
+      "subareas_especificas": [
+        "Teorema de Zariski-van Kampen"
+      ]
+    }
+  ]
+}

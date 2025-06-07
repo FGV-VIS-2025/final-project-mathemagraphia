@@ -1,0 +1,22 @@
+{
+  "nome": "Anna Zofia Krygowska",
+  "area_principal": "Didática da Matemática",
+  "subareas": [
+    {
+      "subarea": "Metodologia do Ensino de Matemática",
+      "subareas_especificas": [
+        "Ensino de Geometria",
+        "Métodos Funcionais de Ensino",
+        "Métodos de Demonstração no Ensino",
+        "Abordagem da Teoria dos Conjuntos no Ensino"
+      ]
+    },
+    {
+      "subarea": "Psicologia da Educação Matemática",
+      "subareas_especificas": [
+        "Análise de Dificuldades dos Alunos",
+        "Aprendizagem Matemática"
+      ]
+    }
+  ]
+}

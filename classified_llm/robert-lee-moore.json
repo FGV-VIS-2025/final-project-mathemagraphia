@@ -1,0 +1,13 @@
+{
+  "nome": "Robert Lee Moore",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de conjuntos de pontos",
+      "subareas_especificas": [
+        "Espaços métricos",
+        "Continuos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Henry Frederick Baker",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Geometria Birracional",
+        "Teoria das Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Funções de Variáveis Complexas",
+      "subareas_especificas": [
+        "Funções Abelianas",
+        "Funções Multiperiódicas",
+        "Teoria das Funções"
+      ]
+    }
+  ]
+}

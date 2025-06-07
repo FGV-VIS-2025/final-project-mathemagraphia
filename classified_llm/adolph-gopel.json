@@ -1,0 +1,20 @@
+{
+  "nome": "Gustav Adolph Göpel",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Funções Theta",
+        "Integrais Abelianas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Quadráticas",
+        "Frações Contínuas"
+      ]
+    }
+  ]
+}

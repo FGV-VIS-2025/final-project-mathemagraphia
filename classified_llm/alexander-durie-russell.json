@@ -1,0 +1,19 @@
+{
+  "nome": "Alexander Durie Russell",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Trigonometria",
+        "Dissecção de Triângulos"
+      ]
+    },
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Polígonos Regulares"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Gertrude Mary Cox",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Experimental",
+      "subareas_especificas": [
+        "Delineamento de Experimentos",
+        "Análise de Covariância"
+      ]
+    },
+    {
+      "subarea": "Bioestatística",
+      "subareas_especificas": [
+        "Biometria"
+      ]
+    }
+  ]
+}

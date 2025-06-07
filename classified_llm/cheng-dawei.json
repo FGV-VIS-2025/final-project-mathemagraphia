@@ -1,0 +1,20 @@
+{
+  "nome": "Cheng Dawei",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Cálculo com Ábaco",
+      "subareas_especificas": [
+        "Problemas de proporção",
+        "Problemas geométricos",
+        "Problemas de volume"
+      ]
+    },
+    {
+      "subarea": "Álgebra elementar",
+      "subareas_especificas": [
+        "Equações lineares"
+      ]
+    }
+  ]
+}

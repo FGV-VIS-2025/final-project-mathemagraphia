@@ -1,0 +1,25 @@
+{
+  "nome": "Howard Percy Robertson",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Espaços de Robertson-Walker"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Representações de Grupos",
+        "Grupos de Movimento"
+      ]
+    },
+    {
+      "subarea": "Relatividade Geral",
+      "subareas_especificas": [
+        "Cosmologia Relativística"
+      ]
+    }
+  ]
+}

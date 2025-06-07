@@ -1,0 +1,30 @@
+{
+  "nome": "George Biddell Airy",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Teoria Orbital"
+      ]
+    },
+    {
+      "subarea": "Geodésia",
+      "subareas_especificas": [
+        "Medidas de Peso e Medidas"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Astigmatismo"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Teoria dos Erros"
+      ]
+    }
+  ]
+}

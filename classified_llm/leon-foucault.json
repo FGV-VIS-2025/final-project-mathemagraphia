@@ -1,0 +1,19 @@
+{
+  "nome": "Jean Bernard Léon Foucault",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Dinâmica",
+        "Cinemática"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Velocidade da Luz"
+      ]
+    }
+  ]
+}

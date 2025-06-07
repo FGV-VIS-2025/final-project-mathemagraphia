@@ -1,0 +1,20 @@
+{
+  "nome": "John Couch Adams",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Perturbações Planetárias",
+      "subareas_especificas": [
+        "Previsão de Posição Planetária",
+        "Cálculo Orbital"
+      ]
+    },
+    {
+      "subarea": "Teoria Lunar",
+      "subareas_especificas": [
+        "Correções de Laplace",
+        "Aceleração Secular"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Roberto Vázquez García",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topología algebraica",
+      "subareas_especificas": [
+        "Cohomología",
+        "Homotopía"
+      ]
+    },
+    {
+      "subarea": "Topología categórica",
+      "subareas_especificas": [
+        "Módulos proyectivos",
+        "Módulos planos"
+      ]
+    }
+  ]
+}

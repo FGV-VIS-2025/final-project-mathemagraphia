@@ -1,0 +1,20 @@
+{
+  "nome": "John William Jamieson Herivel",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Criptografia",
+      "subareas_especificas": [
+        "Quebra de Códigos",
+        "Máquina Enigma"
+      ]
+    },
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Dinâmica Newtoniana",
+        "Princípio de Hamilton"
+      ]
+    }
+  ]
+}

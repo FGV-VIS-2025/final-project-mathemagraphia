@@ -1,0 +1,20 @@
+{
+  "nome": "Louis de Branges de Bourcia",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Funções inteiras",
+        "Teoria de operadores lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Representação conforme",
+        "Mapeamentos conformes"
+      ]
+    }
+  ]
+}

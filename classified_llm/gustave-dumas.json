@@ -1,0 +1,19 @@
+{
+  "nome": "Gustave Dumas",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica Clássica",
+      "subareas_especificas": [
+        "Singularidades de Superfícies",
+        "Polinômios com coeficientes racionais"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria de Polinômios"
+      ]
+    }
+  ]
+}

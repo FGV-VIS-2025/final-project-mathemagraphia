@@ -1,0 +1,13 @@
+{
+  "nome": "Gabriele Manfredi",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações Diferenciais de Primeira Ordem",
+        "Integração de Equações Diferenciais"
+      ]
+    }
+  ]
+}

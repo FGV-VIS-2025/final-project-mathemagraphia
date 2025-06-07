@@ -1,0 +1,18 @@
+{
+  "nome": "Egon Sharpe Pearson",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Testes de Hipóteses",
+      "subareas_especificas": [
+        "Teoria de Neyman-Pearson"
+      ]
+    },
+    {
+      "subarea": "Controle de Qualidade",
+      "subareas_especificas": [
+        "Controle Estatístico de Processos"
+      ]
+    }
+  ]
+}

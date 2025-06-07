@@ -1,0 +1,21 @@
+{
+  "nome": "Arnold Walfisz",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Séries de Dirichlet",
+        "Somatórios Exponenciais",
+        "Pontos de Rede em Esferas Multidimensionais"
+      ]
+    },
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Problema do Círculo",
+        "Equação de Pell"
+      ]
+    }
+  ]
+}

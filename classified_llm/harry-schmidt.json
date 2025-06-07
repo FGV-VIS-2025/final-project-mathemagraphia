@@ -1,0 +1,19 @@
+{
+  "nome": "John Harry Schmidt",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Camada Limite",
+        "Equações de Navier-Stokes"
+      ]
+    },
+    {
+      "subarea": "Aerodinâmica",
+      "subareas_especificas": [
+        "Teoria das Asas"
+      ]
+    }
+  ]
+}

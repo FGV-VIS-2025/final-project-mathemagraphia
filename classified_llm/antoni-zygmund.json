@@ -1,0 +1,22 @@
+{
+  "nome": "Antoni Szczepan Zygmund",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Integrais Singulares",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Séries",
+      "subareas_especificas": [
+        "Séries Trigonométricas",
+        "Séries Ortogonais",
+        "Séries Lacunares"
+      ]
+    }
+  ]
+}

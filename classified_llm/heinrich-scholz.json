@@ -1,0 +1,28 @@
+{
+  "nome": "Heinrich Scholz",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Sistemas Formais",
+        "Axiomatização"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axiomas de Zermelo-Fraenkel",
+        "Teoria dos Tipos"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Formalismo",
+        "Intuicionismo",
+        "Logicismo"
+      ]
+    }
+  ]
+}

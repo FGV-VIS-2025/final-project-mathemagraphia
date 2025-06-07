@@ -1,0 +1,19 @@
+{
+  "nome": "Lester Randolph Ford",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Automórficas",
+        "Aproximações Racionais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias"
+      ]
+    }
+  ]
+}

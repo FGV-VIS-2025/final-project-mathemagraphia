@@ -1,0 +1,34 @@
+{
+  "nome": "Nigel James Hitchin",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Curvatura",
+        "Variedades"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Algébricas",
+        "Fibrados"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Álgebras de Lie"
+      ]
+    },
+    {
+      "subarea": "Sistemas Integráveis",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Geometria Simplética"
+      ]
+    }
+  ]
+}

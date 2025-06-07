@@ -1,0 +1,28 @@
+{
+  "nome": "Jack Carl Kiefer",
+  "area_principal": "Estatística Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Decisão",
+      "subareas_especificas": [
+        "Teoria dos Jogos",
+        "Análise Sequencial"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Inferência Não-Paramétrica",
+        "Estimação",
+        "Inferência Condicional"
+      ]
+    },
+    {
+      "subarea": "Planejamento de Experimentos",
+      "subareas_especificas": [
+        "Delineamentos Ótimos",
+        "Delineamentos Robustos"
+      ]
+    }
+  ]
+}

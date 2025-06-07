@@ -1,0 +1,26 @@
+{
+  "nome": "Oswald Veblen",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometrias Não-Desarguesianas",
+        "Geometrias Finitas"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Analysis Situs"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades Diferenciáveis",
+        "Geometria Riemanniana"
+      ]
+    }
+  ]
+}

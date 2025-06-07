@@ -1,0 +1,27 @@
+{
+  "nome": "Alfred Tarski",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria de Modelos",
+      "subareas_especificas": [
+        "Teoria da Verdade",
+        "Consequência Lógica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Teoria de Conjuntos",
+        "Medida e Integração"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Universal",
+        "Álgebra Relacional"
+      ]
+    }
+  ]
+}

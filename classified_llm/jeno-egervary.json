@@ -1,0 +1,31 @@
+{
+  "nome": "Jenő Elek Egerváry",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais de Segunda Espécie com Núcleo Periódico"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Polinômios de Legendre",
+        "Polinômios de Chebyshev",
+        "Polinômios Trigonométricos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Matrizes",
+        "Método Húngaro"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Sylvia Winifred Skan",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Aerodinâmica",
+      "subareas_especificas": [
+        "Camada Limite",
+        "Equação Integral de Possio",
+        "Escoamento Subssônico",
+        "Escoamento Compressível"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Soluções Numéricas"
+      ]
+    }
+  ]
+}

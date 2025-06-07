@@ -1,0 +1,21 @@
+{
+  "nome": "Anders Johan Lexell",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Exatas",
+        "Fatores Integrantes"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Esférica",
+        "Trigonometria Esférica",
+        "Polygonometria"
+      ]
+    }
+  ]
+}

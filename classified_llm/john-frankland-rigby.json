@@ -1,0 +1,19 @@
+{
+  "nome": "John Frankland Rigby",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Grupos Lineares Finitos"
+      ]
+    }
+  ]
+}

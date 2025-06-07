@@ -1,0 +1,20 @@
+{
+  "nome": "Michelangelo Ricci",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Máximos e Mínimos",
+        "Tangentes"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    }
+  ]
+}

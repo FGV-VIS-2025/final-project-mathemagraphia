@@ -1,0 +1,21 @@
+{
+  "nome": "Raymond Clare Archibald",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Biografias de Matemáticos",
+        "Análise de Textos Matemáticos Históricos",
+        "Desenvolvimento de Conceitos Matemáticos"
+      ]
+    },
+    {
+      "subarea": "Tabelas Matemáticas",
+      "subareas_especificas": [
+        "Cálculo de Tabelas",
+        "História das Tabelas Matemáticas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Abraham de Moivre",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Aproximação da Distribuição Binomial",
+        "Teorema do Limite Central"
+      ]
+    },
+    {
+      "subarea": "Estatística Atuarial",
+      "subareas_especificas": [
+        "Anuidades",
+        "Tabelas de Mortalidade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nome": "Clifford Hugh Dowker",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria da Homologia",
+      "subareas_especificas": [
+        "Grupos de Homologia Čech",
+        "Grupos de Homologia Vietoris",
+        "Teoria de Cohomologia Alexander"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos Pontuais",
+      "subareas_especificas": [
+        "Espaços Normais",
+        "Espaços Paramétricos"
+      ]
+    },
+    {
+      "subarea": "Teoria das Categorias",
+      "subareas_especificas": [
+        "Teoria de Feixes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Nós",
+      "subareas_especificas": [
+        "Projeções de Nós"
+      ]
+    }
+  ]
+}

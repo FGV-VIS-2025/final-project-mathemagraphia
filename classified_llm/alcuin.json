@@ -1,0 +1,16 @@
+{
+  "nome": "Alcuin of York",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Plana"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": []
+    }
+  ]
+}

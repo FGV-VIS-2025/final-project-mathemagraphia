@@ -1,0 +1,55 @@
+{
+  "nome": "Simon Stevin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Irracionais",
+        "Números Negativos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Geometria de Dürer",
+        "Poliedros Regulares e Semi-regulares"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria Plana",
+        "Trigonometria Esférica"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Estática",
+        "Hidrostática"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Sistema Heliocêntrico"
+      ]
+    }
+  ]
+}

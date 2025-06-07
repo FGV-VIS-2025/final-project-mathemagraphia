@@ -1,0 +1,21 @@
+{
+  "nome": "John William Colenso",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Elementar",
+      "subareas_especificas": [
+        "Aritmética",
+        "Equações",
+        "Geometria"
+      ]
+    },
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    }
+  ]
+}

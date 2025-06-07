@@ -1,0 +1,19 @@
+{
+  "nome": "John Carr",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria de Bifurcação",
+        "Variedades Centrais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Funcionais",
+      "subareas_especificas": [
+        "Comportamento Assintótico"
+      ]
+    }
+  ]
+}

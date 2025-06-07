@@ -1,0 +1,22 @@
+{
+  "nome": "Luís Antoni Santaló Sors",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Integral",
+      "subareas_especificas": [
+        "Geometria Probabilística",
+        "Geometria Métrica",
+        "Geometria Afim",
+        "Geometria Diferencial Projetiva",
+        "Geometria de Corpos Convexos"
+      ]
+    },
+    {
+      "subarea": "Geometria Não Euclidiana",
+      "subareas_especificas": [
+        "Geometria Projetiva"
+      ]
+    }
+  ]
+}

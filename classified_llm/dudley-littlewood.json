@@ -1,0 +1,21 @@
+{
+  "nome": "Dudley Ernest Littlewood",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Representações",
+      "subareas_especificas": [
+        "Teoria de Caracteres de Grupos",
+        "Funções de Schur",
+        "Grupos Simétricos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Álgebras Não-Comutativas",
+        "Tensores"
+      ]
+    }
+  ]
+}

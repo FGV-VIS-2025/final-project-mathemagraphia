@@ -1,0 +1,20 @@
+{
+  "nome": "Witold Wilkosz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integral de Lebesgue",
+        "Funções Absolutamente Contínuas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções de Variável Real",
+      "subareas_especificas": [
+        "Derivadas",
+        "Funções Convexas"
+      ]
+    }
+  ]
+}

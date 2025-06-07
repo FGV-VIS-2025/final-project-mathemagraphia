@@ -1,0 +1,35 @@
+{
+  "nome": "Terence Chi-Shen Tao",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Integrais Singulares",
+        "Séries de Fourier",
+        "Ondas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Schrödinger não-lineares",
+        "Equações de Navier-Stokes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Aditiva",
+      "subareas_especificas": [
+        "Progressões Aritméticas",
+        "Conjectura de Collatz"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Problema de Erdős",
+        "Teoria Aditiva dos Números"
+      ]
+    }
+  ]
+}

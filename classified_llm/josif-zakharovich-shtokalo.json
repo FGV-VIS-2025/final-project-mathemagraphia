@@ -1,0 +1,23 @@
+{
+  "nome": "Josif Zakharovich Shtokalo",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações com coeficientes variáveis",
+        "Estabilidade de soluções",
+        "Métodos assintóticos",
+        "Cálculo operacional"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemática na Ucrânia",
+        "Biografias de matemáticos (Ostrogradski, Voronoy)",
+        "Cálculo Operacional"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Ruggero Giuseppe Boscovich",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo Orbital",
+        "Teoria da Gravitação"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Esférica",
+        "Geometria Analítica"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Óptica Geométrica",
+        "Lentes Acromáticas"
+      ]
+    }
+  ]
+}

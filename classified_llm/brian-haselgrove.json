@@ -1,0 +1,22 @@
+{
+  "nome": "Colin Brian Haselgrove",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Função Zeta de Riemann",
+        "Teorema de Goldbach-Vinogradov",
+        "Método de Linnik",
+        "Teorema Tauberiano de Ingham"
+      ]
+    },
+    {
+      "subarea": "Teoria Computacional dos Grupos",
+      "subareas_especificas": [
+        "Enumeração de Cosets",
+        "Método HLT"
+      ]
+    }
+  ]
+}

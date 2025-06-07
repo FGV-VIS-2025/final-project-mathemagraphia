@@ -1,0 +1,19 @@
+{
+  "nome": "Jonas Moore",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria Plana",
+        "Trigonometria Esférica"
+      ]
+    }
+  ]
+}

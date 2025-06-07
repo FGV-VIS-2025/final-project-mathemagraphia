@@ -1,0 +1,19 @@
+{
+  "nome": "Richard Vincent Kadison",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Operadores",
+      "subareas_especificas": [
+        "C*-álgebras",
+        "Álgebras de von Neumann"
+      ]
+    },
+    {
+      "subarea": "Teoria de Representação",
+      "subareas_especificas": [
+        "Representações de grupos"
+      ]
+    }
+  ]
+}

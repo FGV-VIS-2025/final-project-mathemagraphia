@@ -1,0 +1,21 @@
+{
+  "nome": "Alston Scott Householder",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes",
+        "Sistemas de Equações Lineares",
+        "Autovalores e Autovetores"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos para Sistemas Lineares",
+        "Transformações de Householder"
+      ]
+    }
+  ]
+}

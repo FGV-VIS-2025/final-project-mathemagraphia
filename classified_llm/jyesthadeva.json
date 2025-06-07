@@ -1,0 +1,20 @@
+{
+  "nome": "Jyesthadeva",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Séries de Taylor",
+        "Aproximação de funções"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de senos e cossenos",
+        "Relações entre ângulos"
+      ]
+    }
+  ]
+}

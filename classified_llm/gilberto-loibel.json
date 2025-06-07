@@ -1,0 +1,20 @@
+{
+  "nome": "Gilberto Francisco Loibel",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos de Homotopia",
+        "Teoria de Fibrações"
+      ]
+    },
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Variedades Diferenciáveis",
+        "Teoria de Singularidades"
+      ]
+    }
+  ]
+}

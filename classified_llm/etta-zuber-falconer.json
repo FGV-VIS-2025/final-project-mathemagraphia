@@ -1,0 +1,14 @@
+{
+  "nome": "Etta Zuber Falconer",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Quase-Grupos",
+      "subareas_especificas": [
+        "Identidades de Quase-Grupos",
+        "Isotopia de Quase-Grupos",
+        "Loops de Moufang"
+      ]
+    }
+  ]
+}

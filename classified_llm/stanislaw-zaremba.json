@@ -1,0 +1,18 @@
+{
+  "nome": "Stanisław Zaremba",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Problemas de Contorno"
+      ]
+    },
+    {
+      "subarea": "Equações Elípticas",
+      "subareas_especificas": [
+        "Princípio de Dirichlet"
+      ]
+    }
+  ]
+}

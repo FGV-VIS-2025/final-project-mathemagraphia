@@ -1,0 +1,19 @@
+{
+  "nome": "Samuel Giuseppe Vito Volterra",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria de Funcionais"
+      ]
+    }
+  ]
+}

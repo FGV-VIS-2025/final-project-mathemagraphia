@@ -1,0 +1,27 @@
+{
+  "nome": "Enriqueta González Baz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Sistemas de Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Séries de Bessel",
+        "Séries de Legendre"
+      ]
+    },
+    {
+      "subarea": "Teoria de Redes",
+      "subareas_especificas": [
+        "Redes Distributivas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Steven Vajda",
+  "area_principal": "Pesquisa Operacional",
+  "subareas": [
+    {
+      "subarea": "Programação Linear",
+      "subareas_especificas": [
+        "Teoria dos Jogos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Jogos",
+      "subareas_especificas": [
+        "Teoria da Dualidade"
+      ]
+    }
+  ]
+}

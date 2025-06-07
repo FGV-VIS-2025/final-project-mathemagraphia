@@ -1,0 +1,20 @@
+{
+  "nome": "Zeno of Elea",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Limites",
+        "Infinitesimais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos infinitos",
+        "Números transfinitos"
+      ]
+    }
+  ]
+}

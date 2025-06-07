@@ -1,0 +1,32 @@
+{
+  "nome": "Gerd Faltings",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Diofantina",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Cohomologia p-ádica",
+      "subareas_especificas": [
+        "Teoria de Hodge p-ádica"
+      ]
+    },
+    {
+      "subarea": "Variedades de Shimura",
+      "subareas_especificas": [
+        "Compactificações Toroidais"
+      ]
+    },
+    {
+      "subarea": "Fibrados Vetoriais",
+      "subareas_especificas": [
+        "Fórmula de Verlinde",
+        "Grupos de Laços",
+        "Divisores Theta"
+      ]
+    }
+  ]
+}

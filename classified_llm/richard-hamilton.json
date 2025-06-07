@@ -1,0 +1,18 @@
+{
+  "nome": "Richard Streit Hamilton",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Fluxos Geomtricos",
+      "subareas_especificas": [
+        "Fluxo de Ricci"
+      ]
+    },
+    {
+      "subarea": "Análise Geométrica",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Não-Lineares"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Sijue Wu",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Integrais Singulares",
+        "Ondelets"
+      ]
+    }
+  ]
+}

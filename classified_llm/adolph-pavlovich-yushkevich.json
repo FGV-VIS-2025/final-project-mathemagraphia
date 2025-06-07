@@ -1,0 +1,18 @@
+{
+  "nome": "Adolph Andrei Pavlovich Yushkevich",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Medieval",
+      "subareas_especificas": [
+        "-"
+      ]
+    },
+    {
+      "subarea": "Matemática do Século XVIII",
+      "subareas_especificas": [
+        "Euler"
+      ]
+    }
+  ]
+}

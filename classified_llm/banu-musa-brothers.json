@@ -1,0 +1,19 @@
+{
+  "nome": "Banu Musa brothers",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Cálculo de áreas",
+        "Método de exaustão"
+      ]
+    },
+    {
+      "subarea": "Geometria Espacial",
+      "subareas_especificas": [
+        "Cálculo de volumes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Aleksandr Nikolaevich Korkin",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas quadráticas positivas definidas",
+        "Formas quadráticas extremais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações diferenciais parciais de primeira ordem"
+      ]
+    }
+  ]
+}

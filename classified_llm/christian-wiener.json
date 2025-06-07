@@ -1,0 +1,19 @@
+{
+  "nome": "Ludwig Christian Wiener",
+  "area_principal": "Geometria Descritiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Projeções",
+        "Transformações geométricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas e Superfícies"
+      ]
+    }
+  ]
+}

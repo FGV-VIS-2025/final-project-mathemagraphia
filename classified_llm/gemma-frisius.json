@@ -1,0 +1,26 @@
+{
+  "nome": "Regnier Gemma Frisius",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Mapas",
+        "Globos",
+        "Instrumentos Astronômicos"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Triangulação"
+      ]
+    },
+    {
+      "subarea": "Navegação",
+      "subareas_especificas": [
+        "Longitude"
+      ]
+    }
+  ]
+}

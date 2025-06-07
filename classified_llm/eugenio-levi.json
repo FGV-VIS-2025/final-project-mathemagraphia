@@ -1,0 +1,28 @@
+{
+  "nome": "Eugenio Elia Levi",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Lineares",
+        "Equações Não-Lineares",
+        "Problema de Cauchy",
+        "Problema de Goursat"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções de Várias Variáveis Complexas",
+      "subareas_especificas": [
+        "Pontos Singulares Essenciais",
+        "Hipersuperfícies"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Grupos de Lie"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "nome": "Thoralf Albert Skolem",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axioma da Escolha"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Modelos Não-Padrão",
+        "Teoria dos Modelos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Sistemas Numéricos Associativos"
+      ]
+    }
+  ]
+}

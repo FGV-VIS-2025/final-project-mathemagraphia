@@ -1,0 +1,20 @@
+{
+  "nome": "Hans Samelson",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Álgebras de Lie",
+        "Teoria de Representação"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Espaços de recobrimento",
+        "Homotopia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Ida Rhodes",
+  "area_principal": "Computação",
+  "subareas": [
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Cálculo Numérico",
+        "Programação de Computadores"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Estatística Computacional"
+      ]
+    }
+  ]
+}

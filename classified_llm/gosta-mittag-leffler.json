@@ -1,0 +1,20 @@
+{
+  "nome": "Magnus Gösta Mittag-Leffler",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções inteiras",
+        "Funções meromorfas"
+      ]
+    },
+    {
+      "subarea": "Séries de funções",
+      "subareas_especificas": [
+        "Séries de potências",
+        "Somatório de séries divergentes"
+      ]
+    }
+  ]
+}

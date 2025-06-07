@@ -1,0 +1,24 @@
+{
+  "nome": "Ricardo Mañé Ramirez",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos Suaves",
+        "Entropia",
+        "Expoentes de Lyapunov"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos Diferenciáveis",
+      "subareas_especificas": [
+        "Difomorfismos",
+        "Estabilidade",
+        "Conjectura de Estabilidade",
+        "Conjuntos Invariantes Relativos",
+        "Fluxos Lagrangianos"
+      ]
+    }
+  ]
+}

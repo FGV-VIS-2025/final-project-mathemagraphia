@@ -1,0 +1,32 @@
+{
+  "nome": "Arthur Erdélyi",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Função Hipergeométrica",
+        "Polinômios Ortogonais",
+        "Funções de Lamé"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Singulares"
+      ]
+    },
+    {
+      "subarea": "Análise Assintótica",
+      "subareas_especificas": [
+        "Expansões Assintóticas"
+      ]
+    },
+    {
+      "subarea": "Transformadas Integrais",
+      "subareas_especificas": [
+        "Transformadas Integrais"
+      ]
+    }
+  ]
+}

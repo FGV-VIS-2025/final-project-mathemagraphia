@@ -1,0 +1,26 @@
+{
+  "nome": "Ludwig Georg Elias Moses Bieberbach",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Automórficas",
+      "subareas_especificas": [
+        "Funções Holomorfas",
+        "Representação Conforme"
+      ]
+    },
+    {
+      "subarea": "Teoria Geométrica das Funções",
+      "subareas_especificas": [
+        "Conjectura de Bieberbach",
+        "Mapeamento Conforme"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias"
+      ]
+    }
+  ]
+}

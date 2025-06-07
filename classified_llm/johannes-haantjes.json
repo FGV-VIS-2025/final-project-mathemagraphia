@@ -1,0 +1,20 @@
+{
+  "nome": "Johannes Haantjes",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Geometria Conforme",
+        "Geometria Afim"
+      ]
+    },
+    {
+      "subarea": "Geometria Métrica",
+      "subareas_especificas": [
+        "Espaços Métricos",
+        "Curvatura em Espaços Métricos"
+      ]
+    }
+  ]
+}

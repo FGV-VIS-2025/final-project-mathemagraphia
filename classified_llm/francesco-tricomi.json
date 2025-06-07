@@ -1,0 +1,41 @@
+{
+  "nome": "Francesco Giacomo Tricomi",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais de Tipo Misto",
+      "subareas_especificas": [
+        "Equação de Tricomi"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções Hipergeométricas Confluentes",
+        "Função Gama Incompleta",
+        "Funções de Bessel",
+        "Polinômios de Laguerre",
+        "Polinômios de Hermite"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares"
+      ]
+    },
+    {
+      "subarea": "Análise Assintótica",
+      "subareas_especificas": [
+        "Desenvolvimento em Séries",
+        "Transformações Integrais"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Teoria da Probabilidade Aplicada à Teoria dos Números"
+      ]
+    }
+  ]
+}

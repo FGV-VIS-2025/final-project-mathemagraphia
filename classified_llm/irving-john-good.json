@@ -1,0 +1,20 @@
+{
+  "nome": "Irving John Good",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Aproximações Racionais",
+        "Dimensão Fracionária"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade Subjetiva",
+        "Inferência Bayesiana"
+      ]
+    }
+  ]
+}

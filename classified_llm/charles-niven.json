@@ -1,0 +1,18 @@
+{
+  "nome": "Charles Niven",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Astrofísica"
+      ]
+    }
+  ]
+}

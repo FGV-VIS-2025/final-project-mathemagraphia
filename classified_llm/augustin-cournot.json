@@ -1,0 +1,27 @@
+{
+  "nome": "Antoine Augustin Cournot",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Dinâmica de Corpos Rígidos",
+        "Mecânica de Fluidos"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria das Probabilidades",
+        "Estatística"
+      ]
+    }
+  ]
+}

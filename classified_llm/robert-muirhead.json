@@ -1,0 +1,13 @@
+{
+  "nome": "Robert Franklin Muirhead",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Inequalidades",
+      "subareas_especificas": [
+        "Médias",
+        "Convexidade"
+      ]
+    }
+  ]
+}

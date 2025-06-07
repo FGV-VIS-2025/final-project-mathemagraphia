@@ -1,0 +1,12 @@
+{
+  "nome": "Richard Alexander Robb",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Inferência Estatística"
+      ]
+    }
+  ]
+}

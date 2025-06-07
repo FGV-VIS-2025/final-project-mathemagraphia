@@ -1,0 +1,21 @@
+{
+  "nome": "Luis Ángel Caffarelli",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Não-Lineares",
+      "subareas_especificas": [
+        "Problemas de Fronteira Livre",
+        "Equações Completamente Não-Lineares",
+        "Regularidade de Soluções"
+      ]
+    },
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Integração"
+      ]
+    }
+  ]
+}

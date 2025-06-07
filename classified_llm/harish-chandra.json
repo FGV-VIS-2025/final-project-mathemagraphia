@@ -1,0 +1,20 @@
+{
+  "nome": "Harish-Chandra",
+  "area_principal": "Teoria de Representações",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Álgebras de Lie",
+        "Grupos de Lie semi-simples"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Medida de Plancherel",
+        "Séries de Eisenstein"
+      ]
+    }
+  ]
+}

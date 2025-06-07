@@ -1,0 +1,21 @@
+{
+  "nome": "Enrico Magenes",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Problemas de Valor de Contorno",
+      "subareas_especificas": [
+        "Problemas Elípticos",
+        "Problemas Parabólicos",
+        "Problemas Hiperbólicos"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Teoria de Semigrupos"
+      ]
+    }
+  ]
+}

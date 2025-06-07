@@ -1,0 +1,19 @@
+{
+  "nome": "Jean François Chazy",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equações de Painlevé"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Problema dos Três Corpos",
+        "Teoria da Relatividade"
+      ]
+    }
+  ]
+}

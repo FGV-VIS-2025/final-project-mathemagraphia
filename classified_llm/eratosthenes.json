@@ -1,0 +1,19 @@
+{
+  "nome": "Eratosthenes of Cyrene",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Duplicação do Cubo"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Crivo de Eratóstenes"
+      ]
+    }
+  ]
+}

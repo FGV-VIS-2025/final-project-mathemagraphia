@@ -1,0 +1,21 @@
+{
+  "nome": "Ernst Carl Gerlach Stueckelberg",
+  "area_principal": "Física Teórica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Quântica de Campos",
+        "Eletrodinâmica Quântica",
+        "Renormalização"
+      ]
+    },
+    {
+      "subarea": "Teoria de Partículas",
+      "subareas_especificas": [
+        "Interações Nucleares",
+        "Bósons Vetoriais"
+      ]
+    }
+  ]
+}

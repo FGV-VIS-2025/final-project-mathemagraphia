@@ -1,0 +1,20 @@
+{
+  "nome": "William Browder",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria da Cirurgia",
+      "subareas_especificas": [
+        "Teoria de Homotopia",
+        "Teoria de Manifolds"
+      ]
+    },
+    {
+      "subarea": "Homologia de Espaços de Laços",
+      "subareas_especificas": [
+        "Espaços de Laços",
+        "Operações de Homologia"
+      ]
+    }
+  ]
+}

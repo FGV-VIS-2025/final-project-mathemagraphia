@@ -1,0 +1,20 @@
+{
+  "nome": "Michel Rolle",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Método das Cascatas",
+        "Teorema de Rolle"
+      ]
+    },
+    {
+      "subarea": "Análise Diofantina",
+      "subareas_especificas": [
+        "Equações Diofantinas Lineares",
+        "Algoritmo Euclidiano"
+      ]
+    }
+  ]
+}

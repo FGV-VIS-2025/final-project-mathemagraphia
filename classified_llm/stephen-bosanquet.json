@@ -1,0 +1,22 @@
+{
+  "nome": "Lancelot Stephen Bosanquet",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries e Integração",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Integrais de Laplace-Stieltjes",
+        "Somatória de Cesàro",
+        "Séries de Dirichlet",
+        "Integração Fracionária"
+      ]
+    },
+    {
+      "subarea": "Transformações de Matrizes",
+      "subareas_especificas": [
+        "Espaços de Sequências"
+      ]
+    }
+  ]
+}

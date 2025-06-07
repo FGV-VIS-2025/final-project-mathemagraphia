@@ -1,0 +1,20 @@
+{
+  "nome": "Boris Grigorievich Galerkin",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Método dos Elementos Finitos",
+      "subareas_especificas": [
+        "Método de Galerkin",
+        "Integração Aproximada de Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Sólidos",
+      "subareas_especificas": [
+        "Teoria da Elasticidade",
+        "Placas Elásticas Finas"
+      ]
+    }
+  ]
+}

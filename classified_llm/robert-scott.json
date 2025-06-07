@@ -1,0 +1,13 @@
+{
+  "nome": "Robert Forsyth Scott",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Determinantes",
+      "subareas_especificas": [
+        "Teoria de Matrizes",
+        "Aplicações de Determinantes"
+      ]
+    }
+  ]
+}

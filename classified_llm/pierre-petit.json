@@ -1,0 +1,18 @@
+{
+  "nome": "Pierre Petit",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Instrumentação Astronômica",
+      "subareas_especificas": [
+        "Filar micrômetro"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Experimentos de vácuo"
+      ]
+    }
+  ]
+}

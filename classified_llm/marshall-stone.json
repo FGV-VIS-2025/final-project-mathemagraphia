@@ -1,0 +1,19 @@
+{
+  "nome": "Marshall Harvey Stone",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria de Operadores",
+      "subareas_especificas": [
+        "Operadores Autoadjuntos",
+        "Teoria Espectral"
+      ]
+    },
+    {
+      "subarea": "Álgebras Booleanas",
+      "subareas_especificas": [
+        "Compactificação de Stone-Čech"
+      ]
+    }
+  ]
+}

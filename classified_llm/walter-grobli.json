@@ -1,0 +1,13 @@
+{
+  "nome": "Walter Gröbli",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Teoria de Vórtices",
+        "Hidrodinâmica"
+      ]
+    }
+  ]
+}

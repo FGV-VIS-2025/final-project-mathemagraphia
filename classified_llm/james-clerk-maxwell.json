@@ -1,0 +1,19 @@
+{
+  "nome": "James Clerk Maxwell",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Teoria Eletromagnética",
+      "subareas_especificas": [
+        "Eletromagnetismo",
+        "Ondas Eletromagnéticas"
+      ]
+    }
+  ]
+}

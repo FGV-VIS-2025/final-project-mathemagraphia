@@ -1,0 +1,28 @@
+{
+  "nome": "Richard Ewen Borcherds",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Representação",
+      "subareas_especificas": [
+        "Álgebras de Kac-Moody",
+        "Álgebras de Lie",
+        "Grupos Finitos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Automórficas",
+        "Funções Modulares"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    }
+  ]
+}

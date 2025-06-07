@@ -1,0 +1,26 @@
+{
+  "nome": "Louis Charles Karpinski",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Resíduos Quadráticos"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra de Al-Khwarizmi",
+        "Álgebra de Abu-Kamil"
+      ]
+    },
+    {
+      "subarea": "Cartografia Histórica",
+      "subareas_especificas": [
+        "Mapas da América pré-1800",
+        "Mapas dos Grandes Lagos"
+      ]
+    }
+  ]
+}

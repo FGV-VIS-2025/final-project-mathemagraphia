@@ -1,0 +1,20 @@
+{
+  "nome": "John Craig",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Diferenciação",
+        "Derivadas"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integração",
+        "Integrais Definidas e Indefinidas"
+      ]
+    }
+  ]
+}

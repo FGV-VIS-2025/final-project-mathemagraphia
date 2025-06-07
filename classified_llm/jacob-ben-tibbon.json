@@ -1,0 +1,18 @@
+{
+  "nome": "Jacob ben Machir ibn Tibbon",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Astronomia Esférica"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Tabelas Astronômicas"
+      ]
+    }
+  ]
+}

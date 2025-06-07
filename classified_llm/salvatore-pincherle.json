@@ -1,0 +1,21 @@
+{
+  "nome": "Salvatore Pincherle",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Equações Funcionais",
+        "Operadores Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Transformada de Laplace",
+        "Equações Integrais"
+      ]
+    }
+  ]
+}

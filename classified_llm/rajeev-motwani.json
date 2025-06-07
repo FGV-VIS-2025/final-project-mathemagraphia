@@ -1,0 +1,31 @@
+{
+  "nome": "Rajeev Motwani",
+  "area_principal": "Ciência da Computação",
+  "subareas": [
+    {
+      "subarea": "Algoritmos",
+      "subareas_especificas": [
+        "Algoritmos Probabilísticos",
+        "Algoritmos de Fluxo em Rede",
+        "Algoritmos de Combinatória",
+        "Algoritmos Geométricos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Teoria da Complexidade",
+        "Autômatos e Linguagens Formais",
+        "Provas Verificáveis Probabilisticamente"
+      ]
+    },
+    {
+      "subarea": "Mineração de Dados",
+      "subareas_especificas": [
+        "Recuperação de Informação",
+        "Busca de Similaridade",
+        "Algoritmos de Streaming"
+      ]
+    }
+  ]
+}

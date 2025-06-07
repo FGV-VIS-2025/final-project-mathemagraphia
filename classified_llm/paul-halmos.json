@@ -1,0 +1,18 @@
+{
+  "nome": "Paul Richard Halmos",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoria da Probabilidade"
+      ]
+    },
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Teoria de Operadores"
+      ]
+    }
+  ]
+}

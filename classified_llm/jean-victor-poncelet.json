@@ -1,0 +1,28 @@
+{
+  "nome": "Jean Victor Poncelet",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Cônicas",
+      "subareas_especificas": [
+        "Propriedades Projetivas",
+        "Pontos Cíclicos no Infinito",
+        "Polos e Polares"
+      ]
+    },
+    {
+      "subarea": "Transformações Projetivas",
+      "subareas_especificas": [
+        "Razão Cruzada",
+        "Perspectiva",
+        "Involução"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Aplicações de análise e geometria"
+      ]
+    }
+  ]
+}

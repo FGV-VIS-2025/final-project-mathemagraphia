@@ -1,0 +1,20 @@
+{
+  "nome": "Armand Borel",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Cohomologia",
+        "Teoria de Representações"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Grupos Algébricos",
+        "Formas Automórficas"
+      ]
+    }
+  ]
+}

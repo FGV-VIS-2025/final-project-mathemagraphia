@@ -1,0 +1,27 @@
+{
+  "nome": "John Michael Hammersley",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Métodos de Monte Carlo",
+      "subareas_especificas": [
+        "Simulação estocástica",
+        "Integração funcional"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos numéricos para problemas estatísticos",
+        "Redução de matrizes"
+      ]
+    },
+    {
+      "subarea": "Teoria da Estimativa",
+      "subareas_especificas": [
+        "Estimação de parâmetros restritos",
+        "Estimação em espaços discretos"
+      ]
+    }
+  ]
+}

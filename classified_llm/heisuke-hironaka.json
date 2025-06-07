@@ -1,0 +1,13 @@
+{
+  "nome": "Heisuke Hironaka",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Resolução de Singularidades",
+      "subareas_especificas": [
+        "Variedades Algébricas",
+        "Teoria de Birational"
+      ]
+    }
+  ]
+}

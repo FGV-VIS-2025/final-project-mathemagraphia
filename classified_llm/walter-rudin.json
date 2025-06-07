@@ -1,0 +1,28 @@
+{
+  "nome": "Walter Rudin",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Séries Trigonométricas",
+        "Integração (Lebesgue, Riemann-Stieltjes)",
+        "Teoria da Medida",
+        "Espaços Métricos"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Holomorfas",
+        "Funções de Várias Variáveis Complexas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Álgebras de Banach"
+      ]
+    }
+  ]
+}

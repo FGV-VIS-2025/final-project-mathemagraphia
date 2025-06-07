@@ -1,0 +1,20 @@
+{
+  "nome": "Attia Abdel Salam Ashour",
+  "area_principal": "Matemática Aplicada",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Integrais",
+        "Métodos Numéricos"
+      ]
+    },
+    {
+      "subarea": "Geofísica Matemática",
+      "subareas_especificas": [
+        "Indução Eletromagnética",
+        "Eletromagnetismo"
+      ]
+    }
+  ]
+}

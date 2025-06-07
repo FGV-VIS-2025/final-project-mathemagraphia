@@ -1,0 +1,20 @@
+{
+  "nome": "Richard Dagobert Brauer",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Representações",
+      "subareas_especificas": [
+        "Caracteres de Grupos",
+        "Grupos Simples",
+        "Álgebras Simples"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Séries L de Artin"
+      ]
+    }
+  ]
+}

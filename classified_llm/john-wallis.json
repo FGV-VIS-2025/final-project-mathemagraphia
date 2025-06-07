@@ -1,0 +1,19 @@
+{
+  "nome": "John Wallis",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integrais Definidas",
+        "Método dos Indivisíveis"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Interpolação"
+      ]
+    }
+  ]
+}

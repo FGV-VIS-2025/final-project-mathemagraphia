@@ -1,0 +1,19 @@
+{
+  "nome": "George Johnston Allman",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Grega",
+      "subareas_especificas": [
+        "Geometria Grega",
+        "Aritmética Grega"
+      ]
+    },
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Métodos de Dedução Histórica"
+      ]
+    }
+  ]
+}

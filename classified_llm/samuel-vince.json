@@ -1,0 +1,26 @@
+{
+  "nome": "Samuel Vince",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Somatório de Séries Infinitas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Fluxos",
+        "Métodos de continuação"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Movimento progressivo e rotatório",
+        "Movimento de corpos afetados pelo atrito"
+      ]
+    }
+  ]
+}

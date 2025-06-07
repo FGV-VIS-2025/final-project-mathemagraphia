@@ -1,0 +1,21 @@
+{
+  "nome": "Stephen Smale",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Teoria de Morse",
+        "Sistemas Dinâmicos",
+        "Conjectura de Poincaré"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Atratores Estranhos",
+        "Caos"
+      ]
+    }
+  ]
+}

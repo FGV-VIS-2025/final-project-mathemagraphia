@@ -1,0 +1,18 @@
+{
+  "nome": "Karl Sigmund",
+  "area_principal": "Teoria Ergódica",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Diffeomorfismos Axiom A"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medidas Invariantes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nome": "Robert Taylor Dunbar",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Raios-X",
+      "subareas_especificas": [
+        "Absorção de Raios-X",
+        "Espalhamento de Raios-X",
+        "Espectroscopia de Raios-X"
+      ]
+    }
+  ]
+}

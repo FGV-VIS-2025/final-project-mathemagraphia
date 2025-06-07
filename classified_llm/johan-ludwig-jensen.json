@@ -1,0 +1,27 @@
+{
+  "nome": "Johan Ludwig William Valdemar Jensen",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Holomorfas",
+      "subareas_especificas": [
+        "Teoria de Funções",
+        "Séries de Potências"
+      ]
+    },
+    {
+      "subarea": "Função Gama",
+      "subareas_especificas": [
+        "Funções Especiais",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Inequações",
+      "subareas_especificas": [
+        "Análise Funcional",
+        "Convexidade"
+      ]
+    }
+  ]
+}

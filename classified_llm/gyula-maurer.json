@@ -1,0 +1,21 @@
+{
+  "nome": "Gyula Iulius Maurer",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Anéis",
+        "Teoria de Módulos"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Grupos Topológicos",
+        "Anéis Topológicos"
+      ]
+    }
+  ]
+}

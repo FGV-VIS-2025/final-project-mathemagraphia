@@ -1,0 +1,15 @@
+{
+  "nome": "William Henry Fox Talbot",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Integrais Elípticas",
+      "subareas_especificas": [
+        "Integrais Elípticas de Euler",
+        "Integrais Elípticas de Legendre",
+        "Integrais Elípticas de Jacobi",
+        "Integrais Elípticas de Abel"
+      ]
+    }
+  ]
+}

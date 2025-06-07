@@ -1,0 +1,13 @@
+{
+  "nome": "Hildegard Rothe-Ille",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria de Ramsey",
+      "subareas_especificas": [
+        "Conjecturas de Ramsey",
+        "Arrays livres de progressões aritméticas"
+      ]
+    }
+  ]
+}

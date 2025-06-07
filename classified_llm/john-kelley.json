@@ -1,0 +1,25 @@
+{
+  "nome": "John Leroy Kelley",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Espaços Métricos",
+        "Conjuntos Abertos",
+        "Conjuntos Fechados",
+        "Continuidade",
+        "Conexidade",
+        "Compacidade"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos de Homotopia",
+        "Homologia",
+        "Cohomologia"
+      ]
+    }
+  ]
+}

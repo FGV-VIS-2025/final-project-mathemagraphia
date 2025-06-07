@@ -1,0 +1,22 @@
+{
+  "nome": "Jaime Alfonso Escalante",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Limites",
+        "Derivadas",
+        "Aplicações de Derivadas"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais Definidas",
+        "Integrais Indefinidas",
+        "Teorema Fundamental do Cálculo"
+      ]
+    }
+  ]
+}

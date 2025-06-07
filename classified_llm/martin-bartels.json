@@ -1,0 +1,19 @@
+{
+  "nome": "Johann Christian Martin Bartels",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial de Curvas",
+      "subareas_especificas": [
+        "Fórmulas de Frenet-Serret",
+        "Triédre de Frenet"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Linear"
+      ]
+    }
+  ]
+}

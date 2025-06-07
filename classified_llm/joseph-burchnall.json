@@ -1,0 +1,19 @@
+{
+  "nome": "Joseph Langley Burchnall",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções Hipergeométricas",
+        "Funções de Bessel"
+      ]
+    },
+    {
+      "subarea": "Operadores Diferenciais",
+      "subareas_especificas": [
+        "Operadores Comutativos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nome": "Marcel Grossmann",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Cálculo Tensorial",
+        "Geometria Riemanniana"
+      ]
+    },
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": []
+    }
+  ]
+}

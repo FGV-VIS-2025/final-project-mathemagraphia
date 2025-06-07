@@ -1,0 +1,19 @@
+{
+  "nome": "John William Mauchly",
+  "area_principal": "Computação",
+  "subareas": [
+    {
+      "subarea": "Computação Numérica",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Análise Numérica"
+      ]
+    },
+    {
+      "subarea": "Engenharia de Computação",
+      "subareas_especificas": [
+        "Circuitos Elétricos"
+      ]
+    }
+  ]
+}

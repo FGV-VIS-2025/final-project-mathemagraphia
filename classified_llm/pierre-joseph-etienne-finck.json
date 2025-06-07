@@ -1,0 +1,12 @@
+{
+  "nome": "Pierre-Joseph-Étienne Finck",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Algoritmo Euclidiano"
+      ]
+    }
+  ]
+}

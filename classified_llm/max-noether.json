@@ -1,0 +1,14 @@
+{
+  "nome": "Max Noether",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Transformações Birracionais",
+        "Curvas Algébricas",
+        "Superfícies Algébricas"
+      ]
+    }
+  ]
+}

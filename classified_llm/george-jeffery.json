@@ -1,0 +1,20 @@
+{
+  "nome": "George Barker Jeffery",
+  "area_principal": "Relatividade",
+  "subareas": [
+    {
+      "subarea": "Teoria da Relatividade Geral",
+      "subareas_especificas": [
+        "Gravitação",
+        "Cosmologia"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades Riemannianas",
+        "Conexões"
+      ]
+    }
+  ]
+}

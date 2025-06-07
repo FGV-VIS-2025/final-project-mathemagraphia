@@ -1,0 +1,19 @@
+{
+  "nome": "Aryeh Dvoretzky",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria da medida",
+        "Geometria Convexa"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Movimento Browniano"
+      ]
+    }
+  ]
+}

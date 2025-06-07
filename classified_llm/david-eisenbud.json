@@ -1,0 +1,23 @@
+{
+  "nome": "David Eisenbud",
+  "area_principal": "Álgebra Comutativa",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis Comutativos",
+        "Anéis Noetherianos",
+        "Módulos sobre Anéis",
+        "Geometria Algébrica"
+      ]
+    },
+    {
+      "subarea": "Álgebra Homológica",
+      "subareas_especificas": [
+        "Complexos Livres",
+        "Resoluções",
+        "Singularidades"
+      ]
+    }
+  ]
+}

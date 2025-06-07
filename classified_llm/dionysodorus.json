@@ -1,0 +1,19 @@
+{
+  "nome": "Dionysodorus",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Equações Cúbicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Volumes de Sólidos de Revolução"
+      ]
+    }
+  ]
+}

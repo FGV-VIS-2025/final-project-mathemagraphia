@@ -1,0 +1,18 @@
+{
+  "nome": "Fritz Alfred Joachim Grunewald",
+  "area_principal": "Teoria dos Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos de Burnside"
+      ]
+    },
+    {
+      "subarea": "Grupos Infinitos",
+      "subareas_especificas": [
+        "Grupos Policíclicos"
+      ]
+    }
+  ]
+}

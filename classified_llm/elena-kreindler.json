@@ -1,0 +1,27 @@
+{
+  "nome": "Eléna Wexler-Kreindler",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis Filtrados",
+        "Extensões de Ore"
+      ]
+    },
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Aplicações em Geometria",
+        "Aplicações em Teoria dos Números"
+      ]
+    }
+  ]
+}

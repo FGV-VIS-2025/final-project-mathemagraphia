@@ -1,0 +1,20 @@
+{
+  "nome": "Beatrice Mabel Cave-Browne-Cave",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Bioestatística",
+      "subareas_especificas": [
+        "Análise de dados",
+        "Métodos estatísticos para biologia"
+      ]
+    },
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Métodos numéricos para equações diferenciais",
+        "Aproximações numéricas"
+      ]
+    }
+  ]
+}

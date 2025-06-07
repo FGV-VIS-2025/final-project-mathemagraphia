@@ -1,0 +1,12 @@
+{
+  "nome": "Adrien Quentin Buée",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Números Complexos",
+      "subareas_especificas": [
+        "Interpretação Geométrica"
+      ]
+    }
+  ]
+}

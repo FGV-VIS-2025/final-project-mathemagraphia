@@ -1,0 +1,18 @@
+{
+  "nome": "Philippe de La Hire",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Seções Cônicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Soluções de equações por interseções de curvas"
+      ]
+    }
+  ]
+}

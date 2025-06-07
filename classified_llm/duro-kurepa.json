@@ -1,0 +1,31 @@
+{
+  "nome": "Đuro Kurepa",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos Ordenados",
+        "Conjuntos Ramificados",
+        "Espaços Pseudométricos",
+        "Hipótese do Contínuo",
+        "Axioma da Escolha",
+        "Árvores de Suslin",
+        "Árvores de Aronszajn"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Espaços Métricos",
+        "Espaços Pseudométricos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Função Fatorial Esquerda"
+      ]
+    }
+  ]
+}

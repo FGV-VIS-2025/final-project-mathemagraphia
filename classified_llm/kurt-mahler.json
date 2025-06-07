@@ -1,0 +1,24 @@
+{
+  "nome": "Kurt Mahler",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Aproximação Diofantina p-ádica"
+      ]
+    },
+    {
+      "subarea": "Números Transcendentais",
+      "subareas_especificas": [
+        "Classificação de Números Transcendentais"
+      ]
+    },
+    {
+      "subarea": "Números p-ádicos",
+      "subareas_especificas": [
+        "Análise p-ádica"
+      ]
+    }
+  ]
+}

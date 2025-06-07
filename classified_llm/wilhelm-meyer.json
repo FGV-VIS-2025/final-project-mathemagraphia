@@ -1,0 +1,19 @@
+{
+  "nome": "Friedrich Wilhelm Franz Meyer",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Teoria de curvas algébricas",
+        "Geometria Projetiva"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Variedades de Segre"
+      ]
+    }
+  ]
+}

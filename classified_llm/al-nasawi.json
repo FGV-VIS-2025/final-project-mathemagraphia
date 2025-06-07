@@ -1,0 +1,26 @@
+{
+  "nome": "Abu l'Hasan Ali ibn Ahmad Al-Nasawi",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Frações",
+      "subareas_especificas": [
+        "Frações Próprias",
+        "Frações Impróprias"
+      ]
+    },
+    {
+      "subarea": "Sistema Sexagesimal",
+      "subareas_especificas": [
+        "Operações aritméticas com números sexagesimais"
+      ]
+    },
+    {
+      "subarea": "Extração de Raízes",
+      "subareas_especificas": [
+        "Raiz quadrada",
+        "Raiz cúbica"
+      ]
+    }
+  ]
+}

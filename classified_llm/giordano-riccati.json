@@ -1,0 +1,27 @@
+{
+  "nome": "Giordano Riccati",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos sólidos",
+      "subareas_especificas": [
+        "Elasticidade",
+        "Resistência dos materiais"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos fluidos",
+      "subareas_especificas": [
+        "Hidráulica",
+        "Acústica"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria analítica",
+        "Geometria diferencial"
+      ]
+    }
+  ]
+}

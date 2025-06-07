@@ -1,0 +1,26 @@
+{
+  "nome": "Aleksandr Mikhailovich Lyapunov",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Estabilidade de Fluidos",
+        "Equilíbrio de Fluidos Rotativos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Estabilidade de Movimento",
+        "Teoria da Estabilidade"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teorema do Limite Central"
+      ]
+    }
+  ]
+}

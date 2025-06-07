@@ -1,0 +1,20 @@
+{
+  "nome": "Nicolai Vasilievich Bugaev",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções de Variável Real",
+      "subareas_especificas": [
+        "Convergência de Séries Infinitas",
+        "Funções Descontínuas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Identidades Numéricas",
+        "Analogia entre operações em Teoria dos Números e Análise"
+      ]
+    }
+  ]
+}

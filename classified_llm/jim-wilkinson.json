@@ -1,0 +1,22 @@
+{
+  "nome": "James Hardy Wilkinson",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear Numérica",
+      "subareas_especificas": [
+        "Análise de Erros",
+        "Métodos Numéricos para Sistemas Lineares",
+        "Problemas de Autovalores"
+      ]
+    },
+    {
+      "subarea": "Computação Numérica",
+      "subareas_especificas": [
+        "Análise Numérica",
+        "Algoritmos Numéricos",
+        "Software para Computação Científica"
+      ]
+    }
+  ]
+}

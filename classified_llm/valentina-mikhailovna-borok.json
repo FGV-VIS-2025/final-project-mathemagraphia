@@ -1,0 +1,21 @@
+{
+  "nome": "Valentina Mikhailovna Borok",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Lineares",
+      "subareas_especificas": [
+        "Problemas de Cauchy",
+        "Problemas de Valor de Contorno",
+        "Soluções Fundamentais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Funcionais",
+      "subareas_especificas": [
+        "Equações Diferenciais a Diferenças",
+        "Equações Diferenciais Diferenciais a Diferenças"
+      ]
+    }
+  ]
+}

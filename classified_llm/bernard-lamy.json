@@ -1,0 +1,33 @@
+{
+  "nome": "Bernard Lamy",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Equilíbrio de sólidos e líquidos",
+        "Paralelogramo de forças"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Aritmética",
+        "Análise"
+      ]
+    },
+    {
+      "subarea": "Perspectiva",
+      "subareas_especificas": [
+        "Óptica",
+        "Representação de objetos"
+      ]
+    }
+  ]
+}

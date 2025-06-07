@@ -1,0 +1,20 @@
+{
+  "nome": "François-Jacques-Philippe Folie",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Cartesiana",
+        "Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Teoria do Calor"
+      ]
+    }
+  ]
+}

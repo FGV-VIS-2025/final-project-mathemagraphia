@@ -1,0 +1,28 @@
+{
+  "nome": "Gino Benedetto Loria",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria de Linhas e Esferas",
+        "Geometria Projetiva Hiperespacial",
+        "Transformações de Cremona"
+      ]
+    },
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Métodos de Geometria Descritiva"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Geometria Grega",
+        "Geometria Algébrica",
+        "Geometria Numérica"
+      ]
+    }
+  ]
+}

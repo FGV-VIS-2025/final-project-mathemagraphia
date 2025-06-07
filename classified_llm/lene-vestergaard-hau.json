@@ -1,0 +1,13 @@
+{
+  "nome": "Lene Vestergaard Hau",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Condensados de Bose-Einstein",
+        "Interferência Quântica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Jacques Jean-Pierre Joseph Neveu",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Cadeias de Markov",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Semi-grupos de Markov",
+        "Teoria ergódica"
+      ]
+    },
+    {
+      "subarea": "Processos Gaussianos",
+      "subareas_especificas": [
+        "Processos estocásticos"
+      ]
+    },
+    {
+      "subarea": "Martingales",
+      "subareas_especificas": [
+        "Martingales de tempo discreto"
+      ]
+    }
+  ]
+}

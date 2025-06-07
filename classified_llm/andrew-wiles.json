@@ -1,0 +1,20 @@
+{
+  "nome": "Andrew John Wiles",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Curvas Elípticas",
+      "subareas_especificas": [
+        "Formas Modulares",
+        "Teoria de Iwasawa",
+        "Representações de Galois"
+      ]
+    },
+    {
+      "subarea": "Teoria de Números Algébricos",
+      "subareas_especificas": [
+        "Conjectura de Birch e Swinnerton-Dyer"
+      ]
+    }
+  ]
+}

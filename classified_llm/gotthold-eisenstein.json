@@ -1,0 +1,25 @@
+{
+  "nome": "Ferdinand Gotthold Max Eisenstein",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas quadráticas binárias",
+        "Reciprocidade quadrática"
+      ]
+    },
+    {
+      "subarea": "Reciprocidade superior",
+      "subareas_especificas": [
+        "Leis de reciprocidade para resíduos cúbicos"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Teoria analítica de funções elípticas"
+      ]
+    }
+  ]
+}

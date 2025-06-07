@@ -1,0 +1,19 @@
+{
+  "nome": "Patrick d'Arcy",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Dinâmica",
+        "Balística"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Persistência da Visão"
+      ]
+    }
+  ]
+}

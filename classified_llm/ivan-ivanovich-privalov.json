@@ -1,0 +1,34 @@
+{
+  "nome": "Ivan Ivanovich Privalov",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Convergência de Séries Trigonométricas",
+        "Séries Conjugadas"
+      ]
+    },
+    {
+      "subarea": "Integrais de Cauchy",
+      "subareas_especificas": [
+        "Teoria da Integral de Cauchy",
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Funções Analíticas em Vizinhanças de Pontos Singulares",
+        "Comportamento Limite de Funções Analíticas",
+        "Representação Conforme"
+      ]
+    },
+    {
+      "subarea": "Funções Subharmônicas",
+      "subareas_especificas": [
+        "Teoria Geral de Funções Subharmônicas"
+      ]
+    }
+  ]
+}

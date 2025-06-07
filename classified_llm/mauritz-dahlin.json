@@ -1,0 +1,13 @@
+{
+  "nome": "Ernst Mauritz Dahlin",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "História da Matemática na Suécia",
+      "subareas_especificas": [
+        "Matemáticos suecos antes de 1679",
+        "Manuscritos do observatório astronômico de Uppsala"
+      ]
+    }
+  ]
+}

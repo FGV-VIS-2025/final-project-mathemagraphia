@@ -1,0 +1,20 @@
+{
+  "nome": "Wei-Liang Chow",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Intersecção",
+      "subareas_especificas": [
+        "Ciclos Algébricos",
+        "Aneis de Chow"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica Clássica",
+      "subareas_especificas": [
+        "Variedades Algébricas",
+        "Superfícies Algébricas"
+      ]
+    }
+  ]
+}

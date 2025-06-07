@@ -1,0 +1,15 @@
+{
+  "nome": "George Birch Jerrard",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações algébricas",
+        "Equações de quinto grau",
+        "Transformações de Tschirnhaus",
+        "Método dos radicais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Aleksei Nikolaevich Krylov",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Convergência de Séries",
+        "Aplicações em Física Matemática"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Autovalores e Autovetores",
+        "Equação Secular"
+      ]
+    }
+  ]
+}

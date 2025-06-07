@@ -1,0 +1,32 @@
+{
+  "nome": "Pierre René Deligne",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Motivos",
+      "subareas_especificas": [
+        "Cohomologia de Variedades Algébricas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Conjecturas de Weil",
+        "Hipótese de Riemann"
+      ]
+    },
+    {
+      "subarea": "Representação de Grupos",
+      "subareas_especificas": [
+        "Formas Modulares",
+        "Representações de Galois"
+      ]
+    },
+    {
+      "subarea": "Teoria de Hodge Mista",
+      "subareas_especificas": [
+        "Estruturas de Hodge Mistas"
+      ]
+    }
+  ]
+}

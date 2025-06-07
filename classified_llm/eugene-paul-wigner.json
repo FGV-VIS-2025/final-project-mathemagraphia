@@ -1,0 +1,21 @@
+{
+  "nome": "Eugene Paul Wigner",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Representação",
+      "subareas_especificas": [
+        "Teoria de Caracteres",
+        "Representações de Grupos",
+        "Grupos Simétricos"
+      ]
+    },
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Quântica de Campos",
+        "Espectros Atômicos"
+      ]
+    }
+  ]
+}

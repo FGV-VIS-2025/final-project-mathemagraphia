@@ -1,0 +1,12 @@
+{
+  "nome": "Christian Heinrich von Nagel",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Pontos notáveis de um triângulo"
+      ]
+    }
+  ]
+}

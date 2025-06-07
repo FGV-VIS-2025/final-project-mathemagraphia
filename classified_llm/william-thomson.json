@@ -1,0 +1,27 @@
+{
+  "nome": "William Thomson (Lord Kelvin)",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria do Calor",
+      "subareas_especificas": [
+        "Equação do Calor",
+        "Termodinâmica"
+      ]
+    },
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletricidade",
+        "Magnetismo"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica dos Fluidos",
+        "Dinâmica"
+      ]
+    }
+  ]
+}

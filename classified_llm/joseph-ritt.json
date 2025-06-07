@@ -1,0 +1,14 @@
+{
+  "nome": "Joseph Fels Ritt",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Diferencial",
+      "subareas_especificas": [
+        "Polinômios Diferenciais",
+        "Ideais Diferenciais",
+        "Variedades Diferenciais"
+      ]
+    }
+  ]
+}

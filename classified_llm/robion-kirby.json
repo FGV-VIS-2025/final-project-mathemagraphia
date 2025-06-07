@@ -1,0 +1,20 @@
+{
+  "nome": "Robion Cromwell Kirby",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixa Dimensão",
+      "subareas_especificas": [
+        "Teoria dos nós",
+        "Conjectura do Anulus"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria da Homotopia",
+        "Teoria de Homologia"
+      ]
+    }
+  ]
+}

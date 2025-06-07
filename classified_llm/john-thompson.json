@@ -1,0 +1,19 @@
+{
+  "nome": "John Griggs Thompson",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos Simples",
+        "Grupos Esporádicos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Lie finitos"
+      ]
+    }
+  ]
+}

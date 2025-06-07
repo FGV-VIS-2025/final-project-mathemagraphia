@@ -1,0 +1,18 @@
+{
+  "nome": "Omar Catunda",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria dos Funcionais Analíticos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Algébrica"
+      ]
+    }
+  ]
+}

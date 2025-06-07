@@ -1,0 +1,23 @@
+{
+  "nome": "Albrecht Fröhlich",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos de Números Algébricos",
+        "Grupos de Galois",
+        "Teoria de Representação",
+        "Corpos de Classes"
+      ]
+    },
+    {
+      "subarea": "Corpos Locais",
+      "subareas_especificas": [
+        "Anéis de Dedekind",
+        "Discriminante",
+        "Grupos de Ramificação"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Thomas Young",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Interferência",
+        "Difração",
+        "Teoria ondulatória da luz"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Elasticidade",
+        "Teoria da elasticidade"
+      ]
+    }
+  ]
+}

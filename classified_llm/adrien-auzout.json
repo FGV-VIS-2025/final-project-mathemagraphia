@@ -1,0 +1,19 @@
+{
+  "nome": "Adrien Auzout",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Instrumentação Astronômica",
+      "subareas_especificas": [
+        "Micrômetro",
+        "Telescópios"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Órbitas de Cometas"
+      ]
+    }
+  ]
+}

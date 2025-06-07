@@ -1,0 +1,28 @@
+{
+  "nome": "Stefan Marian Kaczmarz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Ortogonais",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Multiplicadores de Séries Ortogonais",
+        "Convergência de Séries Ortogonais",
+        "Somabilidade de Séries Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Equações Funcionais",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Sistemas de Equações Lineares"
+      ]
+    }
+  ]
+}

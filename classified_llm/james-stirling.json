@@ -1,0 +1,21 @@
+{
+  "nome": "James Stirling",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Convergência de Séries",
+        "Interpolação",
+        "Aproximação Assintótica"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Função Gama",
+        "Função Hipergeométrica"
+      ]
+    }
+  ]
+}

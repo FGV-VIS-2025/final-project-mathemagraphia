@@ -1,0 +1,25 @@
+{
+  "nome": "Mario Fiorentini",
+  "area_principal": "Álgebra Comutativa",
+  "subareas": [
+    {
+      "subarea": "Anéis",
+      "subareas_especificas": [
+        "Anéis Cohen-Macaulay",
+        "Anéis Gorenstein",
+        "Anéis de Gorenstein",
+        "Anéis locais",
+        "Anéis semifatoriais",
+        "Anéis fatoriais"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas",
+        "Esquemas",
+        "Interseção completa"
+      ]
+    }
+  ]
+}

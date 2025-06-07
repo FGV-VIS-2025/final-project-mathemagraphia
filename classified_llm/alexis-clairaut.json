@@ -1,0 +1,26 @@
+{
+  "nome": "Alexis Claude Clairaut",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Fatores Integrantes"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Máximos e Mínimos"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Curvas de Dupla Curvatura",
+        "Geodésicas de Quádricas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Francis Sowerby Macaulay",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Teoria de Ideais",
+        "Polinômios",
+        "Curvas Algébricas",
+        "Teorema de Riemann-Roch"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Decomposição Primária",
+        "Números Primos"
+      ]
+    }
+  ]
+}

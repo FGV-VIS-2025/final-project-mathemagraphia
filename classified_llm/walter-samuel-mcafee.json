@@ -1,0 +1,21 @@
+{
+  "nome": "Walter Samuel McAfee",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Física Matemática",
+      "subareas_especificas": [
+        "Mecânica",
+        "Eletromagnetismo",
+        "Ondas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Alexander Duncan Davidson Craik",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Estabilidade Hidrodinâmica",
+      "subareas_especificas": [
+        "Ondas geradas pelo vento em filmes líquidos finos",
+        "Instabilidade de filmes líquidos",
+        "Estabilidade de fluxos de superfície livre com estratificação de viscosidade"
+      ]
+    },
+    {
+      "subarea": "Teoria das Ondas",
+      "subareas_especificas": [
+        "Interação de ondas gravitacionais ressonantes em um fluxo de cisalhamento",
+        "Teoria de ondas de água"
+      ]
+    }
+  ]
+}

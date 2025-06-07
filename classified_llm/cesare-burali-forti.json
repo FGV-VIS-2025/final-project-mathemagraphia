@@ -1,0 +1,20 @@
+{
+  "nome": "Cesare Burali-Forti",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Paradoxo de Russell",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Lógica Matemática"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Projetiva",
+        "Cálculo Vetorial"
+      ]
+    }
+  ]
+}

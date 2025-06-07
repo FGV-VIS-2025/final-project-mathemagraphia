@@ -1,0 +1,18 @@
+{
+  "nome": "Abu Mahmud Hamid ibn al-Khidr Al-Khujandi",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Teorema dos Senos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Último Teorema de Fermat (caso n=3)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Jean-Baptiste Morin",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Longitude",
+        "Parallax"
+      ]
+    },
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Métodos de resolução de triângulos esféricos"
+      ]
+    }
+  ]
+}

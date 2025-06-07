@@ -1,0 +1,18 @@
+{
+  "nome": "Arend Heyting",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Intucionismo"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Axiomatização Construtiva"
+      ]
+    }
+  ]
+}

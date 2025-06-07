@@ -1,0 +1,20 @@
+{
+  "nome": "Daniel Afedzi Akyeampong",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Física de Partículas",
+      "subareas_especificas": [
+        "Teorias de Gauge",
+        "Modelos de Unificação"
+      ]
+    }
+  ]
+}

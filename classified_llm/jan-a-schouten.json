@@ -1,0 +1,21 @@
+{
+  "nome": "Jan Arnoldus Schouten",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Conexão de Levi-Civita",
+        "Mapeamentos Conformes",
+        "Variedades"
+      ]
+    },
+    {
+      "subarea": "Álgebra Tensorial",
+      "subareas_especificas": [
+        "Cálculo de Ricci",
+        "Grupos de Lie"
+      ]
+    }
+  ]
+}

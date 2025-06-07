@@ -1,0 +1,20 @@
+{
+  "nome": "Leopold Löwenheim",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Cálculo de Classes",
+        "Teoria de Modelos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Provas Indiretas",
+        "Provas Intuicionistas"
+      ]
+    }
+  ]
+}

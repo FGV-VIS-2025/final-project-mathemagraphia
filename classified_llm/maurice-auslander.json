@@ -1,0 +1,27 @@
+{
+  "nome": "Maurice Auslander",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Teoria de Anéis",
+        "Teoria de Módulos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Não Comutativa",
+      "subareas_especificas": [
+        "Teoria de Representações",
+        "Teoria de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Representações de Álgebras",
+      "subareas_especificas": [
+        "Álgebras de Artin",
+        "Sequências Quase-Divisíveis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Tycho Brahe",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Observação Astronômica",
+      "subareas_especificas": [
+        "Instrumentação Astronômica",
+        "Métodos de Observação",
+        "Análise de Dados Observacionais"
+      ]
+    },
+    {
+      "subarea": "Cosmologia",
+      "subareas_especificas": [
+        "Modelos Cosmológicos",
+        "Movimentos Planetários",
+        "Supernovas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nome": "Willebrord van Royen Snell",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria Plana",
+        "Trigonometria Esférica"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Curvas Planas"
+      ]
+    },
+    {
+      "subarea": "Geodesia",
+      "subareas_especificas": [
+        "Triangulação",
+        "Medidas da Terra"
+      ]
+    }
+  ]
+}

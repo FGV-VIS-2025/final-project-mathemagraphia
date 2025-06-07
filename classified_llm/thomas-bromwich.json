@@ -1,0 +1,20 @@
+{
+  "nome": "Thomas John I'Anson Bromwich",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Convergência",
+        "Somatório"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Formas Quadráticas",
+        "Formas Bilineares"
+      ]
+    }
+  ]
+}

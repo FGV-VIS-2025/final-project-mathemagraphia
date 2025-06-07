@@ -1,0 +1,20 @@
+{
+  "nome": "Germund Dahlquist",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Estabilidade",
+        "Métodos Numéricos"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Continuação Analítica"
+      ]
+    }
+  ]
+}

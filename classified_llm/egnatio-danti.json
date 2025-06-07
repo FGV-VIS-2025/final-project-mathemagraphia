@@ -1,0 +1,27 @@
+{
+  "nome": "Egnatio Pellegrino Rainaldi Danti",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Mapas",
+        "Globo Terrestre"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Equinócio vernal",
+        "Instrumentos astronômicos",
+        "Gnomon"
+      ]
+    }
+  ]
+}

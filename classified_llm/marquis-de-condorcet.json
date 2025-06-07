@@ -1,0 +1,20 @@
+{
+  "nome": "Marie Jean Antoine Nicolas de Caritat Condorcet",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Séries Recorrentes"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Decisões da Maioria"
+      ]
+    }
+  ]
+}

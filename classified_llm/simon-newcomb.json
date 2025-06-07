@@ -1,0 +1,25 @@
+{
+  "nome": "Simon Newcomb",
+  "area_principal": "Astronomia Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Perturbações Orbitais",
+        "Teoria da Lua"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Séries Trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Não-Euclidiana"
+      ]
+    }
+  ]
+}

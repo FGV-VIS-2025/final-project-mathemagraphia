@@ -1,0 +1,26 @@
+{
+  "nome": "Osip Ivanovich Somov",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Teórica",
+      "subareas_especificas": [
+        "Rotação de um corpo rígido",
+        "Funções elípticas aplicadas à mecânica"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica",
+        "Geometria Descritiva"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Equações algébricas de grau superior"
+      ]
+    }
+  ]
+}

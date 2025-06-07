@@ -1,0 +1,19 @@
+{
+  "nome": "Ferdinand Rudio",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Transformações Geométricas"
+      ]
+    }
+  ]
+}

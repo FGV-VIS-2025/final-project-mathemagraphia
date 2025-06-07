@@ -1,0 +1,18 @@
+{
+  "nome": "Vijayanandi",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Tabelas de senos e cossenos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Soluções inteiras de equações"
+      ]
+    }
+  ]
+}

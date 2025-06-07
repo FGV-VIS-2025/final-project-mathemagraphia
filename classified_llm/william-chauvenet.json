@@ -1,0 +1,18 @@
+{
+  "nome": "William Chauvenet",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Trigonometria Plana"
+      ]
+    },
+    {
+      "subarea": "Geometria Esférica",
+      "subareas_especificas": [
+        "Trigonometria Esférica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "John Greenlees Semple",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Transformações de Cremona",
+        "Sistemas Lineares de Superfícies",
+        "Variedades Racionais"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica Clássica",
+      "subareas_especificas": [
+        "Superfícies Racionais Especiais",
+        "Manifolds"
+      ]
+    }
+  ]
+}

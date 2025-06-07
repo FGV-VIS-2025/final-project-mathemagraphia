@@ -1,0 +1,18 @@
+{
+  "nome": "Richard Askey",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções Hipergeométricas",
+        "Polinômios Ortogonais",
+        "Funções de Bessel"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": []
+    }
+  ]
+}

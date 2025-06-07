@@ -1,0 +1,19 @@
+{
+  "nome": "David Bryant Mumford",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Variedades de Moduli",
+      "subareas_especificas": [
+        "Existência e estrutura de variedades de moduli"
+      ]
+    },
+    {
+      "subarea": "Teoria de Superfícies Algébricas",
+      "subareas_especificas": [
+        "Classificação de superfícies algébricas",
+        "Característica p > 0"
+      ]
+    }
+  ]
+}

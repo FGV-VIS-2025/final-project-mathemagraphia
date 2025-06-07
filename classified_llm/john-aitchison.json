@@ -1,0 +1,27 @@
+{
+  "nome": "John Aitchison",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Estimação"
+      ]
+    },
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Análise de Regressão",
+        "Análise de Variância"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

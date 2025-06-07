@@ -1,0 +1,28 @@
+{
+  "nome": "Michel Plancherel",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Teoria de Integração",
+        "Transformadas Integrais",
+        "Espaços de Hilbert"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Hiperbólicas",
+        "Equações Diferenciais Parabólicas"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Sistemas Mecânicos",
+        "Mecânica Estatística"
+      ]
+    }
+  ]
+}

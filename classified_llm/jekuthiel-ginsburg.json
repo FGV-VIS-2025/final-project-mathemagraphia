@@ -1,0 +1,21 @@
+{
+  "nome": "Jekuthiel Ginsburg",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Numeração",
+        "Métodos de Cálculo",
+        "Instrumentos de Cálculo"
+      ]
+    },
+    {
+      "subarea": "Matemática Medieval",
+      "subareas_especificas": [
+        "Matemática Hebraica",
+        "Astronomia"
+      ]
+    }
+  ]
+}

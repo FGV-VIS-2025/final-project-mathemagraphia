@@ -1,0 +1,20 @@
+{
+  "nome": "Eudoxus of Cnidus",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Proporção",
+      "subareas_especificas": [
+        "Números Irracionais",
+        "Método de Exaustão"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Duplicação do Cubo",
+        "Sólidos"
+      ]
+    }
+  ]
+}

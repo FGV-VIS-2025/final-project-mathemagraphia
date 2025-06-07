@@ -1,0 +1,19 @@
+{
+  "nome": "Cecilia Helena Payne-Gaposchkin",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Abundância de elementos em estrelas",
+        "Espectroscopia estelar"
+      ]
+    },
+    {
+      "subarea": "Espectroscopia",
+      "subareas_especificas": [
+        "Efeito Stark"
+      ]
+    }
+  ]
+}

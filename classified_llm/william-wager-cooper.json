@@ -1,0 +1,22 @@
+{
+  "nome": "William Wager Cooper",
+  "area_principal": "Programação Linear",
+  "subareas": [
+    {
+      "subarea": "Programação Matemática",
+      "subareas_especificas": [
+        "Programação Linear",
+        "Programação Não-Linear",
+        "Programação Inteira"
+      ]
+    },
+    {
+      "subarea": "Otimização",
+      "subareas_especificas": [
+        "Métodos de Pontos Extremos",
+        "Programação Convexa",
+        "Programação Fracionária"
+      ]
+    }
+  ]
+}

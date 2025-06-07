@@ -1,0 +1,27 @@
+{
+  "nome": "Ludwig Dmitrievich Faddeev",
+  "area_principal": "Mecânica Quântica",
+  "subareas": [
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Integração funcional",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Espalhamento",
+      "subareas_especificas": [
+        "Problema de espalhamento inverso",
+        "Operadores de Schrödinger"
+      ]
+    },
+    {
+      "subarea": "Sistemas Integráveis",
+      "subareas_especificas": [
+        "Equação de Korteweg-de Vries",
+        "Ansatz de Bethe"
+      ]
+    }
+  ]
+}

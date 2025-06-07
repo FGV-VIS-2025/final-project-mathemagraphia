@@ -1,0 +1,22 @@
+{
+  "nome": "Nikolai Egorovich Zhukovsky",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Aerodinâmica",
+      "subareas_especificas": [
+        "Teoria de Vórtices",
+        "Estabilidade Longitudinal e Transversal",
+        "Aerofólios"
+      ]
+    },
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Ondas de Choque",
+        "Formação de Leitos de Rios",
+        "Construção de Barragens"
+      ]
+    }
+  ]
+}

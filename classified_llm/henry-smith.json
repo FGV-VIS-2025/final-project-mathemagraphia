@@ -1,0 +1,17 @@
+{
+  "nome": "Henry John Stephen Smith",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas quadráticas reais",
+        "Formas quadráticas complexas"
+      ]
+    },
+    {
+      "subarea": "Divisores Elementares",
+      "subareas_especificas": []
+    }
+  ]
+}

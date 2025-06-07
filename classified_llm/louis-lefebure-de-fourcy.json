@@ -1,0 +1,18 @@
+{
+  "nome": "Louis Lefébure de Fourcy",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Geometria Projetiva"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Linear"
+      ]
+    }
+  ]
+}

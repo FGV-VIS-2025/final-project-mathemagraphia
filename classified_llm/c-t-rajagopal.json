@@ -1,0 +1,25 @@
+{
+  "nome": "Cadambathur Tiruvenkatacharlu Rajagopal",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries e Sequências",
+      "subareas_especificas": [
+        "Teoremas Tauberians",
+        "Somatória"
+      ]
+    },
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Séries de Dirichlet"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Porphyry Malchus",
+  "area_principal": "Filosofia",
+  "subareas": [
+    {
+      "subarea": "Lógica",
+      "subareas_especificas": [
+        "Lógica Aristotélica"
+      ]
+    },
+    {
+      "subarea": "Comentários sobre Euclides",
+      "subareas_especificas": [
+        "Elementos de Euclides"
+      ]
+    }
+  ]
+}

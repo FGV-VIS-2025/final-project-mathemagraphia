@@ -1,0 +1,27 @@
+{
+  "nome": "Kenjiro Shoda",
+  "area_principal": "Álgebra Abstrata",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Teoria de Ideais",
+        "Anéis Não-Comutativos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Teoria de Galois",
+        "Teoria de Valoração"
+      ]
+    }
+  ]
+}

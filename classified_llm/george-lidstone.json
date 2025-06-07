@@ -1,0 +1,20 @@
+{
+  "nome": "George James Lidstone",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Interpolação",
+        "Séries"
+      ]
+    },
+    {
+      "subarea": "Teoria das Probabilidades",
+      "subareas_especificas": [
+        "Distribuição de Poisson",
+        "Aproximação da Distribuição Binomial"
+      ]
+    }
+  ]
+}

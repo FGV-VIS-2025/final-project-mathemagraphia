@@ -1,0 +1,13 @@
+{
+  "nome": "William of Ockham",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Lógica Trivalente",
+        "Leis de De Morgan"
+      ]
+    }
+  ]
+}

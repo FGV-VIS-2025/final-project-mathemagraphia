@@ -1,0 +1,19 @@
+{
+  "nome": "Martha Betz Shapley",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Binárias Eclipsantes",
+        "Órbitas de Estrelas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Numérico"
+      ]
+    }
+  ]
+}

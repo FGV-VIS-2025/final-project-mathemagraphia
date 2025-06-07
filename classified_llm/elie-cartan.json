@@ -1,0 +1,20 @@
+{
+  "nome": "Élie Joseph Cartan",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Representações de Grupos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Ivor Malcolm Haddon Etherington",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Não-Associativa",
+      "subareas_especificas": [
+        "Álgebras Genéticas",
+        "Álgebras de Trens"
+      ]
+    }
+  ]
+}

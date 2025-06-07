@@ -1,0 +1,19 @@
+{
+  "nome": "Donald Clayton Spencer",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções Univalentes",
+        "Mapeamento Conforme"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Deformações de Variedades Complexas"
+      ]
+    }
+  ]
+}

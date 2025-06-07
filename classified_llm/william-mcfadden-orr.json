@@ -1,0 +1,20 @@
+{
+  "nome": "William McFadden Orr",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Estabilidade de Fluidos"
+      ]
+    },
+    {
+      "subarea": "Séries e Integrais",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Funções de Legendre",
+        "Análise de Fourier"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Stefano degli Angeli",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Curvas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integração",
+        "Infinitesimais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Buqing Su",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Afim Diferencial",
+      "subareas_especificas": [
+        "Geometria Projetiva Diferencial",
+        "Geometria de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Curvas Projetivas",
+        "Superfícies Projetivas"
+      ]
+    },
+    {
+      "subarea": "Geometria Computacional",
+      "subareas_especificas": [
+        "Lofting",
+        "Invariantes Afins"
+      ]
+    }
+  ]
+}

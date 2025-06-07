@@ -1,0 +1,27 @@
+{
+  "nome": "Paul Ehrenfest",
+  "area_principal": "Mecânica Estatística",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Mecânica de corpos rígidos em fluidos",
+        "Mecânica de Hertz"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica",
+      "subareas_especificas": [
+        "Teoria da radiação de corpo negro",
+        "Aplicações da teoria quântica a corpos rotativos"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Interpretação estatística da segunda lei da termodinâmica",
+        "Transições de fase"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "nome": "Philip Kelland",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria do Calor",
+      "subareas_especificas": [
+        "Equação do Calor"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Não-Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Linear"
+      ]
+    }
+  ]
+}

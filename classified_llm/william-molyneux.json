@@ -1,0 +1,20 @@
+{
+  "nome": "William Molyneux",
+  "area_principal": "Óptica",
+  "subareas": [
+    {
+      "subarea": "Óptica Geométrica",
+      "subareas_especificas": [
+        "Telescópios",
+        "Microscópios",
+        "Lentes"
+      ]
+    },
+    {
+      "subarea": "Filosofia da Ciência",
+      "subareas_especificas": [
+        "Empirismo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Ottó Steinfeld",
+  "area_principal": "Álgebra Abstrata",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Teoria de Ideais",
+        "Anéis Simples",
+        "Anéis Semi-simples"
+      ]
+    },
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Quasi-ideais",
+        "Semigrupos Parcialmente Ordenados"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Teoria de Holomorfismo"
+      ]
+    }
+  ]
+}

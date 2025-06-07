@@ -1,0 +1,12 @@
+{
+  "nome": "Percy John Heawood",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Teorema das Quatro Cores"
+      ]
+    }
+  ]
+}

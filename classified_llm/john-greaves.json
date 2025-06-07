@@ -1,0 +1,13 @@
+{
+  "nome": "John Greaves",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Medição",
+      "subareas_especificas": [
+        "Metrologia",
+        "Medidas de monumentos antigos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Friedrich Wilhelm Bessel",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Perturbações Planetárias",
+        "Determinação de Órbitas"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Funções de Bessel"
+      ]
+    },
+    {
+      "subarea": "Geodesia",
+      "subareas_especificas": [
+        "Determinação de Parallax",
+        "Medidas de Meridianos"
+      ]
+    }
+  ]
+}

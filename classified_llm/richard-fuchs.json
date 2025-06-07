@@ -1,0 +1,19 @@
+{
+  "nome": "Maximilian Ernst Richard Fuchs",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Lineares",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares de Segunda Ordem",
+        "Equações Diferenciais Lineares de Terceira Ordem"
+      ]
+    },
+    {
+      "subarea": "Funções Complexas",
+      "subareas_especificas": [
+        "Teoria das Funções de Variável Complexa"
+      ]
+    }
+  ]
+}

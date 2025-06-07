@@ -1,0 +1,19 @@
+{
+  "nome": "Georg Simon Ohm",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletricidade",
+        "Circuitos Elétricos"
+      ]
+    },
+    {
+      "subarea": "Acústica",
+      "subareas_especificas": [
+        "Acústica Fisiológica"
+      ]
+    }
+  ]
+}

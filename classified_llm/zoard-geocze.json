@@ -1,0 +1,13 @@
+{
+  "nome": "Zoárd Geöcze",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida de Superfícies",
+        "Funções Contínuas"
+      ]
+    }
+  ]
+}

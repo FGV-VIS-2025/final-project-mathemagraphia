@@ -1,0 +1,20 @@
+{
+  "nome": "Giuseppe Bagnera",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Grupos de Transformações Geométricas",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos de Colineações"
+      ]
+    },
+    {
+      "subarea": "Superfícies Algébricas",
+      "subareas_especificas": [
+        "Superfícies Hiperelípticas",
+        "Classificação de Superfícies"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Dimitri Fedorovich Egorov",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Superfícies Confocal",
+        "Sistemas Triplamente Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Segunda Ordem"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções de Variável Real",
+      "subareas_especificas": [
+        "Funções Mensuráveis"
+      ]
+    }
+  ]
+}

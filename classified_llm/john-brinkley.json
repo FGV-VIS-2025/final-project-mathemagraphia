@@ -1,0 +1,20 @@
+{
+  "nome": "John Mortimer Brinkley",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Parallax"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Séries",
+        "Método dos Mínimos Quadrados"
+      ]
+    }
+  ]
+}

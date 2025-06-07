@@ -1,0 +1,32 @@
+{
+  "nome": "Sergei Vasilovich Fomin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Grupos Abelianos"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Topologia de Pontos",
+        "Espaços de Hausdorff"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria Ergódica"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Teoria da Medida"
+      ]
+    }
+  ]
+}

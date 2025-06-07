@@ -1,0 +1,12 @@
+{
+  "nome": "John Mackie",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Função Teoria"
+      ]
+    }
+  ]
+}

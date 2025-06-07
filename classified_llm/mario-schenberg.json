@@ -1,0 +1,27 @@
+{
+  "nome": "Mário Schenberg",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Eletrodinâmica Quântica",
+        "Teoria Quântica de Campos"
+      ]
+    },
+    {
+      "subarea": "Relatividade",
+      "subareas_especificas": [
+        "Relatividade Geral",
+        "Equações relativísticas de movimento"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebras de Clifford",
+        "Álgebras de Grassmann"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Pierre Vernier",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Medição",
+      "subareas_especificas": [
+        "Instrumentação",
+        "Cartografia"
+      ]
+    }
+  ]
+}

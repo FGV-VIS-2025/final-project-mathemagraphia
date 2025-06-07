@@ -1,0 +1,19 @@
+{
+  "nome": "Ernest Benjamin Esclangon",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Funções Quase-Periódicas",
+      "subareas_especificas": [
+        "Funções quase-periódicas de Bohr"
+      ]
+    }
+  ]
+}

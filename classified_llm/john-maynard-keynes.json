@@ -1,0 +1,13 @@
+{
+  "nome": "John Maynard Keynes",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Axiomatização da Probabilidade",
+        "Inferência Probabilística"
+      ]
+    }
+  ]
+}

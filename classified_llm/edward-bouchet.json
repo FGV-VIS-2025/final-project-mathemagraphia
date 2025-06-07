@@ -1,0 +1,12 @@
+{
+  "nome": "Edward Alexander Bouchet",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Óptica Geométrica",
+      "subareas_especificas": [
+        "Índice de Refração"
+      ]
+    }
+  ]
+}

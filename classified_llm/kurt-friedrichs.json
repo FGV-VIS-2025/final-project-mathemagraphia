@@ -1,0 +1,24 @@
+{
+  "nome": "Kurt Otto Friedrichs",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Hiperbólicas",
+      "subareas_especificas": [
+        "Estabilidade de esquemas de diferenças"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais Elípticas",
+      "subareas_especificas": [
+        "Problemas de autovalor"
+      ]
+    },
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Operadores em espaços de Hilbert"
+      ]
+    }
+  ]
+}

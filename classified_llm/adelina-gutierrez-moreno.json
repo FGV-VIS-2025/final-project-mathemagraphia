@@ -1,0 +1,18 @@
+{
+  "nome": "Carmen Adelina Gutiérrez Alonso Moreno",
+  "area_principal": "Astrofísica",
+  "subareas": [
+    {
+      "subarea": "Fotometria",
+      "subareas_especificas": [
+        "Fotometria Fotoelétrica"
+      ]
+    },
+    {
+      "subarea": "Espectroscopia",
+      "subareas_especificas": [
+        "Espectrofotometria de estrelas do tipo inicial"
+      ]
+    }
+  ]
+}

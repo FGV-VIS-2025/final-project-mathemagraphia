@@ -1,0 +1,27 @@
+{
+  "nome": "José Sebastiao e Silva",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços vetoriais",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Espaços localmente convexos"
+      ]
+    },
+    {
+      "subarea": "Teoria das Distribuições",
+      "subareas_especificas": [
+        "Distribuições vetoriais",
+        "Ultradistribuições"
+      ]
+    },
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Funções Analíticas de Várias Variáveis",
+        "Funcionais Analíticos"
+      ]
+    }
+  ]
+}

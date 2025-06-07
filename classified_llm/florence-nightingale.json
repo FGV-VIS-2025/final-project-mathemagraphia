@@ -1,0 +1,21 @@
+{
+  "nome": "Florence Nightingale",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística aplicada",
+      "subareas_especificas": [
+        "Análise de dados",
+        "Mortalidade",
+        "Saúde pública"
+      ]
+    },
+    {
+      "subarea": "Métodos estatísticos",
+      "subareas_especificas": [
+        "Inferência estatística",
+        "Visualização de dados"
+      ]
+    }
+  ]
+}

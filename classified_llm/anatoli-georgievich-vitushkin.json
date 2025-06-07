@@ -1,0 +1,20 @@
+{
+  "nome": "Anatoli Georgievich Vitushkin",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Aproximação de funções holomorfas",
+        "Complexidade de algoritmos"
+      ]
+    },
+    {
+      "subarea": "Geometria Complexa",
+      "subareas_especificas": [
+        "Geometria de hipersuperfícies reais",
+        "Teoria de mapeamentos holomorfos"
+      ]
+    }
+  ]
+}

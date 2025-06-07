@@ -1,0 +1,19 @@
+{
+  "nome": "Antoine Meyer",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial e Integral",
+      "subareas_especificas": [
+        "Integrais Definidas",
+        "Cálculo de Variações"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria dos Erros"
+      ]
+    }
+  ]
+}

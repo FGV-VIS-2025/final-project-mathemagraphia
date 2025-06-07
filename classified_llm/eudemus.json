@@ -1,0 +1,12 @@
+{
+  "nome": "Eudemus of Rhodes",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Grega",
+      "subareas_especificas": [
+        "Quadratura de Lúnulas"
+      ]
+    }
+  ]
+}

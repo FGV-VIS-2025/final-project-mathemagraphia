@@ -1,0 +1,42 @@
+{
+  "nome": "Anatoly Ivanovich Malcev",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos Abelianos",
+        "Grupos Livres",
+        "Grupos Nilpotentes",
+        "Grupos Solúveis",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais",
+        "Matrizes"
+      ]
+    },
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis sem divisores de zero"
+      ]
+    },
+    {
+      "subarea": "Álgebras de Lie",
+      "subareas_especificas": [
+        "Subgrupos de Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos"
+      ]
+    }
+  ]
+}

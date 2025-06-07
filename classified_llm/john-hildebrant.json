@@ -1,0 +1,26 @@
+{
+  "nome": "John A Hildebrant",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Semigrupos Topológicos",
+      "subareas_especificas": [
+        "Semigrupos Compactos",
+        "Semigrupos Uniticamente Divisíveis",
+        "Semigrupos Abelianos Divisíveis"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axiomas de Peano",
+        "Relações de Ordem",
+        "Axioma da Escolha",
+        "Conjuntos Finitos e Infinitos",
+        "Conjuntos Bem Ordenados",
+        "Números Ordinais",
+        "Números Cardinais"
+      ]
+    }
+  ]
+}

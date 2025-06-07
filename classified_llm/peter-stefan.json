@@ -1,0 +1,14 @@
+{
+  "nome": "Peter Stefan",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Teoria do Controle",
+      "subareas_especificas": [
+        "Sistemas de Controle",
+        "Estabilidade",
+        "Controle Ótimo"
+      ]
+    }
+  ]
+}

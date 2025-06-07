@@ -1,0 +1,14 @@
+{
+  "nome": "John Guthrie Kerr",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Axiomas de Euclides",
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    }
+  ]
+}

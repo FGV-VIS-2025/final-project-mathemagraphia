@@ -1,0 +1,26 @@
+{
+  "nome": "Lars Valerian Ahlfors",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria Geométrica de Funções",
+      "subareas_especificas": [
+        "Representações Conformes",
+        "Comprimento Extremo",
+        "Aplicações Quase-Conformes"
+      ]
+    },
+    {
+      "subarea": "Superfícies de Riemann",
+      "subareas_especificas": [
+        "Teoria de Nevanlinna"
+      ]
+    },
+    {
+      "subarea": "Grupos Kleinianos",
+      "subareas_especificas": [
+        "Teorema de Finiteness"
+      ]
+    }
+  ]
+}

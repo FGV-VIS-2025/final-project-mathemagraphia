@@ -1,0 +1,16 @@
+{
+  "nome": "Earle Raymond Hedrick",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": []
+    }
+  ]
+}

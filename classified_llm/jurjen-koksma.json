@@ -1,0 +1,20 @@
+{
+  "nome": "Jurjen Ferdinand Koksma",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Aproximações Diofantinas de Números Irracionais",
+        "Inequações Diofantinas",
+        "Distribuição de Números Reais (mod 1)"
+      ]
+    },
+    {
+      "subarea": "Geometria dos Números",
+      "subareas_especificas": [
+        "Formas Lineares Homogêneas e Não-Homogêneas"
+      ]
+    }
+  ]
+}

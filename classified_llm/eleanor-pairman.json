@@ -1,0 +1,19 @@
+{
+  "nome": "Eleanor Pairman",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equação Integral de Fredholm"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Distribuições de Frequência",
+        "Correções para os coeficientes de momento"
+      ]
+    }
+  ]
+}

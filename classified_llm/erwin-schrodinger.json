@@ -1,0 +1,25 @@
+{
+  "nome": "Erwin Rudolf Josef Alexander Schrödinger",
+  "area_principal": "Mecânica Quântica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Schrödinger"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teoria Cinética"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes",
+        "Espaços vetoriais"
+      ]
+    }
+  ]
+}

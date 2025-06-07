@@ -1,0 +1,21 @@
+{
+  "nome": "Vincenzo Riccati",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Métodos de Solução de Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integração",
+        "Séries",
+        "Funções Hiperbólicas"
+      ]
+    }
+  ]
+}

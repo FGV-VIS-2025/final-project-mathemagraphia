@@ -1,0 +1,39 @@
+{
+  "nome": "Subrahmanyan Chandrasekhar",
+  "area_principal": "Astrofísica",
+  "subareas": [
+    {
+      "subarea": "Estrelas",
+      "subareas_especificas": [
+        "Estrelas Anãs Brancas",
+        "Estrelas de Nêutrons",
+        "Buracos Negros"
+      ]
+    },
+    {
+      "subarea": "Dinâmica Estelar",
+      "subareas_especificas": [
+        "Estabilidade de Sistemas Estelares"
+      ]
+    },
+    {
+      "subarea": "Transferência de Radiação",
+      "subareas_especificas": [
+        "Teoria da Transferência de Radiação"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Estabilidade Hidrodinâmica",
+        "Estabilidade Hidromagnética"
+      ]
+    },
+    {
+      "subarea": "Relatividade Geral",
+      "subareas_especificas": [
+        "Teoria Matemática dos Buracos Negros"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Kenneth Ownsworth May",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Biografias de Matemáticos",
+        "Desenvolvimento de Conceitos Matemáticos",
+        "Análise de Textos Históricos"
+      ]
+    },
+    {
+      "subarea": "Educação Matemática",
+      "subareas_especificas": [
+        "Metodologias de Ensino",
+        "Materiais Didáticos",
+        "Formação de Professores"
+      ]
+    },
+    {
+      "subarea": "Matemática Aplicada",
+      "subareas_especificas": [
+        "Economia Matemática",
+        "Estatística"
+      ]
+    }
+  ]
+}

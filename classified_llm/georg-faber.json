@@ -1,0 +1,22 @@
+{
+  "nome": "Georg Faber",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Séries de Potências",
+        "Funções Analíticas",
+        "Polinômios de Faber",
+        "Funções Contínuas",
+        "Interpolação"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Soluções Eficientes"
+      ]
+    }
+  ]
+}

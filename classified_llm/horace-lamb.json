@@ -1,0 +1,27 @@
+{
+  "nome": "Horace Lamb",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Dinâmica dos Fluidos",
+        "Acústica"
+      ]
+    },
+    {
+      "subarea": "Mecânica das Ondas",
+      "subareas_especificas": [
+        "Propagação de Ondas",
+        "Vibrações"
+      ]
+    },
+    {
+      "subarea": "Teoria da Elasticidade",
+      "subareas_especificas": [
+        "Vibrações de Sólidos Elásticos",
+        "Propagação de Ondas em Sólidos Elásticos"
+      ]
+    }
+  ]
+}

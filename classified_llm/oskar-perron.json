@@ -1,0 +1,19 @@
+{
+  "nome": "Oskar Perron",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Autovalores e Autovetores",
+        "Decomposição de Matrizes"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Convergência de Frações Contínuas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Kathleen Rita McNulty Mauchly Antonelli",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Soluções Numéricas",
+        "Métodos de Integração"
+      ]
+    },
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Interpolação",
+        "Integração Numérica"
+      ]
+    }
+  ]
+}

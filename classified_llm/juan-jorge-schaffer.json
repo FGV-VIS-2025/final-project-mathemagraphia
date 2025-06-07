@@ -1,0 +1,21 @@
+{
+  "nome": "Juan Jorge Schäffer",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais",
+        "Sistemas Dinâmicos"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Operadores Lineares"
+      ]
+    }
+  ]
+}

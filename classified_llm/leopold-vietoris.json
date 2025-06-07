@@ -1,0 +1,19 @@
+{
+  "nome": "Leopold Vietoris",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Homologia",
+      "subareas_especificas": [
+        "Grupos de Homologia",
+        "Sequência Mayer-Vietoris"
+      ]
+    },
+    {
+      "subarea": "Co-homologia",
+      "subareas_especificas": [
+        "Grupos de Cohomologia"
+      ]
+    }
+  ]
+}

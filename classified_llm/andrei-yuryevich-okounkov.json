@@ -1,0 +1,26 @@
+{
+  "nome": "Andrei Yuryevich Okounkov",
+  "area_principal": "Teoria da Representação",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Lie infinitos",
+        "Representações de grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Espaços de módulos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Partições aleatórias",
+        "Medidas de Plancherel"
+      ]
+    }
+  ]
+}
