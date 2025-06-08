@@ -19,8 +19,6 @@
     width: 100%;
     height: 100%;
   }
-
-  /* linha vertical central */
   .timeline::before {
     content: "";
     position: absolute;
@@ -30,7 +28,6 @@
     width: 2px;
     background: #ccc;
   }
-
   .circle {
     position: absolute;
     left: 50%;
@@ -44,7 +41,6 @@
     cursor: pointer;
     transition: transform 0.2s, box-shadow 0.2s;
   }
-
   .circle:hover {
     transform: translate(-50%, -50%) scale(1.3);
     box-shadow: 0 0 0 4px var(--color);
@@ -53,14 +49,10 @@
 
 <div class="timeline">
   {#each eras as era, idx}
-    <!-- calcula o top em (idx + 0.5)/3 * 100% -->
     <div
       class="circle"
       title={era.name}
-      style="
-        --color: {era.color};
-        top: {((idx + 0.5) / eras.length) * 100}%;
-      "
+      style="--color: {era.color}; top: {((idx + 0.5) / eras.length) * 100}%;"
       on:click={() => selectEra(era)}
     />
   {/each}
