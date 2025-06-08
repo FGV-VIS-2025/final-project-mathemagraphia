@@ -21,6 +21,9 @@
   let currentTransform = d3.zoomIdentity;
   let scaleFactor = 1;
 
+  // nova variável para armazenar a era selecionada
+  let currentEra = null;
+
   let expanded = null;
   const expand = id => expanded = id;
   const closeModal = () => expanded = null;
@@ -45,7 +48,6 @@
   }
 
   async function loadData() {
-    // usa BASE_URL para funcionar em dev/build
     const base = import.meta.env.BASE_URL;
     const [world, raw] = await Promise.all([
       d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'),
@@ -135,7 +137,7 @@
       .attr('stroke','#000')
       .attr('stroke-width', 0.5 / scaleFactor)
       .on('click', (event, d) => {
-        event.stopPropagation();    // não deixa o background limpar depois
+        event.stopPropagation();
         choosePoint(d);
       });
   }
@@ -165,7 +167,8 @@
       .slice(0,8);
   }
 
-  function filterByEra([start,end]) {
+  function filterByEra([start, end]) {
+    currentEra     = [start, end];
     filteredPoints = allPoints.filter(p => p.birthYear >= start && p.birthYear < end);
     drawMap();
   }
@@ -232,7 +235,12 @@
     <section class="viz-section">
       {#each [1,2] as id}
         <div class="viz-wrapper">
-          <VizContainer {id} on:expand={() => expand(id)} />
+          <VizContainer
+            {id}
+            {currentEra}
+            points={id === 1 ? filteredPoints : []}
+            on:expand={() => expand(id)}
+          />
         </div>
       {/each}
     </section>
@@ -245,12 +253,24 @@
   <div class="modal-overlay" on:click={closeModal}>
     <div class="modal-window" on:click|stopPropagation>
       <button on:click={closeModal}>×</button>
-      <p>Visualização expandida #{expanded}</p>
+
+      {#if expanded === 1}
+        <!-- redesenha a timeline completa no modal -->
+        <VizContainer
+          id={1}
+          {currentEra}
+          points={filteredPoints}
+        />
+      {:else if expanded === 2}
+        <!-- ou outra visualização no futuro -->
+        <VizContainer
+          id={2}
+        />
+      {/if}
+
     </div>
   </div>
 {/if}
-
-
 
 
 <style>
