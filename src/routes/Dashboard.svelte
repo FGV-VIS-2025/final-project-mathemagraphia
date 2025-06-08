@@ -3,14 +3,11 @@
   import * as d3 from 'd3';
   import * as topojson from 'topojson-client';
 
-  import EuclidesChart from '../routes/Euclides.svelte';
-
   import Timeline from '../components/Timeline.svelte';
   import VizContainer from '../components/VizContainer.svelte';
   import AncientEra from '../components/AncientEra.svelte';
   import FixedBar from '../components/FixedBar.svelte';
 
-  let areaByName = {};
   let mapContainer;
   let allPoints = [], filteredPoints = [];
   let landFeatures = { type: 'FeatureCollection', features: [] };
@@ -52,16 +49,12 @@
 
   async function loadData() {
     const base = import.meta.env.BASE_URL;
-    const [world, raw, csvRaw] = await Promise.all([
+    const [world, raw] = await Promise.all([
       d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'),
-      d3.json(`${base}data/mac_tutor_com_coords.json`),
-      d3.csv(`${base}data/mathematicians_classified.csv`)
+      d3.json(`${base}data/mac_tutor_com_coords.json`)
     ]);
     const worldFeatures = topojson.feature(world, world.objects.countries);
-    2landFeatures = {
-      type: 'FeatureCollection',
-      features: worldFeatures.features || [worldFeatures]
-    };
+    landFeatures = { type: 'FeatureCollection', features: worldFeatures.features };
 
     allPoints = raw.map(d => {
       const year = parseYear(d.data_nascimento);
@@ -136,10 +129,6 @@
     await loadData(); initMap(); drawMap();
     window.addEventListener('resize', () => { d3.select(mapContainer).select('svg').remove(); initMap(); drawMap(); });
   });
-
-
-
-
 </script>
 
 <div class="dashboard-layout">
@@ -163,10 +152,6 @@
           <div class="info-container">
             {#if detailData}
               <h3>{detailData.nome_curto}</h3>
-              <p><strong>Área Principal:</strong> {detailData.area_principal}</p>
-              <p><strong>Subárea:</strong>        {detailData.subarea}</p>
-              <p><strong>Específica:</strong>    {detailData.subareas_especificas}</p>
-
               <p><strong>Nasceu:</strong> {detailData.data_nascimento}</p>
               <p><strong>Local:</strong> {detailData.local_nascimento}</p>
               <p><strong>Morreu:</strong> {detailData.data_morte}</p>
@@ -313,14 +298,6 @@
     border-color: #667eea;
     box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
   }
-  .euclides-chart-wrapper {
-  margin-top: 1rem;
-  padding: 1rem;
-  background: #fff;
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-}
 
   .suggestions-list {
     list-style: none;

@@ -3,16 +3,8 @@
   import { onMount, afterUpdate, createEventDispatcher } from 'svelte';
   import * as d3 from 'd3';
   export let id;
-<<<<<<< HEAD
-  export let showEuclidesPlot = false;
-
-  import { createEventDispatcher } from 'svelte';
-  import EuclidesChart from '../routes/Euclides.svelte';
-
-=======
   export let points = [];
   export let currentEra = null;
->>>>>>> b8d6dd4c1f765e1d47e530b366aa28936b5f72e2
   const dispatch = createEventDispatcher();
 
   let container;
@@ -294,34 +286,6 @@
   });
 </script>
 
-<<<<<<< HEAD
-<div class="viz" on:click={() => dispatch('expand')}>
-  {#if showEuclidesPlot}
-    <EuclidesChart />
-  {:else}
-    <p>Visualização #{id}</p>
-  {/if}
-</div>
-
-<style>
-  .viz {
-    width: 100%;
-    height: 100%;
-    background: #f0f0f0;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    border-radius: 8px;
-    padding: 1rem;
-    box-sizing: border-box;
-  }
-
-  .viz p {
-    color: #666;
-    font-style: italic;
-=======
 <div class="viz" bind:this={container} on:click={() => dispatch('expand')} />
 
 <style>
@@ -330,6 +294,5 @@
     height: 100%; 
     overflow: auto; 
     cursor: pointer; 
->>>>>>> b8d6dd4c1f765e1d47e530b366aa28936b5f72e2
   }
 </style>
