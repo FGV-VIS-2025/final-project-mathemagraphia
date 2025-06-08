@@ -6922,11 +6922,11 @@ Giovanni Prodi,Análise,Análise Funcional,Espaços de Banach
 David Bryant Mumford,Geometria Algébrica,Variedades de Moduli,Existência e estrutura de variedades de moduli
 David Bryant Mumford,Geometria Algébrica,Teoria de Superfícies Algébricas,Classificação de superfícies algébricas
 David Bryant Mumford,Geometria Algébrica,Teoria de Superfícies Algébricas,Característica p > 0
-Joseph Leo Doob,Probabilidade,Measure Theory,Martingais
-Joseph Leo Doob,Probabilidade,Measure Theory,Processos Estocásticos
-Joseph Leo Doob,Probabilidade,Measure Theory,Teoria Potencial
-Joseph Leo Doob,Probabilidade,Potential Theory,Teoria Potencial Clássica
-Joseph Leo Doob,Probabilidade,Potential Theory,Teoria Potencial Axiomáica
+Joseph Leo Doob,Probability,Measure Theory,Martingales
+Joseph Leo Doob,Probability,Measure Theory,Stochastic Processes
+Joseph Leo Doob,Probability,Measure Theory,Potential Theory
+Joseph Leo Doob,Probability,Potential Theory,Classical Potential Theory
+Joseph Leo Doob,Probability,Potential Theory,Axiomatic Potential Theory
 Kurt Werner Friedrich Reidemeister,Topologia,Topologia Algébrica,Teoria dos Nós
 Kurt Werner Friedrich Reidemeister,Topologia,Topologia Algébrica,Grupos Fundamentais
 Kurt Werner Friedrich Reidemeister,Topologia,Geometria Diferencial,Geometria Afim
@@ -9961,13 +9961,13 @@ Sergei Alekseevich Chaplygin,Mecânica,Mecânica dos Fluidos,Hidrodinâmica
 Sergei Alekseevich Chaplygin,Mecânica,Mecânica dos Fluidos,Aerodinâmica
 Sergei Alekseevich Chaplygin,Mecânica,Mecânica Clássica,Equações Diferenciais
 Sergei Alekseevich Chaplygin,Mecânica,Mecânica Clássica,Sistemas Não-holonômicos
-Yurii Vasilevich Prokhorov,Probabilidade,Limit Theorems,Strong Law of Large Numbers
-Yurii Vasilevich Prokhorov,Probabilidade,Limit Theorems,Local Limit Theorems
-Yurii Vasilevich Prokhorov,Probabilidade,Stochastic Processes,Martingales
-Yurii Vasilevich Prokhorov,Probabilidade,Stochastic Processes,Markov Processes
-Yurii Vasilevich Prokhorov,Probabilidade,Stochastic Processes,Stationary Processes
-Yurii Vasilevich Prokhorov,Probabilidade,Measure Theory,Probability distributions in functional spaces
-Yurii Vasilevich Prokhorov,Probabilidade,Measure Theory,Weak convergence in function spaces
+Yurii Vasilevich Prokhorov,Probability Theory,Limit Theorems,Strong Law of Large Numbers
+Yurii Vasilevich Prokhorov,Probability Theory,Limit Theorems,Local Limit Theorems
+Yurii Vasilevich Prokhorov,Probability Theory,Stochastic Processes,Martingales
+Yurii Vasilevich Prokhorov,Probability Theory,Stochastic Processes,Markov Processes
+Yurii Vasilevich Prokhorov,Probability Theory,Stochastic Processes,Stationary Processes
+Yurii Vasilevich Prokhorov,Probability Theory,Measure Theory,Probability distributions in functional spaces
+Yurii Vasilevich Prokhorov,Probability Theory,Measure Theory,Weak convergence in function spaces
 Aleksandr Yakovlevich Khinchin,Teoria da Probabilidade,Teoria dos Números,Frações contínuas
 Aleksandr Yakovlevich Khinchin,Teoria da Probabilidade,Teoria dos Números,Aproximações diofantinas
 Aleksandr Yakovlevich Khinchin,Teoria da Probabilidade,Análise,Teoria da medida
@@ -13116,4 +13116,5 @@ William Sealy Gosset,Probabilidade e Estatística,Distribuições de Probabilida
 Petr Sergeevich Novikov,Teoria dos Grupos,Problema da Palavra,Grupos com apresentação finita
 Petr Sergeevich Novikov,Teoria dos Grupos,Problema de Burnside,Grupos periódicos
 Petr Sergeevich Novikov,Teoria dos Grupos,Problema de Burnside,Grupos finitamente gerados
+John McWhan,-1,,
 al-Abbas ibn Said Al-Jawhari,Geometria,Geometria Euclidiana,Postulado das Paralelas
