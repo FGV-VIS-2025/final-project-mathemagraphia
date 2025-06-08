@@ -49,7 +49,7 @@
     const [world, raw, csvRaw] = await Promise.all([
       d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'),
       d3.json(`${base}data/mac_tutor_com_coords.json`),
-      d3.csv(`${base}data/areas_matematicos.csv`)
+      d3.csv(`${base}data/mathematicians_classified.csv`)
     ]);
 
     const worldFeatures = topojson.feature(world, world.objects.countries);
