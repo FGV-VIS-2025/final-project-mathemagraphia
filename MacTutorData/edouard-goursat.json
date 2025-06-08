@@ -1,0 +1,37 @@
+{
+  "nome_completo": "Édouard Jean-Baptiste Goursat",
+  "nome_curto": "Édouard Goursat",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Goursat/",
+  "data_nascimento": "21 May 1858",
+  "local_nascimento": "Lanzac, Lot, France",
+  "data_morte": "25 November 1936",
+  "local_morte": "Paris, France",
+  "summary": "Édouard Goursat was a French mathematician who is best known for his version of the Cauchy-Goursat theorem stating that the integral of a function round a simple closed contour is zero if the function is analytic inside the contour.",
+  "biografia": "Édouard Goursat\nattended the Collège de Brive-la-Gaillarde, receiving both his primary and secondary education there. He then spent one year at the Lycée Henri IV preparing to take the entrance examinations for l'École Normale Supérieure. This was an unusually short time to prepare for these highly competitive entrance examinations, but Goursat was successful and began his studies at the École in\n1876\n. Goursat began a lifelong association and friendship with\nÉmile Picard\nwho was a fellow student in Goursat's first year of study, then became an assistant at the École during Goursat's second year. It was\nÉmile Picard\nwho saw that Goursat had great potential to become a university teacher and he encouraged Goursat in that direction.\nGoursat had an inspired collection of teachers at École Normale Supérieure and they added to the encouragement given by\nPicard\n. His teachers included\nJean Darboux\nand\nCharles Hermite\nwho influenced him to work on analysis and its applications. He later wrote\n(\nin\n1935)\n[\n1\n]\n:-\nHermite\nis the first who revealed to me the artistic side of mathematics.\nDarboux\ncertainly recognise the huge potential in his student and wrote in\n1879\n:-\nThe student Goursat whose development was extremely rapid, is an excellent mathematician, sure to become as superior a teacher as\nPaul Appell\nand\nÉmile Picard\n.\nBut others such as\nClaude Bouquet\nand\nCharles Briot\nalso provided role models that Goursat assimilated into the teaching style that he developed. He began teaching at the University of Paris in\n1879\n, receiving his doctorate in\n1881\nfrom l'École Normale Supérieure for his thesis\nSur l'equation différentialle linéaire qui admet pour intégrale la série hypergéometrique\nⓉ\n(\nOn the linear differential equation which has as interal the full hypergeometric series\n)\n.\nHe then taught in Toulouse until\n1885\n. The next\n12\nyears were spent back at École Normale Supérieure where his lectures would form the basis of his famous three volume analysis text. Then he taught analysis at the University of Paris until his retirement.\nThe\nCauchy\n-Goursat theorem states the integral of a function round a simple closed contour is zero if the function is analytic inside the contour.\nCauchy\nhad established the theorem with the added condition that the derivative of the function was continuous. Goursat removed this extra condition in\nDémonstration du théorèm de Cauchy\nⓉ\n(\nDemonstration of Cauchy's theorem\n)\n(1884)\n. He then produced an impressive series of papers which contributed to almost every area of analysis which was being studied at that time. Not only was his work broad, but it was remarkable for its depth\n[\n1\n]\n:-\nGoursat's papers on the theory of linear differential equations and their rational transformations, as well as his studies on hypergeometric series,\nKummer\n's equation, and the reduction of abelian integrals form, in the words of Picard \"a remarkable ensemble of works evolving naturally one from the other\". Goursat introduced the notion of orthogonal kernels and semiorthogonals in connection with\nErik Fredholm\n's work on\nintegral equations\n.\nIn\n[\n4\n]\nKatz notes that it was Goursat who first noted the generalized\nStokes\ntheorem. He also remarks that Goursat used differential forms to state and prove\nPoincaré\n's lemma for arbitrary order forms and its converse.\nIn\n1891\nGoursat wrote\nLeçons sur l'intégration des équations aux dérivées partielles du premier ordre\nⓉ\n(\nLectures on the integration of partial differential equations of the first order\n)\n. However, his best known work is\nCours d'analyse mathématique\nⓉ\n(\nCourse of Mathematical Analysis\n)\n(1902\n-\n13)\nwhich introduced many new analysis concepts. The Publisher writes:-\nÉdouard Goursat's three-volume 'A Course in Mathematical Analysis' remains a classic study and a thorough treatment of the fundamentals of calculus. As an advanced text for students with one year of calculus, it offers an exceptionally lucid exposition. Volume\n1\ncovers applications to geometry, expansion in series, definite integrals, and derivatives and differentials. Volume\n2\nexplores functions of a complex variable and differential equations. Volume\n3\nsurveys variations of solutions and partial differential equations of the second order and integral equations and calculus of variations.\nIt is almost certain that\nl'Hôpital's rule\n, for finding the limit of a\nrational function\nwhose numerator and denominator tend to zero at a point, is so named because Goursat named the rule after\nde l'Hôpital\nin his\nCours d'analyse mathématique\n. Certainly the rule appears in earlier texts\n(\nfor example it appears in the work of\nEuler\n)\n, but Goursat is the first to attach\nde l'Hôpital\n's name to it.\nDespite working on the many new editions of\nCours d'analyse mathématique\nⓉ\n(\nCourse of Mathematical Analysis\n)\n, Goursat found time to write other texts such as\nLe problème de Backlund\nⓉ\n(\nBacklund's problem\n)\n(1925)\n, and\nLeçons sur les séries hypergéométriques et sur quelles fonctions qui s'y rattachent\nⓉ\n(\nLectures on the hypergeometric series and functions attached to it\n)\n(1936)\n.\nJulia\n, who was Goursat's student, later collaborated with him. He said\n[\n1\n]\n:-\n... in the name of all those who received ... not only the treasures of your science, but also the treasures of your heart, let me express ... our faithful gratitude ... having received from you the nourishment of the soul, the breadth of science and the example of virtue.\nGoursat received many honours for his outstanding contributions. He received the Grand Prix des Sciences Mathématique in\n1886\n, the Prix Poncelet in\n1889\n, and the Prix Petit d'Ormoy in\n1891\n. He was elected to the\nAcademy of Sciences\nin Paris in\n1919\n, became Chevalier de la Légion d'Honneur, and was elected president of the\nFrench Mathematical Society\n(\nSociété Mathématique de France\n)\nin\n1895\n.",
+  "matematicos_citados_na_biografia": [
+    "Émile Picard",
+    "Picard",
+    "Jean Darboux",
+    "Charles Hermite",
+    "Hermite",
+    "Darboux",
+    "Paul Appell",
+    "Claude Bouquet",
+    "Charles Briot",
+    "Cauchy",
+    "Kummer",
+    "Erik Fredholm",
+    "integral equations",
+    "Stokes",
+    "Poincaré",
+    "rational function",
+    "de l'Hôpital",
+    "Euler",
+    "Julia",
+    "Academy of Sciences",
+    "French Mathematical Society"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

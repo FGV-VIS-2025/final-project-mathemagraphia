@@ -1,0 +1,17 @@
+{
+  "nome_completo": "Prthudakasvami",
+  "nome_curto": "Prthudakasvami",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Prthudakasvami/",
+  "data_nascimento": "about 830",
+  "local_nascimento": "India",
+  "data_morte": "about 890",
+  "local_morte": "India",
+  "summary": "Prthudakasvami was an Indian mathematician best known for his work on solving equations.",
+  "biografia": "Prthudakasvami\nis best known for his work on solving equations.\nThe solution of a first-degree indeterminate equation by a method called kuttaka\n(\nor \"pulveriser\"\n)\nwas given by\nAryabhata I\n. This method of finding integer solutions resembles the continued fraction process and can also be seen as a use of the Euclidean algorithm.\nBrahmagupta\nseems to have used a method involving\ncontinued fractions\nto find integer solutions of an indeterminate equation of the type\na\nx\n+\nc\n=\nb\ny\nax + c = by\na\nx\n+\nc\n=\nb\ny\n. Prthudakasvami's commentary on\nBrahmagupta\n's work is helpful in showing how \"algebra\", that is the method of calculating with the unknown, was developing in India. Prthudakasvami discussed the kuttaka method which he renamed as \"bijagnita\" which means the method of calculating with unknown elements.\nTo see just how this new idea of algebra was developing in India, we look at the notation which was being used by Prthudakasvami in his commentary on\nBrahmagupta\n's\nBrahma Sputa Siddhanta\nⓉ\n(\nCorrectly Established Doctrine of Brahma\n)\n. In this commentary Prthudakasvami writes the equation\n10\nx\n+\n8\n=\nx\n2\n+\n1\n10x + 8 = x^{2} + 1\n1\n0\nx\n+\n8\n=\nx\n2\n+\n1\nas:\nyava\n0\nya\n10\nru\n8\nyava\n1\nya\n0\nru\n1\nHere\nyava\nis an abbreviation for\nyavat avad varga\nwhich means the \"square of the unknown quantity\",\nya\nis an abbreviation for\nyavat havat\nwhich means the \"unknown quantity\", and\nru\nis an abbreviation for\nrupa\nwhich means \"constant term\". Hence the top row reads\n0\nx\n2\n+\n10\nx\n+\n8\n0x^{2} + 10x + 8\n0\nx\n2\n+\n1\n0\nx\n+\n8\nwhile the second row reads\nx\n2\n+\n0\nx\n+\n1\nx^{2} + 0x + 1\nx\n2\n+\n0\nx\n+\n1\nThe whole equation is therefore\n0\nx\n2\n+\n10\nx\n+\n8\n=\nx\n2\n+\n0\nx\n+\n1\n0x^{2} + 10x + 8 = x^{2} + 0x + 1\n0\nx\n2\n+\n1\n0\nx\n+\n8\n=\nx\n2\n+\n0\nx\n+\n1\nor\n10\nx\n+\n8\n=\nx\n2\n+\n1\n10x + 8 = x^{2} + 1\n1\n0\nx\n+\n8\n=\nx\n2\n+\n1\n.",
+  "matematicos_citados_na_biografia": [
+    "Aryabhata I",
+    "Brahmagupta",
+    "continued fractions"
+  ],
+  "imagens": []
+}

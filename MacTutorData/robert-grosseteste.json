@@ -1,0 +1,20 @@
+{
+  "nome_completo": "Robert Grosseteste",
+  "nome_curto": "Robert Grosseteste",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Grosseteste/",
+  "data_nascimento": "1168",
+  "local_nascimento": "Stradbroke, Suffolk, England",
+  "data_morte": "9 October 1253",
+  "local_morte": "Buckden, Buckinghamshire, England",
+  "summary": "Robert Grosseteste was an English bishop who worked on geometry, optics and astronomy and made Latin translations of many Greek and Arabic scientific writings.",
+  "biografia": "Robert Grosseteste\nwas educated at Oxford University. He became Chancellor of Oxford University in\n1215\nremaining in this post until about\n1221\n. After this he held a number of ecclesiastical positions, then from\n1229\nto\n1235\nhe was a lecturer in theology to the Franciscans.\nHe became Bishop of Lincoln in\n1235\nand remained in this position until his death. As Bishop of Lincoln he attended the Council of Lyon\n(1245)\nand addressed the papal congregation at Lyon in\n1250\n.\nGrosseteste worked on geometry, optics and astronomy. In optics he experimented with mirrors and with lenses. He believed that experimentation must be used to verify a theory by testing its consequences. In his work\nDe Iride\nhe writes:-\nThis part of optics, when well understood, shows us how we may make things a very long distance off appear as if placed very close, and large near things appear very small, and how we may make small things placed at a distance appear any size we want, so that it may be possible for us to read the smallest letters at incredible distances, or to count sand, or seed, or any sort or minute objects.\nGrosseteste realised that the hypothetical space in which\nEuclid\nimagined his figures was the same everywhere and in every direction. He then postulated that this was true of the propagation of light. He wrote the treatise\nDe Luce\nⓉ\n(\nAbout light\n)\non light.\nIn\nDe Natura Locorum\nⓉ\n(\nThe nature collection\n)\nhe gives a diagram which shows light being refracted by a spherical glass container full of water.\nGrosseteste also made Latin translations of many Greek and Arabic scientific writings. He wrote a commentary on\nAristotle\n's\nPosterior Analytics\nand\nPhysics\nand many treatises on scientific subjects including\nDe Generatione Stellarum, Theorica Planetarum\nⓉ\n(\nOn the generation of the stars, theory of the planets\n)\nand\nDe astrolabio\nⓉ\n(\nOn the astrolabe\n)\n. In an astronomy text he claimed that the\nMilky Way\nwas the fusion of light from many small close stars.\nRoger Bacon\nwas Grosseteste's student.",
+  "matematicos_citados_na_biografia": [
+    "Euclid",
+    "Aristotle",
+    "Milky Way",
+    "Roger Bacon"
+  ],
+  "imagens": [
+    "grosseteste.jpg"
+  ]
+}

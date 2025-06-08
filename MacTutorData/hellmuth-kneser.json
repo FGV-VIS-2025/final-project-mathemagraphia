@@ -1,0 +1,41 @@
+{
+  "nome_completo": "Hellmuth Kneser",
+  "nome_curto": "Hellmuth Kneser",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Kneser_Hellmuth/",
+  "data_nascimento": "16 April 1898",
+  "local_nascimento": "Dorpat, Russian Empire (now Tartu, Estonia)",
+  "data_morte": "23 August 1973",
+  "local_morte": "Tübingen, Germany",
+  "summary": "Hellmuth Kneser was a Estonian-born German mathematician best known for his work in group theory and topology.",
+  "biografia": "Hellmuth Kneser\nwas the son of\nAdolf Kneser\n. Hellmuth entered the University of Breslau in\n1916\nwhere his father was the Professor of Mathematics.\nSchmidt\n's lectures at Breslau were to prove an important influence on Hellmuth Kneser's mathematical development. From Breslau Kneser went to Göttingen to undertake research. His doctoral studies there were directed by\nHilbert\nand he submitted a dissertation on the mathematics of\nquantum mechanics\nin\n1921\nUntersuchungen zur Quantentheorie\nⓉ\n(\nStudies on quantum theory\n)\n.\nAfter the award of his doctorate Kneser remained at Göttingen. There, after one year, he was appointed to a teaching post on the strength of impressive work determining all the regular families of curves on closed surfaces. His first student was\nBaer\nand, at Göttingen, Kneser supervised\nBaer\n's doctoral thesis on the classification of curves on surfaces. Kneser did not remain long at Göttingen for, in\n1925\n, he succeeded\nRadon\nto a chair in Greifswald.\nKneser spent twelve years at Greifswald before he accepted the chair at Tübingen in\n1937\n. He played an important role in assisting\nWilhelm Süss\nto found the Mathematical Research Institute at Oberwolfach in\n1944\n. When the survival of the Institute became increasingly difficult in the years following World War II, it was Kneser's support which proved significant in the battle to retain this wonderful asset for mathematical research. Large numbers of mathematicians like myself\n[\nEFR\n]\nwho have benefited from visits to this unique conference centre must have said a quiet thank you to\nSüss\n, Kneser and their colleagues. When\nSüss\ndied in\n1958\nit was Kneser who took over the scientific leadership of the Oberwolfach Institute.\nDescribing the areas of mathematics on which Kneser worked is difficult since his work was so wide ranging throughout mathematics. In fact he made a very definite decision after completing his doctoral dissertation that he would refuse to specialise. As\nWielandt\nwrites in\n[\n2\n]\n:-\nHe wanted to gain an overview over and an opinion on all parts of his science and be able to do research in each area. He would get close to the realisation of this, in his words, bold desire to an extent that filled his colleagues with amazement, but at times threatened to discourage his students.\nAfter his doctoral work on quantum theory he turned toward\ntopology\nand the theory of analytic functions in several indeterminates. While at Greifswald he really achieved his aim of working in all areas of mathematics. He published\n30\npapers in the time he held the chair there, publishing important contributions in every area of current interest.\nKneser published on sums of squares in fields, on\ngroups\n, on\nnon-Euclidean geometry\n, on\nHarald Bohr\n's almost periodic functions, on iteration of analytic functions, on the\ndifferential geometry\nof\nmanifolds\n, on local uniformisation and boundary values. He succeeded in pushing forward\nWeierstrass\nand\nHadamard\n's ideas to open up the area of the value distribution of\nmeromorphic\nfunctions. Kneser, writing of his work on this last topic said:-\nI hope that this theory will also prove fruitful for the\nspecial functions\nused in analysis, this has to be required of a new theory, in particular, if one considers that the general theory of rational functions of one indeterminate came from the treatment of special functions, namely the\ngamma\nand sigma functions by\nWeierstrass\nand of the\nRiemann\nzeta function\nby\nHadamard\n.\nAfter Kneser moved to Tübingen the emphasis in his work changed. Although he still produced papers of great significance, he now became interested in a variety of other topics related to the teaching and the relation of mathematics to other sciences. It was not just the relation between mathematics and the physical sciences that fascinated him. He now became interested in the mathematical theory of economics and of sociology. As a mathematical basis of these topics he studied applications to them of\ngame theory\n.\nStill, despite his ever widening range of activities such as organising teaching seminars and courses for school teacher of mathematics, his research continued to answer fundamental questions. For example he produced a beautiful solution to the functional equation\nf\n(\nf\n(\nx\n)\n)\n=\ne\nx\nf ( f (x) ) = e^{x}\nf\n(\nf\n(\nx\n)\n)\n=\ne\nx\nwhich he published in\n1950\n, and the deep understanding he achieved of the strange properties of manifolds without a countable basis of neighbourhoods between\n1958\nand\n1964\n.\nWielandt comments in\n[\n2\n]\non Kneser's influence and personality:-\nThe high reputation, which Kneser enjoyed as a mathematician with an unusually broad horizon, predetermined him to take over tasks with a wide area of influence; despite his rather shy nature he never avoided these responsibilities. For many years he made his well-informed judgement available to mathematical publications as editor: to the Mathematische Zeitschrift, Archiv der Mathematik and the Aequationes Matheamticae.\nHe received many honours. He was elected President of the Deutsche Mathematiker-Vereinigung and served on the executive committee of the\nInternational Mathematical Union\n. His work is summed up in\n[\n2\n]\n:-\nKneser served his science for years with his vision, care and tactfulness...\nHellmuth Kneser was the son of Adolf\nKneser\n. Martin Kneser, another mathematician, is Hellmuth Kneser's son.",
+  "matematicos_citados_na_biografia": [
+    "Adolf Kneser",
+    "Schmidt",
+    "Hilbert",
+    "quantum mechanics",
+    "Baer",
+    "Radon",
+    "Wilhelm Süss",
+    "Süss",
+    "Wielandt",
+    "topology",
+    "groups",
+    "non-Euclidean geometry",
+    "Harald Bohr",
+    "differential geometry",
+    "manifolds",
+    "Weierstrass",
+    "Hadamard",
+    "meromorphic",
+    "special functions",
+    "gamma",
+    "Riemann",
+    "zeta function",
+    "game theory",
+    "International Mathematical Union",
+    "Kneser"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

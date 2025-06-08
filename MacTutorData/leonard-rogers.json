@@ -1,0 +1,34 @@
+{
+  "nome_completo": "Leonard James Rogers",
+  "nome_curto": "Leonard Rogers",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Rogers_James/",
+  "data_nascimento": "30 March 1862",
+  "local_nascimento": "Oxford, England",
+  "data_morte": "12 September 1933",
+  "local_morte": "Oxford, England",
+  "summary": "Leonard James Rogers was an English mathematician who is best known for what are now called the Rogers-Ramanujan identities.",
+  "biografia": "Leonard James Rogers\nwas born in Oxford, where his father, Thorold Rogers\n(\nborn at West Meon Hampshire about\n1823)\n, was Professor of Political Economy.  His mother was Anne Susanna Charlotte Rogers\n(\nborn in London about\n1826)\n.\nIn his childhood Leonard had a serious illness and, though his recovery was complete, he was not sent to school. Mr J Griffith, of Jesus College, himself a well-known Oxford mathematician with a strong interest in\nelliptic functions\n, noticed Rogers' marked mathematical ability, and taught him during his boyhood.\nIn\n1879\nhe was elected to a Scholarship in Mathematics at Balliol College, and he matriculated in October,\n1880\n. Besides first classes in the Mathematical Schools, and the Senior and Junior Mathematical Scholarships, he took a second class in Classical Moderations in\n1882\n, and the degree of Bachelor of Music in\n1884\n.\nIn the period\n1888\n-\n1919\nhe was Professor of Mathematics at Yorkshire College, now the University of Leeds. A serious illness obliged him to retire in\n1919\n. He made a remarkable recovery, however, and returned to live in Oxford, where he continued his mathematical work, did a little teaching and examining, and increased his fame as a gifted musician.\nRogers was a man of extraordinary gifts in many fields, and everything he did, he did well. Besides his mathematics and music he had many interests; he was a born linguist and phonetician, a wonderful mimic who delighted to talk broad Yorkshire, a first-class skater, and a maker of rock gardens. He did things well because he liked doing them. Music was the first necessity in his intellectual life, and after that came mathematics. He had very little ambition or desire for recognition.\nRogers is now remembered for a remarkable set of identities which are special cases of results which he had published in\n1894\n. Such names as\nRogers-\nRamanujan\nidentities, Rogers-\nRamanujan\ncontinued fractions\nand\nRogers transformations\nare known in the theory of partitions, combinatorics and hypergeometric series. The Rogers-\nRamanujan\nidentities were discovered in the papers\nOn the expansion of some infinite products\n, Lond. Math. Soc. Proc.\n24\n,\n337\n-\n352\n;\n25\n,\n318\n-\n343\n(1893\n/\n94)\nand published in\n1894\n, and rediscovered by\nS A Ramanujan\nin\n1913\nand\nI Schur\nin\n1917\n(\ncf.\n[\n2\n]\n,\n[\n4\n]\n,\n[\n6\n]\n,\n[\n9\n]\n)\n. We can quote\nHardy\nwho wrote in\n1940\non page\n91\nof\n[\n2\n]\n:-\nThe formulae have a very curious history. They were found first in\n1894\nby Rogers, a mathematician of great talent but comparatively little reputation, now remembered mainly from\nRamanujan\n's rediscovery of his work. Rogers was a fine analyst, whose gifts were, on a smaller scale, not unlike\nRamanujan\n's; but no one paid much attention to anything he did, and the particular paper in which he proved the formulae was quite neglected.\nRamanujan\nrediscovered the formulae sometime before\n1913\n. He had then no proof\n(\nand knew that he had none\n)\n, and none of the mathematicians to whom I communicated the formulae could find one. They are therefore stated without proof in the second volume of\nMacMahon\n's \"Combinatory Analysis\".\nThe mystery was solved, trebly, in\n1917\n. In that year\nRamanujan\n, looking through old volumes of the Proceedings of the London Mathematical Society, came accidentally across Rogers's paper. I can remember very well his surprise, and the admiration which he expressed for Rogers' work. A correspondence followed in the course of which Rogers was led to a considerable simplification of his original proof.\nThe above neglect can be gauged by the fact that in\n1936\nthe future\nFields Medallist\n,\nAtle Selberg\n, published a \"generalization\" of the Rogers-\nRamanujan\nidentities which turned out, in fact, to be another special case of Rogers' original result.\nThe\nRogers inequality\nwas proved in\n1888\nin his paper\nAn extension of a certain theorem in inequalities\n,\nMessenger of Math\n.\n17\n(1888)\n,\n145\n-\n150\n. The inequality\n∑\na\nk\nb\nk\n≤\n(\n∑\na\nk\np\n)\n1\n/\np\n(\n∑\nb\nk\np\n/\n(\np\n−\n1\n)\n)\n(\np\n−\n1\n)\n/\np\n\\sum  a_{k}b_{k}  ≤  (\\sum  a_{k}^{p})^{1/p}(\\sum  b_{k}^{p/(p-1)})^{(p-1)/p}\n∑\na\nk\n​\nb\nk\n​\n≤\n(\n∑\na\nk\np\n​\n)\n1\n/\np\n(\n∑\nb\nk\np\n/\n(\np\n−\n1\n)\n​\n)\n(\np\n−\n1\n)\n/\np\nwhich is known as the\nHölder\ninequality, was proved in a slightly different form by Rogers in\n1888\nand then, also in a different form, by\nHölder\nin\n1889\n.\nHölder\neven made clear that he was indebted to a paper of Rogers by referring to it. In the above form together with its integral version the inequalities were stated and used by\nF Riesz\nin\n1910\n. In\n1920\nHardy\n[\n10\n]\nwrote \"By the well known inequality... which seems to be due to\nHölder\n: see\nEdmund Landau\n(1907)\n\". Then in\n1934\nin the well known\nInequalities\nbook of\nHardy\n-\nLittlewood\n-\nPólya\n[\n1\n]\non page\n25\nit was stated in an footnote that \"\nHölder\nstates the theorem in a less symmetrical form given a little earlier by Rogers\". As we can see\nHölder\nwas luckier that\nPringsheim\n(1902)\n,\nJensen\n(1906)\n,\nLandau\n(1907)\n,\nRiesz\n(1910\n,\n1913)\n,\nHardy\n(1920)\nand then\nHardy\n-\nLittlewood\n-\nPólya\n[\n1\n]\nput\nHölder\nname instead of Rogers's name to that inequality and now almost everybody refers to it as\nHölder\n's inequality. However, it should be called the Rogers inequality or Rogers-\nHölder\n-\nRiesz\ninequality or, at least, Rogers-\nHölder\nor\nHölder\n-Rogers inequality\n(\ncf.\n[\n3\n]\n,\n[\n5\n]\n,\n[\n13\n]\nand especially\n[\n12\n]\n, where more is written about this interesting story\n)\n.\nRogers published over thirty papers in mathematics.",
+  "matematicos_citados_na_biografia": [
+    "elliptic functions",
+    "Ramanujan",
+    "continued fractions",
+    "S A Ramanujan",
+    "I Schur",
+    "Hardy",
+    "MacMahon",
+    "Fields Medallist",
+    "Atle Selberg",
+    "Hölder",
+    "F Riesz",
+    "Edmund Landau",
+    "Littlewood",
+    "Pólya",
+    "Pringsheim",
+    "Jensen",
+    "Landau",
+    "Riesz"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

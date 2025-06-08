@@ -1,0 +1,25 @@
+{
+  "nome_completo": "Callippus of Cyzicus",
+  "nome_curto": "Callippus",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Callippus/",
+  "data_nascimento": "about 370 BC",
+  "local_nascimento": "Cyzicus, Asia Minor (now Turkey)",
+  "data_morte": "about 310 BC",
+  "local_morte": null,
+  "summary": "Callippus was a Greek astronomer who made accurate determinations of the lengths of the seasons and constructed a calendarused by all later astronomers.",
+  "biografia": "The dates given for the birth and death of\nCallippus of Cyzicus\nare guesses but he is known to have been working with\nAristotle\nin Athens starting in\n330\nBC.\nWe know that Callippus was a student in the School of\nEudoxus\n. We also know that he made his astronomical observations on the shores of the Hellespont, which can be deduced from the observations themselves.\nSimplicius\nwrites in his commentary on\nDe caelo\nby\nAristotle\n(\nsee for example\n[\n1\n]\n)\n:-\nCallippus of Cyzicus, having studied with Polemarchus,\nEudoxus\n's pupil, following him to Athens dwelt with\nAristotle\n, correcting and completing, with\nAristotle\n's help, the discoveries of\nEudoxus\n.\nCallippus made accurate determinations of the lengths of the seasons and constructed a\n76\nyear cycle comprising\n940\nmonths to harmonise the solar and lunar years which was adopted in\n330\nBC and used by all later astronomers. This calendar of Callippus is examined in detail by\nvan der Waerden\nin\n[\n6\n]\n.\nPtolemy\ngave us an accurate date for the beginning of this cycle in\n330\nBC in the\nAlmagest\nⓉ\n(\nThe major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis'\n)\nsaying that year\n50\nof the first cycle coincided with the\n44\nth\nyear following the death of Alexander.\nThe Callippic period is based on the Metonic period devised by Meton\n(\nborn about\n460\nBC\n)\n. Meton's observations were made in Athens in\n432\nBC but he gave a length for the year which was\n1\n76\n\\large\\frac{1}{76}\\normalsize\n7\n6\n1\n​\nof a day too long. The relation between Callippus's period and that of Meton are explained in\n[\n2\n]\nas follows:-\nCallippus of Cyzicus\n(\nc.\n370\n-\n300\nBC\n)\nwas perhaps the foremost astronomer of his day. He formed what has been called the Callippic period, essentially a cycle of four Metonic periods. It was more accurate than the original Metonic cycle and made use of the fact that\n365\n.\n25\ndays is a more precise value for the\ntropical year\nthan\n365\ndays. The Callippic period consisted of\n4\n×\n235\n, or\n940\nlunar months, but its distribution of hollow and full months was different from Meton's. Instead of having totals of\n440\nhollow and\n500\nfull months, Callippus adopted\n441\nhollow and\n499\nfull, thus reducing the length of four Metonic cycles by one day. The total days involved therefore became\n(441\n×\n29)\n+\n(499\n×\n30)\n, or\n27\n,\n759\nand\n27\n,\n759\n÷\n(19\n×\n4)\ngives\n365\n.\n25\ndays exactly. Thus the Callippic cycle fitted\n940\nlunar months precisely to\n76\ntropical years of\n365\n.\n25\ndays.\nCallippus introduced a system of\n34\nspheres to explain the motions of the heavenly bodies. The Sun, Moon, Mercury, Venus and Mars each had five spheres while Jupiter and Saturn had four and the stars had one. This addition of six spheres over the system proposed by\nEudoxus\nincreased the accuracy of the theory while preserving the belief that the heavenly bodies had to possess motion based on the circle since that was the 'perfect' path.\nHeath\nwrites\n[\n4\n]\n:-\nCallipus tried to make the system of\nconcentric spheres\nsuit the phenomena more exactly by adding other spheres; he left the number of spheres at four in the case of Jupiter and Saturn, but added one each to the other planets and two each in the case of the sun and the moon ... . This would substitute for the\nhippopede\n[\nsee the\nEudoxus\narticle\n]\na still more complicated elongated figure ...\nOther contributions of Callippus to mathematical astronomy included his observation of the inequality in the lengths of the seasons. He accounted for this in his model by making the velocity of the Sun vary through the year and this was achieved with the two extra spheres described above.\nThe Callippic period contributed to the accuracy of later astronomical theories. Kieffer writes in\n[\n1\n]\n:-\nAlthough the system of concentric spheres gave way to\nepicycles\nand\neccentrics\n, Callippus's period became the standard for correlating observations accurately over many centuries, and thus contributed to the accuracy of later astronomical theories.",
+  "matematicos_citados_na_biografia": [
+    "Aristotle",
+    "Eudoxus",
+    "Simplicius",
+    "van der Waerden",
+    "Ptolemy",
+    "tropical year",
+    "Heath",
+    "concentric spheres",
+    "hippopede",
+    "epicycles",
+    "eccentrics"
+  ],
+  "imagens": []
+}

@@ -1,0 +1,24 @@
+{
+  "nome_completo": "Robert Woodhouse",
+  "nome_curto": "Robert Woodhouse",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Woodhouse/",
+  "data_nascimento": "28 April 1773",
+  "local_nascimento": "Norwich, England",
+  "data_morte": "28 December 1827",
+  "local_morte": "Cambridge, England",
+  "summary": "Robert Woodhouse was an English mathematician and astronomer who attempted to bring continental methods into English mathematics.",
+  "biografia": "Robert Woodhouse\n's father was a draper, who was also called Robert Woodhouse, and his mother was Judith Alderson, the daughter of a Unitarian minister from Lowestoft. As well as Robert junior, the subject of this biography, Judith and Robert Woodhouse had a younger son John Thomas Woodhouse who was born in\n1780\n. Robert junior attended grammar school in North Walsham. On\n20\nMay\n1790\nhe was admitted to Caius College, Cambridge, where he graduated as Senior\nWrangler\n(\nranked first among the First Class students\n)\nand first Smith's prizeman in\n1795\n. He became a fellow of Caius College in\n1798\n, as did his younger brother a few years later, and held the fellowship until\n1823\n.\nWoodhouse was made a fellow of the\nRoyal Society\non\n16\nDecember\n1802\n. He was appointed Lucasian professor of mathematics in\n1820\nbut this chair provided such a small income that he was happy to resign in\n1822\nso that he might accept the better paid position as Plumian professor of astronomy and experimental philosophy. He also became the first director of the Cambridge University observatory which had just been newly built. He held this latter professorship, and was head of the Observatory, until his death in\n1827\n. Fellows of a Cambridge College were not allowed to be married so Woodhouse had to resign his fellowship in order that he might marry Harriet Wilken on\n20\nFebruary\n1823\n. In fact Woodhouse would have married sooner but his income was, until he became Plumian professor, insufficient to support a wife. Harriet, who came from Norwich, was the daughter of an architect. Her brother William Wilkens was even better known as an architect than was their father. Robert and Harriot had one son.\nWoodhouse was interested in the theoretical foundations of the calculus, the importance of notation, the nature of imaginary numbers and other similar topics. He wrote an three papers in the\nPhilosophical Transactions of the Royal Society\nin\n1801\n,\n1802\nand an important book\nPrinciples of Analytic Calculation\nin\n1803\nwhich attempted to put the calculus on a rigorous algebraic foundation using a formal series expansions method similar to that developed by\nLagrange\n[\n2\n]\n:-\nHe demanded that analysis in general and the calculus specifically be placed upon a purely algebraic footing free of geometric and physical encumbrances such as limits or infinitesimals.\nIn essence Woodhouse was dealing with\nTaylor series\nof a function, from which he could directly read off the first, second, third etc. derivatives from the coefficients of the terms of the series without involving any limiting process.\nHis support of Continental methods was aimed at his fellow professors at Cambridge who were still using\nNewton\n's method of fluxions, but it had little effect; people would not readily move away from their traditional approaches. Woodhouse, therefore, failed to have much immediate influence as a reformer in mathematical studies at Cambridge. If the methods of\nLagrange\n, rather than those of\nCauchy\n, had become the accepted methods then Woodhouse would have a much more prominent role in the history of mathematics today. However he did begin the Cambridge move towards Continental style mathematics which was taken further by\nHerschel\n,\nPeacock\nand\nBabbage\n.\nPeacock\n, in particular, considered Woodhouse's work to be of major importance but in general people did not appreciate his writing which, one would have to say, was rather difficult to understand and rather uninspiring.\nAnother attempt by Woodhouse to bring mathematics at Cambridge up-to-date was in\n1804\nwhen he published a paper on elliptic integrals in the\nPhilosophical Transactions of the Royal Society\n. He fully realised the significance of the topic which had received little attention at Cambridge. He wrote several widely used elementary texts which, during his lifetime, brought him more fame. Woodhouse's other works include\nA Treatise on Plane and Spherical Trigonometry\n(1809)\n,\nA Treatise on Isoperimetrical Problems and the\nCalculus of Variations\n(1810)\n,\nTreatise on Astronomy\n(1812)\nand a work on gravitation published in\n1818\n.",
+  "matematicos_citados_na_biografia": [
+    "Wrangler",
+    "Royal Society",
+    "Lagrange",
+    "Taylor series",
+    "Newton",
+    "Cauchy",
+    "Herschel",
+    "Peacock",
+    "Babbage",
+    "Calculus of Variations"
+  ],
+  "imagens": []
+}

@@ -1,0 +1,21 @@
+{
+  "nome_completo": "Jagannatha Samrat",
+  "nome_curto": "Jagannatha",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Jagannatha/",
+  "data_nascimento": "about 1690",
+  "local_nascimento": "Amber (now Jaipur), India",
+  "data_morte": "about 1750",
+  "local_morte": "India",
+  "summary": "Jagannatha was an Indian mathematician who is important as a translator of important Greek works into Sanskrit.",
+  "biografia": "Jagannatha\nhad Jai Singh Sawai as his patron. Jai Singh Sawai was the ruler of Amber, now Jaipur, in eastern Rajasthan. He began his rule in\n1699\nand by clever use of tax rights on land that was rented by the state to an individual person he became the most important ruler in the region. His financial success let him finance the scholarly works of people such as Jagannatha. It is worth noting that Jai Singh's importance was recognised by Amber which was then called Jaipur in his honour.\nJai Singh ruled Amber throughout the period in which Jagannatha was producing his scientific work. He realised that the health of the country required Indian culture and science to be revitalised and returned to its position of leading importance which it had possessed. So Jai Singh employed Jagannatha to make Sanskrit translations of the important Greek scientific works which at that time were only available in Arabic translations.\nJagannatha translated\nEuclid\n's\nElements\nfrom the Arabic translation by\nNasir al-Din al-Tusi\nmade nearly\n500\nyears earlier. His Sanskrit version was called\nRekhaganita\nand it was completed by\n1727\n. We know this date since a copy was made by a scribe and he dated the start of his work as\n1727\n.\nPtolemy\n's\nAlmagest\nⓉ\n(\nThe major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis'\n)\nhad been one of the works which Arabic scientists had studied intently and, in\n1247\n,\nal-Tusi\nwrote\nTahrir al-Majisti\n(\nCommentary on the Almagest\n)\nin which he introduced various trigonometrical techniques to calculate tables of sines. Jagannatha translated\nal-Tusi\n's Arabic version but he did more than this for he included in the same work, which he called Siddhantasamrat, his own comments on related work of other Arabic mathematical astronomers such as\nUlugh Beg\nand\nal-Kashi\n.\nIt is clear from Jagannatha's work that he is working as one of a group of mathematicians and astronomers gathered by Jai Singh in his scheme to bring the best in scientific ideas from outside India to reinvigorate the scientific scene in India.\nIn\n[\n3\n]\nGupta looks at the history of the result\nsin\n(\nπ/\n10)\n=\n(\n√\n5\n-\n1)\n/\n4\nin Indian mathematics. The result appears for the first time in the work of\nBhaskara II\n, but there were a number of interesting proofs of the result by later Indian mathematicians. One of the proofs presented by Gupta in\n[\n3\n]\nwas by Jagannatha who gave a proof which was essentially geometric in nature but, interestingly, contained an analytic procedure in terms of trigonometric and algebraic steps.",
+  "matematicos_citados_na_biografia": [
+    "Euclid",
+    "Nasir al-Din al-Tusi",
+    "Ptolemy",
+    "al-Tusi",
+    "Ulugh Beg",
+    "al-Kashi",
+    "Bhaskara II"
+  ],
+  "imagens": []
+}

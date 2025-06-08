@@ -1,0 +1,29 @@
+{
+  "nome_completo": "Philipp Ludwig von Seidel",
+  "nome_curto": "Philipp von Seidel",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Seidel/",
+  "data_nascimento": "24 October 1821",
+  "local_nascimento": "Zweibrücken, Germany",
+  "data_morte": "13 August 1896",
+  "local_morte": "Munich, Germany",
+  "summary": "Philipp  von Seidel was a German mathematician who worked on dioptics and mathematical analysis.",
+  "biografia": "Philipp von Seidel\n's mother was Julie Reinhold. His father, Justus Christian Felix Seidel, worked for the German post office and his job entailed him moving frequently. This meant that Philipp attended several different schools during his upbringing. The first of these schools was in Nördlingen, the next was in Nuremberg, then finally he completed his school education in Hof.\nAlthough Seidel completed his school studies in the autumn of\n1839\nhe did not enter university immediately but received private coaching in mathematics before beginning his university career. He was coached by L C Schnürlein who was a mathematics teacher at the\nGymnasium\nin Hof. This was valuable coaching for Seidel, particularly since Schnürlein was a good mathematician who had studied under\nGauss\n.\nSeidel entered the University of Berlin in\n1840\nand studied under\nDirichlet\nand\nEncke\n. The custom among German students at this time was to spend time at different universities and, following the usual custom, Seidel moved to Königsberg in\n1842\nwhere he studied under\nBessel\n,\nJacobi\nand\nFranz Neumann\n. In the autumn of\n1843\nJacobi left Königsberg on the grounds of ill health and set off for Italy with\nBorchardt\n,\nDirichlet\n,\nSchläfli\nand\nSteiner\n.\nBessel\ncertainly seems to have expected\nJacobi\nto be away from Königsberg for a long while since he advised Seidel to go to Munich to study for his doctorate. He obtained his doctorate from Munich in\n1846\nfor a thesis\nÜber die beste Form der Spiegel in Teleskopen\nⓉ\n(\nOn the best form of mirrors in telescopes.\n)\n.  Six months later he submitted his\nhabilitation\ndissertation\nUntersuchungen über die Konvergenz und Divergenz der Kettenbrüche\nand qualified to become a lecturer at Munich. It is worth noting that these two theses, submitted only six months apart, were on two completely different topics - the first was on astronomy while the second was on mathematical analysis.\nLike these two theses, Seidel worked on dioptics and mathematical analysis throughout his career. His work on lenses, and identified mathematically five coefficients describing the aberration of a lens, now called 'Seidel sums'. These Seidel sums correspond to spherical aberration, coma, astigmatism,\nPetzval\ncurvature and distortion. He also introduced the concept of nonuniform convergence and applied\nprobability\nto astronomy.\nSeidel progressed rapidly at Munich. He was appointed as an extraordinary professor in Munich in\n1847\nand then an ordinary professor in\n1855\n. He received many honours such as appointment as a Royal Privy Councillor. He received many medals for his work and, in\n1851\n, was elected to the Bavarian Academy of Sciences. Other academies also honoured him, for example he was elected to the academies of Göttingen and of Berlin.\nAn interesting aspect of Seidel's astronomical work involved, as we mentioned above, the use of probability theory. However, he did not restrict his use of this mathematical discipline to astronomy, for he also applied his skills in this area to study the frequency of certain diseases and also looked at certain questions relating to the climate. He lectured on probability theory, and also on the method of least squares.\nProblems with his eyesight forced Seidel into early retirement. Since he had never married he had no immediate family to help him when he became ill, but he had an unmarried sister Lucie Seidel who looked after him until\n1889\n. By this time he certainly could not care for himself, yet had no family who could help out. In his last seven years he was looked after by the widow of a clergyman.",
+  "matematicos_citados_na_biografia": [
+    "Gymnasium",
+    "Gauss",
+    "Dirichlet",
+    "Encke",
+    "Bessel",
+    "Jacobi",
+    "Franz Neumann",
+    "Borchardt",
+    "Schläfli",
+    "Steiner",
+    "habilitation",
+    "Petzval",
+    "probability"
+  ],
+  "imagens": [
+    "seidel.jpg"
+  ]
+}

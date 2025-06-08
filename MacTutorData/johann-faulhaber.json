@@ -1,0 +1,28 @@
+{
+  "nome_completo": "Johann Faulhaber",
+  "nome_curto": "Johann Faulhaber",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Faulhaber/",
+  "data_nascimento": "5 May 1580",
+  "local_nascimento": "Ulm, Germany",
+  "data_morte": "1635",
+  "local_morte": "Ulm, Germany",
+  "summary": "Johann Faulhaber was a German Cossist or early algebraist. He is important for his work explaining the recently invented logarithms.",
+  "biografia": "Johann Faulhaber\nwas trained as a weaver. However he was taught mathematics in Ulm and showed such promise that the City of Ulm appointed him city mathematician and surveyor. He opened his own school in Ulm in\n1600\nbut he was in great demand because of his skill in fortification work.\nHis expertise saw him working on fortifications for Basel, Frankfurt and many other cities. He also designed waterwheels in Ulm and made mathematical and surveying instruments, particularly ones with military applications.\nAmong the scientists with whom Faulhaber collaborated were\nKepler\nand\nvan Ceulen\n. He was a Rosicrucian, a brotherhood combining elements of mystical beliefs with an optimism about the ability of science to improve the human condition. He made a major impression on\nDescartes\nwith both his scientific and Rosicrucian beliefs and influenced his thinking.\nFaulhaber was a 'Cossist', an early algebraist. He is important for his work explaining logarithms associated with\nStifel\n,\nBürgi\nand\nNapier\n. He made the first German publication of\nBriggs\n's logarithms.\nFaulhaber's most major contribution, however, was in studying sums of powers of integers. Let\nN\n=\n1\n2\nn\n(\nn\n+\n1\n)\nN = \\large\\frac{1}{2}\\normalsize n(n+1)\nN\n=\n2\n1\n​\nn\n(\nn\n+\n1\n)\n. Define\n∑\nn\nk\n\\sum  n^{k}\n∑\nn\nk\nto be the sum\n∑\ni\nk\n\\sum  i^{k}\n∑\ni\nk\nwhere the sum is from\n1\nto\nn\nn\nn\n. Then\nN\n=\n∑\nn\n1\nN = \\sum  n^{1}\nN\n=\n∑\nn\n1\n. In\n1631\nFaulhaber published\nAcademia Algebra\nⓉ\n(\nAcademy of Algebra\n)\nin Augsburg. It was a German text despite the Latin title.\nIn\nAcademia Algebra\nⓉ\n(\nAcademy of Algebra\n)\nFaulhaber gives\n∑\nn\nk\n\\sum  n^{k}\n∑\nn\nk\nas a polynomial in\nN\nN\nN\n, for\nk\n=\n1\n,\n3\n,\n5\n,\n.\n.\n.\n,\n17\nk = 1, 3, 5, ... ,17\nk\n=\n1\n,\n3\n,\n5\n,\n.\n.\n.\n,\n1\n7\n. He also gives the corresponding polynomials in\nn\nn\nn\n. Faulhaber states that such polynomials in\nN\nN\nN\nexist for all\nk\nk\nk\n, but gave no proof. This was first proved by\nJacobi\nin\n1834\n. It is not known how much\nJacobi\nwas influenced by Faulhaber's work, but we do know that\nJacobi\nowned\nAcademia Algebra\nsince his copy of it is now in the University of Cambridge.\nFaulhaber did not discover the\nBernoulli numbers\nbut\nJacob Bernoulli\nrefers to Faulhaber in\nArs Conjectandi\nⓉ\n(\nThe art of conjecturing\n)\npublished in Basel in\n1713\n, eight years after\nJacob Bernoulli\ndied, where the Bernoulli numbers\n(\nso named by\nDe Moivre\n)\nappear.\nAcademia Algebra\ncontains a generalisation of sums of powers. Faulhaber gave formulae for\nm\nm\nm\n-fold sums of powers defined as follows.\nDefine\n∑\n0\nn\nk\n=\nn\nk\n\\sum ^{0}n^{k} = n^{k}\n∑\n0\nn\nk\n=\nn\nk\nand\n∑\nm\n+\n1\nn\nk\n=\n∑\nm\n1\nk\n+\n∑\nm\n2\nk\n+\n.\n.\n.\n+\n∑\nm\nn\nk\n\\sum ^{m+1}n^{k} = \\sum ^{m}1^{k} + \\sum ^{m}2^{k} + ... + \\sum ^{m}n^{k}\n∑\nm\n+\n1\nn\nk\n=\n∑\nm\n1\nk\n+\n∑\nm\n2\nk\n+\n.\n.\n.\n+\n∑\nm\nn\nk\n.\nFaulhaber gives formulae for many of these\nm\nm\nm\n-fold sums including giving a polynomial for\n∑\n11\nn\n6\n\\sum ^{11}n^{6}\n∑\n1\n1\nn\n6\n.\nKnuth\n, in\n[\n7\n]\nremarks:-\nHis polynomial ... turns out to be absolutely correct, according to calculations with a modern computer. ... One cannot help thinking that nobody has ever checked these numbers since Faulhaber himself wrote them down, until today.\nAt the end of\nAcademia Algebra\nFaulhaber states that he has calculated polynomials for\n∑\nn\nk\n\\sum  n^{k}\n∑\nn\nk\nas far as\nk\n=\n25\nk = 25\nk\n=\n2\n5\n. He gives the formulae in the form of a secret code, which was common practice at the time.\nKnuth\n, in\n[\n8\n]\n, suggests he is the first to crack the code:\n(\nthe task\n[\nof cracking the code\n]\nis relatively easy with modern computers\n)\nand shows that Faulhaber had the correct formulae up to\nk\n=\n23\nk = 23\nk\n=\n2\n3\n, but his formulae for\nk\n=\n24\nk = 24\nk\n=\n2\n4\nand\nk\n=\n25\nk = 25\nk\n=\n2\n5\nappear to be wrong.",
+  "matematicos_citados_na_biografia": [
+    "Kepler",
+    "van Ceulen",
+    "Descartes",
+    "Stifel",
+    "Bürgi",
+    "Napier",
+    "Briggs",
+    "Jacobi",
+    "Bernoulli numbers",
+    "Jacob Bernoulli",
+    "De Moivre",
+    "Knuth"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nome_completo": "Vyacheslaw Vassilievich Stepanov",
+  "nome_curto": "Vyacheslaw Vassilievich Stepanov",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Stepanov/",
+  "data_nascimento": "4 September 1889",
+  "local_nascimento": "Smolensk, Russia",
+  "data_morte": "22 July 1950",
+  "local_morte": "Moscow, USSR",
+  "summary": "Vyacheslaw Stepanov was a Russian mathematician who worked in analysis, especially in the theory of ordinary differential equations and almost periodic functions.",
+  "biografia": "Vyacheslaw Vassilievich Stepanov\n's father was Vassily Ivanovich Stepanov, a high school teacher of history and geography in Smolensk. Vyacheslaw's mother was Alexandra Yakovlevna who was also a teacher, teaching in a girl's school. Stepanov was educated at the Smolensk High School and he graduated from the school in\n1908\nhaving excelled in science in general and mathematics in particular. He entered the Faculty of Physics and Mathematics of Moscow University to study mathematics and physics in\n1908\n. He was supervised there by\nDimitri Fedorovich Egorov\nbut also influenced by\nNikolai Nikolaevich Luzin\nwho was a student of\nEgorov\n, then from\n1909\nan assistant lecturer. In\n1912\nStepanov completed his first degree, but\nEgorov\nencouraged him to continue his studies so that he might prepare for a professorship.\nLuzin\n, who was a little ahead of Stepanov, had travelled abroad visiting Göttingen where he had been inspired by\nEdmund Landau\n. Stepanov also spent some time in Göttingen where he attended lectures by both\nDavid Hilbert\nand\nEdmund Landau\n. He returned to Moscow in\n1915\nand, much influenced by\nEgorov\nand\nLuzin\n, he worked on periodic functions and\ndifferential equations\n. His first article studied the theory of the growth of functions building on the work by\nPaul du Bois-Reymond\non the topic.\nStepanov was appointed as lecturer in Moscow in\n1915\n, then from\n1921\nhe was involved in training young scientists at the Research Institute of Mathematics and Mechanics which had been founded in that year.\nEgorov\nwas appointed Director of the Research Institute in\n1923\nand Stepanov assisted his former research supervisor in running the Institute until\nEgorov\nwas dismissed from his role in\n1929\n. In\n1928\nStepanov became professor at Moscow University. His most famous student was\nAleksandr Osipovich Gelfond\nwho graduated in\n1935\n. Stepanov was appointed Director of the Research Institute of Mathematics and Mechanics in\n1939\n, continuing to hold this post until his death. He also played an important role in the\nMoscow Mathematical Society\n[\n1\n]\n:-\nHe was also one of the most influential and active leaders of the\nMoscow Mathematical Society\n, owing, among other things, to his exceptional erudition and memory.\nOne of his most significant results is contained in two publications, the first in\n1923\nand the second two years later\n[\n1\n]\n:-\nIn works published in\n1923\nand\n1925\nStepanov established the necessary and sufficient conditions under which a function of two variables, defined on a measurable plane set of finite measure greater than zero, possesses a total differential almost everywhere on that set.\nHarald Bohr\nhad introduced the notion of an almost periodic function and Stepanov constructed and investigated new classes of generalised almost periodic functions. In the qualitative theory of differential equations he worked on the general theory of\ndynamical systems\nstudied by\nG D Birkhoff\n. In this area Stepanov extended work by\nPoincaré\n[\n1\n]\n:-\nBesides writing articles on the study of almost periodic trajectories and on a generalisation of Birkhoff's ergodic theorem\n(\nwhich found an important application in statistical physics\n)\n, Stepanov organised a seminar on the qualitative methods of the theory of differential equations\n(1932)\nthat proved of great importance for the creation of the Soviet scientific school in this field.\nA graduate-level text\nQualitative Theory of Differential Equations\nby Stepanov and his student Viktor V Nemytskii became a classic, the\n1960\nedition being reprinted in\n1989\n. It considers existence and continuity theorems, integral curves of a system of two differential equations, systems of\nn\nn\nn\n-differential equations, general theory of dynamical systems, systems with an integral invariant, and many related topics.\nFour years before his death, Stepanov was honoured with election to the\nAcademy of Sciences of the USSR\n.",
+  "matematicos_citados_na_biografia": [
+    "Dimitri Fedorovich Egorov",
+    "Nikolai Nikolaevich Luzin",
+    "Egorov",
+    "Luzin",
+    "Edmund Landau",
+    "David Hilbert",
+    "differential equations",
+    "Paul du Bois-Reymond",
+    "Aleksandr Osipovich Gelfond",
+    "Moscow Mathematical Society",
+    "Harald Bohr",
+    "dynamical systems",
+    "G D Birkhoff",
+    "Poincaré",
+    "Academy of Sciences of the USSR"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}

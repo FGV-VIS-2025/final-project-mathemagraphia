@@ -1,0 +1,21 @@
+{
+  "nome_completo": "Zenodorus",
+  "nome_curto": "Zenodorus",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Zenodorus/",
+  "data_nascimento": "about 200 BC",
+  "local_nascimento": "Athens, Greece",
+  "data_morte": "about 140 BC",
+  "local_morte": "Greece",
+  "summary": "Zenodorus was a Greek mathematician who studied the area of a figure with a fixed perimeter and the volume of a solid figure with fixed surface.",
+  "biografia": "We know little of\nZenodorus\n's life but he is mentioned in the Arabic translation of\nDiocles\n'\nOn burning mirrors\nwhere it is stated\n[\n3\n]\n:-\nAnd when Zenodorus the astronomer came down to Arcadia and was introduced to us, he asked us how to find a mirror surface such that when it is placed facing the sun the rays reflected from it meet a point and thus cause burning.\nToomer notes that his translation of\n'when Zenodorus the astronomer came down to Arcadia and was introduced to us'\ncould, perhaps, be translated\n'when Zenodorus the astronomer came down to Arcadia and was appointed to a teaching position there'\n.\nBefore the discovery of the Arabic text of\nDiocles\n'\nOn burning mirrors\n, Zenodorus was known to us mainly because of references to his treatise\nOn isometric figures\nwhich is lost. There is another interesting source of information however. When Vesuvius erupted in\n79\nAD, Herculaneum together with Pompeii and Stabiae, was destroyed. Herculaneum was buried by a compact mass of material about\n16\nmetres deep which preserved the city until excavations began in the\n18\nth\ncentury. Special conditions of humidity of the ground conserved wood, cloth, food, and in particular many papyri.\nThe papyri contain remarkable information and in particular there is a biography of the philosopher Philonides. This biography speaks of Zenodorus as a friend of Philonides and, although complete certainty is impossible, we can be confident that this reference to Zenodorus is to the mathematician described in this article. Two visits by Zenodorus to Athens are described in the biography.\nDespite the loss of Zenodorus's treatise\nOn isometric figures\n, we do know something of the results which it contained since\nTheon of Alexandria\nquotes a number of propositions from Zenodorus's work when he is giving his commentary on\nPtolemy\n's\nSyntaxis\n.\nPappus\nalso made use of Zenodorus's\nOn isometric figures\nin Book V of his own work and in fact a comparison with what\nTheon\nof Alexandria has presented shows that\nPappus\nfollowed Zenodorus's presentation rather closely.\nIn\nOn isometric figures\nZenodorus himself follows the style of\nEuclid\nand\nArchimedes\nquite closely and he refers to results of\nArchimedes\nfrom his treatise\nMeasurement of a circle\n.\nZenodorus studied the area of a figure with a fixed perimeter and the volume of a solid figure with fixed surface. For example he showed that among polygons with equal perimeter and an equal number of sides, the regular polygon has the greatest area.\nHe also showed that a circle is greater than any regular polygon of the same perimeter. To do this Zenodorus makes use of\nArchimedes\nresult that the area of a circle is equal to that of a right-angled triangle of perpendicular side equal to the radius of the circle and base equal to the length of the circumference of the circle.\nThe treatise contains three-dimensional geometry results as well as two-dimensional. In particular he proved that the sphere was the solid figure of least surface area for a given volume.",
+  "matematicos_citados_na_biografia": [
+    "Diocles",
+    "Theon of Alexandria",
+    "Ptolemy",
+    "Pappus",
+    "Theon",
+    "Euclid",
+    "Archimedes"
+  ],
+  "imagens": []
+}

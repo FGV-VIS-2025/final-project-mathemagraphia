@@ -1,0 +1,21 @@
+{
+  "nome_completo": "Jules Antoine Richard",
+  "nome_curto": "Jules Richard",
+  "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Richard_Jules/",
+  "data_nascimento": "12 August 1862",
+  "local_nascimento": "Blet, Cher, France",
+  "data_morte": "14 October 1956",
+  "local_morte": "Châteauroux, Indre, France",
+  "summary": "Jules Richard worked on Geometry but is best known for Richard's paradox involving the set of real numbers which can be defined in a finite number of words.",
+  "biografia": "Jules Richard\ntaught at lycées in Tours, Dijon and Châteauroux. He obtained a doctorate on the surface of\nFresnel\nwaves from the Faculty of Science in Paris in\n1901\n. He defended his thesis in an examination held on\n22\nNovember\n1901\n. Notice that by this time he was\n39\nyears old.\nJules Richard wrote on the philosophy of mathematics in\n1903\npublishing\nSur une manière d'exposer la géométrie projective\nⓉ\n(\nOn a way to describe projective geometry\n)\nin that year. This paper discussed axiomatic projective geometry and built on work by\nHilbert\n,\nvon Staudt\nand\nMéray\n. Then in\n1908\nRichard wrote\nSur la nature des axiomes de la géométrie\nⓉ\n(\nThe nature of the axioms of geometry\n)\nin which he looked critically at four different approaches to geometry:-\nGeometry is founded on arbitrarily chosen axioms - there are infinitely many equally true geometries.\nExperience provides the axioms of geometry, the basis is experimental, the development deductive.\nThe axioms of geometry are definitions. Notice this is logically quite different from\n(\ni\n)\n.\nAxioms are neither experimental nor arbitrary, they force themselves on us since without them experience is not possible. This approach was essentially that proposed by Kant.\nHaving given these four separate approaches, Richard then proceeds to point out unacceptable aspects of each of the four. He then goes on to make his own suggestion as to how to approach geometry. He writes\n(\nsee for example\n[\n1\n]\n)\n:-\nAxioms are propositions, the task of which is to make precise the notion of identity of two objects pre-existing in our mind.\nBut of course, writes Richard, there is an ultimate goal which must be kept in mind when approaching geometry:-\nTo explain the material universe is the goal of science.\nRichard was thinking about geometry at a time when the non-euclidean geometries had been discovered. He writes:-\nOne sees that having admitted the notion of angle, one is free to choose the notion of straight line in such a way that one or another of the three geometries is true.\nJules Richard is remembered mainly, however, for Richard's paradox involving the set of real numbers which can be defined in a finite number of words. The paradox first appeared in a letter from Richard to Louis Olivier, the director of\nRevue générale des sciences pures et appliquées\nⓉ\n(\nGeneral review of pure and applied sciences\n)\n. Basically the paradox comes about from the fact that the real numbers are uncountable, yet one can only ever describe countably many real numbers using the English language.\n(\nActually, of course, Richard used French but since we are writing this biography in English, we will have to explain the paradox in English.\n)\nExamples of English descriptions or real numbers are \"one third\", \"the base of natural logs\", and \"the ratio of the circumference of a circle to its diameter\", etc. Richard then created a list of all real numbers which could be described in English.\n(\nIt is easy to do this - just order the descriptions in terms of the length of the sentence describing the real number and within sentences of the same length use lexicographic order.\n)\nUsing\nCantor\n's diagonal argument, he then constructed a real number which could not be described in English. But of course this number has just been described in English! The paradox appears in\nLes Principes des mathématiques et le problème des ensembles\n(1905)\n.\nIf Richard's paradox tells us anything then perhaps it is a warning not to use English\n(\nor any other language for that matter\n)\nwhen we are doing mathematics.",
+  "matematicos_citados_na_biografia": [
+    "Fresnel",
+    "Hilbert",
+    "von Staudt",
+    "Méray",
+    "Cantor"
+  ],
+  "imagens": [
+    "thumbnail.jpg"
+  ]
+}
