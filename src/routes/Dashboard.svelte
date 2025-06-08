@@ -5,12 +5,13 @@
 
   import Timeline from '../components/Timeline.svelte';
   import VizContainer from '../components/VizContainer.svelte';
+  import AncientEra from '../components/AncientEra.svelte';
   import FixedBar from '../components/FixedBar.svelte';
 
   let mapContainer;
   let allPoints = [], filteredPoints = [];
   let landFeatures = { type: 'FeatureCollection', features: [] };
-  let selectedPoint = null;       // ponto atualmente clicado
+  let selectedPoint = null;
   let detailData = null;
 
   let searchTerm = '';
@@ -21,14 +22,13 @@
   let currentTransform = d3.zoomIdentity;
   let scaleFactor = 1;
 
-  // nova variável para armazenar a era selecionada
+  // [{start, end}]
   let currentEra = null;
 
   let expanded = null;
   const expand = id => expanded = id;
   const closeModal = () => expanded = null;
 
-  // extrai ano para filtro
   function parseYear(str) {
     if (!str) return null;
     const s = str.trim();
@@ -43,8 +43,8 @@
 
   function slugify(name) {
     return name.toLowerCase()
-      .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
-      .replace(/\s+/g,'-').replace(/[^\w-]/g,'');
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .replace(/\s+/g, '-').replace(/[^\w-]/g, '');
   }
 
   async function loadData() {
@@ -53,135 +53,81 @@
       d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'),
       d3.json(`${base}data/mac_tutor_com_coords.json`)
     ]);
-
     const worldFeatures = topojson.feature(world, world.objects.countries);
-    landFeatures = {
-      type: 'FeatureCollection',
-      features: worldFeatures.features || [worldFeatures]
-    };
+    landFeatures = { type: 'FeatureCollection', features: worldFeatures.features };
 
-    allPoints = raw
-      .map(d => {
-        const year = parseYear(d.data_nascimento);
-        if (year !== null && typeof d.lat_nasc === 'number' && typeof d.lon_nasc === 'number') {
-          return {
-            ...d,
-            coords: [d.lon_nasc, d.lat_nasc],
-            birthYear: year
-          };
-        }
-        return null;
-      })
-      .filter(d => d);
-
-    filteredPoints = [];
+    allPoints = raw.map(d => {
+      const year = parseYear(d.data_nascimento);
+      if (year != null && typeof d.lat_nasc === 'number' && typeof d.lon_nasc === 'number') {
+        return { ...d, coords: [d.lon_nasc, d.lat_nasc], birthYear: year };
+      }
+      return null;
+    }).filter(d => d);
   }
 
   function initMap() {
     const { width, height } = mapContainer.getBoundingClientRect();
-    svg = d3.select(mapContainer)
-      .append('svg').attr('width', width).attr('height', height);
-
-    projection = d3.geoNaturalEarth1()
-      .scale(width / 6.5)
-      .translate([width/2, height/2]);
+    svg = d3.select(mapContainer).append('svg').attr('width', width).attr('height', height);
+    projection = d3.geoNaturalEarth1().scale(width/6.5).translate([width/2, height/2]);
     path = d3.geoPath(projection);
-
-    const zoom = d3.zoom()
-      .scaleExtent([0.5, 8])
-      .on('zoom', e => {
-        currentTransform = e.transform;
-        scaleFactor = e.transform.k;
-        zoomGroup.attr('transform', currentTransform);
-        zoomGroup.selectAll('circle')
-          .attr('r',            3 / scaleFactor)
-          .attr('stroke-width', 0.5 / scaleFactor);
-      });
-
+    const zoom = d3.zoom().scaleExtent([0.5,8]).on('zoom', e => {
+      currentTransform = e.transform;
+      scaleFactor = e.transform.k;
+      zoomGroup.attr('transform', currentTransform);
+      zoomGroup.selectAll('circle')
+        .attr('r', 3/scaleFactor)
+        .attr('stroke-width', 0.5/scaleFactor);
+    });
     svg.call(zoom);
   }
 
   function drawMap() {
     svg.selectAll('*').remove();
     zoomGroup = svg.append('g').attr('transform', currentTransform);
-
-    // background clicável para limpar seleção
-    svg.append('rect')
-      .attr('width','100%').attr('height','100%')
-      .attr('fill','#eef').lower()
-      .on('click', () => {
-        selectedPoint = null;
-        detailData    = null;
-        drawMap();
+    svg.append('rect').attr('width','100%').attr('height','100%')
+      .attr('fill','#eef').lower().on('click', () => {
+        selectedPoint = null; detailData = null; drawMap();
       });
-
-    // desenha países
-    zoomGroup.append('g')
-      .selectAll('path')
-      .data(landFeatures.features)
-      .join('path')
-      .attr('d', path)
-      .attr('fill','#ddd')
-      .attr('stroke','#999');
-
-    // desenha pontos
-    zoomGroup.append('g')
-      .selectAll('circle')
+    zoomGroup.append('g').selectAll('path')
+      .data(landFeatures.features).join('path')
+      .attr('d', path).attr('fill','#ddd').attr('stroke','#999');
+    zoomGroup.append('g').selectAll('circle')
       .data(filteredPoints.length ? filteredPoints : allPoints)
       .join('circle')
       .attr('cx', d => projection(d.coords)[0])
       .attr('cy', d => projection(d.coords)[1])
-      .attr('r', 3 / scaleFactor)
+      .attr('r', 3/scaleFactor).attr('fill', d => d===selectedPoint?'orange':'crimson')
+      .attr('stroke','#000').attr('stroke-width',0.5/scaleFactor)
       .style('cursor','pointer')
-      .attr('fill', d => d === selectedPoint ? 'orange' : 'crimson')
-      .attr('stroke','#000')
-      .attr('stroke-width', 0.5 / scaleFactor)
-      .on('click', (event, d) => {
-        event.stopPropagation();
-        choosePoint(d);
-      });
+      .on('click', (e,d)=>{ e.stopPropagation(); choosePoint(d); });
   }
 
   async function choosePoint(d) {
-    selectedPoint = d;
-    detailData    = null;
-    const base    = import.meta.env.BASE_URL;
-    const slug    = slugify(d.nome_curto);
-
-    try {
-      const res = await fetch(`${base}MacTutorData/${slug}.json`);
+    selectedPoint = d; detailData = null;
+    const slug = slugify(d.nome_curto);
+    try { const res = await fetch(`${import.meta.env.BASE_URL}MacTutorData/${slug}.json`);
       if (res.ok) detailData = await res.json();
-    } catch {
-      detailData = null;
-    }
+    } catch {};
     drawMap();
   }
 
   function onSearch() {
     const term = searchTerm.trim().toLowerCase();
-    suggestions = allPoints
-      .filter(p =>
-        p.nome_curto.toLowerCase().includes(term) ||
-        p.nome_completo.toLowerCase().includes(term)
-      )
-      .slice(0,8);
+    suggestions = allPoints.filter(p =>
+      p.nome_curto.toLowerCase().includes(term) ||
+      p.nome_completo.toLowerCase().includes(term)
+    ).slice(0,8);
   }
 
-  function filterByEra([start, end]) {
-    currentEra     = [start, end];
+  function filterByEra([start,end]) {
+    currentEra = [start,end];
     filteredPoints = allPoints.filter(p => p.birthYear >= start && p.birthYear < end);
     drawMap();
   }
 
   onMount(async () => {
-    await loadData();
-    initMap();
-    drawMap();
-    window.addEventListener('resize', () => {
-      d3.select(mapContainer).select('svg').remove();
-      initMap();
-      drawMap();
-    });
+    await loadData(); initMap(); drawMap();
+    window.addEventListener('resize', () => { d3.select(mapContainer).select('svg').remove(); initMap(); drawMap(); });
   });
 </script>
 
@@ -189,30 +135,20 @@
   <aside class="sidebar">
     <Timeline on:selectEra={({ detail }) => filterByEra(detail)} />
   </aside>
-
   <main class="main-content">
-    <section class="map-section">
+    <section class="map-section"> 
       <div class="map-and-search">
         <div class="map-wrapper" bind:this={mapContainer}></div>
         <div class="search-box">
-          <input
-            type="text"
-            placeholder="Buscar matemático…"
+          <input type="text" placeholder="Buscar matemático…"
             bind:value={searchTerm}
-            on:input={() => { onSearch(); showSuggestions = true; }}
-            on:blur={() => setTimeout(() => showSuggestions = false, 100)}
-          />
-
+            on:input={() => { onSearch(); showSuggestions = true }}
+            on:blur={() => setTimeout(()=>showSuggestions=false,100)} />
           {#if showSuggestions && suggestions.length}
             <ul class="suggestions-list">
-              {#each suggestions as s}
-                <li on:click={() => choosePoint(s)}>
-                  {s.nome_curto}
-                </li>
-              {/each}
+              {#each suggestions as s}<li on:click={()=>choosePoint(s)}>{s.nome_curto}</li>{/each}
             </ul>
           {/if}
-
           <div class="info-container">
             {#if detailData}
               <h3>{detailData.nome_curto}</h3>
@@ -223,9 +159,7 @@
               <p>{detailData.summary}</p>
               <p><a href={detailData.link} target="_blank">Biografia completa</a></p>
             {:else}
-              <p class="info-placeholder">
-                Clique em um ponto no mapa para ver detalhes aqui.
-              </p>
+              <p class="info-placeholder">Clique em um ponto no mapa para ver detalhes aqui.</p>
             {/if}
           </div>
         </div>
@@ -233,16 +167,24 @@
     </section>
 
     <section class="viz-section">
-      {#each [1,2] as id}
+      <div class="viz-wrapper">
+        <VizContainer
+          id={1}
+          {currentEra}
+          points={filteredPoints}
+          on:expand={()=>expand(1)} />
+      </div>
+
+      {#if currentEra && currentEra[0] < 0}
         <div class="viz-wrapper">
-          <VizContainer
-            {id}
-            {currentEra}
-            points={id === 1 ? filteredPoints : []}
-            on:expand={() => expand(id)}
-          />
+          <button class="expand-btn" on:click={()=>expand(2)}>⤢</button>
+          <AncientEra />
         </div>
-      {/each}
+      {:else}
+        <div class="viz-wrapper">
+          <VizContainer id={2} />
+        </div>
+      {/if}
     </section>
   </main>
 </div>
@@ -252,28 +194,26 @@
 {#if expanded}
   <div class="modal-overlay" on:click={closeModal}>
     <div class="modal-window" on:click|stopPropagation>
-      <button on:click={closeModal}>×</button>
-
+      <button class="close-btn" on:click={closeModal}>×</button>
       {#if expanded === 1}
-        <!-- redesenha a timeline completa no modal -->
-        <VizContainer
-          id={1}
-          {currentEra}
-          points={filteredPoints}
-        />
+        <VizContainer id={1} {currentEra} points={filteredPoints} />
       {:else if expanded === 2}
-        <!-- ou outra visualização no futuro -->
-        <VizContainer
-          id={2}
-        />
+        <AncientEra />
       {/if}
-
     </div>
   </div>
 {/if}
 
-
 <style>
+  /* ... seu CSS existente ... */
+  .viz-wrapper { position: relative; height: 100%; padding: 0; }
+  .expand-btn {
+    position: absolute; top: 8px; right: 8px;
+    background: rgba(255,255,255,0.8); border: none; border-radius: 4px;
+    cursor: pointer; font-size: 1.2rem; z-index: 10;
+  }
+  .modal-window { display: flex; flex-direction: column; height: 85vh; width: 90vw; max-width: 1200px; }
+  .modal-window :global(.container) { flex: 1; height: auto; }
   /* Reset global para ocupar toda a página */
   :global(html, body) {
     margin: 0;
@@ -509,4 +449,24 @@
       flex-direction: column;
     }
   }
+  .viz-wrapper {
+  position: relative;
+  height: 100%;
+  padding: 0;
+  overflow: visible;    /* permite que as arestas apareçam */
+}
+
+.graph {
+  flex: 1;
+  position: relative;
+  background: #fff;
+  overflow: visible;    /* idem aqui */
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+  overflow: visible;    /* e no próprio SVG */
+}
+
 </style>
