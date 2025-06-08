@@ -1,0 +1,13 @@
+{
+  "nome": "Rebeca Cherep de Guber",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Afim",
+      "subareas_especificas": [
+        "Invariantes Afins",
+        "Curvas no Espaço"
+      ]
+    }
+  ]
+}

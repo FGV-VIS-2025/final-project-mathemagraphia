@@ -1,0 +1,20 @@
+{
+  "nome": "John Anthony Pople",
+  "area_principal": "Química Computacional",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria do Funcional da Densidade",
+        "Métodos Semi-empíricos"
+      ]
+    },
+    {
+      "subarea": "Modelagem Molecular",
+      "subareas_especificas": [
+        "Simulação de Reações Químicas",
+        "Espectroscopia Computacional"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Alain Connes",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra de Operadores",
+      "subareas_especificas": [
+        "Álgebras de von Neumann",
+        "C*-álgebras"
+      ]
+    },
+    {
+      "subarea": "Geometria Não-Comutativa",
+      "subareas_especificas": [
+        "Geometria Diferencial",
+        "Teoria de Grupos"
+      ]
+    }
+  ]
+}

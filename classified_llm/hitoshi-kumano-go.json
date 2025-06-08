@@ -1,0 +1,18 @@
+{
+  "nome": "Hitoshi Kumano-Go",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Operadores Pseudo-Diferenciais",
+      "subareas_especificas": [
+        "Operadores Integrais de Fourier"
+      ]
+    },
+    {
+      "subarea": "Problema de Cauchy",
+      "subareas_especificas": [
+        "Unicidade Local e Global de Soluções"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Udita Narayana Singh",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Somabilidade Forte"
+      ]
+    },
+    {
+      "subarea": "Transformada de Fourier",
+      "subareas_especificas": [
+        "Transformada de Fourier Generalizada"
+      ]
+    }
+  ]
+}

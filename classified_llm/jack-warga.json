@@ -1,0 +1,19 @@
+{
+  "nome": "Jack Warga",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Controle Ótimo",
+      "subareas_especificas": [
+        "Sistemas de Controle Não Suaves",
+        "Análise Variacional"
+      ]
+    }
+  ]
+}

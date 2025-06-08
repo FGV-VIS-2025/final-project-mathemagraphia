@@ -1,0 +1,28 @@
+{
+  "nome": "Karl Heinrich Weise",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Teoria das Superfícies"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações de Legendre",
+        "Equações de Bessel",
+        "Equações de Sturm-Liouville"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Teoria dos Nós"
+      ]
+    }
+  ]
+}

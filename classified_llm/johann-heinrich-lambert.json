@@ -1,0 +1,27 @@
+{
+  "nome": "Johann Heinrich Lambert",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Postulado das Paralelas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Irracionais",
+        "Números Transcendentais",
+        "Aproximação de π"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Teoria das Probabilidades",
+        "Teoria dos Erros"
+      ]
+    }
+  ]
+}

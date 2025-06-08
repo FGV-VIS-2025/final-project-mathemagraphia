@@ -1,0 +1,20 @@
+{
+  "nome": "Benjamin Gompertz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Aplicações do Cálculo a problemas de expectativa de vida"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Teoria da Mortalidade",
+        "Análise Atuarial"
+      ]
+    }
+  ]
+}

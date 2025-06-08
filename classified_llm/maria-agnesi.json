@@ -1,0 +1,20 @@
+{
+  "nome": "Maria Gaëtana Agnesi",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Derivadas",
+        "Aplicações de Derivadas"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais",
+        "Teorema Fundamental do Cálculo"
+      ]
+    }
+  ]
+}

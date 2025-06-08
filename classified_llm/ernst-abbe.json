@@ -1,0 +1,32 @@
+{
+  "nome": "Ernst Abbe",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Equivalência entre calor e trabalho"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Microscopia",
+        "Aberração",
+        "Difração",
+        "Coma",
+        "Resolução",
+        "Condensador"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Distribuição de erros",
+        "Método dos mínimos quadrados",
+        "Distribuição χ²",
+        "Coeficiente de correlação serial"
+      ]
+    }
+  ]
+}

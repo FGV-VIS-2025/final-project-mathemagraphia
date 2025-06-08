@@ -1,0 +1,22 @@
+{
+  "nome": "David Rees",
+  "area_principal": "Álgebra Comutativa",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis Locais",
+        "Reduções de Ideais",
+        "Teoria Assintótica de Ideais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos Rees",
+        "Semigrupos Inversos",
+        "Monoides Cancelativos"
+      ]
+    }
+  ]
+}

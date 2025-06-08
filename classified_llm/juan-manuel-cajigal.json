@@ -1,0 +1,35 @@
+{
+  "nome": "Juan Manuel Cajigal y Odoardo",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Derivadas",
+        "Aplicações da Derivada"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais Definidas",
+        "Integrais Indefinidas",
+        "Teorema Fundamental do Cálculo"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Superfícies"
+      ]
+    },
+    {
+      "subarea": "Mecânica Analítica",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Aplicações em Engenharia"
+      ]
+    }
+  ]
+}

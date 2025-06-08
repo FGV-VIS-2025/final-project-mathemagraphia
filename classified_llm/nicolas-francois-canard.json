@@ -1,0 +1,21 @@
+{
+  "nome": "Nicolas-François Canard",
+  "area_principal": "Economia Matemática",
+  "subareas": [
+    {
+      "subarea": "Equilíbrio Econômico",
+      "subareas_especificas": [
+        "Teoria da Demanda e Oferta",
+        "Determinação de Preços",
+        "Equilíbrio Geral"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Cálculo",
+        "Álgebra"
+      ]
+    }
+  ]
+}

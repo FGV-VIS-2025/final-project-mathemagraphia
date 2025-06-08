@@ -1,0 +1,27 @@
+{
+  "nome": "Isaac Jacob Schoenberg",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Transcendentais",
+        "Distribuição Assintótica de Números"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Funções Positivas Definidas"
+      ]
+    },
+    {
+      "subarea": "Aproximação",
+      "subareas_especificas": [
+        "Splines",
+        "Polinômios com Raízes Reais"
+      ]
+    }
+  ]
+}

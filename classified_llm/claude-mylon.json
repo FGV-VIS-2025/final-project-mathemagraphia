@@ -1,0 +1,18 @@
+{
+  "nome": "Claude Mylon",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Problemas Diofantinos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Problemas de Probabilidade em Jogos de Azar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Theaetetus of Athens",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Irracionais",
+      "subareas_especificas": [
+        "Incomensuráveis",
+        "Comensuráveis"
+      ]
+    }
+  ]
+}

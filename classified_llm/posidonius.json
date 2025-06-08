@@ -1,0 +1,13 @@
+{
+  "nome": "Posidonius of Rhodes",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Elementar",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    }
+  ]
+}

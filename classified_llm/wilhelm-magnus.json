@@ -1,0 +1,19 @@
+{
+  "nome": "Hans Heinrich Wilhelm Magnus",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Livres",
+      "subareas_especificas": [
+        "Grupos com uma relação"
+      ]
+    },
+    {
+      "subarea": "Grupos com uma relação",
+      "subareas_especificas": [
+        "Problema da identidade",
+        "Subgrupos livres"
+      ]
+    }
+  ]
+}

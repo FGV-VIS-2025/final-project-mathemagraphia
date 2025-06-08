@@ -1,0 +1,25 @@
+{
+  "nome": "Otton Marcin Nikodym",
+  "area_principal": "Teoria da Medida",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Propriedade de Radon-Nikodym"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos Descritiva",
+      "subareas_especificas": [
+        "Conjuntos de Nikodym"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Mecânica Quântica",
+      "subareas_especificas": [
+        "Álgebras Booleanas"
+      ]
+    }
+  ]
+}

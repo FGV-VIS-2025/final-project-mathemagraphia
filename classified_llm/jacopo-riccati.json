@@ -1,0 +1,18 @@
+{
+  "nome": "Jacopo Francesco Riccati",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Equação de Riccati",
+        "Separação de Variáveis",
+        "Redução da Ordem"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": []
+    }
+  ]
+}

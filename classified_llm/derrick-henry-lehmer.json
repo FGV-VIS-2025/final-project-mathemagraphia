@@ -1,0 +1,31 @@
+{
+  "nome": "Derrick Henry Lehmer",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Funções de Lucas",
+        "Equações Diofantinas",
+        "Números de Bernoulli",
+        "Frações Contínuas",
+        "Crivo",
+        "Hipótese de Riemann"
+      ]
+    },
+    {
+      "subarea": "Testes de Primalidade",
+      "subareas_especificas": [
+        "Números de Mersenne",
+        "Números Primos"
+      ]
+    },
+    {
+      "subarea": "Computação Matemática",
+      "subareas_especificas": [
+        "Métodos de Fatoração",
+        "Computadores e Matemática"
+      ]
+    }
+  ]
+}

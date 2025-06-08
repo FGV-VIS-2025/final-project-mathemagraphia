@@ -1,0 +1,18 @@
+{
+  "nome": "Eric Temple Bell",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Numéricas",
+      "subareas_especificas": [
+        "Funções Aritméticas"
+      ]
+    },
+    {
+      "subarea": "Análise Diofantina",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    }
+  ]
+}

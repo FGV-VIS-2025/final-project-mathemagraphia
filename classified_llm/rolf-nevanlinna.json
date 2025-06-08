@@ -1,0 +1,19 @@
+{
+  "nome": "Rolf Herman Nevanlinna",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria da Distribuição de Valores",
+      "subareas_especificas": [
+        "Funções Meromorfas",
+        "Funções Inteiras"
+      ]
+    },
+    {
+      "subarea": "Superfícies de Riemann",
+      "subareas_especificas": [
+        "Uniformização"
+      ]
+    }
+  ]
+}

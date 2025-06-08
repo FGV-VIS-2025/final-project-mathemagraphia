@@ -1,0 +1,26 @@
+{
+  "nome": "Charles Hermite",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Funções Theta"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Quadráticas",
+        "Funções Transcendentais"
+      ]
+    }
+  ]
+}

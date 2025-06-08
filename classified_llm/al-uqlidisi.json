@@ -1,0 +1,19 @@
+{
+  "nome": "Abu'l Hasan Ahmad ibn Ibrahim Al-Uqlidisi",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Sistema de Numeração",
+      "subareas_especificas": [
+        "Decimal",
+        "Sexagesimal"
+      ]
+    },
+    {
+      "subarea": "Frações",
+      "subareas_especificas": [
+        "Frações Decimais"
+      ]
+    }
+  ]
+}

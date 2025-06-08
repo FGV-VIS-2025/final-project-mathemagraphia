@@ -1,0 +1,21 @@
+{
+  "nome": "Karl Wilhelm Feuerbach",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Circunferências",
+        "Triângulos"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Coordenadas Homogêneas",
+        "Cônicas"
+      ]
+    }
+  ]
+}

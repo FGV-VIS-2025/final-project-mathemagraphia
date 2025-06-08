@@ -1,0 +1,26 @@
+{
+  "nome": "George W Eyre Andrews",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Teta",
+      "subareas_especificas": [
+        "Funções Teta de Ramanujan",
+        "Funções Mock Teta"
+      ]
+    },
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "limites superiores e inferiores para soluções"
+      ]
+    },
+    {
+      "subarea": "Teoria das Partições",
+      "subareas_especificas": [
+        "Análise Assintótica",
+        "Identidades Combinatórias"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "John James Walker",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica",
+        "Curvas Planas",
+        "Curvas Cúbicas"
+      ]
+    }
+  ]
+}

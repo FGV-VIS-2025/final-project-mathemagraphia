@@ -1,0 +1,21 @@
+{
+  "nome": "Ivan Matveevich Vinogradov",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Somatórios Trigonométricos",
+        "Método do Círculo",
+        "Conjectura de Goldbach"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Resíduos Quadráticos",
+      "subareas_especificas": [
+        "Resíduos de Potências",
+        "Raízes Primitivas"
+      ]
+    }
+  ]
+}

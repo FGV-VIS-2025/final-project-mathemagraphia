@@ -1,0 +1,21 @@
+{
+  "nome": "Douglas Rayner Hartree",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Métodos Numéricos para Equações Diferenciais Ordinárias",
+        "Métodos Numéricos para Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Integração Numérica",
+        "Interpolação",
+        "Derivadas Numéricas"
+      ]
+    }
+  ]
+}

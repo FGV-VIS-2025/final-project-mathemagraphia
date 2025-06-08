@@ -1,0 +1,19 @@
+{
+  "nome": "Ernst David Hellinger",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações com infinitas variáveis"
+      ]
+    },
+    {
+      "subarea": "Teoria espectral",
+      "subareas_especificas": [
+        "Formas de Jacobi",
+        "Frações contínuas"
+      ]
+    }
+  ]
+}

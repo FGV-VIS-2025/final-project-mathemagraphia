@@ -1,0 +1,20 @@
+{
+  "nome": "Philip Bernard Stein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções de Variáveis Reais e Complexas",
+        "Funções Integráveis"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Soluções de Equações Lineares Simultâneas",
+        "Matrizes"
+      ]
+    }
+  ]
+}

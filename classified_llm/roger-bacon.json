@@ -1,0 +1,12 @@
+{
+  "nome": "Roger Bacon",
+  "area_principal": "Óptica",
+  "subareas": [
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Euclidiana"
+      ]
+    }
+  ]
+}

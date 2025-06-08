@@ -1,0 +1,21 @@
+{
+  "nome": "Carolyn Eisele",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Correspondências entre matemáticos",
+        "Análise de manuscritos matemáticos",
+        "Edição de obras matemáticas"
+      ]
+    },
+    {
+      "subarea": "Filosofia da Matemática",
+      "subareas_especificas": [
+        "Lógica",
+        "Epistemologia"
+      ]
+    }
+  ]
+}

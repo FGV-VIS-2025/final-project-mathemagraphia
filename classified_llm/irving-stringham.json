@@ -1,0 +1,24 @@
+{
+  "nome": "Washington Irving Stringham",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Alta Dimensão",
+      "subareas_especificas": [
+        "Politopos Regulares",
+        "Rotações em Espaços de Alta Dimensão"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Quaternions",
+      "subareas_especificas": [
+        "Logaritmos de Quaternions",
+        "Aplicações do cálculo de quaternions"
+      ]
+    }
+  ]
+}

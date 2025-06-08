@@ -1,0 +1,34 @@
+{
+  "nome": "Johann Carl Friedrich Gauss",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Álgebra Linear"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Não-Euclidiana",
+        "Curvatura Gaussiana"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Função Hipergeométrica",
+        "Equações Diferenciais",
+        "Teoria do Potencial"
+      ]
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Método dos Mínimos Quadrados"
+      ]
+    }
+  ]
+}

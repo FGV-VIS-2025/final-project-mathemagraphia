@@ -1,0 +1,19 @@
+{
+  "nome": "Abu Abdallah Mohammad ibn Jabir Al-Battani",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Funções Trigonométricas",
+        "Triângulos Retângulos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Frações Sexagesimais"
+      ]
+    }
+  ]
+}

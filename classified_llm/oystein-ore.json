@@ -1,0 +1,27 @@
+{
+  "nome": "Øystein Ore",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Corpos",
+      "subareas_especificas": [
+        "Corpos Algébricos",
+        "Teoria de Ideais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Anéis Não-Comutativos",
+        "Domínios de Integridade"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Grafos Planares",
+        "Problema das Quatro Cores"
+      ]
+    }
+  ]
+}

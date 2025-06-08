@@ -1,0 +1,12 @@
+{
+  "nome": "John Farey",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Aproximação Diofantina"
+      ]
+    }
+  ]
+}

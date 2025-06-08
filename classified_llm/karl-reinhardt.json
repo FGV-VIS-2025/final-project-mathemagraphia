@@ -1,0 +1,20 @@
+{
+  "nome": "Karl August Reinhardt",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Discreta",
+      "subareas_especificas": [
+        "Tessellações",
+        "Empacotamento de esferas"
+      ]
+    },
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Grupos de movimentos euclidianos",
+        "Espaços vetoriais"
+      ]
+    }
+  ]
+}

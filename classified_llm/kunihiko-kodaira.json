@@ -1,0 +1,20 @@
+{
+  "nome": "Kunihiko Kodaira",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades Complexas",
+        "Fibrados Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Feixes",
+      "subareas_especificas": [
+        "Cohomologia de Feixes",
+        "Teoria de Deformações"
+      ]
+    }
+  ]
+}

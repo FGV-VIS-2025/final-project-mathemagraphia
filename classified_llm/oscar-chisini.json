@@ -1,0 +1,18 @@
+{
+  "nome": "Oscar Chisini",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica Plana",
+      "subareas_especificas": [
+        "Singularidades de Curvas Algébricas Planas"
+      ]
+    },
+    {
+      "subarea": "Superfícies Cúbicas",
+      "subareas_especificas": [
+        "Propriedades de Superfícies Cúbicas"
+      ]
+    }
+  ]
+}

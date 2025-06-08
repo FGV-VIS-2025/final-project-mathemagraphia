@@ -1,0 +1,19 @@
+{
+  "nome": "Lochlainn O'Raifeartaigh",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Representações de Grupos de Lie",
+        "Teoria de Gauge"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais"
+      ]
+    }
+  ]
+}

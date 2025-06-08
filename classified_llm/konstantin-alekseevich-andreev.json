@@ -1,0 +1,12 @@
+{
+  "nome": "Konstantin Alekseevich Andreev",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Determinantes de Gram"
+      ]
+    }
+  ]
+}

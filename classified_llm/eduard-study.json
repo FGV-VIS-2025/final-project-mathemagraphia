@@ -1,0 +1,24 @@
+{
+  "nome": "Christian Hugo Eduard Study",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria de Posição"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Álgebra Simbólica"
+      ]
+    },
+    {
+      "subarea": "Geometria Enumerativa",
+      "subareas_especificas": [
+        "Geometria Algébrica"
+      ]
+    }
+  ]
+}

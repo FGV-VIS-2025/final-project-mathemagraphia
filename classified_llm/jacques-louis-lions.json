@@ -1,0 +1,27 @@
+{
+  "nome": "Jacques-Louis Lions",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria das Distribuições",
+        "Métodos Variacionais"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos para EDPs",
+        "Computação Paralela",
+        "Métodos de Decomposição de Domínio"
+      ]
+    },
+    {
+      "subarea": "Controle Ótimo",
+      "subareas_especificas": [
+        "Equação de Riccati"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Pavel Samuilovich Urysohn",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria da Dimensão",
+      "subareas_especificas": [
+        "Dimensão topológica",
+        "Espaços métricos compactos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Espaços Topológicos",
+      "subareas_especificas": [
+        "Espaços métricos",
+        "Metrização",
+        "Espaços separáveis"
+      ]
+    }
+  ]
+}

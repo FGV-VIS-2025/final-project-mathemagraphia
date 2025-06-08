@@ -1,0 +1,18 @@
+{
+  "nome": "Robert Daniel Carmichael",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": [
+        "Números de Carmichael"
+      ]
+    },
+    {
+      "subarea": "Função Phi de Euler",
+      "subareas_especificas": [
+        "Conjectura de Carmichael"
+      ]
+    }
+  ]
+}

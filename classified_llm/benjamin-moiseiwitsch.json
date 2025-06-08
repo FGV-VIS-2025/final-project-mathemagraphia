@@ -1,0 +1,21 @@
+{
+  "nome": "Benjamin Lawrence Moiseiwitsch",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Teoria de Fredholm",
+        "Teoria de Hilbert-Schmidt"
+      ]
+    },
+    {
+      "subarea": "Transformadas Integrais",
+      "subareas_especificas": [
+        "Transformadas de Fourier",
+        "Transformadas de Laplace"
+      ]
+    }
+  ]
+}

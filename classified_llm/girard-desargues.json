@@ -1,0 +1,20 @@
+{
+  "nome": "Girard Desargues",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Conicas",
+      "subareas_especificas": [
+        "Seções cônicas",
+        "Involução"
+      ]
+    },
+    {
+      "subarea": "Transversais",
+      "subareas_especificas": [
+        "Teorema de Desargues",
+        "Pontos harmônicos"
+      ]
+    }
+  ]
+}

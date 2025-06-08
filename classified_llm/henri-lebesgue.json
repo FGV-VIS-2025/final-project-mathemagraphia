@@ -1,0 +1,18 @@
+{
+  "nome": "Henri Léon Lebesgue",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integral de Lebesgue"
+      ]
+    },
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Séries Trigonométricas"
+      ]
+    }
+  ]
+}

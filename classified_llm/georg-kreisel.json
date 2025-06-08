@@ -1,0 +1,19 @@
+{
+  "nome": "Georg Kreisel",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Teoria da Recursividade",
+        "Metamatemática"
+      ]
+    },
+    {
+      "subarea": "Construtivismo",
+      "subareas_especificas": [
+        "Matemática Intuicionista"
+      ]
+    }
+  ]
+}

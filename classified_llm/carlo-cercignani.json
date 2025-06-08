@@ -1,0 +1,32 @@
+{
+  "nome": "Carlo Cercignani",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Teoria Espectral"
+      ]
+    },
+    {
+      "subarea": "Métodos de Monte Carlo",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Problemas de Riemann-Hilbert"
+      ]
+    },
+    {
+      "subarea": "Teoria Cinética",
+      "subareas_especificas": [
+        "Equação de Boltzmann"
+      ]
+    }
+  ]
+}

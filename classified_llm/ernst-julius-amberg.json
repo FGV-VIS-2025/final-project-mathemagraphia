@@ -1,0 +1,12 @@
+{
+  "nome": "Ernst Julius Amberg",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Extensões de Corpos"
+      ]
+    }
+  ]
+}

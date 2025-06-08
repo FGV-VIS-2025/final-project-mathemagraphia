@@ -1,0 +1,21 @@
+{
+  "nome": "Mark Aronovich Naimark",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria Espectral",
+      "subareas_especificas": [
+        "Teoria de Operadores",
+        "Espaços de Hilbert"
+      ]
+    },
+    {
+      "subarea": "Teoria de Representações de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Grupos Abelianos",
+        "Grupos Clássicos"
+      ]
+    }
+  ]
+}

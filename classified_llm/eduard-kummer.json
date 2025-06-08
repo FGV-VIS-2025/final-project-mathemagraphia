@@ -1,0 +1,19 @@
+{
+  "nome": "Ernst Eduard Kummer",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Números Ideais",
+        "Teorema do Último Teorema de Fermat"
+      ]
+    },
+    {
+      "subarea": "Séries Hipergeométricas",
+      "subareas_especificas": [
+        "Funções Hipergeométricas"
+      ]
+    }
+  ]
+}

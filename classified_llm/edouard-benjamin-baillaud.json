@@ -1,0 +1,12 @@
+{
+  "nome": "Édouard Benjamin Baillaud",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Perturbações dos movimentos de cometas"
+      ]
+    }
+  ]
+}

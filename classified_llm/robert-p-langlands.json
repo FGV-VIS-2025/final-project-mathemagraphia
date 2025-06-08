@@ -1,0 +1,26 @@
+{
+  "nome": "Robert Phelan Langlands",
+  "area_principal": "Teoria de Representações",
+  "subareas": [
+    {
+      "subarea": "Formas Automórficas",
+      "subareas_especificas": [
+        "Séries de Eisenstein"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria dos Números Algébricos",
+        "Teoria dos Números Analíticos"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Esquemas",
+        "Variedades Abelianas"
+      ]
+    }
+  ]
+}

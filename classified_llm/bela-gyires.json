@@ -1,0 +1,38 @@
+{
+  "nome": "Béla Gyires",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Matrizes positivas definidas",
+        "Matrizes de Toeplitz",
+        "Permanente de matrizes duplamente estocásticas"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Aproximação em espaços métricos convexos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria de processos estocásticos estacionários com valores matriciais",
+        "Teorema do limite central para cadeias de Markov",
+        "Estatísticas polinomiais",
+        "Teoria da mistura de probabilidade"
+      ]
+    },
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Estatísticas de posto linear duplamente ordenadas",
+        "Estatísticas de posto linear",
+        "Aproximações de métodos de duas amostras",
+        "Decomposabilidade de funções de distribuição"
+      ]
+    }
+  ]
+}

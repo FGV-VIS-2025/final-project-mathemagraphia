@@ -1,0 +1,30 @@
+{
+  "nome": "Hans Ludwig Hamburger",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Frações Contínuas de Stieltjes"
+      ]
+    },
+    {
+      "subarea": "Problema dos Momentos",
+      "subareas_especificas": [
+        "Problema dos Momentos de Stieltjes"
+      ]
+    },
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Transformações Lineares em Espaços de Hilbert"
+      ]
+    }
+  ]
+}

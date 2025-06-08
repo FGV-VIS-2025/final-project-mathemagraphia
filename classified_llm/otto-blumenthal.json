@@ -1,0 +1,19 @@
+{
+  "nome": "Ludwig Otto Blumenthal",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Variáveis Complexas",
+      "subareas_especificas": [
+        "Funções inteiras",
+        "Frações contínuas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Modulares"
+      ]
+    }
+  ]
+}

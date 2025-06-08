@@ -1,0 +1,19 @@
+{
+  "nome": "Alice Turner Schafer",
+  "area_principal": "Geometria Diferencial Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Curvas no Espaço",
+        "Singularidades"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos"
+      ]
+    }
+  ]
+}

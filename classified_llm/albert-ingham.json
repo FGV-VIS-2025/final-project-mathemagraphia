@@ -1,0 +1,22 @@
+{
+  "nome": "Albert Edward Ingham",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Função Zeta de Riemann",
+      "subareas_especificas": [
+        "Teorema dos Números Primos"
+      ]
+    },
+    {
+      "subarea": "Distribuição de Números Primos",
+      "subareas_especificas": [
+        "Diferença entre Primos Consecutivos"
+      ]
+    },
+    {
+      "subarea": "Teoremas Tauberians",
+      "subareas_especificas": []
+    }
+  ]
+}

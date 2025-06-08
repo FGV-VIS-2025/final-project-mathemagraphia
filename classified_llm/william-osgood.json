@@ -1,0 +1,25 @@
+{
+  "nome": "William Fogg Osgood",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Problemas Variacionais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções de Variável Complexa",
+        "Séries de Funções"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Christoph Gudermann",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Séries de Potências",
+        "Funções Hiperbólicas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Esférica"
+      ]
+    }
+  ]
+}

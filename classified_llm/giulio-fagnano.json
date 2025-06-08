@@ -1,0 +1,19 @@
+{
+  "nome": "Giulio Carlo Fagnano dei Toschi",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas",
+        "Triângulos"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integrais Elípticas"
+      ]
+    }
+  ]
+}

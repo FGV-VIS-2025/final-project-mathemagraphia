@@ -1,0 +1,24 @@
+{
+  "nome": "Douglas Geoffrey Northcott",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Teoria de Ideais",
+        "Anéis Noetherianos",
+        "Álgebras Tensoriais",
+        "Álgebras Exteriores",
+        "Álgebras Simétricas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Homológica",
+      "subareas_especificas": [
+        "Resoluções Livres",
+        "Módulos Projetivos",
+        "Functores Derivados"
+      ]
+    }
+  ]
+}

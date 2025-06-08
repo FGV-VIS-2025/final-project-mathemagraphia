@@ -1,0 +1,20 @@
+{
+  "nome": "William Brouncker",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Séries Infinitas",
+        "Integração"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Frações Contínuas"
+      ]
+    }
+  ]
+}

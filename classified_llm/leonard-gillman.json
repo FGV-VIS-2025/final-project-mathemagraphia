@@ -1,0 +1,12 @@
+{
+  "nome": "Leonard Gillman",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos Ordenados"
+      ]
+    }
+  ]
+}

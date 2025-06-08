@@ -1,0 +1,20 @@
+{
+  "nome": "D'Arcy Wentworth Thompson",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria das Curvas",
+        "Geometria das Superfícies"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Quádricas"
+      ]
+    }
+  ]
+}

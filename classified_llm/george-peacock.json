@@ -1,0 +1,20 @@
+{
+  "nome": "George Peacock",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Simbólica",
+      "subareas_especificas": [
+        "Álgebra Abstrata",
+        "Fundamentos da Álgebra"
+      ]
+    },
+    {
+      "subarea": "Álgebra Aritmética",
+      "subareas_especificas": [
+        "Aritmética",
+        "Teoria dos Números"
+      ]
+    }
+  ]
+}

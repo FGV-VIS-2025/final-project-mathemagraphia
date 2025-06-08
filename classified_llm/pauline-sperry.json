@@ -1,0 +1,12 @@
+{
+  "nome": "Pauline Sperry",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva Diferencial",
+      "subareas_especificas": [
+        "Superfícies Regradas"
+      ]
+    }
+  ]
+}

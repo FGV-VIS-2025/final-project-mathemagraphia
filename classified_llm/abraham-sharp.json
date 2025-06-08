@@ -1,0 +1,27 @@
+{
+  "nome": "Abraham Sharp",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo de órbitas",
+        "Tabelas astronômicas"
+      ]
+    },
+    {
+      "subarea": "Instrumentação Astronômica",
+      "subareas_especificas": [
+        "Construção de instrumentos",
+        "Óptica"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de π",
+        "Tabelas trigonométricas"
+      ]
+    }
+  ]
+}

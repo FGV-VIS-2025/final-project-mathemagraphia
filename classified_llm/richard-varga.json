@@ -1,0 +1,20 @@
+{
+  "nome": "Richard Steven Varga",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Interpolação polinomial e racional",
+        "Funções analíticas complexas"
+      ]
+    },
+    {
+      "subarea": "Análise Matricial",
+      "subareas_especificas": [
+        "Métodos iterativos",
+        "Autovalores e autovetores"
+      ]
+    }
+  ]
+}

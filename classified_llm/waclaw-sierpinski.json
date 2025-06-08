@@ -1,0 +1,19 @@
+{
+  "nome": "Wacław Sierpiński",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Topologia de Conjuntos Pontuais",
+      "subareas_especificas": [
+        "Axioma da Escolha",
+        "Hipótese do Contínuo"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Problema do Círculo de Gauss"
+      ]
+    }
+  ]
+}

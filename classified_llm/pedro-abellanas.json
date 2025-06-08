@@ -1,0 +1,20 @@
+{
+  "nome": "Pedro Abellanas Cebollero",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica Clássica",
+      "subareas_especificas": [
+        "Variedades Algébricas",
+        "Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Teoria de Ideais",
+        "Anéis de Polinômios"
+      ]
+    }
+  ]
+}

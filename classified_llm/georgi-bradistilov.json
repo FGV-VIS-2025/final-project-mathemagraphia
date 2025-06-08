@@ -1,0 +1,18 @@
+{
+  "nome": "Georgi Delchev Bradistilov",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Soluções Periódicas",
+        "Soluções Assintóticas",
+        "Sistemas Autônomos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": []
+    }
+  ]
+}

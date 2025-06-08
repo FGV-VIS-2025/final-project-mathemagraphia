@@ -1,0 +1,20 @@
+{
+  "nome": "Thomas Allen",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrologia",
+      "subareas_especificas": [
+        "Astronomia Observacional",
+        "Previsões Astrológicas"
+      ]
+    },
+    {
+      "subarea": "Matemática",
+      "subareas_especificas": [
+        "Geometria",
+        "Trigonometria"
+      ]
+    }
+  ]
+}

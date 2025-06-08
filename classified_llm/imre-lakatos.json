@@ -1,0 +1,21 @@
+{
+  "nome": "Imre Lakatos",
+  "area_principal": "Filosofia da Matemática",
+  "subareas": [
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Prova e Refutação",
+        "Método Heurístico"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Análise Não-Padrão",
+        "Cálculo",
+        "Teoria dos Números"
+      ]
+    }
+  ]
+}

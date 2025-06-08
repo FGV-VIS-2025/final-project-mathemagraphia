@@ -1,0 +1,31 @@
+{
+  "nome": "Gheorghe Vrănceanu",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Espaços de Conexão Constante",
+        "Métricas em Espaços Esféricos e Projetivos"
+      ]
+    },
+    {
+      "subarea": "Geometria Não-Holonômica",
+      "subareas_especificas": [
+        "Espaços Não-Holonômicos"
+      ]
+    },
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos Discretos de Espaços de Conexão Afim"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Segunda Ordem"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "nome": "Pietro Giannini",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides",
+        "Seções Cônicas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Elementar",
+        "Equações Algébricas",
+        "Logaritmos"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Estática",
+        "Hidrostática",
+        "Dinâmica"
+      ]
+    }
+  ]
+}

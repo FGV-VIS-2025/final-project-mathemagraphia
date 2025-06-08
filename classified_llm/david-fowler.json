@@ -1,0 +1,20 @@
+{
+  "nome": "David Herbert Fowler",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Grega",
+      "subareas_especificas": [
+        "Teoria das Proporções",
+        "Teoria dos Números",
+        "Geometria"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Análise Real"
+      ]
+    }
+  ]
+}

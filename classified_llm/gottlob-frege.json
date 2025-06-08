@@ -1,0 +1,20 @@
+{
+  "nome": "Friedrich Ludwig Gottlob Frege",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Prova",
+      "subareas_especificas": [
+        "Sistemas Formais",
+        "Axiomatização"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Logicismo",
+        "Teoria dos Conjuntos"
+      ]
+    }
+  ]
+}

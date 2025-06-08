@@ -1,0 +1,20 @@
+{
+  "nome": "William Edward Hodgson Berwick",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Corpos de Números Algébricos",
+      "subareas_especificas": [
+        "Bases Integrais",
+        "Ideais em Anéis de Inteiros Algébricos"
+      ]
+    },
+    {
+      "subarea": "Equações Algébricas",
+      "subareas_especificas": [
+        "Equações Quínticas",
+        "Soluções por Radicais"
+      ]
+    }
+  ]
+}

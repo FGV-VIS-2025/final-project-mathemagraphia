@@ -1,0 +1,12 @@
+{
+  "nome": "Émile Léger",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Algoritmos",
+      "subareas_especificas": [
+        "Algoritmo Euclidiano"
+      ]
+    }
+  ]
+}

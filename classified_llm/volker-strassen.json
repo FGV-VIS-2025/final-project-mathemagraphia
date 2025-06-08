@@ -1,0 +1,26 @@
+{
+  "nome": "Volker Strassen",
+  "area_principal": "Teoria da Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Teoria da Informação",
+      "subareas_especificas": [
+        "Estimativas Assintóticas"
+      ]
+    },
+    {
+      "subarea": "Complexidade Algébrica",
+      "subareas_especificas": [
+        "Multiplicação de Matrizes",
+        "Algoritmos Probabilísticos",
+        "Teste de Primalidade"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Lei do Logaritmo Iterado"
+      ]
+    }
+  ]
+}

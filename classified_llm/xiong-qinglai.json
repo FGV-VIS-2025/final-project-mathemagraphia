@@ -1,0 +1,17 @@
+{
+  "nome": "Xiong Qinglai",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Meromorfas",
+      "subareas_especificas": [
+        "Funções inteiras",
+        "Teorema fundamental de Nevanlinna"
+      ]
+    },
+    {
+      "subarea": "Funções de ordem infinita",
+      "subareas_especificas": []
+    }
+  ]
+}

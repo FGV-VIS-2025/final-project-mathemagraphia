@@ -1,0 +1,22 @@
+{
+  "nome": "Bhama Srinivasan",
+  "area_principal": "Teoria de Representações",
+  "subareas": [
+    {
+      "subarea": "Representações de Grupos Finitos",
+      "subareas_especificas": [
+        "Representações Modulares",
+        "Grupos Redutivos Finitos",
+        "Grupos Clássicos Finitos"
+      ]
+    },
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Lie sobre corpos finitos",
+        "Cohomologia l-ádica",
+        "Cohomologia de interseção"
+      ]
+    }
+  ]
+}

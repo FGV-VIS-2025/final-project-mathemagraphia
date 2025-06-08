@@ -1,0 +1,34 @@
+{
+  "nome": "Calyampudi Radhakrishna Rao",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Análise Multivariada",
+      "subareas_especificas": [
+        "Análise de Componentes Principais",
+        "Análise de Discriminação Linear"
+      ]
+    },
+    {
+      "subarea": "Planejamento de Experimentos",
+      "subareas_especificas": [
+        "Delineamentos em Blocos",
+        "Delineamentos Fatoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

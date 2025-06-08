@@ -1,0 +1,18 @@
+{
+  "nome": "René Thom",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria das Classes Características",
+      "subareas_especificas": [
+        "Cobordismo"
+      ]
+    },
+    {
+      "subarea": "Teoria da Transversalidade",
+      "subareas_especificas": [
+        "Teorema da Transversalidade de Thom"
+      ]
+    }
+  ]
+}

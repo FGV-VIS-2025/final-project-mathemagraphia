@@ -1,0 +1,21 @@
+{
+  "nome": "Hassler Whitney",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Variedades",
+        "Fibrados",
+        "Classes características"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria de Homologia",
+        "Teoria de Cohomologia"
+      ]
+    }
+  ]
+}

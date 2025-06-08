@@ -1,0 +1,29 @@
+{
+  "nome": "Boris Yakovlevich Levin",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções inteiras",
+      "subareas_especificas": [
+        "Distribuição de zeros",
+        "Crescimento de funções inteiras",
+        "Funções de crescimento completamente regular"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria de operadores",
+        "Espaços de Banach",
+        "Aproximação"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equação de Sturm-Liouville",
+        "Equação de Schrödinger"
+      ]
+    }
+  ]
+}

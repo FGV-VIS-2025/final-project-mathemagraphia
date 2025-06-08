@@ -1,0 +1,19 @@
+{
+  "nome": "Ingrid Daubechies",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Wavelets"
+      ]
+    },
+    {
+      "subarea": "Processamento de Sinais",
+      "subareas_especificas": [
+        "Compressão de Imagens",
+        "Processamento de Imagens Médicas"
+      ]
+    }
+  ]
+}

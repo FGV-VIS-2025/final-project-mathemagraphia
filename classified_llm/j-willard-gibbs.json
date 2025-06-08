@@ -1,0 +1,20 @@
+{
+  "nome": "Josiah Willard Gibbs",
+  "area_principal": "Termodinâmica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases",
+        "Mecânica Quântica"
+      ]
+    },
+    {
+      "subarea": "Análise Vetorial",
+      "subareas_especificas": [
+        "Álgebra Vetorial",
+        "Cálculo Vetorial"
+      ]
+    }
+  ]
+}

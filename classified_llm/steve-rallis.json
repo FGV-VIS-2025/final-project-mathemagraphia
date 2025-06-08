@@ -1,0 +1,19 @@
+{
+  "nome": "Stephen James Rallis",
+  "area_principal": "Teoria das Representações",
+  "subareas": [
+    {
+      "subarea": "Formas Automórficas",
+      "subareas_especificas": [
+        "Funções L",
+        "Teoria de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria Invariante",
+      "subareas_especificas": [
+        "Espaços Simétricos"
+      ]
+    }
+  ]
+}

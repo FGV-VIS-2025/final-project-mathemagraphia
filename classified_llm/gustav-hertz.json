@@ -1,0 +1,19 @@
+{
+  "nome": "Gustav Ludwig Hertz",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Espectroscopia",
+      "subareas_especificas": [
+        "Espectroscopia de absorção infravermelha"
+      ]
+    },
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria atômica de Bohr",
+        "Efeito fotoelétrico"
+      ]
+    }
+  ]
+}

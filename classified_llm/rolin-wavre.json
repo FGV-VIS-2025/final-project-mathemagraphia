@@ -1,0 +1,19 @@
+{
+  "nome": "Rolin-Louis Wavre",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equação de Fredholm"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Séries de Funções Contínuas",
+        "Espaços Vetoriais"
+      ]
+    }
+  ]
+}

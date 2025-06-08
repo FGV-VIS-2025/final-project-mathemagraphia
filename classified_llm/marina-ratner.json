@@ -1,0 +1,25 @@
+{
+  "nome": "Marina Ratner",
+  "area_principal": "Teoria Ergódica",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Fluxos Geodésicos",
+        "Fluxos Horocíclicos"
+      ]
+    },
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Ações Unipotentes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Quadráticas"
+      ]
+    }
+  ]
+}

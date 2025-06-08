@@ -1,0 +1,22 @@
+{
+  "nome": "Alfonso Nápoles Gándara",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Cálculo Tensorial"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Teoria das Funções",
+        "Cálculo de Variações",
+        "Equações Diferenciais"
+      ]
+    }
+  ]
+}

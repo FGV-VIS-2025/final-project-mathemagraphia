@@ -1,0 +1,13 @@
+{
+  "nome": "George Bruce Halsted",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica",
+        "Geometria Elíptica"
+      ]
+    }
+  ]
+}

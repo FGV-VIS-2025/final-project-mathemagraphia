@@ -1,0 +1,20 @@
+{
+  "nome": "Charles Eugène Delaunay",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Cálculo Variacional",
+        "Perturbações Planetárias"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Séries Infinitas",
+        "Análise Funcional"
+      ]
+    }
+  ]
+}

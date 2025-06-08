@@ -1,0 +1,21 @@
+{
+  "nome": "Stefan Emmanuilovich Cohn-Vossen",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Superfícies Convexas",
+        "Rigidez de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Geometria Intuitiva",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Geometria não-Euclidiana"
+      ]
+    }
+  ]
+}

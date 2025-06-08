@@ -1,0 +1,19 @@
+{
+  "nome": "Jean Charles de Borda",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Posição",
+      "subareas_especificas": [
+        "Triangulação"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Resistência de Fluidos",
+        "Dinâmica de Fluidos"
+      ]
+    }
+  ]
+}

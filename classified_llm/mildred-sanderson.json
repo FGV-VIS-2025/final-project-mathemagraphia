@@ -1,0 +1,21 @@
+{
+  "nome": "Mildred Leonora Sanderson",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Anéis",
+        "Teoria de Corpos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria dos Números Algébricos",
+        "Teoria dos Números Analítica"
+      ]
+    }
+  ]
+}

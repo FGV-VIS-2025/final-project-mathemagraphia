@@ -1,0 +1,28 @@
+{
+  "nome": "Pafnuty Lvovich Chebyshev",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Lei dos Grandes Números",
+        "Teorema do Limite Central"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Séries de Taylor",
+        "Integração",
+        "Polinômios Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecanismos",
+        "Teoria da Aproximação"
+      ]
+    }
+  ]
+}

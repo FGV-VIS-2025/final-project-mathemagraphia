@@ -1,0 +1,13 @@
+{
+  "nome": "Andrei Mikhailovich Razmadze",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Lema Fundamental do Cálculo Variacional",
+        "Soluções Descontínuas"
+      ]
+    }
+  ]
+}

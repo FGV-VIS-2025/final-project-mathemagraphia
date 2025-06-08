@@ -1,0 +1,28 @@
+{
+  "nome": "Bronius Grigelionis",
+  "area_principal": "Teoria da Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Processos de Poisson",
+        "Processos de Lévy",
+        "Difusões"
+      ]
+    },
+    {
+      "subarea": "Teoria de Parada Ótima",
+      "subareas_especificas": [
+        "Problemas de Stefan"
+      ]
+    },
+    {
+      "subarea": "Teoria Assintótica",
+      "subareas_especificas": [
+        "Teoremas Limite",
+        "Expansão Assintótica"
+      ]
+    }
+  ]
+}

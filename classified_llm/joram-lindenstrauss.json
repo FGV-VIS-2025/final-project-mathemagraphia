@@ -1,0 +1,19 @@
+{
+  "nome": "Joram Lindenstrauss",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Geometria de Espaços de Banach",
+        "Operadores em Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teorema de Convexidade de Lyapunov"
+      ]
+    }
+  ]
+}

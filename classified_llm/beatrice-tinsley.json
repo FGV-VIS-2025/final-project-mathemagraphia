@@ -1,0 +1,21 @@
+{
+  "nome": "Beatrice Muriel Hill Tinsley",
+  "area_principal": "Cosmologia",
+  "subareas": [
+    {
+      "subarea": "Modelagem Matemática de Galáxias",
+      "subareas_especificas": [
+        "Evolução de Galáxias",
+        "Formação de Galáxias",
+        "Cosmologia Observacional"
+      ]
+    },
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Cosmologia Relativística",
+        "Quasares"
+      ]
+    }
+  ]
+}

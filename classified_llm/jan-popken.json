@@ -1,0 +1,19 @@
+{
+  "nome": "Jan Popken",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Transcendentais",
+      "subareas_especificas": [
+        "Medida de transcendência",
+        "Teorema de Thue-Siegel-Roth"
+      ]
+    },
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Propriedades aritméticas de funções analíticas"
+      ]
+    }
+  ]
+}

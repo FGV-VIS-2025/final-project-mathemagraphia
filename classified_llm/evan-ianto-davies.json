@@ -1,0 +1,25 @@
+{
+  "nome": "Evan Tom Davies",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Cálculo de Variações",
+        "Teoria de invariantes"
+      ]
+    },
+    {
+      "subarea": "Geometria Finsler",
+      "subareas_especificas": [
+        "Cálculo de Variações"
+      ]
+    },
+    {
+      "subarea": "Geometria de Cartan",
+      "subareas_especificas": [
+        "Cálculo de Variações"
+      ]
+    }
+  ]
+}

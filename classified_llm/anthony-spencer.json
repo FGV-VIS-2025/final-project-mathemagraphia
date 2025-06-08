@@ -1,0 +1,29 @@
+{
+  "nome": "Anthony James Merrill Spencer",
+  "area_principal": "Mecânica Contínua",
+  "subareas": [
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Teoria de Grupos",
+        "Teoria de Matrizes"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Elasticidade Linear",
+        "Elasticidade Não-Linear",
+        "Estabilidade Elástica"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Mecânica dos Fluidos Compressíveis",
+        "Mecânica dos Fluidos Incompressíveis"
+      ]
+    }
+  ]
+}

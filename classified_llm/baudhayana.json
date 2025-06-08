@@ -1,0 +1,20 @@
+{
+  "nome": "Baudhayana",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Cálculo de áreas",
+        "Aproximações de π",
+        "Construções geométricas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Aproximações de raízes quadradas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Oenopides of Chios",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Construções Geométricas",
+      "subareas_especificas": [
+        "Construções com régua e compasso"
+      ]
+    },
+    {
+      "subarea": "Astronomia Matemática",
+      "subareas_especificas": [
+        "Obliquidade da eclíptica",
+        "Período do Grande Ano"
+      ]
+    }
+  ]
+}

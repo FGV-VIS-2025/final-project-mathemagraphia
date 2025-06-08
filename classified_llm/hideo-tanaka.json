@@ -1,0 +1,22 @@
+{
+  "nome": "Hideo Tanaka",
+  "area_principal": "Pesquisa Operacional",
+  "subareas": [
+    {
+      "subarea": "Programação Matemática",
+      "subareas_especificas": [
+        "Programação Linear Fuzzy",
+        "Programação Possibilistica"
+      ]
+    },
+    {
+      "subarea": "Teoria da Possibilidade",
+      "subareas_especificas": [
+        "Distribuições de Possibilidade Exponencial",
+        "Análise de Regressão Possibilistica",
+        "Análise Discriminante Possibilistica",
+        "Seleção de Portfólio Possibilistico"
+      ]
+    }
+  ]
+}

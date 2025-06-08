@@ -1,0 +1,20 @@
+{
+  "nome": "Matthew Stewart",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Porismos",
+        "Lugares Geométricos"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Problema de Kepler",
+        "Problema dos Três Corpos"
+      ]
+    }
+  ]
+}

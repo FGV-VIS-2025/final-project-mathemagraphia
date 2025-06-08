@@ -1,0 +1,34 @@
+{
+  "nome": "Sixto Ríos García",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Dirichlet",
+      "subareas_especificas": [
+        "Hiperconvergência",
+        "Ultraconvergência"
+      ]
+    },
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integrais de Laplace-Stieltjes",
+        "Teoria da Integração de Funções Reais"
+      ]
+    },
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Prolongação Analítica",
+        "Representação Analítica de Funções",
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Teoria das Séries Trigonométricas"
+      ]
+    }
+  ]
+}

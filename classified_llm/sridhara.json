@@ -1,0 +1,12 @@
+{
+  "nome": "Sridhara",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Equações quadráticas"
+      ]
+    }
+  ]
+}

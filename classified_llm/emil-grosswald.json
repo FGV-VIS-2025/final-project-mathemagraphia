@@ -1,0 +1,27 @@
+{
+  "nome": "Emil Grosswald",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Equações Diofantinas",
+        "Somatórios de Dedekind",
+        "Teorema do Número Primo",
+        "Funções L",
+        "Polinômios de Bessel"
+      ]
+    },
+    {
+      "subarea": "Teoria Elementar dos Números",
+      "subareas_especificas": [
+        "Teorema Fundamental da Aritmética",
+        "Congruências",
+        "Teorema da Reciprocidade Quadrática",
+        "Teoria das Partições",
+        "Último Teorema de Fermat"
+      ]
+    }
+  ]
+}

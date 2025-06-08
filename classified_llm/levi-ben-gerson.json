@@ -1,0 +1,28 @@
+{
+  "nome": "Levi ben Gerson",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Naturais",
+        "Sequências e Séries",
+        "Combinação e Permutação"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Teorema do Seno",
+        "Cálculo de Senos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Postulado das Paralelas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Ernest-Paulin-Joseph Vessiot",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Transformações Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares",
+        "Espaços Homogêneos Principais"
+      ]
+    }
+  ]
+}

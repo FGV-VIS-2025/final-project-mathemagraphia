@@ -1,0 +1,27 @@
+{
+  "nome": "Abraham Seidenberg",
+  "area_principal": "Álgebra Comutativa",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Normais",
+        "Curvas Algébricas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Diferencial",
+      "subareas_especificas": [
+        "Corpos Diferenciais",
+        "Teoria da Eliminação"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Ideais",
+      "subareas_especificas": [
+        "Teoremas Going-Up e Going-Down",
+        "Decomposição Lasker-Noether"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Werner Karl Heisenberg",
+  "area_principal": "Mecânica Quântica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Matricial",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Teoria de Matrizes"
+      ]
+    }
+  ]
+}

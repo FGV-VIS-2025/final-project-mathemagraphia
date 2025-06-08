@@ -1,0 +1,21 @@
+{
+  "nome": "Christoff Rudolff",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Equações Lineares",
+        "Equações Quadráticas",
+        "Equações Cúbicas"
+      ]
+    },
+    {
+      "subarea": "Polinômios",
+      "subareas_especificas": [
+        "Operações com Polinômios",
+        "Raízes de Polinômios"
+      ]
+    }
+  ]
+}

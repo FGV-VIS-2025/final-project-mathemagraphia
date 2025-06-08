@@ -1,0 +1,19 @@
+{
+  "nome": "Johann Andreas von Segner",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidrodinâmica",
+        "Turbinas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Diferencial"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nome": "Piero Borgi",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Aritmética Comercial",
+      "subareas_especificas": [
+        "Frações",
+        "Regra de Três",
+        "Porcentagens",
+        "Cálculo de Juros",
+        "Trocas",
+        "Ligass"
+      ]
+    },
+    {
+      "subarea": "Sistemas de Numeração",
+      "subareas_especificas": [
+        "Números Inteiros",
+        "Números Fracionários"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Sheila May Edmonds",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries infinitas",
+        "Séries duplas"
+      ]
+    },
+    {
+      "subarea": "Transformadas Integrais",
+      "subareas_especificas": [
+        "Transformadas de Fourier",
+        "Fórmulas de Parseval"
+      ]
+    }
+  ]
+}

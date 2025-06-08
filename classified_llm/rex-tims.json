@@ -1,0 +1,21 @@
+{
+  "nome": "Sydney Rex Tims",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Séries infinitas",
+        "Integração",
+        "Teorema de Taylor"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções analíticas",
+        "Funções complexas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Mikhail Iosiphovich Kadets",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria de Renormings",
+        "Bases",
+        "Séries em Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Teoria de Aproximação",
+      "subareas_especificas": [
+        "Melhores Aproximações"
+      ]
+    }
+  ]
+}

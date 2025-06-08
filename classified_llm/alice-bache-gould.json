@@ -1,0 +1,20 @@
+{
+  "nome": "Alice Bache Gould",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria não-euclidiana",
+      "subareas_especificas": [
+        "Geometria hiperbólica",
+        "Geometria elíptica"
+      ]
+    },
+    {
+      "subarea": "Geometria algébrica",
+      "subareas_especificas": [
+        "Variedades algébricas",
+        "Esquemas"
+      ]
+    }
+  ]
+}

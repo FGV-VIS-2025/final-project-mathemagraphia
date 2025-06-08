@@ -1,0 +1,19 @@
+{
+  "nome": "Leopold Kronecker",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números algébricos",
+        "Números transcendentais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações algébricas"
+      ]
+    }
+  ]
+}

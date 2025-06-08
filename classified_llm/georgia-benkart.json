@@ -1,0 +1,21 @@
+{
+  "nome": "Georgia McClure Benkart",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra de Lie",
+      "subareas_especificas": [
+        "Ideais Internos",
+        "Elementos ad-nilpotentes"
+      ]
+    },
+    {
+      "subarea": "Teoria das Representações",
+      "subareas_especificas": [
+        "Grupos Simétricos",
+        "Grupos Lineares Gerais",
+        "Álgebras de Kac-Moody"
+      ]
+    }
+  ]
+}

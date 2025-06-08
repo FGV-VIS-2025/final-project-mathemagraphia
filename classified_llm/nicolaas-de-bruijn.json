@@ -1,0 +1,18 @@
+{
+  "nome": "Nicolaas Govert de Bruijn",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Modulares",
+      "subareas_especificas": [
+        "Formas Modulares em Várias Variáveis"
+      ]
+    },
+    {
+      "subarea": "Funções Multiplicativas",
+      "subareas_especificas": [
+        "Funções Quase Periódicas"
+      ]
+    }
+  ]
+}

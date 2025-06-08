@@ -1,0 +1,19 @@
+{
+  "nome": "Walther Franz Anton von Dyck",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Teoria de Riemann"
+      ]
+    }
+  ]
+}

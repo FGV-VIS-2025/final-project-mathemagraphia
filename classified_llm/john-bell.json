@@ -1,0 +1,29 @@
+{
+  "nome": "John Stewart Bell",
+  "area_principal": "Física Quântica",
+  "subareas": [
+    {
+      "subarea": "Fundamentos da Teoria Quântica",
+      "subareas_especificas": [
+        "Realismo",
+        "Determinismo",
+        "Localidade",
+        "Variáveis Ocultas"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Anomalia ABJ",
+        "Teorema CPT"
+      ]
+    },
+    {
+      "subarea": "Teoria da Informação Quântica",
+      "subareas_especificas": [
+        "Computação Quântica",
+        "Criptografia Quântica"
+      ]
+    }
+  ]
+}

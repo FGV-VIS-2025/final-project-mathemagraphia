@@ -1,0 +1,26 @@
+{
+  "nome": "Stefan Schwarz",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos abstratos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Corpos de números algébricos",
+        "Polinômios sobre corpos finitos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes Booleanas",
+        "Matrizes não negativas"
+      ]
+    }
+  ]
+}

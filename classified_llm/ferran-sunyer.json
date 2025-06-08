@@ -1,0 +1,28 @@
+{
+  "nome": "Ferran Sunyer i Balaguer",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções inteiras e meromorfas",
+      "subareas_especificas": [
+        "Teoremas de Picard",
+        "Teoremas de Landau e Schottky",
+        "Normalidade de famílias de funções meromorfas",
+        "Séries de Taylor lacunares"
+      ]
+    },
+    {
+      "subarea": "Séries de Taylor",
+      "subareas_especificas": [
+        "Somabilidade de séries analíticas",
+        "Funções quase-periódicas"
+      ]
+    },
+    {
+      "subarea": "Funções Diferenciáveis",
+      "subareas_especificas": [
+        "Funções infinitamente diferenciáveis"
+      ]
+    }
+  ]
+}

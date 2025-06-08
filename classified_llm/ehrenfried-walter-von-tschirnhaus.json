@@ -1,0 +1,13 @@
+{
+  "nome": "Ehrenfried Walter von Tschirnhaus",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria das Equações",
+      "subareas_especificas": [
+        "Soluções de Equações Algébricas",
+        "Transformações de Equações"
+      ]
+    }
+  ]
+}

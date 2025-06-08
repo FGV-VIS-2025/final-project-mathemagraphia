@@ -1,0 +1,28 @@
+{
+  "nome": "Atle Selberg",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Função Zeta de Riemann",
+        "Teorema do Número Primo",
+        "Crivo de Selberg"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Crivos",
+      "subareas_especificas": [
+        "Crivo de Brun",
+        "Crivo de Selberg"
+      ]
+    },
+    {
+      "subarea": "Formas Automórficas",
+      "subareas_especificas": [
+        "Função Zeta de Selberg",
+        "Fórmula de Traço de Selberg"
+      ]
+    }
+  ]
+}

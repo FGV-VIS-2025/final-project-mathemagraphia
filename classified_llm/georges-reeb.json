@@ -1,0 +1,22 @@
+{
+  "nome": "Georges Henri Reeb",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Teoria das Folheações",
+      "subareas_especificas": [
+        "Folheações de Reeb"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Perturbação de Sistemas Dinâmicos"
+      ]
+    },
+    {
+      "subarea": "Análise Não Padrão",
+      "subareas_especificas": []
+    }
+  ]
+}

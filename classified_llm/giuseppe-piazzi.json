@@ -1,0 +1,21 @@
+{
+  "nome": "Giuseppe Piazzi",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Catálogos estelares",
+        "Medidas de paralaxe",
+        "Determinação de longitude"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo de órbitas",
+        "Descoberta de planetas menores"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Guarino Guarini",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Perspectiva"
+      ]
+    },
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Proporção",
+        "Somatório até o infinito"
+      ]
+    }
+  ]
+}

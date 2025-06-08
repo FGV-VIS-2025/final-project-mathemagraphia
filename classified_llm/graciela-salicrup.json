@@ -1,0 +1,41 @@
+{
+  "nome": "Graciela Beatriz Salicrup López",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia categórica",
+      "subareas_especificas": [
+        "Fibrations",
+        "Coreflexions",
+        "Epireflexividad",
+        "Conexidad",
+        "Factorization structures"
+      ]
+    },
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Espaços pseudométricos",
+        "Bases de topologia",
+        "Mapas",
+        "Produtos e coprodutos",
+        "Axiomas de separação",
+        "Axiomas de contagem",
+        "Compacidade",
+        "Redes",
+        "Filtros",
+        "Metrizabilidade",
+        "Convexidade",
+        "Homotopia",
+        "Grupos fundamentais",
+        "Espaços de funções",
+        "Espaços de recobrimento",
+        "Espaços de fibra",
+        "Teorema de levantamento",
+        "Cofibrações",
+        "Espaços adjuntos",
+        "Políhedros celulares"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Takakazu Shinsuke Seki",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Soluções Inteiras"
+      ]
+    },
+    {
+      "subarea": "Determinantes",
+      "subareas_especificas": [
+        "Soluções de Equações Simultâneas"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Método de Horner",
+        "Método de Newton-Raphson",
+        "Interpolação de Newton"
+      ]
+    }
+  ]
+}

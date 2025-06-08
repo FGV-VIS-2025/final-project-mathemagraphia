@@ -1,0 +1,38 @@
+{
+  "nome": "Joseph Bishop Keller",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Teoria da Difração Geométrica",
+      "subareas_especificas": [
+        "Propagação de ondas",
+        "Reflexão de ondas",
+        "Dispersão de ondas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Perturbação Singular",
+      "subareas_especificas": [
+        "Métodos assintóticos"
+      ]
+    },
+    {
+      "subarea": "Óptica Geométrica Não-Linear",
+      "subareas_especificas": [
+        "Acústica"
+      ]
+    },
+    {
+      "subarea": "Espalhamento Inverso",
+      "subareas_especificas": [
+        "Recuperação de parâmetros a partir de dados de espalhamento"
+      ]
+    },
+    {
+      "subarea": "Equações para meios compostos",
+      "subareas_especificas": [
+        "Homogeneização"
+      ]
+    }
+  ]
+}

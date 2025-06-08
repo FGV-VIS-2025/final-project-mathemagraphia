@@ -1,0 +1,14 @@
+{
+  "nome": "Jacques Feldbau",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Fibrados",
+        "Homotopia",
+        "Cohomologia"
+      ]
+    }
+  ]
+}

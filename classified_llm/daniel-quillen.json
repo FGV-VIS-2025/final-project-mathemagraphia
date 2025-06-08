@@ -1,0 +1,27 @@
+{
+  "nome": "Daniel Gray Quillen",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria K",
+      "subareas_especificas": [
+        "Teoria K algébrica",
+        "Teoria K topológica"
+      ]
+    },
+    {
+      "subarea": "Teoria de Homotopia Racional",
+      "subareas_especificas": [
+        "Espaços de laços",
+        "Álgebras de Lie"
+      ]
+    },
+    {
+      "subarea": "Teoria de Representação",
+      "subareas_especificas": [
+        "Representação de grupos finitos",
+        "Cohomologia de grupos"
+      ]
+    }
+  ]
+}

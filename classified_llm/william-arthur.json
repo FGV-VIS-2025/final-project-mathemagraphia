@@ -1,0 +1,12 @@
+{
+  "nome": "William Arthur",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Métodos de Estatística"
+      ]
+    }
+  ]
+}

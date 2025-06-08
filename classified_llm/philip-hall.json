@@ -1,0 +1,27 @@
+{
+  "nome": "Philip Hall",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos de ordem p^n",
+        "Grupos solúveis",
+        "Teoremas de Sylow"
+      ]
+    },
+    {
+      "subarea": "Grupos Infinitos",
+      "subareas_especificas": [
+        "Grupos nilpotentes",
+        "Subgrupos de Frattini"
+      ]
+    },
+    {
+      "subarea": "Teoria das Representações",
+      "subareas_especificas": [
+        "Funções simétricas"
+      ]
+    }
+  ]
+}

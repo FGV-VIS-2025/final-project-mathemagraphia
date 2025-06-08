@@ -1,0 +1,27 @@
+{
+  "nome": "Alfred Rosenblatt",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Existência de Integrais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Lema Fundamental do Cálculo das Variações",
+        "Condições Necessárias para o Extremo de uma Integral Simples"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Superfícies Algébricas",
+        "Transformações Birracionais"
+      ]
+    }
+  ]
+}

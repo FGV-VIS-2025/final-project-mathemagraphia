@@ -1,0 +1,19 @@
+{
+  "nome": "Ernest Corominas i Vigneaux",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Derivadas Generalizadas",
+        "Teoria da Medida"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Assintótica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "James Robert McConnell",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Eletrodinâmica Quântica Não-Linear"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Álgebras de Lie",
+        "Representações de Grupos"
+      ]
+    }
+  ]
+}

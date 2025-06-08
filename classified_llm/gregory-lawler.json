@@ -1,0 +1,20 @@
+{
+  "nome": "Gregory Francis Lawler",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Caminhadas Aleatórias",
+      "subareas_especificas": [
+        "Caminhada Aleatória Auto-Evasiva",
+        "Limite de Escala Conformemente Invariante"
+      ]
+    },
+    {
+      "subarea": "Movimento Browniano",
+      "subareas_especificas": [
+        "Expoentes de Interseção Browniana",
+        "Dimensão de Hausdorff da Fronteira Browniana"
+      ]
+    }
+  ]
+}

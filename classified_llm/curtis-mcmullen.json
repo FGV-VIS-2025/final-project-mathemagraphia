@@ -1,0 +1,21 @@
+{
+  "nome": "Curtis Tracy McMullen",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica Holomorfa",
+      "subareas_especificas": [
+        "Teoria da Renormalização",
+        "Conjuntos de Julia",
+        "Conjuntos de Mandelbrot"
+      ]
+    },
+    {
+      "subarea": "Geometria Hiperbólica",
+      "subareas_especificas": [
+        "3-variedades",
+        "Teoria de Teichmüller"
+      ]
+    }
+  ]
+}

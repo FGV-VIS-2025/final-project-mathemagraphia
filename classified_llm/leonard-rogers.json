@@ -1,0 +1,25 @@
+{
+  "nome": "Leonard James Rogers",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Hipergeométricas",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Frações Contínuas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Partições",
+      "subareas_especificas": [
+        "Identidades de Rogers-Ramanujan"
+      ]
+    },
+    {
+      "subarea": "Desigualdades",
+      "subareas_especificas": [
+        "Desigualdade de Hölder"
+      ]
+    }
+  ]
+}

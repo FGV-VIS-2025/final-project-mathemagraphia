@@ -1,0 +1,20 @@
+{
+  "nome": "Tosio Kato",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria de Operadores",
+      "subareas_especificas": [
+        "Operadores Auto-adjuntos",
+        "Teoria de Perturbação"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Navier-Stokes",
+        "Equação de Korteweg-de Vries"
+      ]
+    }
+  ]
+}

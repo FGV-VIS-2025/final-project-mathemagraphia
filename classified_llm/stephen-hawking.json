@@ -1,0 +1,28 @@
+{
+  "nome": "Stephen William Hawking",
+  "area_principal": "Cosmologia",
+  "subareas": [
+    {
+      "subarea": "Relatividade Geral",
+      "subareas_especificas": [
+        "Singularidades",
+        "Teoremas de Singularidade",
+        "Buracos Negros"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Campos Quânticos em Espaço-tempo Curvo",
+        "Termodinâmica de Buracos Negros"
+      ]
+    },
+    {
+      "subarea": "Gravitação Quântica",
+      "subareas_especificas": [
+        "Função de Onda do Universo",
+        "Proposta Sem Fronteiras"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "D'Amondans Charles de Tinseau",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial de Superfícies",
+      "subareas_especificas": [
+        "Teoria de Superfícies",
+        "Curvas de Dupla Curvatura",
+        "Planos Tangentes"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica Espacial",
+      "subareas_especificas": [
+        "Geometria Analítica",
+        "Superfícies Regradas",
+        "Conoides"
+      ]
+    }
+  ]
+}

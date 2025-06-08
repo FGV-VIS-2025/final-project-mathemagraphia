@@ -1,0 +1,19 @@
+{
+  "nome": "Jan Kalicki",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Álgebra da Lógica",
+      "subareas_especificas": [
+        "Matrizes Lógicas",
+        "Álgebra de Tarski"
+      ]
+    },
+    {
+      "subarea": "Lógica Equacional",
+      "subareas_especificas": [
+        "Tabelas de Verdade"
+      ]
+    }
+  ]
+}

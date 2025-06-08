@@ -1,0 +1,21 @@
+{
+  "nome": "Claude Gaspar Bachet de Méziriac",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equações Diofantinas Lineares",
+        "Equações Diofantinas Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Elementar",
+      "subareas_especificas": [
+        "Divisibilidade",
+        "Números Primos",
+        "Congruências"
+      ]
+    }
+  ]
+}

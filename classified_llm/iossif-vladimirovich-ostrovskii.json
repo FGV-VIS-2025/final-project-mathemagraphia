@@ -1,0 +1,27 @@
+{
+  "nome": "Iossif Vladimirovich Ostrovskii",
+  "area_principal": "Teoria das Funções",
+  "subareas": [
+    {
+      "subarea": "Funções Meromorfas",
+      "subareas_especificas": [
+        "Distribuição de valores",
+        "Teoria de Nevanlinna"
+      ]
+    },
+    {
+      "subarea": "Funções Inteiras",
+      "subareas_especificas": [
+        "Crescimento de funções inteiras",
+        "Distribuição de zeros"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Decomposição de variáveis aleatórias",
+        "Leis de probabilidade multidimensionais"
+      ]
+    }
+  ]
+}

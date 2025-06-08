@@ -1,0 +1,26 @@
+{
+  "nome": "Simion Stoilow",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problema de Cauchy"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Meromorfas",
+        "Funções Duplamente Periódicas",
+        "Superfícies de Riemann"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Transformações Contínuas"
+      ]
+    }
+  ]
+}

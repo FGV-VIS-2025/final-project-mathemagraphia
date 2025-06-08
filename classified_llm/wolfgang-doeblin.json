@@ -1,0 +1,23 @@
+{
+  "nome": "Wolfgang Doeblin",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Cadeias de Markov",
+      "subareas_especificas": [
+        "Cadeias de Markov com espaços de estados gerais",
+        "Processos de Markov de salto",
+        "Método de acoplamento",
+        "Difusões"
+      ]
+    },
+    {
+      "subarea": "Teoria das Probabilidades",
+      "subareas_especificas": [
+        "Teoremas limites",
+        "Convergência fraca em matrizes",
+        "Lei universal de Doeblin"
+      ]
+    }
+  ]
+}

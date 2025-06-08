@@ -1,0 +1,19 @@
+{
+  "nome": "Menelaus of Alexandria",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Esférica",
+      "subareas_especificas": [
+        "Trigonometria Esférica",
+        "Teorema de Menelaus"
+      ]
+    },
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Teorema de Menelaus"
+      ]
+    }
+  ]
+}

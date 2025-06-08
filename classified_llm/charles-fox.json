@@ -1,0 +1,18 @@
+{
+  "nome": "Charles Fox",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções Hipergeométricas",
+        "Transformadas Integrais",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": []
+    }
+  ]
+}

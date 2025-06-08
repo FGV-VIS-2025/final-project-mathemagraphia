@@ -1,0 +1,25 @@
+{
+  "nome": "Herbert Saul Wilf",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Integração Numérica"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes",
+        "Inversão de Matrizes"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Identidades Combinatórias"
+      ]
+    }
+  ]
+}

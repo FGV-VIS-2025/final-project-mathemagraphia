@@ -1,0 +1,12 @@
+{
+  "nome": "Annie Jump Cannon",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Espectroscopia",
+      "subareas_especificas": [
+        "Classificação espectral de estrelas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "nome": "Aleksandr Yakovlevich Khinchin",
+  "area_principal": "Teoria da Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Frações contínuas",
+        "Aproximações diofantinas"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Teoria da medida",
+        "Integração",
+        "Séries"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Mecânica estatística clássica",
+        "Mecânica quântica"
+      ]
+    },
+    {
+      "subarea": "Teoria da Informação",
+      "subareas_especificas": [
+        "Entropia",
+        "Capacidade de canal"
+      ]
+    }
+  ]
+}

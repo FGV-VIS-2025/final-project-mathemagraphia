@@ -1,0 +1,27 @@
+{
+  "nome": "Shigefumi Mori",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Variedades Algébricas",
+      "subareas_especificas": [
+        "Variedades de Fano",
+        "Superfícies Algébricas",
+        "Classificação de Variedades Algébricas"
+      ]
+    },
+    {
+      "subarea": "Programa do Modelo Minimal",
+      "subareas_especificas": [
+        "Teoria do Modelo Minimal",
+        "3-variedades"
+      ]
+    },
+    {
+      "subarea": "Geometria Birracional",
+      "subareas_especificas": [
+        "Birational Geometry of Algebraic Varieties"
+      ]
+    }
+  ]
+}

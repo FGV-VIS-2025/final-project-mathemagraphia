@@ -1,0 +1,20 @@
+{
+  "nome": "Howard Hathaway Aiken",
+  "area_principal": "Engenharia da Computação",
+  "subareas": [
+    {
+      "subarea": "Arquitetura de Computadores",
+      "subareas_especificas": [
+        "Máquinas de calcular",
+        "Computadores digitais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Algoritmos",
+        "Teoria da informação"
+      ]
+    }
+  ]
+}

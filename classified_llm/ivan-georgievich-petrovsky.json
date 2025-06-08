@@ -1,0 +1,27 @@
+{
+  "nome": "Ivan Georgievich Petrovsky",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Sistemas Hiperbólicos",
+        "Analiticidade de Soluções de Sistemas Elípticos",
+        "Lacunas para Soluções de Sistemas Hiperbólicos"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Topologia de Curvas Reais e Algébricas"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Problema de Valor de Contorno para a Equação do Calor"
+      ]
+    }
+  ]
+}

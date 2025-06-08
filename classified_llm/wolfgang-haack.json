@@ -1,0 +1,27 @@
+{
+  "nome": "Wolfgang Siegfried Haack",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Afim",
+      "subareas_especificas": [
+        "Sistemas de Raios",
+        "Curvas Espaciais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Sistemas Lineares de Equações Diferenciais Parciais de Primeira Ordem",
+        "Equações de Pfaff"
+      ]
+    },
+    {
+      "subarea": "Dinâmica de Gases",
+      "subareas_especificas": [
+        "Balística",
+        "Aerodinâmica"
+      ]
+    }
+  ]
+}

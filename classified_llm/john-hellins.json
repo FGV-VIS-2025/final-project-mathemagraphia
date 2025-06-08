@@ -1,0 +1,22 @@
+{
+  "nome": "John Hellins",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Séries",
+        "Logaritmos",
+        "Integração",
+        "Quadratura"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Aproximação de funções",
+        "Métodos numéricos para equações diferenciais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Stanisław Saks",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integração",
+        "Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "subarea": "Funções de Variável Real",
+      "subareas_especificas": [
+        "Diferenciabilidade",
+        "Derivadas",
+        "Propriedades de Funções"
+      ]
+    }
+  ]
+}

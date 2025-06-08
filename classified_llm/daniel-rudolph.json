@@ -1,0 +1,17 @@
+{
+  "nome": "Daniel Jay Rudolph",
+  "area_principal": "Teoria Ergódica",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Combinatória"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": []
+    }
+  ]
+}

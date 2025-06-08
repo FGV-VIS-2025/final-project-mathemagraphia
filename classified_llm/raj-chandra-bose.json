@@ -1,0 +1,27 @@
+{
+  "nome": "Raj Chandra Bose",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Finita",
+      "subareas_especificas": [
+        "Planos Projetivos",
+        "Blocos Incompletos Balanceados",
+        "Arrays Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Geometria Hiperbólica",
+      "subareas_especificas": [
+        "Aplicações à Estatística"
+      ]
+    },
+    {
+      "subarea": "Teoria de Design Experimental",
+      "subareas_especificas": [
+        "Delineamentos Balanceados e Parcialmente Balanceados",
+        "Esquemas de Associação"
+      ]
+    }
+  ]
+}

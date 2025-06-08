@@ -1,0 +1,21 @@
+{
+  "nome": "Yutaka Taniyama",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Curvas Elípticas",
+        "Funções L",
+        "Variedades Abelianas"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Abelianas",
+        "Funções Modulares"
+      ]
+    }
+  ]
+}

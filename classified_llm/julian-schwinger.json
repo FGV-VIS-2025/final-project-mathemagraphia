@@ -1,0 +1,18 @@
+{
+  "nome": "Julian Seymour Schwinger",
+  "area_principal": "Física Teórica",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletrodinâmica Quântica"
+      ]
+    },
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Quântica de Campos"
+      ]
+    }
+  ]
+}

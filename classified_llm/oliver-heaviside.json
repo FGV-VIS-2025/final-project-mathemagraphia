@@ -1,0 +1,13 @@
+{
+  "nome": "Oliver Heaviside",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Cálculo Operacional",
+      "subareas_especificas": [
+        "Transformada de Laplace",
+        "Análise Vetorial"
+      ]
+    }
+  ]
+}

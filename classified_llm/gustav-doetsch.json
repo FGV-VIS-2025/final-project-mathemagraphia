@@ -1,0 +1,12 @@
+{
+  "nome": "Gustav Doetsch",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Transformada de Laplace",
+      "subareas_especificas": [
+        "Aplicações em Engenharia"
+      ]
+    }
+  ]
+}

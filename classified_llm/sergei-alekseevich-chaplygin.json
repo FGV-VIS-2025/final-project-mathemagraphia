@@ -1,0 +1,20 @@
+{
+  "nome": "Sergei Alekseevich Chaplygin",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidrodinâmica",
+        "Aerodinâmica"
+      ]
+    },
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Sistemas Não-holonômicos"
+      ]
+    }
+  ]
+}

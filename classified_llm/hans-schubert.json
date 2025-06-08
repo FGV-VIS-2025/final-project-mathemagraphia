@@ -1,0 +1,19 @@
+{
+  "nome": "Hans Herbert Schubert",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Integrais",
+        "Teoria do Potencial"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos de Aproximações Sucessivas"
+      ]
+    }
+  ]
+}

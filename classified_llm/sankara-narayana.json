@@ -1,0 +1,12 @@
+{
+  "nome": "Sankara Narayana",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equação Linear de Diofanto"
+      ]
+    }
+  ]
+}

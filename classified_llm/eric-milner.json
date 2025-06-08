@@ -1,0 +1,19 @@
+{
+  "nome": "Eric Charles Milner",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Teoria Combinatória dos Conjuntos",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Combinatória"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria dos Números"
+      ]
+    }
+  ]
+}

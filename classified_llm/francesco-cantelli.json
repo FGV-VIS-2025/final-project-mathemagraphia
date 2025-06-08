@@ -1,0 +1,21 @@
+{
+  "nome": "Francesco Paolo Cantelli",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Lei dos Grandes Números",
+        "Convergência Estocástica",
+        "Inequação de Bienaymé-Chebyshev"
+      ]
+    },
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Distribuições de Frequência",
+        "Aplicações da Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

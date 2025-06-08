@@ -1,0 +1,19 @@
+{
+  "nome": "Mary Everest Boole",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Lógica",
+      "subareas_especificas": [
+        "Lógica Booleana"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Theodosius of Bithynia",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Espacial",
+      "subareas_especificas": [
+        "Geometria da Esfera"
+      ]
+    }
+  ]
+}

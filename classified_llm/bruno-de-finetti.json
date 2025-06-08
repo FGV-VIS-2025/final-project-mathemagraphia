@@ -1,0 +1,28 @@
+{
+  "nome": "Bruno de Finetti",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Teoria da Probabilidade Subjetiva",
+        "Medidas Finitamente Aditivas",
+        "Processos com Incrementos Independentes",
+        "Sequências de Variáveis Trocáveis"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Subjetiva",
+        "Medidas de Probabilidade"
+      ]
+    },
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Inferência Bayesiana"
+      ]
+    }
+  ]
+}

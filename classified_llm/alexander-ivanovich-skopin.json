@@ -1,0 +1,21 @@
+{
+  "nome": "Alexander Ivanovich Skopin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos de Burnside",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Computacional",
+      "subareas_especificas": [
+        "Métodos de Álgebra Linear",
+        "Métodos Computacionais em Teoria de Grupos"
+      ]
+    }
+  ]
+}

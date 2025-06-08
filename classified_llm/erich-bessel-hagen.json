@@ -1,0 +1,13 @@
+{
+  "nome": "Erich Bessel-Hagen",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

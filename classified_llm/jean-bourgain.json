@@ -1,0 +1,26 @@
+{
+  "nome": "Jean Bourgain",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria da medida",
+        "Teoria ergódica"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Transformadas de Fourier"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações diferenciais parciais não lineares"
+      ]
+    }
+  ]
+}

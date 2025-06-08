@@ -1,0 +1,28 @@
+{
+  "nome": "Peter David Lax",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Sistemas Hiperbólicos",
+      "subareas_especificas": [
+        "Sistemas Não-Lineares",
+        "Métodos Numéricos",
+        "Teoria da Dispersão"
+      ]
+    },
+    {
+      "subarea": "Sistemas Integráveis",
+      "subareas_especificas": [
+        "Pares de Lax",
+        "Soluções Solitárias"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Esquemas Numéricos",
+        "Teorema da Equivalência de Lax"
+      ]
+    }
+  ]
+}

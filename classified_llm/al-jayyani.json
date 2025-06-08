@@ -1,0 +1,21 @@
+{
+  "nome": "Abu Abd Allah Muhammad ibn Muadh Al-Jayyani",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Proporção",
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Triângulos esféricos",
+        "Lei dos senos",
+        "Triângulo polar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Samuel Molyneux",
+  "area_principal": "Óptica",
+  "subareas": [
+    {
+      "subarea": "Óptica Geométrica",
+      "subareas_especificas": [
+        "Telescópios Refletores",
+        "Lentes",
+        "Espelhos"
+      ]
+    },
+    {
+      "subarea": "Astronomia de Observação",
+      "subareas_especificas": [
+        "Medida de Paralaxe Estelar",
+        "Aberração da Luz das Estrelas"
+      ]
+    }
+  ]
+}

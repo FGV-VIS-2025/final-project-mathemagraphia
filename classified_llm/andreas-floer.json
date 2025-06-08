@@ -1,0 +1,19 @@
+{
+  "nome": "Andreas Floer",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria de Gauge",
+        "Homologia de Floer"
+      ]
+    },
+    {
+      "subarea": "Geometria Simplética",
+      "subareas_especificas": [
+        "Teoria de Morse"
+      ]
+    }
+  ]
+}

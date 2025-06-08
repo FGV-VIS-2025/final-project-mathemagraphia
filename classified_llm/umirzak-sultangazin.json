@@ -1,0 +1,21 @@
+{
+  "nome": "Umirzak Makhmutovich Sultangazin",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Método de Splitting",
+        "Método dos Harmônicos Esféricos",
+        "Método das Ordenadas Discretas"
+      ]
+    },
+    {
+      "subarea": "Teoria Cinética",
+      "subareas_especificas": [
+        "Equação de Boltzmann",
+        "Modelos Discretos da Equação de Boltzmann"
+      ]
+    }
+  ]
+}

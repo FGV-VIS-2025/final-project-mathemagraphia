@@ -1,0 +1,20 @@
+{
+  "nome": "Giovanni Enrico Eugenio Vacca",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "História da Lógica",
+      "subareas_especificas": [
+        "Lógica de Leibniz",
+        "Manuscritos de Leibniz"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Método de descida de Fermat",
+        "Formulaire de Mathématiques de Peano"
+      ]
+    }
+  ]
+}

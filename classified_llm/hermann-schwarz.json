@@ -1,0 +1,24 @@
+{
+  "nome": "Hermann Amandus Schwarz",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Conformas",
+      "subareas_especificas": [
+        "Teorema de Riemann de Mapeamento"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Existência de Soluções"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Superfícies Mínimas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Karl Walter Gruenberg",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Cohomologia de Grupos",
+        "Teoria de Representação"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes Comutativas"
+      ]
+    }
+  ]
+}

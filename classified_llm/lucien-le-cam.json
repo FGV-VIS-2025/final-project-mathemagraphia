@@ -1,0 +1,22 @@
+{
+  "nome": "Lucien Marie Le Cam",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses",
+        "Métodos Assintóticos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Decisão",
+      "subareas_especificas": [
+        "Funções de Perda",
+        "Regras de Decisão",
+        "Risco"
+      ]
+    }
+  ]
+}

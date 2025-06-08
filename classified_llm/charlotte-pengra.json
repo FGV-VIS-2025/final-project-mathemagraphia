@@ -1,0 +1,19 @@
+{
+  "nome": "Charlotte Elvira Pengra",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Superfícies de Riemann"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços vetoriais",
+        "Transformações lineares"
+      ]
+    }
+  ]
+}

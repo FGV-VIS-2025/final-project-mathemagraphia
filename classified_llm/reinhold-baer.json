@@ -1,0 +1,28 @@
+{
+  "nome": "Reinhold Baer",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos Abelianos",
+        "Grupos Solúveis",
+        "Grupos Nilpotentes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Módulos Injetivos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Corpos Ordenados",
+        "Teoria de Galois"
+      ]
+    }
+  ]
+}

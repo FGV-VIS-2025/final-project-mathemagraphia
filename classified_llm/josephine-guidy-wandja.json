@@ -1,0 +1,18 @@
+{
+  "nome": "Joséphine Guidy-Wandja",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Convexa"
+      ]
+    },
+    {
+      "subarea": "Teoria de Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos"
+      ]
+    }
+  ]
+}

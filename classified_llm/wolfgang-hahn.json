@@ -1,0 +1,21 @@
+{
+  "nome": "Wolfgang Hahn",
+  "area_principal": "Polinômios Ortogonais",
+  "subareas": [
+    {
+      "subarea": "Polinômios de Hahn",
+      "subareas_especificas": [
+        "Polinômios de Laguerre",
+        "Polinômios de Hermite",
+        "Polinômios de Jacobi"
+      ]
+    },
+    {
+      "subarea": "Análise q",
+      "subareas_especificas": [
+        "Séries de Heine",
+        "Cálculo Umbral q"
+      ]
+    }
+  ]
+}

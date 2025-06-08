@@ -1,0 +1,19 @@
+{
+  "nome": "Eduard Ott-Heinrich Keller",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria de Números",
+        "Transformações de Cremona"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Formas Quadráticas"
+      ]
+    }
+  ]
+}

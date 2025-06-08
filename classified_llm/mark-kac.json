@@ -1,0 +1,19 @@
+{
+  "nome": "Mark Kac",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Probabilidade aplicada",
+      "subareas_especificas": [
+        "Física estatística",
+        "Teoria dos números probabilísticos"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Integrais de caminho"
+      ]
+    }
+  ]
+}

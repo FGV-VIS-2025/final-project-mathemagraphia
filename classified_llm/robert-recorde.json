@@ -1,0 +1,20 @@
+{
+  "nome": "Robert Recorde",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações quadráticas"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Números racionais",
+        "Regra de três",
+        "Posição falsa"
+      ]
+    }
+  ]
+}

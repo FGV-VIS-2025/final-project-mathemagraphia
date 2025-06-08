@@ -1,0 +1,18 @@
+{
+  "nome": "Count Guglielmo Libri Carucci dalla Sommaja",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Teoria de Galois"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemática Italiana"
+      ]
+    }
+  ]
+}

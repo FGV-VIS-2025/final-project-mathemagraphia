@@ -1,0 +1,21 @@
+{
+  "nome": "Callippus of Cyzicus",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Calendários e Cronologia",
+      "subareas_especificas": [
+        "Ciclos lunares",
+        "Ciclos solares"
+      ]
+    },
+    {
+      "subarea": "Modelagem de Sistemas Planetários",
+      "subareas_especificas": [
+        "Esferas concêntricas",
+        "Epiciclos",
+        "Excentricidades"
+      ]
+    }
+  ]
+}

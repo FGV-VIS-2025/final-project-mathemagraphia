@@ -1,0 +1,27 @@
+{
+  "nome": "Mikhail Vasilevich Ostrogradski",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Integrais Múltiplas",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Teoria do Calor",
+        "Eletromagnetismo"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Séries de Potências",
+        "Métodos de Solução"
+      ]
+    }
+  ]
+}

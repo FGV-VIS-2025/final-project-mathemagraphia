@@ -1,0 +1,27 @@
+{
+  "nome": "Noel Bryan Slater",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases",
+        "Reações Unimoleculares"
+      ]
+    },
+    {
+      "subarea": "Teoria das Filas",
+      "subareas_especificas": [
+        "Filas Poissonianas",
+        "Filas Multi-Servidor"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Funções Quase-Periódicas",
+        "Séries de Fourier"
+      ]
+    }
+  ]
+}

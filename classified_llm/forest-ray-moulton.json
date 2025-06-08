@@ -1,0 +1,20 @@
+{
+  "nome": "Forest Ray Moulton",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Sistemas Dinâmicos"
+      ]
+    },
+    {
+      "subarea": "Problema dos N Corpos",
+      "subareas_especificas": [
+        "Problema dos Três Corpos",
+        "Problema dos Quatro Corpos"
+      ]
+    }
+  ]
+}

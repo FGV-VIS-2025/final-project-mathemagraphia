@@ -1,0 +1,20 @@
+{
+  "nome": "John Frank Adams",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria da Homotopia",
+      "subareas_especificas": [
+        "Espaços de Laços Infinitos",
+        "Teoria K"
+      ]
+    },
+    {
+      "subarea": "Teoria da Cohomologia",
+      "subareas_especificas": [
+        "Sequências Espectrais",
+        "Teoria de Representação de Grupos de Lie"
+      ]
+    }
+  ]
+}

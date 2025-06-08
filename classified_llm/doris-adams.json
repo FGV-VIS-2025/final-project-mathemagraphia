@@ -1,0 +1,22 @@
+{
+  "nome": "Louise Doris Adams",
+  "area_principal": "Educação Matemática",
+  "subareas": [
+    {
+      "subarea": "Didática da Matemática",
+      "subareas_especificas": [
+        "Aprendizagem Matemática",
+        "Metodologias de Ensino",
+        "Recursos Didáticos"
+      ]
+    },
+    {
+      "subarea": "Psicologia da Educação Matemática",
+      "subareas_especificas": [
+        "Desenvolvimento Cognitivo",
+        "Processos de Ensino-Aprendizagem",
+        "Dificuldades de Aprendizagem em Matemática"
+      ]
+    }
+  ]
+}

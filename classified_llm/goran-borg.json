@@ -1,0 +1,14 @@
+{
+  "nome": "Lars Göran Borg",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Problema Inverso de Sturm-Liouville",
+      "subareas_especificas": [
+        "Teoria de Sturm-Liouville",
+        "Séries de Fourier",
+        "Determinantes Infinitos"
+      ]
+    }
+  ]
+}

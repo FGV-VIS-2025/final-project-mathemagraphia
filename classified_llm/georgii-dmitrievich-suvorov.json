@@ -1,0 +1,21 @@
+{
+  "nome": "Georgii Dmitrievic Suvorov",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Representação conforme",
+        "Mapeamentos Quase Conformes",
+        "Integrais de Dirichlet"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Espaços Métricos",
+      "subareas_especificas": [
+        "Compactificação",
+        "Extremos Primos"
+      ]
+    }
+  ]
+}

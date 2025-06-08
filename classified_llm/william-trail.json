@@ -1,0 +1,18 @@
+{
+  "nome": "William Trail",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Equações"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Aplicações da Álgebra à Geometria"
+      ]
+    }
+  ]
+}

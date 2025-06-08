@@ -1,0 +1,19 @@
+{
+  "nome": "Tibor Gallai",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Grafos Finitos e Infinitos",
+      "subareas_especificas": [
+        "Grafos Eulerianos",
+        "Grafos Hamiltonianos"
+      ]
+    },
+    {
+      "subarea": "Geometria Discreta",
+      "subareas_especificas": [
+        "Teorema de Sylvester-Gallai"
+      ]
+    }
+  ]
+}

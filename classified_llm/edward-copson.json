@@ -1,0 +1,27 @@
+{
+  "nome": "Edward Thomas Copson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Teoria das Funções de Variável Complexa"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços Métricos",
+        "Espaços de Banach",
+        "Espaços de Hilbert"
+      ]
+    }
+  ]
+}

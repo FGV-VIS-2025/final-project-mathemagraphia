@@ -1,0 +1,20 @@
+{
+  "nome": "Angelo Genocchi",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries infinitas",
+        "Séries de potências"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais definidas",
+        "Integrais indefinidas"
+      ]
+    }
+  ]
+}

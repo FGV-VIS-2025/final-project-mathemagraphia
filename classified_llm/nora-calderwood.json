@@ -1,0 +1,12 @@
+{
+  "nome": "Nora Isobel Calderwood",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Álgebra Linear"
+      ]
+    }
+  ]
+}

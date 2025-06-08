@@ -1,0 +1,27 @@
+{
+  "nome": "Heinz Bauer",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoria da Integração",
+        "Medidas de Radon"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Espaços Harmônicos",
+        "Funções Superharmônicas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Convexidade",
+        "Teoria da Aproximação"
+      ]
+    }
+  ]
+}

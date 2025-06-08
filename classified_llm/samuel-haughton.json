@@ -1,0 +1,20 @@
+{
+  "nome": "Samuel Haughton",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Geometria não-Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Mecânica dos Fluidos"
+      ]
+    }
+  ]
+}

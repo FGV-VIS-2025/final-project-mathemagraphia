@@ -1,0 +1,20 @@
+{
+  "nome": "Percy Alexander MacMahon",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Simbólica",
+      "subareas_especificas": [
+        "Funções Simétricas",
+        "Invariantes"
+      ]
+    },
+    {
+      "subarea": "Análise Combinatória",
+      "subareas_especificas": [
+        "Partições",
+        "Quadrados Latinos"
+      ]
+    }
+  ]
+}

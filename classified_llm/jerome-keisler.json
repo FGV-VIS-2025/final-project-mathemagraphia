@@ -1,0 +1,19 @@
+{
+  "nome": "Howard Jerome Keisler",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria de Modelos",
+      "subareas_especificas": [
+        "Ultraprodutos",
+        "Classes Elementares"
+      ]
+    },
+    {
+      "subarea": "Análise Não-Padrão",
+      "subareas_especificas": [
+        "Análise Estocástica"
+      ]
+    }
+  ]
+}

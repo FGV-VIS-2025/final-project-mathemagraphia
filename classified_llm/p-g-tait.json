@@ -1,0 +1,27 @@
+{
+  "nome": "Peter Guthrie Tait",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Fluidos",
+        "Teoria de Potencial"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Nós",
+      "subareas_especificas": [
+        "Classificação de Nós",
+        "Polinômios de Knot"
+      ]
+    },
+    {
+      "subarea": "Quaternions",
+      "subareas_especificas": [
+        "Álgebra dos Quaternions",
+        "Aplicações em Física"
+      ]
+    }
+  ]
+}

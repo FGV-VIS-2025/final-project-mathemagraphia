@@ -1,0 +1,19 @@
+{
+  "nome": "John Emory McClintock",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações a Diferenças"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Resíduos Quadráticos"
+      ]
+    }
+  ]
+}

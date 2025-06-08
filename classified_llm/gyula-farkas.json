@@ -1,0 +1,26 @@
+{
+  "nome": "Gyula Farkas",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Métodos Iterativos"
+      ]
+    },
+    {
+      "subarea": "Otimização",
+      "subareas_especificas": [
+        "Programação Linear",
+        "Desigualdades Lineares"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Equilíbrio Termodinâmico"
+      ]
+    }
+  ]
+}

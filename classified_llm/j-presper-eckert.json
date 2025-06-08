@@ -1,0 +1,19 @@
+{
+  "nome": "John Presper Eckert",
+  "area_principal": "Computação",
+  "subareas": [
+    {
+      "subarea": "Arquitetura de Computadores",
+      "subareas_especificas": [
+        "Circuitos Eletrônicos",
+        "Projeto de Computadores"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos Numéricos"
+      ]
+    }
+  ]
+}

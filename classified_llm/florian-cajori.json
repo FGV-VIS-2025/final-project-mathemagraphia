@@ -1,0 +1,21 @@
+{
+  "nome": "Florian Cajori",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Teoria da Matemática",
+        "Notação Matemática",
+        "Instrumentos de Cálculo"
+      ]
+    },
+    {
+      "subarea": "Matemática Aplicada",
+      "subareas_especificas": [
+        "Álgebra",
+        "Cálculo"
+      ]
+    }
+  ]
+}

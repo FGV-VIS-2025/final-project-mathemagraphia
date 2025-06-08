@@ -1,0 +1,20 @@
+{
+  "nome": "Szolem Mandelbrojt",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries de Dirichlet",
+        "Classes Quase-Analíticas de Funções"
+      ]
+    },
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Singularidades de Funções",
+        "Prolongamento Analítico"
+      ]
+    }
+  ]
+}

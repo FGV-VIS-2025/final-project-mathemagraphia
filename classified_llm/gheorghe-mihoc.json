@@ -1,0 +1,19 @@
+{
+  "nome": "Gheorghe Mihoc",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria de Probabilidade",
+      "subareas_especificas": [
+        "Cadeias de Markov"
+      ]
+    },
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Análise de Dados"
+      ]
+    }
+  ]
+}

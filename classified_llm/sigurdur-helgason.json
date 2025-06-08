@@ -1,0 +1,20 @@
+{
+  "nome": "Sigurður Helgason",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Espaços Simétricos",
+        "Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Transformada de Radon",
+        "Transformada de Fourier"
+      ]
+    }
+  ]
+}

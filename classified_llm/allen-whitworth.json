@@ -1,0 +1,19 @@
+{
+  "nome": "William Allen Whitworth",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Análise Combinatória",
+        "Distribuições de Probabilidade"
+      ]
+    },
+    {
+      "subarea": "Estatística",
+      "subareas_especificas": [
+        "Inferência Estatística"
+      ]
+    }
+  ]
+}

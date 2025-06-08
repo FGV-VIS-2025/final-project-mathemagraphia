@@ -1,0 +1,19 @@
+{
+  "nome": "Kurt Gödel",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Teoremas da Incompletude"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axioma da Escolha",
+        "Hipótese do Contínuo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "John Hopkinson",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletrodinâmica",
+        "Eletrostática"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Circuitos",
+      "subareas_especificas": [
+        "Corrente Alternada",
+        "Circuitos em Paralelo"
+      ]
+    }
+  ]
+}

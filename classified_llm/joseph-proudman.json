@@ -1,0 +1,19 @@
+{
+  "nome": "Joseph Proudman",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Teoria das Marés"
+      ]
+    },
+    {
+      "subarea": "Dinâmica Oceânica",
+      "subareas_especificas": [
+        "Circulação Oceânica",
+        "Distribuição de Temperatura e Salinidade"
+      ]
+    }
+  ]
+}

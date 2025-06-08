@@ -1,0 +1,18 @@
+{
+  "nome": "Robert Schlapp",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Sistemas Lineares"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemáticos Escoceses"
+      ]
+    }
+  ]
+}

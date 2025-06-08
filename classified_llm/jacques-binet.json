@@ -1,0 +1,19 @@
+{
+  "nome": "Jacques Philippe Marie Binet",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Matrizes",
+      "subareas_especificas": [
+        "Multiplicação de Matrizes"
+      ]
+    },
+    {
+      "subarea": "Teoria de Números",
+      "subareas_especificas": [
+        "Algoritmo Euclidiano",
+        "Números de Fibonacci"
+      ]
+    }
+  ]
+}

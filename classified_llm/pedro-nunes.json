@@ -1,0 +1,20 @@
+{
+  "nome": "Pedro Nunes Salaciense",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Goniometria",
+      "subareas_especificas": [
+        "medição de ângulos"
+      ]
+    },
+    {
+      "subarea": "Navegação",
+      "subareas_especificas": [
+        "loxodrômica",
+        "mapas de projeção",
+        "cálculo de latitude"
+      ]
+    }
+  ]
+}

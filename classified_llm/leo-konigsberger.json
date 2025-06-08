@@ -1,0 +1,32 @@
+{
+  "nome": "Leo Königsberger",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Teoria das Funções Elípticas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais em Variáveis Complexas",
+        "Sistemas de Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Integrais Hiperelípticas",
+      "subareas_especificas": [
+        "Teoria das Integrais Hiperelípticas"
+      ]
+    },
+    {
+      "subarea": "Mecânica Analítica",
+      "subareas_especificas": [
+        "Princípios da Mecânica",
+        "Teoria do Potencial"
+      ]
+    }
+  ]
+}

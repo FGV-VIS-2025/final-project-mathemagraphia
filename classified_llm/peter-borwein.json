@@ -1,0 +1,27 @@
+{
+  "nome": "Peter Benjamin Borwein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Aproximações Racionais",
+        "Aproximações por Funções Racionais com Coeficientes Positivos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Computacional dos Números",
+        "Teoria Diofantina dos Números"
+      ]
+    },
+    {
+      "subarea": "Matemática Computacional",
+      "subareas_especificas": [
+        "Cálculo de Constantes Matemáticas",
+        "Computação Simbólica"
+      ]
+    }
+  ]
+}

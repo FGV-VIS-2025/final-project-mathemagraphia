@@ -1,0 +1,26 @@
+{
+  "nome": "Paul Albert Gordan",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de invariantes",
+      "subareas_especificas": [
+        "Formas binárias",
+        "Teorema da base finita"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de substituições",
+        "PSL(2,5)",
+        "PSL(2,7)",
+        "A6"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "nome": "Frigyes Riesz",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Funções",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Espaços de Banach",
+        "Espaços Normados"
+      ]
+    },
+    {
+      "subarea": "Teoria de Operadores",
+      "subareas_especificas": [
+        "Operadores Lineares",
+        "Teoria Espectral"
+      ]
+    },
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Séries Ortonormais",
+        "Transformada de Fourier"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integral de Lebesgue",
+        "Teorema de Egorov"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Kamalakara",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Fórmulas de adição e subtração",
+        "Fórmulas para ângulos múltiplos"
+      ]
+    }
+  ]
+}

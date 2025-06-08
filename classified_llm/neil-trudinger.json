@@ -1,0 +1,22 @@
+{
+  "nome": "Neil Sidney Trudinger",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Elípticas",
+      "subareas_especificas": [
+        "Equações Quaselineares",
+        "Equações Não-Uniformes",
+        "Soluções Fracas",
+        "Princípio do Máximo",
+        "Desigualdades do tipo Harnack"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Orlicz"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Adelard of Bath",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Aritmética Indiana",
+        "Métodos Indianos de Cálculo"
+      ]
+    }
+  ]
+}

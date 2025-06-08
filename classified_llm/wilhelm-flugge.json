@@ -1,0 +1,20 @@
+{
+  "nome": "Gottfried Wilhelm Flügge",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Sólidos",
+      "subareas_especificas": [
+        "Teoria de Cascas",
+        "Elasticidade Linear",
+        "Estabilidade Elástica"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Aerodinâmica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Stanisław Meiczyslaw Mazur",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria de Bases de Schauder",
+        "Teorema Ergódico Médio"
+      ]
+    },
+    {
+      "subarea": "Álgebras de Banach",
+      "subareas_especificas": [
+        "Geometria de Espaços de Funções"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Juan Caramuel y Lobkowitz",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Sistemas de Numeração",
+      "subareas_especificas": [
+        "Base n"
+      ]
+    },
+    {
+      "subarea": "Logaritmos",
+      "subareas_especificas": [
+        "Logaritmos em base 109"
+      ]
+    }
+  ]
+}

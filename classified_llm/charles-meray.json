@@ -1,0 +1,19 @@
+{
+  "nome": "Hugues Charles Robert Méray",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Números Irracionais",
+      "subareas_especificas": [
+        "Teoria dos Números Reais"
+      ]
+    },
+    {
+      "subarea": "Séries de Taylor",
+      "subareas_especificas": [
+        "Análise Complexa",
+        "Aproximação de Funções"
+      ]
+    }
+  ]
+}

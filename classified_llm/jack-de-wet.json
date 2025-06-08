@@ -1,0 +1,20 @@
+{
+  "nome": "Jacobus Stephanus de Wet",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Quântica de Campos",
+        "Equações de onda"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Quantização canônica",
+        "Representação de interação"
+      ]
+    }
+  ]
+}

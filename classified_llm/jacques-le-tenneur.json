@@ -1,0 +1,19 @@
+{
+  "nome": "Jacques Alexandre Le Tenneur",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Cinemática",
+      "subareas_especificas": [
+        "Queda Livre",
+        "Movimento Uniformemente Variado"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Álgebra",
+      "subareas_especificas": [
+        "Quantidades Incomensuráveis"
+      ]
+    }
+  ]
+}

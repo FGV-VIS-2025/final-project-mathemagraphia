@@ -1,0 +1,19 @@
+{
+  "nome": "Mischa Cotlar",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Transformada de Hilbert",
+        "Teoria de Operadores"
+      ]
+    },
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Teorema Ergódico"
+      ]
+    }
+  ]
+}

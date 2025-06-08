@@ -1,0 +1,19 @@
+{
+  "nome": "Alexander Dinghas",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria de Funções",
+      "subareas_especificas": [
+        "Teoria de Nevanlinna",
+        "Funções Subharmônicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Problemas Isoperimétricos"
+      ]
+    }
+  ]
+}

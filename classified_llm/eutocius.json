@@ -1,0 +1,19 @@
+{
+  "nome": "Eutocius of Ascalon",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Duplicação do Cubo",
+        "Problemas Isoperimétricos"
+      ]
+    }
+  ]
+}

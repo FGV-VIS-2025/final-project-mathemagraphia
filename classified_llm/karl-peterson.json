@@ -1,0 +1,20 @@
+{
+  "nome": "Karl Mikhailovich Peterson",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Superfícies",
+      "subareas_especificas": [
+        "Teoria de Superfícies",
+        "Equações Diferenciais Parciais",
+        "Deformação de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoria das Características"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Gustav Herglotz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Séries de Dirichlet",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Mecânica Contínua",
+      "subareas_especificas": [
+        "Elasticidade"
+      ]
+    }
+  ]
+}

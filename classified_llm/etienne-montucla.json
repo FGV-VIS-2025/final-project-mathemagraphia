@@ -1,0 +1,14 @@
+{
+  "nome": "Jean Étienne Montucla",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Métodos historiográficos aplicados à matemática",
+        "Análise de fontes primárias e secundárias em matemática",
+        "Evolução histórica de conceitos matemáticos"
+      ]
+    }
+  ]
+}

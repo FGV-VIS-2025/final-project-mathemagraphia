@@ -1,0 +1,19 @@
+{
+  "nome": "Eduard Helly",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Teorema de Hahn-Banach"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações de Fredholm"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "nome": "Karen Keskulla Uhlenbeck",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Sistemas Não-Lineares",
+        "Teoria de Gauge",
+        "Sistemas Integráveis"
+      ]
+    },
+    {
+      "subarea": "Geometria de Variedades",
+      "subareas_especificas": [
+        "Variedades Diferenciáveis",
+        "Topologia de Variedades",
+        "Geometria Riemanniana"
+      ]
+    },
+    {
+      "subarea": "Análise Geométrica",
+      "subareas_especificas": [
+        "Mapas Harmônicos",
+        "Superfícies Mínimas",
+        "Teoria da Compacidade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Joseph Jean Camille Pérès",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações de Volterra"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Teoria de Operadores"
+      ]
+    }
+  ]
+}

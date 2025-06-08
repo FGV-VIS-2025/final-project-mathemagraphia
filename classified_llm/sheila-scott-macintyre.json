@@ -1,0 +1,20 @@
+{
+  "nome": "Sheila Scott Macintyre",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções Integrais",
+        "Séries de Interpolação",
+        "Transformada de Laplace"
+      ]
+    },
+    {
+      "subarea": "Inequações Funcionais",
+      "subareas_especificas": [
+        "Teoria da Interpolação"
+      ]
+    }
+  ]
+}

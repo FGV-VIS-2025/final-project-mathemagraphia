@@ -1,0 +1,27 @@
+{
+  "nome": "Eugene Borisovich Dynkin",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Álgebras de Lie",
+      "subareas_especificas": [
+        "Diagramas de Dynkin",
+        "Classificação de Álgebras de Lie Semissimples"
+      ]
+    }
+  ]
+}

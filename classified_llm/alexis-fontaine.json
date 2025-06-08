@@ -1,0 +1,17 @@
+{
+  "nome": "Alexis Fontaine des Bertins",
+  "area_principal": "Cálculo Variacional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Trajetórias Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Jacobus Golius",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Observações astronômicas",
+        "Eclipses lunares",
+        "Cometas",
+        "Planetas"
+      ]
+    }
+  ]
+}

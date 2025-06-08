@@ -1,0 +1,20 @@
+{
+  "nome": "Maria Mitchell",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Cálculo de órbitas",
+        "Determinação de longitudes"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Teoria de perturbações",
+        "Cálculo de efemérides"
+      ]
+    }
+  ]
+}

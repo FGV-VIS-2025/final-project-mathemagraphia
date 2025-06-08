@@ -1,0 +1,27 @@
+{
+  "nome": "Jean Georges Gilles Pisier",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Geometria de Espaços de Banach",
+        "Teoria da Probabilidade em Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Processos Estocásticos"
+      ]
+    },
+    {
+      "subarea": "Álgebras de Operadores",
+      "subareas_especificas": [
+        "Espaços de Operadores",
+        "C*-álgebras"
+      ]
+    }
+  ]
+}

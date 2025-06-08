@@ -1,0 +1,20 @@
+{
+  "nome": "Friedrich Otto Rudolf Sturm",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Algébrica",
+        "Geometria Enumerativa"
+      ]
+    },
+    {
+      "subarea": "Geometria Sintética",
+      "subareas_especificas": [
+        "Superfícies de Terceira Ordem",
+        "Geometria de Linhas"
+      ]
+    }
+  ]
+}

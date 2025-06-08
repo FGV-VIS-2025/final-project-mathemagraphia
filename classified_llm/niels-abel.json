@@ -1,0 +1,27 @@
+{
+  "nome": "Niels Henrik Abel",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações algébricas",
+        "Equações polinomiais",
+        "Solubilidade por radicais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números primos"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Integrais elípticas",
+        "Transformações de integrais elípticas"
+      ]
+    }
+  ]
+}

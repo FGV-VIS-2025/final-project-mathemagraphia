@@ -1,0 +1,19 @@
+{
+  "nome": "Ferdinand Verbiest",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Calendários",
+        "Instrumentação Astronômica"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Euclidiana"
+      ]
+    }
+  ]
+}

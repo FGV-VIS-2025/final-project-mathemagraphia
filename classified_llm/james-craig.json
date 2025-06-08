@@ -1,0 +1,13 @@
+{
+  "nome": "James Ireland Craig",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Projeções Cartográficas",
+      "subareas_especificas": [
+        "Projeções Cilíndricas",
+        "Projeções Azimutais"
+      ]
+    }
+  ]
+}

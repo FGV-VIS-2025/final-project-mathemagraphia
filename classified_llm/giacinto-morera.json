@@ -1,0 +1,41 @@
+{
+  "nome": "Giacinto Morera",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Sistemas de Pfaff",
+        "Transformações de Lie"
+      ]
+    },
+    {
+      "subarea": "Funções Harmônicas",
+      "subareas_especificas": [
+        "Problema de Dirichlet",
+        "Campo Gravitacional"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Descontinuidades de Diferenciais",
+        "Fórmula de Gauss"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Integral de Cauchy"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Racional",
+        "Física Matemática",
+        "Princípio de Huygens"
+      ]
+    }
+  ]
+}

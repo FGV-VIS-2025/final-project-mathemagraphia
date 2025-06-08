@@ -1,0 +1,26 @@
+{
+  "nome": "Gian-Carlo Rota",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Teoria de Móbius",
+      "subareas_especificas": [
+        "Funções de Möbius"
+      ]
+    },
+    {
+      "subarea": "Análise Combinatória",
+      "subareas_especificas": [
+        "Métodos Enumerativos",
+        "Métodos Probabilísticos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Grafos Planares",
+        "Colorabilidade de Grafos"
+      ]
+    }
+  ]
+}

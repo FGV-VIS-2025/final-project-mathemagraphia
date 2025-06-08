@@ -1,0 +1,19 @@
+{
+  "nome": "Luigi Fantappiè",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Funcionais Analíticos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Método de Cauchy",
+        "Equações Diferenciais Parciais Lineares"
+      ]
+    }
+  ]
+}

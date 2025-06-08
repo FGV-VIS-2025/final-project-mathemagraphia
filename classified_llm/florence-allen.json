@@ -1,0 +1,20 @@
+{
+  "nome": "Florence Eliza Allen",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Involuções",
+      "subareas_especificas": [
+        "Involuções cíclicas",
+        "Redes de curvas"
+      ]
+    },
+    {
+      "subarea": "Curvas algébricas",
+      "subareas_especificas": [
+        "Curvas racionais",
+        "Cúbicas racionais"
+      ]
+    }
+  ]
+}

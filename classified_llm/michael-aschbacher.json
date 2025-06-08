@@ -1,0 +1,19 @@
+{
+  "nome": "Michael George Aschbacher",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos Simples",
+        "Classificação de Grupos Finitos"
+      ]
+    },
+    {
+      "subarea": "Sistemas de Fusão",
+      "subareas_especificas": [
+        "2-sistemas de fusão"
+      ]
+    }
+  ]
+}

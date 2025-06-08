@@ -1,0 +1,22 @@
+{
+  "nome": "Israel Nathan Herstein",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Anéis comutativos",
+        "Anéis não comutativos",
+        "Anéis com involução"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos finitos",
+        "Grupos de Lie",
+        "Representações de grupos"
+      ]
+    }
+  ]
+}

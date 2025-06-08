@@ -1,0 +1,19 @@
+{
+  "nome": "Louis Napoleon George Filon",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Teoria da Elasticidade",
+        "Fotoelasticidade"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Projetiva"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Jakob Philipp Kulik",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Tabelas Matemáticas",
+      "subareas_especificas": [
+        "Tabelas de Divisores",
+        "Tabelas de Primos",
+        "Tabelas de Raízes"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Cálculo",
+        "Séries"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Albert Victor Bäcklund",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Algébricas Planas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Transformações de Bäcklund"
+      ]
+    }
+  ]
+}

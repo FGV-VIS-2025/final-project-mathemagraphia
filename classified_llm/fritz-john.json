@@ -1,0 +1,26 @@
+{
+  "nome": "Fritz John",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problemas Mal-Postos",
+        "Equações Diferenciais Parciais Lineares",
+        "Equações de Ondas Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Geometria Convexa",
+      "subareas_especificas": [
+        "Transformada de Radon"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos para EDPs"
+      ]
+    }
+  ]
+}

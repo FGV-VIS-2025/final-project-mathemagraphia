@@ -1,0 +1,28 @@
+{
+  "nome": "Walter Kurt Hayman",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Meromorfas",
+      "subareas_especificas": [
+        "Teoria de Nevanlinna",
+        "Teoria de Ahlfors",
+        "Famílias Normais Invariantes"
+      ]
+    },
+    {
+      "subarea": "Funções Multivalentes",
+      "subareas_especificas": [
+        "Funções Univalentes",
+        "Desigualdades Clássicas"
+      ]
+    },
+    {
+      "subarea": "Funções Subharmônicas",
+      "subareas_especificas": [
+        "Teoria em Domínios Euclidianos",
+        "Conexões com Teoria de Variáveis Complexas Clássicas"
+      ]
+    }
+  ]
+}

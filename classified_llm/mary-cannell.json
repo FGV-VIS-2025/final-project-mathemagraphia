@@ -1,0 +1,19 @@
+{
+  "nome": "Doris Mary Cannell",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Biografia de Matemáticos",
+      "subareas_especificas": [
+        "George Green"
+      ]
+    },
+    {
+      "subarea": "Matemática do Século XIX",
+      "subareas_especificas": [
+        "Análise Matemática",
+        "Física Matemática"
+      ]
+    }
+  ]
+}

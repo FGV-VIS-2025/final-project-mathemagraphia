@@ -1,0 +1,27 @@
+{
+  "nome": "Andrew Gordon Speedie Pask",
+  "area_principal": "Ciência da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Informação",
+      "subareas_especificas": [
+        "Sistemas Auto-Organizáveis",
+        "Teoria de Sistemas"
+      ]
+    },
+    {
+      "subarea": "Inteligência Artificial",
+      "subareas_especificas": [
+        "Aprendizado de Máquina",
+        "Sistemas Adaptativos"
+      ]
+    },
+    {
+      "subarea": "Cibernética",
+      "subareas_especificas": [
+        "Teoria da Conversação",
+        "Interação Humano-Computador"
+      ]
+    }
+  ]
+}

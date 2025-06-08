@@ -1,0 +1,19 @@
+{
+  "nome": "William Jones",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial",
+      "subareas_especificas": [
+        "Séries Infinitas",
+        "Fluxões"
+      ]
+    },
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Quadratura de Curvas"
+      ]
+    }
+  ]
+}

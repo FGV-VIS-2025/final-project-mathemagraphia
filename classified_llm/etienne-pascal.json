@@ -1,0 +1,18 @@
+{
+  "nome": "Étienne Pascal",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Máximos e Mínimos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Martin Ohm",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo de Variações",
+        "Máximos e Mínimos"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Sistemas Matemáticos",
+        "Lógica Matemática"
+      ]
+    }
+  ]
+}

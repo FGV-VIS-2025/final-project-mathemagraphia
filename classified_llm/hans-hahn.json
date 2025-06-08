@@ -1,0 +1,42 @@
+{
+  "nome": "Hans Hahn",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Teoria da segunda variação"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Teorema de Hahn-Banach"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integral de Lebesgue",
+        "Medidas Abstratas"
+      ]
+    },
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Funções reais",
+        "Funções semicontínuas",
+        "Funções separadamente contínuas"
+      ]
+    },
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Integrais singulares",
+        "Expansões ortogonais",
+        "Relação de Parseval"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Hugo Dyonizy Steinhaus",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Séries Trigonométricas",
+        "Funções Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços Vetoriais",
+        "Teoria dos Operadores"
+      ]
+    }
+  ]
+}

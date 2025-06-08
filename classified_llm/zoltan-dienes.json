@@ -1,0 +1,19 @@
+{
+  "nome": "Zoltán Pál Dienes",
+  "area_principal": "Fundamentos da Matemática",
+  "subareas": [
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Intucionismo",
+        "Realismo Matemático"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos de Borel"
+      ]
+    }
+  ]
+}

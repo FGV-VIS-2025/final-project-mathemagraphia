@@ -1,0 +1,19 @@
+{
+  "nome": "Abu Nasr Mansur ibn Ali ibn Iraq",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Lei dos Senos",
+        "Triângulos esféricos"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria esférica"
+      ]
+    }
+  ]
+}

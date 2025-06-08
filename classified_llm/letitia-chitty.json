@@ -1,0 +1,21 @@
+{
+  "nome": "Letitia Chitty",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Estabilidade Hidrodinâmica"
+      ]
+    },
+    {
+      "subarea": "Resistência dos Materiais",
+      "subareas_especificas": [
+        "Análise de Tensões",
+        "Estruturas de Aeronaves",
+        "Estruturas de Pontes",
+        "Estruturas de Barragens"
+      ]
+    }
+  ]
+}

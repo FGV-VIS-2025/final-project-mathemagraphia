@@ -1,0 +1,13 @@
+{
+  "nome": "Paolo Ruffini",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Permutação",
+        "Teoria de Galois"
+      ]
+    }
+  ]
+}

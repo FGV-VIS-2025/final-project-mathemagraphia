@@ -1,0 +1,18 @@
+{
+  "nome": "Ion N Ionescu-Bizet",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Inequalidades Geométricas"
+      ]
+    },
+    {
+      "subarea": "Historia da Matemática",
+      "subareas_especificas": [
+        "Matemática na Roma Antiga"
+      ]
+    }
+  ]
+}

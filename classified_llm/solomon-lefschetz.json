@@ -1,0 +1,28 @@
+{
+  "nome": "Solomon Lefschetz",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Algébricas",
+        "Teoria da Intersecção"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Pontos Fixos",
+      "subareas_especificas": [
+        "Mapas Contínuos",
+        "Variedades"
+      ]
+    },
+    {
+      "subarea": "Homologia",
+      "subareas_especificas": [
+        "Homologia Relativa",
+        "Homologia Singular",
+        "Cohomologia"
+      ]
+    }
+  ]
+}

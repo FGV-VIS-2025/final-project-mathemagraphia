@@ -1,0 +1,27 @@
+{
+  "nome": "Nicholas Saunderson",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Geometria Analítica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Equações Diofantinas"
+      ]
+    }
+  ]
+}

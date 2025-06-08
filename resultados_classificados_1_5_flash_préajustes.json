@@ -1,0 +1,104 @@
+[
+  {
+    "nome": "A A Krishnaswami Ayyangar",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "História da Matemática",
+        "subareas_especificas": [
+          "Matemática Indiana",
+          "Numeração Hindu-arábica",
+          "Trigonometria",
+          "Álgebra",
+          "Geometria"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Geometria Clássica"
+        ]
+      },
+      {
+        "subarea": "Astronomia",
+        "subareas_especificas": [
+          "Calendários"
+        ]
+      },
+      {
+        "subarea": "Estatística",
+        "subareas_especificas": [
+          "Teoria dos Números"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Adrian Albert",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Álgebras Associativas",
+        "subareas_especificas": [
+          "Álgebras de Divisão",
+          "Teoria de Anéis"
+        ]
+      },
+      {
+        "subarea": "Álgebras Não-Associativas",
+        "subareas_especificas": [
+          "Álgebras de Jordan",
+          "Álgebras de Lie"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": []
+      }
+    ]
+  },
+  {
+    "nome": "Ãamon de Valera",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Geometria Euclidiana"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Álgebra Linear"
+        ]
+      },
+      {
+        "subarea": "Física Matemática",
+        "subareas_especificas": [
+          "Quaternions"
+        ]
+      },
+      {
+        "subarea": "Matemática Aplicada",
+        "subareas_especificas": [
+          "Teoria dos Números"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abdel-Shafy Fahmy Obada",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Física Matemática",
+        "subareas_especificas": [
+          "Óptica",
+          "Teoria Quântica",
+          "Mecânica Quântica"
+        ]
+      }
+    ]
+  }
+]

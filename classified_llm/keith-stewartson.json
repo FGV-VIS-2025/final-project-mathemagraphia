@@ -1,0 +1,22 @@
+{
+  "nome": "Keith Stewartson",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Camada Limite",
+      "subareas_especificas": [
+        "Escoamentos Compressíveis",
+        "Escoamentos Incompressíveis"
+      ]
+    },
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Escoamentos Rotativos",
+        "Camadas de Cisalhamento",
+        "Magnetohidrodinâmica",
+        "Escoamentos em Altos e Baixos Números de Reynolds"
+      ]
+    }
+  ]
+}

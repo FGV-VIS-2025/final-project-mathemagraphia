@@ -1,0 +1,29 @@
+{
+  "nome": "John Wishart",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Multivariada",
+      "subareas_especificas": [
+        "Distribuição de Wishart",
+        "Distribuição Gama Incompleta",
+        "Distribuição Beta Incompleta",
+        "Análise de Correlação Múltipla"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Estimação"
+      ]
+    },
+    {
+      "subarea": "Estatística Aplicada",
+      "subareas_especificas": [
+        "Experimentação Agrícola",
+        "Delineamento Experimental"
+      ]
+    }
+  ]
+}

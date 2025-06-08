@@ -1,0 +1,22 @@
+{
+  "nome": "Sigekatu Kuroda",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Algébrica dos Números",
+      "subareas_especificas": [
+        "Corpos de Classes",
+        "Corpos Cíclicos",
+        "Números de Classes"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Sistemas Formais",
+        "Lógica Intuicionista",
+        "Teoria da Prova"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Pedro Puig Adam",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Descritiva"
+      ]
+    },
+    {
+      "subarea": "Geometria Métrica",
+      "subareas_especificas": [
+        "Construções Geométricas",
+        "Triângulos Esféricos"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Integral",
+        "Equações Diferenciais"
+      ]
+    }
+  ]
+}

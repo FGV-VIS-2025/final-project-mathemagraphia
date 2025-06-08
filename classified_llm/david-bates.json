@@ -1,0 +1,20 @@
+{
+  "nome": "David Robert Bates",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Quântica",
+        "Cálculos Quânticos"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Computação Científica"
+      ]
+    }
+  ]
+}

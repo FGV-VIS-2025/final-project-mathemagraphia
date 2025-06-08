@@ -1,0 +1,21 @@
+{
+  "nome": "Stanisława Dorota Liliental Nikodym",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Conjuntos",
+      "subareas_especificas": [
+        "Continuos",
+        "Conjuntos Conexos",
+        "Teoria de Continuos Jordanianos"
+      ]
+    },
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Espaços Métricos",
+        "Conjuntos Abertos e Fechados"
+      ]
+    }
+  ]
+}

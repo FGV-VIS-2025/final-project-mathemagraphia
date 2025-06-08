@@ -1,0 +1,26 @@
+{
+  "nome": "Alexander Weinstein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoria do Potencial",
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Grupos Lineares",
+        "Cálculo Tensorial"
+      ]
+    },
+    {
+      "subarea": "Teoria de Autovalores",
+      "subareas_especificas": [
+        "Métodos de Problemas Intermediários"
+      ]
+    }
+  ]
+}

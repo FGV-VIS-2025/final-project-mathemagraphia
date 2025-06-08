@@ -1,0 +1,27 @@
+{
+  "nome": "Andrei Nikolaevich Tikhonov",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Parabólicas",
+        "Problemas de Cauchy"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Espaços Topológicos",
+        "Teorema do Ponto Fixo de Tikhonov"
+      ]
+    },
+    {
+      "subarea": "Computação Científica",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Esquemas de Diferenças Homogêneas"
+      ]
+    }
+  ]
+}

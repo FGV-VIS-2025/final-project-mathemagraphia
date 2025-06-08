@@ -1,0 +1,13 @@
+{
+  "nome": "Rózsa Péter",
+  "area_principal": "Teoria da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Recursão",
+      "subareas_especificas": [
+        "Funções Recursivas Primitivas",
+        "Funções Recursivas Gerais"
+      ]
+    }
+  ]
+}

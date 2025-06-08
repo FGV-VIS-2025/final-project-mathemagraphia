@@ -1,0 +1,13 @@
+{
+  "nome": "Roman Stanislaw Ingarden",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Finsler",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Espaços Métricos"
+      ]
+    }
+  ]
+}

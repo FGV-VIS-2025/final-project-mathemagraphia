@@ -1,0 +1,26 @@
+{
+  "nome": "R H Bing",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Metrização",
+        "Planos",
+        "Conjuntos Planares",
+        "Imersões Planares"
+      ]
+    },
+    {
+      "subarea": "Topologia de 3-variedades",
+      "subareas_especificas": [
+        "Decomposições",
+        "Mapas",
+        "Aproximação de Superfícies",
+        "Reconhecimento de Docilidade",
+        "Triangulação",
+        "Conjectura de Poincaré"
+      ]
+    }
+  ]
+}

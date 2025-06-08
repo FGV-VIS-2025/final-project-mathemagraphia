@@ -1,0 +1,22 @@
+{
+  "nome": "Albert William Tucker",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Combinatória",
+      "subareas_especificas": [
+        "Variedades",
+        "Complexos Celulares",
+        "Invariância de Tensores no Cálculo de Variações"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Jogos",
+      "subareas_especificas": [
+        "Jogos Lineares",
+        "Programação Linear",
+        "Programação Não-Linear"
+      ]
+    }
+  ]
+}

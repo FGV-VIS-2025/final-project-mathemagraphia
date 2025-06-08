@@ -1,0 +1,26 @@
+{
+  "nome": "Xu Yue",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Representação de Números",
+      "subareas_especificas": [
+        "Sistemas de Numeração",
+        "Notação Posicional"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Métodos de Cálculo",
+        "Abaco"
+      ]
+    },
+    {
+      "subarea": "Quadrados Mágicos",
+      "subareas_especificas": [
+        "Quadrados Mágicos 3x3"
+      ]
+    }
+  ]
+}

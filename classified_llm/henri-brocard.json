@@ -1,0 +1,18 @@
+{
+  "nome": "Pierre René Jean Baptiste Henri Brocard",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Geometria do Triângulo"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    }
+  ]
+}

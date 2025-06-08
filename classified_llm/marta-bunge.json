@@ -1,0 +1,15 @@
+{
+  "nome": "Marta Irene Cavallo Bunge",
+  "area_principal": "Teoria das Categorias",
+  "subareas": [
+    {
+      "subarea": "Teoria das Categorias",
+      "subareas_especificas": [
+        "Teoria de Topos",
+        "Geometria Diferencial Sintética",
+        "Topologia Diferencial Sintética",
+        "Lógica Categorial"
+      ]
+    }
+  ]
+}

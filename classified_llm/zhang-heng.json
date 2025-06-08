@@ -1,0 +1,20 @@
+{
+  "nome": "Zhang Heng",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Cálculo de áreas",
+        "Cálculo de volumes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Irracionais",
+        "Aproximações de Pi"
+      ]
+    }
+  ]
+}

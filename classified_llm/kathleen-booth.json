@@ -1,0 +1,22 @@
+{
+  "nome": "Kathleen Hylda Valerie Booth",
+  "area_principal": "Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Arquitetura de Computadores",
+        "Linguagens de Programação",
+        "Tradução Automática"
+      ]
+    },
+    {
+      "subarea": "Matemática Aplicada",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Análise Numérica",
+        "Probabilidade e Estatística"
+      ]
+    }
+  ]
+}

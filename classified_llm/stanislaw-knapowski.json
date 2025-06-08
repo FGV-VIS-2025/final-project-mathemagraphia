@@ -1,0 +1,26 @@
+{
+  "nome": "Stanisław Knapowski",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Distribuição de Primos",
+      "subareas_especificas": [
+        "Teoria Analítica dos Números",
+        "Função de contagem de primos",
+        "Mudanças de sinal na fórmula do número primo"
+      ]
+    },
+    {
+      "subarea": "Funções L",
+      "subareas_especificas": [
+        "Zeros excepcionais de L"
+      ]
+    },
+    {
+      "subarea": "Progressões Aritméticas",
+      "subareas_especificas": [
+        "Primos em progressões aritméticas"
+      ]
+    }
+  ]
+}

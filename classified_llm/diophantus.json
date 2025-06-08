@@ -1,0 +1,13 @@
+{
+  "nome": "Diophantus of Alexandria",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Análise Diofantina",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Equações indeterminadas"
+      ]
+    }
+  ]
+}

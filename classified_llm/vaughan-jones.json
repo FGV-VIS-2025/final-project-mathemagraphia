@@ -1,0 +1,18 @@
+{
+  "nome": "Vaughan Frederick Randal Jones",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Nós",
+      "subareas_especificas": [
+        "Polinômios invariantes"
+      ]
+    },
+    {
+      "subarea": "Álgebras de von Neumann",
+      "subareas_especificas": [
+        "Teoria da representação"
+      ]
+    }
+  ]
+}

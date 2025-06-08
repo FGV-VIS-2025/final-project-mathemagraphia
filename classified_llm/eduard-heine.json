@@ -1,0 +1,28 @@
+{
+  "nome": "Heinrich Eduard Heine",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Funções",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Funções de Bessel",
+        "Polinômios de Legendre",
+        "Funções de Lamé"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Continuidade Uniforme",
+        "Teorema de Heine-Borel"
+      ]
+    }
+  ]
+}

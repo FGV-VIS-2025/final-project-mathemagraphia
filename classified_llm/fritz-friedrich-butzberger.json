@@ -1,0 +1,20 @@
+{
+  "nome": "Fritz Bützberger",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Curvas",
+        "Superfícies"
+      ]
+    }
+  ]
+}

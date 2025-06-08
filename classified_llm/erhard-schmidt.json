@@ -1,0 +1,21 @@
+{
+  "nome": "Erhard Schmidt",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Operadores de Hilbert-Schmidt"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Espaços de Hilbert",
+      "subareas_especificas": [
+        "Ortonormalização de Gram-Schmidt",
+        "Projeções",
+        "Resoluções Espectrais"
+      ]
+    }
+  ]
+}

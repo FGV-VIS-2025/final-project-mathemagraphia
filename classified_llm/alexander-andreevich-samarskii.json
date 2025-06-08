@@ -1,0 +1,21 @@
+{
+  "nome": "Alexander Andreevich Samarskii",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Métodos de Diferenças Finitas",
+      "subareas_especificas": [
+        "Esquemas de Diferenças Finitas",
+        "Métodos Numéricos para Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Não-Lineares",
+      "subareas_especificas": [
+        "Soluções Auto-Semelhantes",
+        "Linearização de Soluções",
+        "Métodos de Comparação de Operadores"
+      ]
+    }
+  ]
+}

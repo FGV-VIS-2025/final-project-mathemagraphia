@@ -1,0 +1,2256 @@
+[
+  {
+    "nome": "A A Krishnaswami Ayyangar",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "História da Matemática",
+        "subareas_especificas": [
+          "Matemática Indiana",
+          "Numerais Hindu-arábicos",
+          "Trigonometria",
+          "Álgebra",
+          "Geometria",
+          "Astronomia"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": []
+      },
+      {
+        "subarea": "Estatística",
+        "subareas_especificas": []
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Adrian Albert",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Álgebras Associativas",
+        "subareas_especificas": [
+          "Álgebras de Divisão",
+          "Teoria de Radicais"
+        ]
+      },
+      {
+        "subarea": "Álgebras Não-Associativas",
+        "subareas_especificas": [
+          "Álgebras de Jordan",
+          "Álgebras de Lie"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": []
+      },
+      {
+        "subarea": "Geometria Algébrica",
+        "subareas_especificas": [
+          "Matrizes de Riemann",
+          "Variedades Complexas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ãamon de Valera",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Geometria Euclidiana"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Álgebra Linear"
+        ]
+      },
+      {
+        "subarea": "Física Matemática",
+        "subareas_especificas": [
+          "Quaternions"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": []
+      }
+    ]
+  },
+  {
+    "nome": "Abdel-Shafy Fahmy Obada",
+    "area_principal": "Matemática Aplicada",
+    "subareas": [
+      {
+        "subarea": "Física Matemática",
+        "subareas_especificas": [
+          "Óptica Quântica",
+          "Teoria da Radiação",
+          "Computação Quântica",
+          "Informação Quântica"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abdulalim Abdullah Shabazz",
+    "area_principal": "-1",
+    "subareas": []
+  },
+  {
+    "nome": "Abigail A Thompson",
+    "area_principal": "Topologia",
+    "subareas": [
+      {
+        "subarea": "Topologia de Baixa Dimensão",
+        "subareas_especificas": [
+          "Teoria dos Nós",
+          "3-variedades",
+          "Posição Fina",
+          "Decomposições de Heegaard"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham bar Hiyya Ha-Nasi",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Álgebra Quadrática",
+        "subareas_especificas": [
+          "Equações quadráticas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham de Moivre",
+    "area_principal": "Probabilidade",
+    "subareas": [
+      {
+        "subarea": "Teoria da Probabilidade",
+        "subareas_especificas": [
+          "Distribuição Binomial",
+          "Distribuição Normal",
+          "Teoria das Annuities",
+          "Jogos de Azar",
+          "Independência Estatística"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adolf Abraham Halevi Fraenkel",
+    "area_principal": "Teoria dos Conjuntos",
+    "subareas": [
+      {
+        "subarea": "Axiomatização da Teoria dos Conjuntos",
+        "subareas_especificas": [
+          "Axioma da Escolha",
+          "Axiomas de Zermelo-Fraenkel"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": [
+          "Números p-ádicos"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Teoria dos Anéis"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Markham Gelbart",
+    "area_principal": "Análise Complexa",
+    "subareas": [
+      {
+        "subarea": "Funções de Várias Variáveis Complexas",
+        "subareas_especificas": [
+          "Teoria da Crescimento de Funções",
+          "Fórmula Integral de Bergman",
+          "Teoremas de Mapeamento"
+        ]
+      },
+      {
+        "subarea": "Funções Pseudoanalíticas",
+        "subareas_especificas": [
+          "Equações de Cauchy-Riemann generalizadas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Gotthelf KÃ¤stner",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Euclidiana",
+        "subareas_especificas": [
+          "Axiomatização",
+          "Postulado das Paralelas"
+        ]
+      },
+      {
+        "subarea": "História da Matemática",
+        "subareas_especificas": [
+          "Óptica Matemática",
+          "Astronomia",
+          "Dinâmica"
+        ]
+      },
+      {
+        "subarea": "Filosofia da Matemática",
+        "subareas_especificas": [
+          "Lógica"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Ezechiel Plessner",
+    "area_principal": "Análise",
+    "subareas": [
+      {
+        "subarea": "Séries Trigonométricas",
+        "subareas_especificas": [
+          "Convergência de Séries Trigonométricas",
+          "Séries Trigonométricas Conjugadas"
+        ]
+      },
+      {
+        "subarea": "Análise Complexa",
+        "subareas_especificas": [
+          "Funções Meromorfas",
+          "Comportamento de Funções Analíticas na Fronteira"
+        ]
+      },
+      {
+        "subarea": "Análise Funcional",
+        "subareas_especificas": [
+          "Teoria Espectral",
+          "Operadores Lineares",
+          "Espaços de Hilbert"
+        ]
+      },
+      {
+        "subarea": "Teoria da Medida",
+        "subareas_especificas": [
+          "Medidas Absolutamente Contínuas",
+          "Integrais de Lebesgue"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Robinson",
+    "area_principal": "Lógica Matemática",
+    "subareas": [
+      {
+        "subarea": "Teoria de Modelos",
+        "subareas_especificas": [
+          "Metamatemática de Sistemas Algébricos",
+          "Análise Não-Padrão"
+        ]
+      },
+      {
+        "subarea": "Aerodinâmica",
+        "subareas_especificas": [
+          "Teoria de asas",
+          "Escoamento supersônico"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Seidenberg",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Álgebra Comutativa",
+        "subareas_especificas": [
+          "Teoria de Ideais",
+          "Teorema de Decomposição Lasker-Noether"
+        ]
+      },
+      {
+        "subarea": "Geometria Algébrica",
+        "subareas_especificas": [
+          "Variedades Normais",
+          "Curvas Algébricas"
+        ]
+      },
+      {
+        "subarea": "Álgebra Diferencial",
+        "subareas_especificas": [
+          "Teoria de Corpos Diferenciais"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Sharp",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "Instrumentação Astronômica",
+        "subareas_especificas": [
+          "Construção de instrumentos",
+          "Engravura de escalas",
+          "Óptica"
+        ]
+      },
+      {
+        "subarea": "Cálculo",
+        "subareas_especificas": [
+          "Cálculo de π",
+          "Tabelas matemáticas",
+          "Trigonometria"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Poliedros"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Wald",
+    "area_principal": "Estatística",
+    "subareas": [
+      {
+        "subarea": "Análise Sequencial",
+        "subareas_especificas": [
+          "Testes de hipóteses sequenciais",
+          "Controle de qualidade industrial"
+        ]
+      },
+      {
+        "subarea": "Teoria da Decisão",
+        "subareas_especificas": [
+          "Funções de perda",
+          "Funções de risco",
+          "Regras de decisão minimax",
+          "Regras de decisão Bayesiana"
+        ]
+      },
+      {
+        "subarea": "Econometria",
+        "subareas_especificas": [
+          "Modelos econômicos competitivos",
+          "Séries temporais",
+          "Números índices econômicos",
+          "Equações de Walras",
+          "Problema do duopólio de Cournot",
+          "Equações de diferença estocásticas"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Espaços métricos",
+          "Geometria diferencial"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Avraham Naumovich Trahtman",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Teoria de Semigrupos",
+        "subareas_especificas": [
+          "Teoria de Autômatos",
+          "Problemas de Coloração de Grafos",
+          "Identidades de Semigrupos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abram Samoilovitch Besicovitch",
+    "area_principal": "Teoria da Medida",
+    "subareas": [
+      {
+        "subarea": "Geometria Fractal",
+        "subareas_especificas": [
+          "Medida de Hausdorff",
+          "Conjuntos de dimensão não inteira"
+        ]
+      },
+      {
+        "subarea": "Análise Real",
+        "subareas_especificas": [
+          "Funções quase periódicas",
+          "Teoria das funções reais"
+        ]
+      },
+      {
+        "subarea": "Teoria da Medida Geométrica",
+        "subareas_especificas": [
+          "Propriedades de densidade de conjuntos de medida de Hausdorff finita"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Kamil Shuja ibn Aslam ibn Muhammad ibn Shuja",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Equações quadráticas",
+        "subareas_especificas": [
+          "Soluções de equações quadráticas"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Aplicações de álgebra ao pentágono e decágono regulares",
+          "Cálculo de áreas, perímetros, diagonais de figuras geométricas",
+          "Cálculo de volumes e áreas de superfície de sólidos",
+          "Cálculo da área de segmentos circulares"
+        ]
+      },
+      {
+        "subarea": "Equações diofantinas",
+        "subareas_especificas": [
+          "Problemas de matemática recreativa"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Mohammad Abu'l-Wafa Al-Buzjani",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Aritmética",
+        "subareas_especificas": [
+          "Frações",
+          "Operações com inteiros e frações",
+          "Cálculo de impostos",
+          "Troca e ações",
+          "Assuntos comerciais"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Construções geométricas",
+          "Construções com régua e compasso",
+          "Trisecção de ângulos",
+          "Construção de parábolas",
+          "Polígonos regulares"
+        ]
+      },
+      {
+        "subarea": "Trigonometria",
+        "subareas_especificas": [
+          "Função tangente",
+          "Tabelas de senos e tangentes",
+          "Secante e cossecante"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Achille Pierre Dionis du SÃ©jour",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "Mecânica Celeste",
+        "subareas_especificas": [
+          "Cálculo de órbitas",
+          "Eclipses",
+          "Ocultações",
+          "Cometas",
+          "Anéis de Saturno"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Achsah Mount Ely",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Geometria Analítica",
+        "subareas_especificas": [
+          "Geometria Projetiva"
+        ]
+      },
+      {
+        "subarea": "Cálculo",
+        "subareas_especificas": [
+          "Cálculo Integral",
+          "Equações Diferenciais"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Quaternions",
+          "Métodos Analíticos Modernos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Augusta Ada Byron King, countess of Lovelace",
+    "area_principal": "Ciência da Computação",
+    "subareas": [
+      {
+        "subarea": "Teoria da Computação",
+        "subareas_especificas": [
+          "Programação",
+          "Algoritmos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adam Wilhelm Siegmund GÃ¼nther",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Teoria dos Determinantes",
+        "subareas_especificas": [
+          "Determinantes"
+        ]
+      },
+      {
+        "subarea": "Funções Hiperbólicas",
+        "subareas_especificas": [
+          "Funções Hiperbólicas"
+        ]
+      },
+      {
+        "subarea": "Logaritmo Parabólico e Trigonometria Parabólica",
+        "subareas_especificas": [
+          "Logaritmo Parabólico",
+          "Trigonometria Parabólica"
+        ]
+      },
+      {
+        "subarea": "Frações Contínuas",
+        "subareas_especificas": [
+          "Aproximações de Frações Contínuas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adam Ries",
+    "area_principal": "Aritmética",
+    "subareas": [
+      {
+        "subarea": "Cálculo com tábuas de calcular",
+        "subareas_especificas": [
+          "Adição",
+          "Subtração",
+          "Multiplicação",
+          "Divisão"
+        ]
+      },
+      {
+        "subarea": "Cálculo com numerais indo-arábicos",
+        "subareas_especificas": [
+          "Adição",
+          "Subtração",
+          "Multiplicação",
+          "Divisão"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Equações"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adegoke Olubummo",
+    "area_principal": "Análise Funcional",
+    "subareas": [
+      {
+        "subarea": "Álgebras de Banach",
+        "subareas_especificas": [
+          "Álgebras B*-álgebras",
+          "Medidas vetoriais",
+          "Transformadas de Fourier-Stieltjes"
+        ]
+      },
+      {
+        "subarea": "Análise Harmônica Abstrata",
+        "subareas_especificas": [
+          "Semigrupos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adelard of Bath",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Euclidiana",
+        "subareas_especificas": [
+          "Elementos de Euclides"
+        ]
+      },
+      {
+        "subarea": "Aritmética",
+        "subareas_especificas": [
+          "Métodos Indianos",
+          "Tabela de al-Khwarizmi"
+        ]
+      },
+      {
+        "subarea": "Astronomia",
+        "subareas_especificas": [
+          "Tabelas Astronômicas"
+        ]
+      },
+      {
+        "subarea": "Instrumentos de Medição",
+        "subareas_especificas": [
+          "Ábaco",
+          "Astrolábio"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Carmen Adelina GutiÃ©rrez Alonso Moreno",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "Astrofísica",
+        "subareas_especificas": [
+          "Fotometria",
+          "Espectroscopia"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Aderemi Oluyomi Kuku",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Teoria K Algébrica",
+        "subareas_especificas": [
+          "Teoria K de Anéis de Grupos",
+          "Grupos de Whitehead",
+          "Teoria K de Ordens em Álgebras p-ádicas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adolf Hurwitz",
+    "area_principal": "Teoria dos Números",
+    "subareas": [
+      {
+        "subarea": "Funções Elípticas Modulares",
+        "subareas_especificas": [
+          "Teoria de Grupos",
+          "Teoria de Riemann",
+          "Superfícies de Riemann"
+        ]
+      },
+      {
+        "subarea": "Teoria das Funções Complexas",
+        "subareas_especificas": [
+          "Séries de Fourier",
+          "Equações Diferenciais",
+          "Funções de Bessel"
+        ]
+      },
+      {
+        "subarea": "Álgebra Linear",
+        "subareas_especificas": [
+          "Grupos Ortogonais",
+          "Grupos Lineares"
+        ]
+      },
+      {
+        "subarea": "Teoria da Estabilidade",
+        "subareas_especificas": [
+          "Polinômios",
+          "Determinantes"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Quatérnios",
+        "subareas_especificas": [
+          "Fatoração",
+          "Representação de Inteiros como Soma de Quatro Quadrados"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adolf Kiefer",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria diferencial",
+        "subareas_especificas": [
+          "Geometria de superfícies algébricas",
+          "Curvas (catenária, ciclóide)",
+          "Superfícies quádricas"
+        ]
+      },
+      {
+        "subarea": "Geometria euclidiana",
+        "subareas_especificas": [
+          "Tetraedros"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adolf Kneser",
+    "area_principal": "Análise",
+    "subareas": [
+      {
+        "subarea": "Equações Diferenciais",
+        "subareas_especificas": [
+          "Equações Diferenciais Lineares",
+          "Problema de Sturm-Liouville",
+          "Equações Integrais"
+        ]
+      },
+      {
+        "subarea": "Cálculo Variacional",
+        "subareas_especificas": [
+          "Teoria da Segunda Variação",
+          "Teoria de Famílias de Curvas de Resolução e suas Envelopes",
+          "Problema de Mayer"
+        ]
+      },
+      {
+        "subarea": "Funções Algébricas e Equações",
+        "subareas_especificas": [
+          "Irredutibilidade",
+          "Monodromia"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adolf Lindenbaum",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Topologia",
+        "subareas_especificas": [
+          "Topologia de conjuntos de pontos",
+          "Espaços métricos"
+        ]
+      },
+      {
+        "subarea": "Lógica",
+        "subareas_especificas": [
+          "Teoria dos conjuntos",
+          "Cálculo proposicional",
+          "Álgebra de Lindenbaum",
+          "Teorema de maximalização"
+        ]
+      },
+      {
+        "subarea": "Fundamentos da Matemática",
+        "subareas_especificas": [
+          "Axioma da escolha",
+          "Teoria de Zermelo-Fraenkel"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adolf Weiler",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Descritiva",
+        "subareas_especificas": [
+          "Axonometria",
+          "Projeções de Mapas"
+        ]
+      },
+      {
+        "subarea": "Geometria de Steiner",
+        "subareas_especificas": [
+          "Complexos",
+          "Congruências de raios"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Gustav Adolph GÃ¶pel",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": [
+          "Equações Indeterminadas de Segundo Grau",
+          "Frações Contínuas Periódicas",
+          "Formas Quadráticas"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Geometria Sintética"
+        ]
+      },
+      {
+        "subarea": "Funções Elípticas",
+        "subareas_especificas": [
+          "Funções Theta",
+          "Integrais Abelianas",
+          "Problema de Jacobi",
+          "Superfície de Kummer"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adolph Andrei Pavlovich Yushkevich",
+    "area_principal": "História da Matemática",
+    "subareas": [
+      {
+        "subarea": "Matemática Medieval",
+        "subareas_especificas": [
+          "-"
+        ]
+      },
+      {
+        "subarea": "Matemática do Século XVIII",
+        "subareas_especificas": [
+          "Euler"
+        ]
+      },
+      {
+        "subarea": "História da Matemática Russa",
+        "subareas_especificas": [
+          "Século XVIII"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Lambert Adolphe Jacques Quetelet",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Teoria dos Conicos",
+        "subareas_especificas": [
+          "Geometria Analítica"
+        ]
+      },
+      {
+        "subarea": "Probabilidade",
+        "subareas_especificas": [
+          "Teoria da Probabilidade",
+          "Estatística",
+          "Cálculo"
+        ]
+      },
+      {
+        "subarea": "Astronomia",
+        "subareas_especificas": [
+          "Mecânica Celeste"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adolphe Rome",
+    "area_principal": "Matemática Antiga",
+    "subareas": [
+      {
+        "subarea": "História da Matemática",
+        "subareas_especificas": [
+          "Matemática Grega",
+          "Astronomia Grega",
+          "Manuscritos Gregos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ãdouard Benjamin Baillaud",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "Perturbações em movimentos de cometas",
+        "subareas_especificas": [
+          "Método de Gylden para o desenvolvimento de perturbações de cometas"
+        ]
+      },
+      {
+        "subarea": "Astronomia Dinâmica",
+        "subareas_especificas": [
+          "Mecânica Celeste"
+        ]
+      },
+      {
+        "subarea": "Cartografia Celeste",
+        "subareas_especificas": [
+          "Projeto Carte du Ciel"
+        ]
+      },
+      {
+        "subarea": "Padronização de Tempo",
+        "subareas_especificas": [
+          "Tempo Universal",
+          "Bureau International de l'Heure"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "FranÃ§ois Ãdouard Anatole Lucas",
+    "area_principal": "Teoria dos Números",
+    "subareas": [
+      {
+        "subarea": "Sequências",
+        "subareas_especificas": [
+          "Sequência de Fibonacci",
+          "Sequência de Lucas"
+        ]
+      },
+      {
+        "subarea": "Teste de Primalidade",
+        "subareas_especificas": [
+          "Números de Mersenne",
+          "Teste de Lucas-Lehmer"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ãdouard Zeckendorf",
+    "area_principal": "Teoria dos Números",
+    "subareas": [
+      {
+        "subarea": "Sequências",
+        "subareas_especificas": [
+          "Sequência de Fibonacci",
+          "Representação de Zeckendorf"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adriaan Cornelis Zaanen",
+    "area_principal": "Análise Funcional",
+    "subareas": [
+      {
+        "subarea": "Equações Integrais",
+        "subareas_especificas": [
+          "Equações Integrais com Núcleo Simetrizável"
+        ]
+      },
+      {
+        "subarea": "Teoria da Integração",
+        "subareas_especificas": [
+          "Teoria da Medida",
+          "Integral de Daniell",
+          "Integral de Lebesgue"
+        ]
+      },
+      {
+        "subarea": "Espaços de Riesz",
+        "subareas_especificas": [
+          "Teoria da Ordem",
+          "Análise Funcional em Espaços de Riesz"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adriaan van Roomen",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Plana",
+        "subareas_especificas": [
+          "Cálculo de áreas",
+          "Cálculo de perímetros",
+          "Trigonometria"
+        ]
+      },
+      {
+        "subarea": "Geometria Sólida",
+        "subareas_especificas": [
+          "Cálculo de volumes",
+          "Cálculo de áreas de superfícies"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Equações polinomiais",
+          "Teoria dos números"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adriaan Vlacq",
+    "area_principal": "Logaritmos",
+    "subareas": [
+      {
+        "subarea": "Tabelas de Logaritmos",
+        "subareas_especificas": [
+          "Logaritmos de 1 a 100.000",
+          "Logaritmos Trigonométricos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adrien Auzout",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "Instrumentação Astronômica",
+        "subareas_especificas": [
+          "Micrômetro",
+          "Telescópios",
+          "Instrumentos de Agrimensura"
+        ]
+      },
+      {
+        "subarea": "Mecânica Celeste",
+        "subareas_especificas": [
+          "Órbita de Cometas"
+        ]
+      },
+      {
+        "subarea": "Matemática",
+        "subareas_especificas": [
+          "Proporção",
+          "Construção de Elipses",
+          "Quadratura do Círculo"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adrien-Marie Legendre",
+    "area_principal": "Teoria dos Números",
+    "subareas": [
+      {
+        "subarea": "Lei da reciprocidade quadrática",
+        "subareas_especificas": [
+          "Resíduos"
+        ]
+      },
+      {
+        "subarea": "Distribuição assintótica de primos",
+        "subareas_especificas": [
+          "Função pi de Legendre"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Postulado das paralelas",
+          "Teorema sobre a soma dos três ângulos de um triângulo"
+        ]
+      },
+      {
+        "subarea": "Mecânica celeste",
+        "subareas_especificas": [
+          "Determinação das órbitas de cometas",
+          "Método dos mínimos quadrados"
+        ]
+      },
+      {
+        "subarea": "Funções elípticas",
+        "subareas_especificas": [
+          "Integrais elípticas",
+          "Funções beta e gama"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Adrien Quentin BuÃ©e",
+    "area_principal": "Números Complexos",
+    "subareas": [
+      {
+        "subarea": "Números Imaginários",
+        "subareas_especificas": [
+          "Interpretação Geométrica dos Números Complexos",
+          "Fundamentos da Álgebra"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "African-American mathematicians - Biographies",
+    "area_principal": "-1",
+    "subareas": []
+  },
+  {
+    "nome": "African mathematicians - Biographies",
+    "area_principal": "-1",
+    "subareas": []
+  },
+  {
+    "nome": "Agner Krarup Erlang",
+    "area_principal": "Probabilidade",
+    "subareas": [
+      {
+        "subarea": "Teoria das Probabilidades",
+        "subareas_especificas": [
+          "Distribuição de Poisson",
+          "Teoria de filas de espera"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Agnes Sime Baxter",
+    "area_principal": "Matemática Pura",
+    "subareas": [
+      {
+        "subarea": "Matemática Pura",
+        "subareas_especificas": [
+          "Integrais Abelianas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Agnes Mary Clerke",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "História da Astronomia",
+        "subareas_especificas": [
+          "Astronomia do século XIX",
+          "Biografias de astrônomos",
+          "Descobertas astronômicas"
+        ]
+      },
+      {
+        "subarea": "Astrofísica",
+        "subareas_especificas": [
+          "Problemas em Astrofísica",
+          "Cosmogonia moderna"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Agnes Mary Scott",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "-1"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Agnes Ermina Wells",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "Astrofísica",
+        "subareas_especificas": [
+          "Movimentos próprios",
+          "Velocidades radiais"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ãgoston Scholtz",
+    "area_principal": "Geometria Projetiva",
+    "subareas": [
+      {
+        "subarea": "Teoria de Determinantes",
+        "subareas_especificas": [
+          "Determinantes Compostos",
+          "Matriz de Hunyadi-Scholtz",
+          "Teorema de Hunyadi-Scholtz",
+          "Transformação de Potência",
+          "Seções Cônicas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ahmad Banu Musa",
+    "area_principal": "Mecânica",
+    "subareas": [
+      {
+        "subarea": "Mecânica dos Fluidos",
+        "subareas_especificas": [
+          "Dispositivos pneumáticos"
+        ]
+      },
+      {
+        "subarea": "Teoria da Balança",
+        "subareas_especificas": []
+      }
+    ]
+  },
+  {
+    "nome": "Ahmed ibn Yusuf  al-Misri",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Euclidiana",
+        "subareas_especificas": [
+          "Proporção",
+          "Arcos Semelhantes"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Problemas de impostos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ahmes",
+    "area_principal": "Aritmética",
+    "subareas": [
+      {
+        "subarea": "Frações Unitárias",
+        "subareas_especificas": [
+          "Divisão de 2 por números ímpares de 3 a 101"
+        ]
+      },
+      {
+        "subarea": "Operações Aritméticas",
+        "subareas_especificas": [
+          "Adição",
+          "Subtração",
+          "Multiplicação",
+          "Divisão"
+        ]
+      },
+      {
+        "subarea": "Equações",
+        "subareas_especificas": []
+      },
+      {
+        "subarea": "Progressões",
+        "subareas_especificas": []
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Cálculo de volumes"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Aida Yasuaki",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Analítica",
+        "subareas_especificas": [
+          "Elipses",
+          "Esferas",
+          "Círculos"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": [
+          "Frações contínuas"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Expressões algébricas",
+          "Construção de equações"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ãke Vilhelm Carl Pleijel",
+    "area_principal": "Equações Diferenciais",
+    "subareas": [
+      {
+        "subarea": "Equações Diferenciais Ordinárias",
+        "subareas_especificas": [
+          "Teoria de Weyl de ponto de fronteira e círculo de fronteira"
+        ]
+      },
+      {
+        "subarea": "Equações Diferenciais Parciais",
+        "subareas_especificas": [
+          "Equações diferenciais parciais parabólicas"
+        ]
+      },
+      {
+        "subarea": "Cálculo Operacional",
+        "subareas_especificas": [
+          "Desenvolvimentos assintóticos em série"
+        ]
+      },
+      {
+        "subarea": "Teoria do Potencial",
+        "subareas_especificas": []
+      }
+    ]
+  },
+  {
+    "nome": "Akos Seress",
+    "area_principal": "Combinatória",
+    "subareas": [
+      {
+        "subarea": "Teoria dos Grafos",
+        "subareas_especificas": [
+          "Coloração de grafos"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Grupos",
+        "subareas_especificas": [
+          "Grupos de permutação",
+          "Algoritmos para grupos de permutação",
+          "Grupos de matrizes",
+          "Teoria assintótica de grupos de permutação",
+          "Grupos finitos simples"
+        ]
+      },
+      {
+        "subarea": "Combinatória Extremal",
+        "subareas_especificas": []
+      },
+      {
+        "subarea": "Teoria de Designs",
+        "subareas_especificas": []
+      }
+    ]
+  },
+  {
+    "nome": "Abu Mansur ibn Tahir Al-Baghdadi",
+    "area_principal": "Teoria dos Números",
+    "subareas": [
+      {
+        "subarea": "Números Abundantes, Deficientes e Perfeitos",
+        "subareas_especificas": [
+          "Números Abundantes",
+          "Números Deficientes",
+          "Números Perfeitos",
+          "Números Equivalentes",
+          "Números Amigáveis"
+        ]
+      },
+      {
+        "subarea": "Sistemas de Aritmética",
+        "subareas_especificas": [
+          "Aritmética dos dedos",
+          "Sistema sexagesimal",
+          "Aritmética dos numerais indianos e frações",
+          "Aritmética de números irracionais",
+          "Aritmética comercial"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Abdallah Mohammad ibn Jabir Al-Battani",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "Trigonometria",
+        "subareas_especificas": [
+          "Funções trigonométricas",
+          "Triângulos retângulos"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Planetas",
+        "subareas_especificas": [
+          "Movimento do Sol",
+          "Movimento da Lua",
+          "Movimento dos planetas"
+        ]
+      },
+      {
+        "subarea": "Observação Astronômica",
+        "subareas_especificas": [
+          "Catálogo de estrelas",
+          "Precessão dos equinócios",
+          "Inclinação da eclíptica"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Arrayhan Muhammad ibn Ahmad al-Biruni",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Trisecção do ângulo",
+          "Seções cônicas",
+          "Teoremas de Arquimedes",
+          "Projeção estereográfica"
+        ]
+      },
+      {
+        "subarea": "Trigonometria",
+        "subareas_especificas": [
+          "Teorema do seno no plano",
+          "Resolução de triângulos esféricos"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Método de resolução de equações algébricas",
+          "Números irracionais",
+          "Teoria das razões"
+        ]
+      },
+      {
+        "subarea": "Aritmética",
+        "subareas_especificas": [
+          "Aritmética teórica e prática",
+          "Soma de séries",
+          "Análise combinatória",
+          "Regra de três"
+        ]
+      },
+      {
+        "subarea": "Astronomia",
+        "subareas_especificas": [
+          "Observações astronômicas",
+          "Cálculo da obliquidade da eclíptica",
+          "Determinação da latitude"
+        ]
+      },
+      {
+        "subarea": "Geodesia e Geografia",
+        "subareas_especificas": [
+          "Medidas da Terra",
+          "Triangulação",
+          "Coordenadas de lugares"
+        ]
+      },
+      {
+        "subarea": "Cartografia",
+        "subareas_especificas": [
+          "Projeções de mapas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Kamal al-Din Abu'l Hasan Muhammad Al-Farisi",
+    "area_principal": "Teoria dos Números",
+    "subareas": [
+      {
+        "subarea": "Números Amigáveis",
+        "subareas_especificas": [
+          "Teorema de Thabit ibn Qurra",
+          "Fatoração",
+          "Métodos Combinatórios",
+          "Teorema Fundamental da Aritmética"
+        ]
+      },
+      {
+        "subarea": "Equações Diofantinas",
+        "subareas_especificas": [
+          "Último Teorema de Fermat (caso x⁴ + y⁴ = z⁴)"
+        ]
+      },
+      {
+        "subarea": "Óptica",
+        "subareas_especificas": [
+          "Teoria do Arco-íris",
+          "Refração da Luz"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "al-Hasan Banu Musa",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Analítica",
+        "subareas_especificas": [
+          "Cálculo de áreas curvas",
+          "Propriedades geométricas de curvas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "al-Abbas ibn Said Al-Jawhari",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Euclidiana",
+        "subareas_especificas": [
+          "Postulado das Paralelas",
+          "Elementos de Euclides"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Abd Allah Muhammad ibn Muadh Al-Jayyani",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Trigonometria",
+        "subareas_especificas": [
+          "Trigonometria esférica"
+        ]
+      },
+      {
+        "subarea": "Teoria dos números",
+        "subareas_especificas": [
+          "Proporção"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Bekr ibn Muhammad ibn al-Husayn Al-Karaji",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Álgebra elementar",
+        "subareas_especificas": [
+          "Equações polinomiais",
+          "Operações com polinômios",
+          "Teorema binomial",
+          "Triângulo de Pascal",
+          "Indução matemática"
+        ]
+      },
+      {
+        "subarea": "Teoria dos números",
+        "subareas_especificas": [
+          "Soma de números naturais",
+          "Soma de quadrados",
+          "Soma de cubos"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Medição de figuras planas e sólidas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ghiyath al-Din Jamshid Mas'ud al-Kashi",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Aritmética",
+        "subareas_especificas": [
+          "Frações decimais",
+          "Cálculo de raízes n-ésimas"
+        ]
+      },
+      {
+        "subarea": "Trigonometria",
+        "subareas_especificas": [
+          "Cálculo de senos",
+          "Tabelas trigonométricas"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Equações cúbicas",
+          "Métodos iterativos"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Cálculo de áreas e volumes"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Shams al-Din Abu Abdallah Al-Khalili",
+    "area_principal": "Trigonometria Esférica",
+    "subareas": [
+      {
+        "subarea": "Astronomia",
+        "subareas_especificas": [
+          "Cálculo de tempo com base em eventos astronômicos",
+          "Regulação do tempo de oração muçulmana",
+          "Conversão de coordenadas eclípticas lunares para coordenadas equatoriais",
+          "Determinação da direção de Meca"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Resolução de triângulos esféricos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Jafar Muhammad ibn al-Hasan Al-Khazin",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": [
+          "Equações Diofantinas",
+          "Teorema de Fermat"
+        ]
+      },
+      {
+        "subarea": "Astronomia",
+        "subareas_especificas": [
+          "Instrumentos Astronômicos",
+          "Modelos Solares"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Mahmud Hamid ibn al-Khidr Al-Khujandi",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "Trigonometria Esférica",
+        "subareas_especificas": [
+          "Teorema do Seno"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": [
+          "Teorema de Fermat (caso n=3)"
+        ]
+      },
+      {
+        "subarea": "Instrumentação Astronômica",
+        "subareas_especificas": [
+          "Sextante Mural"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Ja'far Muhammad ibn Musa Al-Khwarizmi",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Equações",
+        "subareas_especificas": [
+          "Equações lineares",
+          "Equações quadráticas"
+        ]
+      },
+      {
+        "subarea": "Aritmética",
+        "subareas_especificas": [
+          "Números naturais",
+          "Operações aritméticas"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Geometria plana",
+          "Cálculo de áreas",
+          "Cálculo de volumes"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Yusuf Yaqub ibn Ishaq al-Sabbah Al-Kindi",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Aritmética",
+        "subareas_especificas": [
+          "Números indianos",
+          "Harmonia de números",
+          "Linhas e multiplicação com números",
+          "Quantidades relativas",
+          "Medição de proporção e tempo",
+          "Procedimentos numéricos e cancelamento"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Teoria dos paralelos",
+          "Óptica"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": [
+          "Paradoxo do infinito"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Abd Allah Muhammad ibn Isa Al-Mahani",
+    "area_principal": "Geometria e Aritmética",
+    "subareas": [
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Equações cúbicas",
+          "Problemas de Arquimedes",
+          "Duplicação do cubo"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Elementos de Euclides",
+          "Seções cônicas"
+        ]
+      },
+      {
+        "subarea": "Astronomia",
+        "subareas_especificas": [
+          "Observações lunares",
+          "Eclipses lunares",
+          "Astrolabe"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu l'Hasan Ali ibn Ahmad Al-Nasawi",
+    "area_principal": "Aritmética",
+    "subareas": [
+      {
+        "subarea": "Aritmética com numerais indianos",
+        "subareas_especificas": [
+          "Operações aritméticas básicas (adição, subtração, multiplicação, divisão)",
+          "Extração de raízes quadradas e cúbicas",
+          "Frações",
+          "Sexagesimais"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Elementos de Euclides"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu'l Abbas al-Fadl ibn Hatim Al-Nayrizi",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Euclidiana",
+        "subareas_especificas": [
+          "Postulado das Paralelas",
+          "Razão e Proporção"
+        ]
+      },
+      {
+        "subarea": "Trigonometria",
+        "subareas_especificas": [
+          "Função Tangente"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Sahl Waijan ibn Rustam al-Quhi",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Analítica",
+        "subareas_especificas": [
+          "Cônicas",
+          "Equações quadráticas e cúbicas"
+        ]
+      },
+      {
+        "subarea": "Geometria Clássica",
+        "subareas_especificas": [
+          "Elementos de Euclides",
+          "Cônicas de Apolônio",
+          "Sobre a esfera e o cilindro de Arquimedes"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ibn Yahya al-Maghribi Al-Samawal",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Álgebra Abstrata",
+        "subareas_especificas": [
+          "Anéis Polinomiais",
+          "Números Negativos",
+          "Teorema Binomial"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": [
+          "Equações Diofantinas",
+          "Indução Matemática"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Geometria Analítica"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Said Ahmad ibn Muhammad Al-Sijzi",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria Plana",
+        "subareas_especificas": [
+          "Teorema dos Senos (plano e esférico)",
+          "Tangentes a círculos",
+          "Divisão de triângulos em áreas proporcionais"
+        ]
+      },
+      {
+        "subarea": "Geometria Sólida",
+        "subareas_especificas": [
+          "Cálculo de volumes em esferas",
+          "Esferas em quatro dimensões (possível interpretação controversa)"
+        ]
+      },
+      {
+        "subarea": "Álgebra Geométrica",
+        "subareas_especificas": [
+          "Expansão cúbica geometricamente"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Abdallah Yaish ibn Ibrahim Al-Umawi",
+    "area_principal": "Aritmética",
+    "subareas": [
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": [
+          "Séries aritméticas e geométricas",
+          "Números poligonais e piramidais",
+          "Critérios de divisibilidade",
+          "Representação decimal de números quadrados e cubos"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Cálculo de comprimentos de cordas e arcos de círculos",
+          "Áreas de círculos, segmentos de círculos, triângulos e quadriláteros",
+          "Volumes de esferas, cones e prismas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu'l Hasan Ahmad ibn Ibrahim Al-Uqlidisi",
+    "area_principal": "Aritmética",
+    "subareas": [
+      {
+        "subarea": "Sistema de numeração hindu-arábico",
+        "subareas_especificas": [
+          "Notação decimal",
+          "Frações decimais",
+          "Operações aritméticas (adição, subtração, multiplicação, divisão)",
+          "Sistema sexagesimal"
+        ]
+      },
+      {
+        "subarea": "Métodos aritméticos",
+        "subareas_especificas": [
+          "Método de eliminação de noves"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abu Ishaq Ibrahim ibn Yahya al-Zarqali",
+    "area_principal": "Astronomia",
+    "subareas": [
+      {
+        "subarea": "Astrolabios",
+        "subareas_especificas": [
+          "Azafea"
+        ]
+      },
+      {
+        "subarea": "Tabelas Astronômicas",
+        "subareas_especificas": [
+          "Tabelas de Toledo"
+        ]
+      },
+      {
+        "subarea": "Trigonometria",
+        "subareas_especificas": [
+          "Tabelas trigonométricas"
+        ]
+      },
+      {
+        "subarea": "Mecânica Celeste",
+        "subareas_especificas": [
+          "Modelo solar",
+          "Movimento planetário"
+        ]
+      },
+      {
+        "subarea": "Instrumentação Astronômica",
+        "subareas_especificas": [
+          "Relógios de água"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Ãlafur DanÃ­elsson",
+    "area_principal": "-1",
+    "subareas": []
+  },
+  {
+    "nome": "Alain Connes",
+    "area_principal": "Álgebra",
+    "subareas": [
+      {
+        "subarea": "Álgebras de Operadores",
+        "subareas_especificas": [
+          "Álgebras de von Neumann",
+          "C*-álgebras",
+          "Teoria de Integração Não-Comutativa"
+        ]
+      },
+      {
+        "subarea": "Geometria Não-Comutativa",
+        "subareas_especificas": [
+          "Aplicações à Física Teórica"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Alan Baker",
+    "area_principal": "Teoria dos Números",
+    "subareas": [
+      {
+        "subarea": "Aproximação Diofantina",
+        "subareas_especificas": [
+          "Equações Diofantinas",
+          "Teoria dos Números Transcendentais",
+          "Problema da Aproximação Diofantina de Littlewood"
+        ]
+      },
+      {
+        "subarea": "Geometria Diofantina",
+        "subareas_especificas": [
+          "Formas logarítmicas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Thomas Arthur Alan Broadbent",
+    "area_principal": "Cálculo",
+    "subareas": [
+      {
+        "subarea": "Cálculo Infinitesimal",
+        "subareas_especificas": [
+          "Convergência de séries",
+          "Processos iterativos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Richard Alan Day",
+    "area_principal": "Teoria da Álgebra Universal",
+    "subareas": [
+      {
+        "subarea": "Teoria das Treliças",
+        "subareas_especificas": [
+          "Teoria Modular das Treliças",
+          "Problemas de Palavras em Treliças Livres",
+          "Variedades de Congruências Modulares",
+          "Bancos de Dados e Teoria de Treliças"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Alan Mercer",
+    "area_principal": "Estatística",
+    "subareas": [
+      {
+        "subarea": "Processos Estocásticos",
+        "subareas_especificas": [
+          "Processos Estocásticos com Tempo Contínuo",
+          "Teoria das Filas",
+          "Caminhadas Aleatórias"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Alan Mathison Turing",
+    "area_principal": "Teoria da Computação",
+    "subareas": [
+      {
+        "subarea": "Teoria da Computabilidade",
+        "subareas_especificas": [
+          "Máquinas de Turing",
+          "Decidibilidade",
+          "Funções Computacionais"
+        ]
+      },
+      {
+        "subarea": "Lógica Matemática",
+        "subareas_especificas": [
+          "Lógica Matemática",
+          "Teoria dos Números"
+        ]
+      },
+      {
+        "subarea": "Probabilidade",
+        "subareas_especificas": [
+          "Teorema do Limite Central"
+        ]
+      },
+      {
+        "subarea": "Análise Numérica",
+        "subareas_especificas": [
+          "Métodos de Aproximação"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Teoria dos Grupos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Jean Paul Albert Badoureau",
+    "area_principal": "Geometria",
+    "subareas": [
+      {
+        "subarea": "Geometria de figuras",
+        "subareas_especificas": [
+          "Poliedros uniformes"
+        ]
+      },
+      {
+        "subarea": "Teoria dos jogos",
+        "subareas_especificas": [
+          "Probabilidade",
+          "Jogos de azar"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Albert Turner Bharucha-Reid",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Probabilidade",
+        "subareas_especificas": [
+          "Processos estocásticos",
+          "Processos de ramificação",
+          "Teoria de epidemias estocásticas",
+          "Equações integrais aleatórias",
+          "Polinômios aleatórios"
+        ]
+      },
+      {
+        "subarea": "Estatística",
+        "subareas_especificas": [
+          "Inferência estatística",
+          "Métodos computacionais"
+        ]
+      },
+      {
+        "subarea": "Biologia Matemática",
+        "subareas_especificas": [
+          "Modelos estocásticos em biologia"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Albert ChÃ¢telet",
+    "area_principal": "Teoria dos Números",
+    "subareas": [
+      {
+        "subarea": "Frações contínuas",
+        "subareas_especificas": [
+          "Frações contínuas aritméticas"
+        ]
+      },
+      {
+        "subarea": "Corpos abelianos",
+        "subareas_especificas": [
+          "Corpos abelianos de terceiro grau"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Ideais",
+        "subareas_especificas": [
+          "Ideais principais em corpos cíclicos",
+          "Aritmética de ideais"
+        ]
+      },
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Álgebra de relações de congruência",
+          "Teoremas de Jordan-Hölder e Schreier",
+          "Uso de matrizes em álgebra e aritmética de corpos de números algébricos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Albert Einstein",
+    "area_principal": "Física",
+    "subareas": [
+      {
+        "subarea": "Relatividade",
+        "subareas_especificas": [
+          "Relatividade Restrita",
+          "Relatividade Geral"
+        ]
+      },
+      {
+        "subarea": "Mecânica Quântica",
+        "subareas_especificas": [
+          "Efeito Fotoelétrico"
+        ]
+      },
+      {
+        "subarea": "Mecânica Estatística",
+        "subareas_especificas": []
+      }
+    ]
+  },
+  {
+    "nome": "Albert Girard",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": [
+          "Teorema Fundamental da Álgebra",
+          "Funções Simétricas das Raízes das Equações"
+        ]
+      },
+      {
+        "subarea": "Trigonometria",
+        "subareas_especificas": [
+          "Abreviações (sen, cos, tan)",
+          "Área de um Triângulo Esférico"
+        ]
+      },
+      {
+        "subarea": "Aritmética",
+        "subareas_especificas": [
+          "Sequência de Fibonacci",
+          "Razão Áurea"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Albert Edward Ingham",
+    "area_principal": "Teoria dos Números",
+    "subareas": [
+      {
+        "subarea": "Função Zeta de Riemann",
+        "subareas_especificas": [
+          "Teorema dos Números Primos",
+          "Distribuição de Números Primos",
+          "Teoremas Tauberians"
+        ]
+      },
+      {
+        "subarea": "Teoria Analítica dos Números",
+        "subareas_especificas": [
+          "Diferença entre dois primos consecutivos"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Albert Nijenhuis",
+    "area_principal": "Geometria Diferencial",
+    "subareas": [
+      {
+        "subarea": "Geometria Diferencial",
+        "subareas_especificas": [
+          "Conexões Lineares",
+          "Tensores",
+          "Deformações",
+          "Coordenadas Anolômicas",
+          "Grupos de Holonomia"
+        ]
+      }
+    ]
+  }
+]

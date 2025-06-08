@@ -1,0 +1,20 @@
+{
+  "nome": "James Ray Vanstone",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Finsler",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Cálculo de Variações"
+      ]
+    },
+    {
+      "subarea": "Geometria de Lyra",
+      "subareas_especificas": [
+        "Geodésicas",
+        "Manifolds"
+      ]
+    }
+  ]
+}

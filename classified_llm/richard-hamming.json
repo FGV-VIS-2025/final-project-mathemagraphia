@@ -1,0 +1,25 @@
+{
+  "nome": "Richard Wesley Hamming",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares",
+        "Teoria de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Teoria da Informação",
+      "subareas_especificas": [
+        "Códigos de Detecção e Correção de Erros"
+      ]
+    },
+    {
+      "subarea": "Análise de Fourier",
+      "subareas_especificas": [
+        "Janela Espectral de Hamming"
+      ]
+    }
+  ]
+}

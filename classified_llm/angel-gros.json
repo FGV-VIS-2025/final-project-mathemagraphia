@@ -1,0 +1,18 @@
+{
+  "nome": "Ángel Palacio Gros",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Analítica"
+      ]
+    },
+    {
+      "subarea": "Teoria das Superfícies",
+      "subareas_especificas": [
+        "Curvas Planas e Alabeadas"
+      ]
+    }
+  ]
+}

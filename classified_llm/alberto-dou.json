@@ -1,0 +1,19 @@
+{
+  "nome": "Alberto Dou i Mas de Xexas",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Teoria da Elasticidade",
+      "subareas_especificas": [
+        "Elasticidade Plana"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "William Ernest Johnson",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Lógica Simbólica",
+      "subareas_especificas": [
+        "Cálculo Proposicional",
+        "Cálculo de Predicados"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Inferência Bayesiana"
+      ]
+    }
+  ]
+}

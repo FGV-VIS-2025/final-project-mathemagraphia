@@ -1,0 +1,26 @@
+{
+  "nome": "Abu Arrayhan Muhammad ibn Ahmad al-Biruni",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Trisecção do Ângulo"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Teorema do Seno (Plana e Esférica)",
+        "Resolução de Triângulos Esféricos"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Projeções de Mapas"
+      ]
+    }
+  ]
+}

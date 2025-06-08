@@ -1,0 +1,19 @@
+{
+  "nome": "Freeman John Dyson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Frações Contínuas",
+        "Aproximações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria de Grupos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Simon Kirwan Donaldson",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Topologia de 4-variedades",
+      "subareas_especificas": [
+        "Variedades Diferenciáveis",
+        "Teoria de Gauge"
+      ]
+    },
+    {
+      "subarea": "Geometria Simplética",
+      "subareas_especificas": [
+        "Variedades Kähler",
+        "Fibrações de Lefschetz"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Fibrados Vetoriais Holomorfos",
+        "Variedades Fano"
+      ]
+    }
+  ]
+}

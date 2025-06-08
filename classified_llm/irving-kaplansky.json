@@ -1,0 +1,27 @@
+{
+  "nome": "Irving Kaplansky",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Álgebras"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Grupos Topológicos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Anéis Comutativos",
+        "Geometria Algébrica"
+      ]
+    }
+  ]
+}

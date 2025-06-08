@@ -1,0 +1,26 @@
+{
+  "nome": "Pierre François Verhulst",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equação Logística"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Probabilidade e Estatística",
+      "subareas_especificas": [
+        "Estatística Social"
+      ]
+    }
+  ]
+}

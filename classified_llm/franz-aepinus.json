@@ -1,0 +1,25 @@
+{
+  "nome": "Franz Maria Ulrich Theodosius Aepinus",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletricidade",
+        "Magnetismo"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos de Solução"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teorema Binomial"
+      ]
+    }
+  ]
+}

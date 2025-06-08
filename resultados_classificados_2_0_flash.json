@@ -1,0 +1,128 @@
+[
+  {
+    "nome": "A A Krishnaswami Ayyangar",
+    "area_principal": "História da Matemática",
+    "subareas": [
+      {
+        "subarea": "Matemática Indiana Antiga",
+        "subareas_especificas": [
+          "Sistema de numeração Hindu-Arábico",
+          "Vedanga Jyothisha",
+          "Sulva-Sutras",
+          "Surya Siddhanta",
+          "Aryabhatiyam",
+          "Varahamihira",
+          "Brahmagupta",
+          "Sridhara",
+          "Mahavira",
+          "Bhaskara",
+          "Chakravala",
+          "Aproximação do Seno"
+        ]
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Teoremas de Apolônio e Brahmagupta"
+        ]
+      },
+      {
+        "subarea": "Estatística",
+        "subareas_especificas": []
+      },
+      {
+        "subarea": "Astronomia",
+        "subareas_especificas": [
+          "Tabelas de Seno",
+          "Calendários"
+        ]
+      },
+      {
+        "subarea": "Teoria dos Números",
+        "subareas_especificas": [
+          "Frações Contínuas",
+          "Equações Indeterminadas de Segundo Grau"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Abraham Adrian Albert",
+    "area_principal": "Algebra",
+    "subareas": [
+      {
+        "subarea": "Associative Algebras",
+        "subareas_especificas": [
+          "Division Algebras",
+          "Structure of Algebras"
+        ]
+      },
+      {
+        "subarea": "Non-associative Algebras",
+        "subareas_especificas": [
+          "Lie Algebras",
+          "Jordan Algebras"
+        ]
+      },
+      {
+        "subarea": "Riemann Matrices",
+        "subareas_especificas": []
+      }
+    ]
+  },
+  {
+    "nome": "Ãamon de Valera",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Álgebra",
+        "subareas_especificas": []
+      },
+      {
+        "subarea": "Geometria",
+        "subareas_especificas": [
+          "Euclidiana"
+        ]
+      },
+      {
+        "subarea": "Física Matemática",
+        "subareas_especificas": [
+          "Quaternions"
+        ]
+      },
+      {
+        "subarea": "Análise",
+        "subareas_especificas": []
+      }
+    ]
+  },
+  {
+    "nome": "Abdel-Shafy Fahmy Obada",
+    "area_principal": "Matemática",
+    "subareas": [
+      {
+        "subarea": "Física Matemática",
+        "subareas_especificas": [
+          "Óptica microscópica",
+          "Teoria da radiação",
+          "Óptica quântica",
+          "Informação quântica",
+          "Computação quântica"
+        ]
+      },
+      {
+        "subarea": "Análise Numérica",
+        "subareas_especificas": [
+          "Métodos e aplicações de análise numérica"
+        ]
+      },
+      {
+        "subarea": "Equações Diferenciais",
+        "subareas_especificas": [
+          "Equações diferenciais e aplicações",
+          "Sistemas dinâmicos e aplicações"
+        ]
+      }
+    ]
+  }
+]

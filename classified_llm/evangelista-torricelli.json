@@ -1,0 +1,20 @@
+{
+  "nome": "Evangelista Torricelli",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cálculo de áreas e volumes",
+        "Centro de gravidade"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Método dos indivisíveis",
+        "Cálculo de áreas e volumes de sólidos de revolução"
+      ]
+    }
+  ]
+}

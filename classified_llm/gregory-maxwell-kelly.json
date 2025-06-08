@@ -1,0 +1,14 @@
+{
+  "nome": "Gregory Maxwell Kelly",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Homológica",
+      "subareas_especificas": [
+        "Teoria de categorias",
+        "Homologia",
+        "Cohomologia"
+      ]
+    }
+  ]
+}

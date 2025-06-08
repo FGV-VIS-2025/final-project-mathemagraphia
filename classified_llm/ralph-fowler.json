@@ -1,0 +1,21 @@
+{
+  "nome": "Ralph Fowler",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases",
+        "Termodinâmica"
+      ]
+    },
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Estrelas Anãs Brancas",
+        "Equilíbrio de Estrelas Gasosas",
+        "Espectros Estelares"
+      ]
+    }
+  ]
+}

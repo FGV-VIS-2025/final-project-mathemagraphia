@@ -1,0 +1,19 @@
+{
+  "nome": "Guacolda Antoine Lazzerini",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Séries de Dirichlet"
+      ]
+    }
+  ]
+}

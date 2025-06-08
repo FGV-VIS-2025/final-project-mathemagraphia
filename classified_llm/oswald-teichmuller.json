@@ -1,0 +1,19 @@
+{
+  "nome": "Paul Julius Oswald Teichmüller",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Mapeamentos Quase-Conformes"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Teoria de Teichmüller",
+        "Teoria de Nevanlinna"
+      ]
+    }
+  ]
+}

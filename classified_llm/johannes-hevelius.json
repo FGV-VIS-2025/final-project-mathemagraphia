@@ -1,0 +1,20 @@
+{
+  "nome": "Johannes Hevelius",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Óptica",
+        "Construção de Instrumentos Astronômicos"
+      ]
+    },
+    {
+      "subarea": "Cartografia Lunar",
+      "subareas_especificas": [
+        "Observação Astronômica",
+        "Desenho Astronômico"
+      ]
+    }
+  ]
+}

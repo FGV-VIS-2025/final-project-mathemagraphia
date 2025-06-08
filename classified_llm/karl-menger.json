@@ -1,0 +1,18 @@
+{
+  "nome": "Karl Menger",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria da Dimensão",
+      "subareas_especificas": [
+        "Dimensão topológica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos de pontos"
+      ]
+    }
+  ]
+}

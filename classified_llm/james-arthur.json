@@ -1,0 +1,20 @@
+{
+  "nome": "James Greig Arthur",
+  "area_principal": "Teoria das Representações",
+  "subareas": [
+    {
+      "subarea": "Formas Automórficas",
+      "subareas_especificas": [
+        "Fórmula do Traço de Selberg",
+        "Programa de Langlands"
+      ]
+    },
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos Semissimples",
+        "Análise Harmônica"
+      ]
+    }
+  ]
+}

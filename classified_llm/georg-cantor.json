@@ -1,0 +1,21 @@
+{
+  "nome": "Georg Ferdinand Ludwig Philipp Cantor",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Cardinalidade",
+      "subareas_especificas": [
+        "Conjuntos Contáveis",
+        "Conjuntos Não-Contáveis",
+        "Hipótese do Contínuo"
+      ]
+    },
+    {
+      "subarea": "Números Transfinitos",
+      "subareas_especificas": [
+        "Ordinais",
+        "Cardinais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Ernesto Cesàro",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Intrínseca",
+      "subareas_especificas": [
+        "Geometria Não-Euclidiana",
+        "Curvas de Koch"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Distribuição de Primos",
+        "Séries de Fourier"
+      ]
+    }
+  ]
+}

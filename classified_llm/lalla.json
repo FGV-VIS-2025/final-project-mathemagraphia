@@ -1,0 +1,26 @@
+{
+  "nome": "Lalla",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Longitude dos Planetas",
+        "Eclipses",
+        "Conjunções Planetárias"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de π"
+      ]
+    },
+    {
+      "subarea": "Computação",
+      "subareas_especificas": [
+        "Tabelas Astronômicas"
+      ]
+    }
+  ]
+}

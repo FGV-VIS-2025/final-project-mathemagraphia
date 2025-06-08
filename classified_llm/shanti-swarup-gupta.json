@@ -1,0 +1,19 @@
+{
+  "nome": "Shanti Swarup Gupta",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Seleção e Ordenação",
+        "Testes de Hipóteses Múltiplas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Decisão",
+      "subareas_especificas": [
+        "Procedimentos de Decisão Múltipla"
+      ]
+    }
+  ]
+}

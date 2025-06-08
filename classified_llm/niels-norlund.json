@@ -1,0 +1,25 @@
+{
+  "nome": "Niels Erik Norlund",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares"
+      ]
+    },
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Convergência de Frações Contínuas",
+        "Interpolação de Frações Contínuas"
+      ]
+    },
+    {
+      "subarea": "Séries Hipergeométricas",
+      "subareas_especificas": [
+        "Séries Hipergeométricas Generalizadas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Richard Price",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Bayesiana",
+        "Inferência Bayesiana"
+      ]
+    }
+  ]
+}

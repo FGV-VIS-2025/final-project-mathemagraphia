@@ -1,0 +1,22 @@
+{
+  "nome": "Proclus Diadochus",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Axiomas",
+        "Postulados",
+        "Elementos"
+      ]
+    },
+    {
+      "subarea": "História da Geometria Grega",
+      "subareas_especificas": [
+        "Euclides",
+        "Eudemus",
+        "Geminus"
+      ]
+    }
+  ]
+}

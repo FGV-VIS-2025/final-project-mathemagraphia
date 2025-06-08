@@ -1,0 +1,41 @@
+{
+  "nome": "Errett Albert Bishop",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Aproximação Polinomial",
+        "Aproximação Racional"
+      ]
+    },
+    {
+      "subarea": "Álgebras de Funções",
+      "subareas_especificas": [
+        "Álgebras Uniformes",
+        "Teoria da Medida"
+      ]
+    },
+    {
+      "subarea": "Espaços de Banach e Teoria de Operadores",
+      "subareas_especificas": [
+        "Teoria Espectral",
+        "Operadores Decomponíveis"
+      ]
+    },
+    {
+      "subarea": "Várias Variáveis Complexas",
+      "subareas_especificas": [
+        "Imersão Biholomórfica",
+        "Teorema de Aplicação Própria"
+      ]
+    },
+    {
+      "subarea": "Matemática Construtiva",
+      "subareas_especificas": [
+        "Análise Construtiva",
+        "Teoria da Medida Construtiva"
+      ]
+    }
+  ]
+}

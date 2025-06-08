@@ -1,0 +1,27 @@
+{
+  "nome": "Ulisse Dini",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Convergência de Séries",
+        "Integrais Definidas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções de Variável Real",
+      "subareas_especificas": [
+        "Generalização de Teoremas",
+        "Contra-exemplos"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Superfícies",
+        "Equações Integrais"
+      ]
+    }
+  ]
+}

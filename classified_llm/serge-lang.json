@@ -1,0 +1,25 @@
+{
+  "nome": "Serge Lang",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Geometria Diofantina",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Transcendentais",
+      "subareas_especificas": [
+        "Aproximação Diofantina"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Séries L",
+        "Curvas Modulares"
+      ]
+    }
+  ]
+}

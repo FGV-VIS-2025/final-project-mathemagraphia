@@ -1,0 +1,18 @@
+{
+  "nome": "James Eells",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Mapas Harmônicos"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Fluxo de Calor Não-Linear"
+      ]
+    }
+  ]
+}

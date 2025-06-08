@@ -1,0 +1,19 @@
+{
+  "nome": "Rafael Georg Artzy",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria de Webs",
+      "subareas_especificas": [
+        "Webs Abstratas",
+        "Redes Mínimas"
+      ]
+    },
+    {
+      "subarea": "Geometria Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais"
+      ]
+    }
+  ]
+}

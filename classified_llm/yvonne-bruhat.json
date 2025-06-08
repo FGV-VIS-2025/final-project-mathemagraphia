@@ -1,0 +1,20 @@
+{
+  "nome": "Yvonne Suzanne Marie-Louise Choquet-Bruhat",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Variedades Lorentzianas",
+        "Equações de Einstein"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Sistemas Não-Lineares",
+        "Existência e Unicidade de Soluções"
+      ]
+    }
+  ]
+}

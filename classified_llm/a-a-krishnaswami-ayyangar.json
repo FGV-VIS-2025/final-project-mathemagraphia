@@ -1,0 +1,18 @@
+{
+  "nome": "A A Krishnaswami Ayyangar",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equações Diofantinas de Segundo Grau"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemática Indiana"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Paulette Libermann",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria simplética",
+      "subareas_especificas": [
+        "Variedades simpléticas",
+        "Formas simpléticas",
+        "Mecânica Hamiltoniana"
+      ]
+    },
+    {
+      "subarea": "Teoria de grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Álgebras de Lie",
+        "Ações de grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Conexões",
+      "subareas_especificas": [
+        "Conexões de Cartan",
+        "Conexões afins"
+      ]
+    }
+  ]
+}

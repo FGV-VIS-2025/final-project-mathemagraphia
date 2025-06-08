@@ -1,0 +1,20 @@
+{
+  "nome": "William Henry Metzler",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Matrizes",
+      "subareas_especificas": [
+        "Determinantes",
+        "Minors",
+        "Polinômio Característico"
+      ]
+    },
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Funções Transcendentais de Matrizes"
+      ]
+    }
+  ]
+}

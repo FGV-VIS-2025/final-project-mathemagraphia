@@ -1,0 +1,12 @@
+{
+  "nome": "Norman Macleod Ferrers",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Partições"
+      ]
+    }
+  ]
+}

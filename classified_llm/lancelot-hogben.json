@@ -1,0 +1,19 @@
+{
+  "nome": "Lancelot Thomas Hogben",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Bioestatística",
+      "subareas_especificas": [
+        "Análise de dados biológicos",
+        "Modelos estatísticos em biologia"
+      ]
+    },
+    {
+      "subarea": "Matemática aplicada",
+      "subareas_especificas": [
+        "Métodos estatísticos em outras áreas científicas"
+      ]
+    }
+  ]
+}

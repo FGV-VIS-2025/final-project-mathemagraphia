@@ -1,0 +1,12 @@
+{
+  "nome": "Samuel Dickstein",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Wronski"
+      ]
+    }
+  ]
+}

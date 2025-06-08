@@ -1,0 +1,22 @@
+{
+  "nome": "William Paul Thurston",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixa Dimensão",
+      "subareas_especificas": [
+        "3-variedades",
+        "Geometrização de 3-variedades",
+        "Grupos Kleinianos"
+      ]
+    },
+    {
+      "subarea": "Geometria Hiperbólica",
+      "subareas_especificas": [
+        "Espaços Hiperbólicos",
+        "Isometrias",
+        "Teichmüller"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Sharaf al-Din al-Muzaffar al-Tusi",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Cúbicas",
+      "subareas_especificas": [
+        "Método de Ruffini-Horner",
+        "Discriminante",
+        "Geometria Algébrica"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços vetoriais"
+      ]
+    }
+  ]
+}

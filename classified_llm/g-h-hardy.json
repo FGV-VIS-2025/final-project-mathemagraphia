@@ -1,0 +1,27 @@
+{
+  "nome": "Godfrey Harold Hardy",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Séries Divergentes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Função Zeta de Riemann",
+        "Análise Diofantina",
+        "Distribuição de Primos"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Hipótese de Riemann"
+      ]
+    }
+  ]
+}

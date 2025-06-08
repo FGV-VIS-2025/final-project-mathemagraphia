@@ -1,0 +1,14 @@
+{
+  "nome": "Heinrich Eduard Schröter",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Sintética",
+      "subareas_especificas": [
+        "Curvas de Terceira Ordem",
+        "Superfícies de Segunda Ordem",
+        "Curvas Projetivas"
+      ]
+    }
+  ]
+}

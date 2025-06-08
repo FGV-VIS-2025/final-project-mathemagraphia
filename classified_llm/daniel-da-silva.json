@@ -1,0 +1,27 @@
+{
+  "nome": "Daniel Augusto da Silva",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Dinâmica",
+        "Estática",
+        "Hidrostática",
+        "Hidráulica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Congruências Binomiais"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria em Coordenadas Obliquas"
+      ]
+    }
+  ]
+}

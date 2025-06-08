@@ -1,0 +1,20 @@
+{
+  "nome": "Anna Adelaide Stafford Henriques",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Teoria de Nós",
+        "Grupos Fundamentais"
+      ]
+    },
+    {
+      "subarea": "Topologia Combinatória",
+      "subareas_especificas": [
+        "Complexos Simpliciais",
+        "Variedades"
+      ]
+    }
+  ]
+}

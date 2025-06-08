@@ -1,0 +1,13 @@
+{
+  "nome": "Johann Georg Zehfuss",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Produto Tensorial",
+        "Determinantes"
+      ]
+    }
+  ]
+}

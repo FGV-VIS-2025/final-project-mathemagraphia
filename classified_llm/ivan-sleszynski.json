@@ -1,0 +1,18 @@
+{
+  "nome": "Ivan Vladislavovich Śleszyński",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Frações Contínuas",
+      "subareas_especificas": [
+        "Convergência de Frações Contínuas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teorema do Limite Central"
+      ]
+    }
+  ]
+}

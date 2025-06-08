@@ -1,0 +1,13 @@
+{
+  "nome": "William Oscar Jules Moser",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    }
+  ]
+}

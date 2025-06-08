@@ -1,0 +1,20 @@
+{
+  "nome": "Thomas Craig",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Superfícies",
+      "subareas_especificas": [
+        "Curvatura de Superfícies",
+        "Projeções"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares",
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

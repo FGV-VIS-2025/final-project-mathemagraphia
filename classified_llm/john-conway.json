@@ -1,0 +1,19 @@
+{
+  "nome": "John Horton Conway",
+  "area_principal": "Teoria dos Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos Simples",
+        "Grupos Esporádicos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Quadráticas"
+      ]
+    }
+  ]
+}

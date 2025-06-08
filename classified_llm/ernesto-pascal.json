@@ -1,0 +1,20 @@
+{
+  "nome": "Ernesto Pascal",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Infinitesimal",
+        "Cálculo de Variações",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Elípticas"
+      ]
+    }
+  ]
+}

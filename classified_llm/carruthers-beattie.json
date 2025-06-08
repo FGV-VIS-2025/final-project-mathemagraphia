@@ -1,0 +1,18 @@
+{
+  "nome": "John Carruthers Beattie",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Magnetismo"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica"
+      ]
+    }
+  ]
+}

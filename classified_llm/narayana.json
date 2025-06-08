@@ -1,0 +1,25 @@
+{
+  "nome": "Narayana Pandit",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Aproximação de raízes"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Plana"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Sequências e Séries"
+      ]
+    }
+  ]
+}

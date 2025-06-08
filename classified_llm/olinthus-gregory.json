@@ -1,0 +1,22 @@
+{
+  "nome": "Olinthus Gilbert Gregory",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Estática",
+        "Dinâmica",
+        "Hidrostática",
+        "Hidrodinâmica",
+        "Pneumática"
+      ]
+    },
+    {
+      "subarea": "Balística",
+      "subareas_especificas": [
+        "Velocidade do Som"
+      ]
+    }
+  ]
+}

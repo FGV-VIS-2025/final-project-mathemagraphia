@@ -1,0 +1,19 @@
+{
+  "nome": "Simon Antoine Jean Lhuilier",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Limites",
+        "Derivadas"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

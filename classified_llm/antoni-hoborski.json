@@ -1,0 +1,25 @@
+{
+  "nome": "Antoni Maria Emilian Hoborski",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Laplace"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Equações de Frenet"
+      ]
+    },
+    {
+      "subarea": "Teoria das Transformações",
+      "subareas_especificas": [
+        "Transformações Lineares Ortogonais"
+      ]
+    }
+  ]
+}

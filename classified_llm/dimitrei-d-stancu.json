@@ -1,0 +1,40 @@
+{
+  "nome": "Dimitrie D Stancu",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Interpolação",
+      "subareas_especificas": [
+        "Interpolação polinomial",
+        "Interpolação de Hermite"
+      ]
+    },
+    {
+      "subarea": "Integração Numérica",
+      "subareas_especificas": [
+        "Fórmulas de Quadratura",
+        "Métodos de Integração Numérica"
+      ]
+    },
+    {
+      "subarea": "Diferenciação Numérica",
+      "subareas_especificas": [
+        "Diferenciação Numérica Parcial"
+      ]
+    },
+    {
+      "subarea": "Polinômios Ortogonais",
+      "subareas_especificas": [
+        "Polinômios de Bernstein-Stancu",
+        "Polinômios Beta"
+      ]
+    },
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Operadores Lineares Positivos",
+        "Métodos Probabilísticos e Combinatórios"
+      ]
+    }
+  ]
+}

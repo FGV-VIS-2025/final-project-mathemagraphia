@@ -1,0 +1,21 @@
+{
+  "nome": "Guglielmo Righini",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica Solar",
+      "subareas_especificas": [
+        "Espectroscopia Solar",
+        "Coronal Solar",
+        "Observação de eclipses solares"
+      ]
+    },
+    {
+      "subarea": "História da Ciência",
+      "subareas_especificas": [
+        "Galileo Galilei",
+        "Instrumentos Científicos"
+      ]
+    }
+  ]
+}

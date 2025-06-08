@@ -1,0 +1,29 @@
+{
+  "nome": "Heinrich Wilhelm Ewald Jung",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Funções algébricas",
+      "subareas_especificas": [
+        "Funções algébricas de uma variável",
+        "Funções algébricas de duas variáveis",
+        "Transformações birracionais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos números",
+      "subareas_especificas": [
+        "Corpos numéricos quadráticos"
+      ]
+    },
+    {
+      "subarea": "Geometria algébrica",
+      "subareas_especificas": [
+        "Superfícies algébricas",
+        "Teorema de Riemann-Roch",
+        "Equivalência algébrica de divisores",
+        "Variedade de Picard"
+      ]
+    }
+  ]
+}

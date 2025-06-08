@@ -1,0 +1,20 @@
+{
+  "nome": "Leopoldo Nachbin",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços vetoriais topológicos",
+        "Teoria da aproximação"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações diferenciais parciais",
+        "Teoria de Arzelà"
+      ]
+    }
+  ]
+}

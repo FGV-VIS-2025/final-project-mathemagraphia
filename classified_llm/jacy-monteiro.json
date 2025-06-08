@@ -1,0 +1,20 @@
+{
+  "nome": "Luiz Henrique Jacy Monteiro",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Teoria de Ideais",
+        "Geometria Algébrica"
+      ]
+    },
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Extensões de Corpos",
+        "Grupos de Galois"
+      ]
+    }
+  ]
+}

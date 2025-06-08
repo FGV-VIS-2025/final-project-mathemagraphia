@@ -1,0 +1,21 @@
+{
+  "nome": "Gerd Edzard Harry Reuter",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Processos de Markov",
+      "subareas_especificas": [
+        "Cadeias de Markov",
+        "Processos de Markov em tempo contínuo",
+        "Processos de Markov com infinitos estados"
+      ]
+    },
+    {
+      "subarea": "Teoria de Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações diferenciais ordinárias",
+        "Equações diferenciais parciais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Joseph Henry Maclagen Wedderburn",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis não comutativos",
+        "Álgebras"
+      ]
+    },
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "Matrizes",
+        "Álgebras de Matrizes"
+      ]
+    }
+  ]
+}

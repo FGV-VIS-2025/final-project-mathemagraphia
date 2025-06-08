@@ -1,0 +1,20 @@
+{
+  "nome": "Kathleen Timpson Ollerenshaw",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Números",
+      "subareas_especificas": [
+        "Lattices",
+        "Quadrados Mágicos"
+      ]
+    }
+  ]
+}

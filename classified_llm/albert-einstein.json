@@ -1,0 +1,25 @@
+{
+  "nome": "Albert Einstein",
+  "area_principal": "Física Teórica",
+  "subareas": [
+    {
+      "subarea": "Relatividade",
+      "subareas_especificas": [
+        "Relatividade Restrita",
+        "Relatividade Geral"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica",
+      "subareas_especificas": [
+        "Efeito Fotoelétrico"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nome": "Hans Grauert",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Complexa",
+      "subareas_especificas": [
+        "Variedades Complexas",
+        "Espaços de Stein",
+        "Funções Holomorfas",
+        "Fibrados Holomorfos"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções de Várias Variáveis Complexas",
+        "Pseudoconvexidade",
+        "Problema de Levi"
+      ]
+    }
+  ]
+}

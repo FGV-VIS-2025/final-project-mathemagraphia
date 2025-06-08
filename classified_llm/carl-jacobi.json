@@ -1,0 +1,25 @@
+{
+  "nome": "Carl Gustav Jacob Jacobi",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Funções Theta"
+      ]
+    },
+    {
+      "subarea": "Resíduos Quadráticos e Biquadráticos",
+      "subareas_especificas": [
+        "Resíduos Cúbicos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Primeira Ordem",
+        "Determinantes Funcionais (Jacobiano)"
+      ]
+    }
+  ]
+}

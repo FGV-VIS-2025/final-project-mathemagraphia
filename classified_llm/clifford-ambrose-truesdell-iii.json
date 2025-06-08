@@ -1,0 +1,19 @@
+{
+  "nome": "Clifford Ambrose Truesdell III",
+  "area_principal": "Mecânica Contínua",
+  "subareas": [
+    {
+      "subarea": "Mecânica Racional",
+      "subareas_especificas": [
+        "Elasticidade",
+        "Mecânica dos Fluidos"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Johann Samuel König",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Dinâmica",
+        "Energia Cinética"
+      ]
+    }
+  ]
+}

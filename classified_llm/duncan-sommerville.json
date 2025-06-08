@@ -1,0 +1,20 @@
+{
+  "nome": "Duncan MacLaren Young Sommerville",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometrias em Dimensões Superiores",
+        "Classificação de Geometrias",
+        "Espaços de n dimensões"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    }
+  ]
+}

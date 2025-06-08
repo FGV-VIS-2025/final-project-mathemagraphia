@@ -1,0 +1,19 @@
+{
+  "nome": "Conel Hugh O'Donel Alexander",
+  "area_principal": "Criptografia",
+  "subareas": [
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Métodos Bayesianos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Informação",
+      "subareas_especificas": [
+        "Codificação",
+        "Decodificação"
+      ]
+    }
+  ]
+}

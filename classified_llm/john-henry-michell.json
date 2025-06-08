@@ -1,0 +1,19 @@
+{
+  "nome": "John Henry Michell",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Hidrodinâmica",
+      "subareas_especificas": [
+        "Teoria do Potencial",
+        "Resistência das Ondas"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Estabilidade de fios torcidos e curvos"
+      ]
+    }
+  ]
+}

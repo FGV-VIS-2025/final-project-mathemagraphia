@@ -1,0 +1,20 @@
+{
+  "nome": "Helena Rasiowa",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Álgebra Booleana",
+      "subareas_especificas": [
+        "Álgebras de Post",
+        "Álgebras de Heyting"
+      ]
+    },
+    {
+      "subarea": "Lógica Algébrica",
+      "subareas_especificas": [
+        "Cálculo Funcional",
+        "Lógicas não-clássicas"
+      ]
+    }
+  ]
+}

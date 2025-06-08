@@ -1,0 +1,19 @@
+{
+  "nome": "John Dee",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Observações astronômicas",
+        "Trigonometria"
+      ]
+    }
+  ]
+}

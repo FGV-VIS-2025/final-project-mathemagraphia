@@ -1,0 +1,27 @@
+{
+  "nome": "Samuil Osipovich Shatunovsky",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Anéis",
+      "subareas_especificas": [
+        "Anéis Comutativos",
+        "Anéis Não Comutativos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Extensões de Corpos",
+        "Grupos de Galois"
+      ]
+    }
+  ]
+}

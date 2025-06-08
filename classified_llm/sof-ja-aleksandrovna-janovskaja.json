@@ -1,0 +1,21 @@
+{
+  "nome": "Sof'ja Aleksandrovna Janovskaja",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Teoria da Recursão"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Matemática Egípcia",
+        "Geometria Grega",
+        "Geometria Não-Euclidiana"
+      ]
+    }
+  ]
+}

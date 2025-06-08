@@ -1,0 +1,22 @@
+{
+  "nome": "Patrick Brendan Kennedy",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Subharmônicas",
+      "subareas_especificas": [
+        "Funções Integráveis",
+        "Teoria da Medida",
+        "Funções Multivalentes",
+        "Funções Quase-limitadas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Mapeamento Conforme",
+        "Séries de Fourier"
+      ]
+    }
+  ]
+}

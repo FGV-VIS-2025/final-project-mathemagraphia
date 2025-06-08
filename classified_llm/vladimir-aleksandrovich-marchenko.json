@@ -1,0 +1,20 @@
+{
+  "nome": "Vladimir Aleksandrovich Marchenko",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Teoria Espectral",
+      "subareas_especificas": [
+        "Operadores de Sturm-Liouville",
+        "Equação de Schrödinger",
+        "Problema Inverso de Espalhamento"
+      ]
+    },
+    {
+      "subarea": "Teoria de Aproximação",
+      "subareas_especificas": [
+        "Funções quase periódicas"
+      ]
+    }
+  ]
+}

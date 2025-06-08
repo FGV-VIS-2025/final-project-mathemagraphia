@@ -1,0 +1,21 @@
+{
+  "nome": "Edith Hirsch Luchins",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Anéis",
+        "Corpos",
+        "Álgebras de Banach"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Operadores"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Stefan Bergman",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Várias Variáveis Complexas",
+      "subareas_especificas": [
+        "Mapeamento Conforme",
+        "Funções Kernel",
+        "Transformações Pseudo-Conformes"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Elípticas",
+        "Operadores Integrais",
+        "Teoria do Potencial"
+      ]
+    }
+  ]
+}

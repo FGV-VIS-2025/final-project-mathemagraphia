@@ -1,0 +1,14 @@
+{
+  "nome": "Alfred William Goldie",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis Noetherianos",
+        "Anéis Primos",
+        "Anéis Semi-primos"
+      ]
+    }
+  ]
+}

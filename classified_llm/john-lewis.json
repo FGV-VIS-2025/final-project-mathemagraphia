@@ -1,0 +1,28 @@
+{
+  "nome": "John Trevor Lewis",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria da Perturbação",
+        "Representação de Grupos",
+        "Álgebra de operadores"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Processos Estocásticos Quânticos",
+        "Teoria de Grandes Desvios"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Modelo de Ising",
+        "Condensação de Bose-Einstein"
+      ]
+    }
+  ]
+}

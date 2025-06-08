@@ -1,0 +1,18 @@
+{
+  "nome": "Hans Freudenthal",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Grupos",
+      "subareas_especificas": [
+        "Teoria de Grupos"
+      ]
+    },
+    {
+      "subarea": "Espaços Topológicos",
+      "subareas_especificas": [
+        "Teoria de Grupos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Jack Todd",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes",
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Métodos Numéricos",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Ortogonais",
+        "Aproximação de Funções"
+      ]
+    }
+  ]
+}

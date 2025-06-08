@@ -1,0 +1,25 @@
+{
+  "nome": "François Nicolas Cosserat",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Contínua",
+      "subareas_especificas": [
+        "Teoria da Elasticidade",
+        "Teoria de Corpos Deformáveis"
+      ]
+    },
+    {
+      "subarea": "Cinemática",
+      "subareas_especificas": [
+        "Cinemática de um Meio Contínuo"
+      ]
+    },
+    {
+      "subarea": "Dinâmica",
+      "subareas_especificas": [
+        "Dinâmica do Ponto e do Corpo Invariável"
+      ]
+    }
+  ]
+}

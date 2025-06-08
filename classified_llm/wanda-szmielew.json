@@ -1,0 +1,22 @@
+{
+  "nome": "Wanda Montlak Szmielew",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Abelianos",
+        "Teoria de Decidibilidade"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Absoluta",
+        "Geometria Afim",
+        "Geometria Euclidiana",
+        "Geometria Hiperbólica"
+      ]
+    }
+  ]
+}

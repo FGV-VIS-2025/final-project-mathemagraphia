@@ -1,0 +1,21 @@
+{
+  "nome": "Stephen Cole Kleene",
+  "area_principal": "Teoria da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Recursividade",
+      "subareas_especificas": [
+        "Funções Recursivas",
+        "Teoria dos Algoritmos",
+        "Máquinas de Turing"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Intucionismo",
+        "Teoria dos Conjuntos"
+      ]
+    }
+  ]
+}

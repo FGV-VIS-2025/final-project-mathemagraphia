@@ -1,0 +1,26 @@
+{
+  "nome": "Peter Michael Neumann",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos de permutação",
+        "Grupos lineares"
+      ]
+    },
+    {
+      "subarea": "Grupos Infinitos",
+      "subareas_especificas": [
+        "Grupos solúveis",
+        "Variedades de grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria Computacional de Grupos",
+      "subareas_especificas": [
+        "Algoritmos para computação com grupos de permutação finitos"
+      ]
+    }
+  ]
+}

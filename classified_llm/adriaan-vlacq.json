@@ -1,0 +1,13 @@
+{
+  "nome": "Adriaan Vlacq",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Interpolação",
+        "Logaritmos"
+      ]
+    }
+  ]
+}

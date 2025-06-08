@@ -1,0 +1,18 @@
+{
+  "nome": "Harold Calvin Marston Morse",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Teoria Morse"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Métodos Variacionais"
+      ]
+    }
+  ]
+}

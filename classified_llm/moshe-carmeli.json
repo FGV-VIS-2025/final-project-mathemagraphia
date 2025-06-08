@@ -1,0 +1,20 @@
+{
+  "nome": "Moshe (Ehezkel) Carmeli",
+  "area_principal": "Relatividade Geral",
+  "subareas": [
+    {
+      "subarea": "Teoria de Gauge",
+      "subareas_especificas": [
+        "Teoria de Yang-Mills",
+        "SL(2,C)"
+      ]
+    },
+    {
+      "subarea": "Cosmologia",
+      "subareas_especificas": [
+        "Cosmologia Relativística",
+        "Expansão do Universo"
+      ]
+    }
+  ]
+}

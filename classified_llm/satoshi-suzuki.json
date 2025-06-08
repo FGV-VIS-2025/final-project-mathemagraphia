@@ -1,0 +1,20 @@
+{
+  "nome": "Satoshi Suzuki",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Diferenciais",
+        "Anéis de Valoração Discreta"
+      ]
+    },
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Módulos Projetivos",
+        "Módulos Planos"
+      ]
+    }
+  ]
+}

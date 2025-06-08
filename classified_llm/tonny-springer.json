@@ -1,0 +1,28 @@
+{
+  "nome": "Tonny Albert Springer",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Grupos Algébricos Lineares",
+      "subareas_especificas": [
+        "Teoria de Representações",
+        "Variedades Simétricas",
+        "Álgebras de Hecke"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Grupos de Reflexão",
+        "Formas Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Álgebras de Jordan",
+      "subareas_especificas": [
+        "Grupos Excepcionais",
+        "Sistemas de Raízes"
+      ]
+    }
+  ]
+}

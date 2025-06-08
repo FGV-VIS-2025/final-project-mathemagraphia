@@ -1,0 +1,26 @@
+{
+  "nome": "Artūras Dubickas",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Aproximação de Números Algébricos",
+        "Aproximação de Logaritmos de Números Algébricos",
+        "Problema de Waring"
+      ]
+    },
+    {
+      "subarea": "Alturas de Números Algébricos",
+      "subareas_especificas": [
+        "Lehmer's problem"
+      ]
+    },
+    {
+      "subarea": "Distribuição módulo um",
+      "subareas_especificas": [
+        "Distribuição de Números Algébricos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "François-Félix Tisserand",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Problema de Três Corpos",
+        "Teoria Lunar"
+      ]
+    },
+    {
+      "subarea": "Astronomia de Observação",
+      "subareas_especificas": [
+        "Observações de Trânsito de Vênus",
+        "Observações de Estrelas Binárias",
+        "Observações de Luas de Júpiter e Saturno"
+      ]
+    }
+  ]
+}

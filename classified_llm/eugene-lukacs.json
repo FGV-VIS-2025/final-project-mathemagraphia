@@ -1,0 +1,20 @@
+{
+  "nome": "Eugene Lukacs",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria de Funções Características",
+      "subareas_especificas": [
+        "Caracterização de Distribuições",
+        "Estabilidade de Resultados de Caracterização",
+        "Equações Funcionais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Aplicações em Teoria de Funções Características"
+      ]
+    }
+  ]
+}

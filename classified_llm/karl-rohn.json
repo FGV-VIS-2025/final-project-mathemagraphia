@@ -1,0 +1,20 @@
+{
+  "nome": "Karl Friedrich Wilhelm Rohn",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria das Superfícies",
+      "subareas_especificas": [
+        "Superfícies de Kummer",
+        "Superfícies de Quárticas"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Curvas Algébricas",
+        "Superfícies Algébricas"
+      ]
+    }
+  ]
+}

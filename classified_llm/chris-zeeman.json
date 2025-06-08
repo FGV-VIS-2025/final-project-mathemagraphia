@@ -1,0 +1,19 @@
+{
+  "nome": "Erik Christopher Zeeman",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixas Dimensões",
+      "subareas_especificas": [
+        "Teoria dos Nós",
+        "Conjectura de Poincaré"
+      ]
+    },
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria das Catástrofes"
+      ]
+    }
+  ]
+}

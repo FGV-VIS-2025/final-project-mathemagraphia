@@ -1,0 +1,12 @@
+{
+  "nome": "Ernst Fiedler",
+  "area_principal": "Geometria Descritiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Analítica"
+      ]
+    }
+  ]
+}

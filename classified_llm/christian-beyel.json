@@ -1,0 +1,19 @@
+{
+  "nome": "Christian Beyel",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Descritiva"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Cúbicas"
+      ]
+    }
+  ]
+}

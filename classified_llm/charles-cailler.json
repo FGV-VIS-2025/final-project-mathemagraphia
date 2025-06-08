@@ -1,0 +1,25 @@
+{
+  "nome": "Charles Marc Élie Cailler",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoria de Funções"
+      ]
+    },
+    {
+      "subarea": "Teoria de Funções",
+      "subareas_especificas": [
+        "Frações Contínuas",
+        "Séries Hipergeométricas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo de Generalização"
+      ]
+    }
+  ]
+}

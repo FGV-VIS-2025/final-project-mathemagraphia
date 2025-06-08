@@ -1,0 +1,13 @@
+{
+  "nome": "Jesse Ramsden",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Instrumentação Astronômica",
+      "subareas_especificas": [
+        "Construção de Instrumentos",
+        "Óptica"
+      ]
+    }
+  ]
+}

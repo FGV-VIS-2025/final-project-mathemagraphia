@@ -1,0 +1,32 @@
+{
+  "nome": "Eugène Charles Catalan",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Análise Combinatória",
+      "subareas_especificas": [
+        "Números de Catalan",
+        "Triangulação de Polígonos",
+        "Combinações com Repetição"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Conjectura de Catalan"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade em Jogos"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integrais Múltiplas"
+      ]
+    }
+  ]
+}

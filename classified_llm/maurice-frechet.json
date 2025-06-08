@@ -1,0 +1,20 @@
+{
+  "nome": "René Maurice Fréchet",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Espaços Métricos",
+        "Compacidade"
+      ]
+    },
+    {
+      "subarea": "Topologia Combinatória",
+      "subareas_especificas": [
+        "Teoria de Homologia",
+        "Teorema da Curva de Jordan"
+      ]
+    }
+  ]
+}

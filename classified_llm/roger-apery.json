@@ -1,0 +1,12 @@
+{
+  "nome": "Roger Apéry",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Equação Diofantina de Apéry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Pierre-Simon Laplace",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Bayesiana",
+        "Método dos Mínimos Quadrados"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Integral",
+        "Cálculo Diferencial"
+      ]
+    }
+  ]
+}

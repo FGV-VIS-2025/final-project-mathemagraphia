@@ -1,0 +1,26 @@
+{
+  "nome": "František Wolf",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Séries de Funções Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Operadores Lineares",
+        "Perturbação de Operadores",
+        "Espectro Essencial"
+      ]
+    },
+    {
+      "subarea": "Integrais de Poisson",
+      "subareas_especificas": [
+        "Unicidade de Funções Harmônicas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "David Eugene Smith",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Educação Matemática",
+      "subareas_especificas": [
+        "Métodos de Ensino",
+        "Materiais Didáticos"
+      ]
+    },
+    {
+      "subarea": "Historiografia Matemática",
+      "subareas_especificas": [
+        "Fontes Primárias",
+        "Fontes Secundárias"
+      ]
+    }
+  ]
+}

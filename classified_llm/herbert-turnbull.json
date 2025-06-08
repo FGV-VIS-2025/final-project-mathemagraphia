@@ -1,0 +1,12 @@
+{
+  "nome": "Herbert Westren Turnbull",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Álgebra Clássica"
+      ]
+    }
+  ]
+}

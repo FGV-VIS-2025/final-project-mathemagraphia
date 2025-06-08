@@ -1,0 +1,21 @@
+{
+  "nome": "Enrique Aurelio Planchart Rotundo",
+  "area_principal": "Geometria Simplética",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Teoria de Grupos de Lie",
+        "Ações Hamiltonianas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Representações",
+      "subareas_especificas": [
+        "Representações Unitárias",
+        "Método das Órbitas de Kirillov-Kostant-Souriau"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Hypsicles of Alexandria",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Poliedros Regulares"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Poligonais",
+        "Progressões Aritméticas"
+      ]
+    }
+  ]
+}

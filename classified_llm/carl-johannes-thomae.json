@@ -1,0 +1,21 @@
+{
+  "nome": "Carl Johannes Thomae",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Funções Theta",
+        "Integrais Abelianas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Continuidade",
+        "Invariância de Dimensão"
+      ]
+    }
+  ]
+}

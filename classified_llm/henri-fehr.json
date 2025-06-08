@@ -1,0 +1,20 @@
+{
+  "nome": "Henri Fehr",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Diferencial",
+        "Geometria Vetorial"
+      ]
+    }
+  ]
+}

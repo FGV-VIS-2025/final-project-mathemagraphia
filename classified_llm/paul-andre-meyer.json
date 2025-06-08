@@ -1,0 +1,18 @@
+{
+  "nome": "Paul-André Meyer",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Teoria das Martingales",
+      "subareas_especificas": [
+        "Supermartingales"
+      ]
+    },
+    {
+      "subarea": "Processos de Markov",
+      "subareas_especificas": [
+        "Funcionais Multiplicativos e Aditivos"
+      ]
+    }
+  ]
+}

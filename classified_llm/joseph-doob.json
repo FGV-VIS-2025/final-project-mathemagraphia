@@ -1,0 +1,21 @@
+{
+  "nome": "Joseph Leo Doob",
+  "area_principal": "Probability",
+  "subareas": [
+    {
+      "subarea": "Measure Theory",
+      "subareas_especificas": [
+        "Martingales",
+        "Stochastic Processes",
+        "Potential Theory"
+      ]
+    },
+    {
+      "subarea": "Potential Theory",
+      "subareas_especificas": [
+        "Classical Potential Theory",
+        "Axiomatic Potential Theory"
+      ]
+    }
+  ]
+}

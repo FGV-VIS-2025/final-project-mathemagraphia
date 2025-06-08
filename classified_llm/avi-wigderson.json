@@ -1,0 +1,22 @@
+{
+  "nome": "Avi Wigderson",
+  "area_principal": "Teoria da Computação",
+  "subareas": [
+    {
+      "subarea": "Complexidade Computacional",
+      "subareas_especificas": [
+        "Teoria dos Grafos",
+        "Algoritmos",
+        "Criptografia",
+        "Otimização"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Fatoração",
+        "Números Primos"
+      ]
+    }
+  ]
+}

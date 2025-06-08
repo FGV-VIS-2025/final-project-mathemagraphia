@@ -1,0 +1,29 @@
+{
+  "nome": "Giulio Benedetto Isacco Vivanti",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Infinitesimal",
+        "Séries de Potências",
+        "Funções de Duas Variáveis",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Complexos",
+        "Teoria Algébrica dos Números"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica",
+        "Geometria Diferencial"
+      ]
+    }
+  ]
+}

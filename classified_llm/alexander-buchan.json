@@ -1,0 +1,20 @@
+{
+  "nome": "Alexander Fairley Buchan",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Aproximação de Funções",
+      "subareas_especificas": [
+        "Interpolação",
+        "Método dos Mínimos Quadrados"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Métodos Numéricos para Equações Diferenciais Ordinárias",
+        "Métodos Numéricos para Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

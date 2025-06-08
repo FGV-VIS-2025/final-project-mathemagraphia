@@ -1,0 +1,20 @@
+{
+  "nome": "Sripati",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Equações Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Cálculo de longitudes planetárias",
+        "Cálculo de eclipses"
+      ]
+    }
+  ]
+}

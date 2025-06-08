@@ -1,0 +1,29 @@
+{
+  "nome": "Theodor Estermann",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Método do círculo",
+        "Teorema de Vinogradov",
+        "Problema de Waring",
+        "Zeros de Siegel",
+        "Distribuição de primos"
+      ]
+    },
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Soma de quadrados",
+        "Soma de produtos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Somatórios de Kloosterman"
+      ]
+    }
+  ]
+}

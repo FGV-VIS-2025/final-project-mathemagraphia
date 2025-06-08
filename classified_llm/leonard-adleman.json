@@ -1,0 +1,20 @@
+{
+  "nome": "Leonard Adleman",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Criptografia",
+      "subareas_especificas": [
+        "Criptografia de chave pública",
+        "Fatoração"
+      ]
+    },
+    {
+      "subarea": "Complexidade Computacional",
+      "subareas_especificas": [
+        "Algoritmos",
+        "Problemas NP-completos"
+      ]
+    }
+  ]
+}

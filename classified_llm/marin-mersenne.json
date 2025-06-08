@@ -1,0 +1,12 @@
+{
+  "nome": "Marin Mersenne",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": [
+        "Números de Mersenne"
+      ]
+    }
+  ]
+}

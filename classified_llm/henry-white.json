@@ -1,0 +1,19 @@
+{
+  "nome": "Henry Seely White",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de invariantes",
+      "subareas_especificas": [
+        "Curvas algébricas",
+        "Curvas torcidas"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Sistemas lineares de curvas em superfícies algébricas"
+      ]
+    }
+  ]
+}

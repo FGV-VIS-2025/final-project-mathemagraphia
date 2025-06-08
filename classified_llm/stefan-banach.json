@@ -1,0 +1,19 @@
+{
+  "nome": "Stefan Banach",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria de operadores lineares",
+        "Teoria da medida"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebras de Banach"
+      ]
+    }
+  ]
+}

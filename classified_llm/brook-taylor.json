@@ -1,0 +1,24 @@
+{
+  "nome": "Brook Taylor",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Séries infinitas",
+      "subareas_especificas": [
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Equações diferenciais",
+      "subareas_especificas": [
+        "Soluções singulares"
+      ]
+    },
+    {
+      "subarea": "Geometria projetiva",
+      "subareas_especificas": [
+        "Pontos de fuga"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Nicolas Chuquet",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Equações quadráticas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números amigáveis"
+      ]
+    }
+  ]
+}

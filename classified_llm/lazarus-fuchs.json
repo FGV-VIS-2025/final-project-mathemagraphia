@@ -1,0 +1,27 @@
+{
+  "nome": "Lazarus Immanuel Fuchs",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Lineares",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares Ordinárias",
+        "Equações Diferenciais Lineares Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Complexas",
+        "Funções Elípticas",
+        "Funções Modulares"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grupos",
+      "subareas_especificas": [
+        "Grupos Fuchsianos"
+      ]
+    }
+  ]
+}

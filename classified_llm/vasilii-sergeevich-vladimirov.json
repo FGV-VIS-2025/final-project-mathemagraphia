@@ -1,0 +1,31 @@
+{
+  "nome": "Vasilii Sergeevich Vladimirov",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Transporte",
+        "Métodos Numéricos",
+        "Teoria de Distribuições"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções de Várias Variáveis Complexas",
+        "Transformadas Integrais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Funções Generalizadas",
+      "subareas_especificas": [
+        "Transformada de Fourier",
+        "Transformada de Laplace",
+        "Transformada de Cauchy-Bochner",
+        "Transformada de Hilbert",
+        "Transformada de Poisson"
+      ]
+    }
+  ]
+}

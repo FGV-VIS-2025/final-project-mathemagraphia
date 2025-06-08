@@ -1,0 +1,27 @@
+{
+  "nome": "Mauro Picone",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos para Equações Diferenciais",
+        "Cálculo Numérico"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Equações Integrais",
+        "Cálculo das Variações"
+      ]
+    }
+  ]
+}

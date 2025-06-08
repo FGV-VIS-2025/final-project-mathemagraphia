@@ -1,0 +1,21 @@
+{
+  "nome": "Ovide Arino",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais com Atraso",
+      "subareas_especificas": [
+        "Oscilações",
+        "Equações Diferenciais Funcionais em Espaços de Dimensão Infinita",
+        "Equações Diferenciais com Atraso Dependentes do Estado"
+      ]
+    },
+    {
+      "subarea": "Dinâmica de Populações",
+      "subareas_especificas": [
+        "Modelos de Proliferação Celular",
+        "Pescas"
+      ]
+    }
+  ]
+}

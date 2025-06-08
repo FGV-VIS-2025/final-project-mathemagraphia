@@ -1,0 +1,27 @@
+{
+  "nome": "Rudolf Friedrich Alfred Clebsch",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Geometria Projetiva"
+      ]
+    },
+    {
+      "subarea": "Funções Abelianas",
+      "subareas_especificas": [
+        "Integrais Abelianas",
+        "Teoria das Funções de Riemann"
+      ]
+    },
+    {
+      "subarea": "Geometria das Curvas Algébricas",
+      "subareas_especificas": [
+        "Teorema de Abel",
+        "Superfícies Racionais"
+      ]
+    }
+  ]
+}

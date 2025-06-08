@@ -1,0 +1,12 @@
+{
+  "nome": "Ernst Max Mohr",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Representações de Grupos"
+      ]
+    }
+  ]
+}

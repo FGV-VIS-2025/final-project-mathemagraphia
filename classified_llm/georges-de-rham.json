@@ -1,0 +1,22 @@
+{
+  "nome": "Georges de Rham",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Homologia",
+      "subareas_especificas": [
+        "Cadeias",
+        "Complexos",
+        "Cohomologia"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Formas Diferenciais",
+        "Variedades Diferenciáveis",
+        "Correntes"
+      ]
+    }
+  ]
+}

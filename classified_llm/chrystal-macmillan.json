@@ -1,0 +1,20 @@
+{
+  "nome": "Jessie Chrystal MacMillan",
+  "area_principal": "Matemática",
+  "subareas": [
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Cálculo",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica",
+        "Geometria Diferencial"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nome": "Alan Mercer",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de Markov",
+        "Teoria das Filas",
+        "Caminhadas Aleatórias"
+      ]
+    }
+  ]
+}

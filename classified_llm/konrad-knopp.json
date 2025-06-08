@@ -1,0 +1,27 @@
+{
+  "nome": "Konrad Hermann Theodor Knopp",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Infinitas",
+      "subareas_especificas": [
+        "Convergência de Séries",
+        "Somatório de Euler"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções Complexas",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Mapeamento Conforme"
+      ]
+    },
+    {
+      "subarea": "Transformadas Integrais",
+      "subareas_especificas": [
+        "Transformada de Laplace",
+        "Transformada de Abel"
+      ]
+    }
+  ]
+}

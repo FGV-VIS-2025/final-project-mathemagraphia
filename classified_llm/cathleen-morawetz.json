@@ -1,0 +1,26 @@
+{
+  "nome": "Cathleen Synge Morawetz",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Teoria de Ondas",
+      "subareas_especificas": [
+        "Propagação de Ondas",
+        "Dispersão de Ondas"
+      ]
+    },
+    {
+      "subarea": "Dinâmica de Fluidos",
+      "subareas_especificas": [
+        "Escoamento Transônico",
+        "Ondas de Choque"
+      ]
+    }
+  ]
+}

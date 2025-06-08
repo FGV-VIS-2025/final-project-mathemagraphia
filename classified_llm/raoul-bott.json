@@ -1,0 +1,33 @@
+{
+  "nome": "Raoul Bott",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Álgebra de Lie"
+      ]
+    },
+    {
+      "subarea": "Teoria de Morse",
+      "subareas_especificas": [
+        "Funções de Morse",
+        "Teoria de Morse Equivariante"
+      ]
+    },
+    {
+      "subarea": "K-teoria",
+      "subareas_especificas": [
+        "Teoria do índice de operadores"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Fibrados",
+        "Cohomologia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "András P Huhn",
+  "area_principal": "Álgebra Universal",
+  "subareas": [
+    {
+      "subarea": "Teoria de Reticulados",
+      "subareas_especificas": [
+        "Reticulados Finitamente Apresentados",
+        "Automorfismos de Reticulados",
+        "Problemas de Palavras em Reticulados",
+        "Produtos Livres Amalgamados de Reticulados"
+      ]
+    },
+    {
+      "subarea": "Teoria de Módulos",
+      "subareas_especificas": [
+        "Submódulos Livres"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "William Braikenridge",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Cônicas",
+        "Teorema de Pascal"
+      ]
+    }
+  ]
+}

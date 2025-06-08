@@ -1,0 +1,27 @@
+{
+  "nome": "David van Dantzig",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Álgebra Topológica",
+      "subareas_especificas": [
+        "Grupos Topológicos",
+        "Anéis Topológicos",
+        "Corpos Topológicos"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Aplicações à Física"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Estatística"
+      ]
+    }
+  ]
+}

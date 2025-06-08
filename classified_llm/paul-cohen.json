@@ -1,0 +1,19 @@
+{
+  "nome": "Paul Joseph Cohen",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Axiomatização da Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axioma da Escolha",
+        "Hipótese do Contínuo"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Modelos",
+      "subareas_especificas": [
+        "Forcing"
+      ]
+    }
+  ]
+}

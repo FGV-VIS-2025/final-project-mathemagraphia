@@ -1,0 +1,25 @@
+{
+  "nome": "Paul Joseph Kelly",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Isometrias"
+      ]
+    },
+    {
+      "subarea": "Geometria Convexa",
+      "subareas_especificas": [
+        "Corpos de Largura Constante"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Árvores",
+        "Mapeamentos relacionados a grafos"
+      ]
+    }
+  ]
+}

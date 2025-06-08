@@ -1,0 +1,19 @@
+{
+  "nome": "Giuseppe Biancani",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Cosmografia",
+      "subareas_especificas": [
+        "Modelos Geocêntricos",
+        "Modelos Heliocêntricos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Shen Kua",
+  "area_principal": "Matemática Discreta",
+  "subareas": [
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Contagem",
+        "Probabilidade"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Divisibilidade"
+      ]
+    }
+  ]
+}

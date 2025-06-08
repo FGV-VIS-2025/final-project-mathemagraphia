@@ -1,0 +1,13 @@
+{
+  "nome": "Agner Krarup Erlang",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria das Filas",
+      "subareas_especificas": [
+        "Processos estocásticos",
+        "Distribuição de Poisson"
+      ]
+    }
+  ]
+}

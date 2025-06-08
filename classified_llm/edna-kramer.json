@@ -1,0 +1,18 @@
+{
+  "nome": "Edna Ernestine Kramer Lassar",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções Poligênicas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Grupos de Transformações Lineares Fracionárias"
+      ]
+    }
+  ]
+}

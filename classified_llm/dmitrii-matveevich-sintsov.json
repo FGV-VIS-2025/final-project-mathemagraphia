@@ -1,0 +1,21 @@
+{
+  "nome": "Dmitrii Matveevich Sintsov",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Conexões",
+      "subareas_especificas": [
+        "Geometria de Superfícies",
+        "Equações Diferenciais Parciais de Primeira Ordem"
+      ]
+    },
+    {
+      "subarea": "Geometria Não-Holonômica",
+      "subareas_especificas": [
+        "Equações de Pfaff",
+        "Curvatura Gaussiana",
+        "Linhas Assintóticas"
+      ]
+    }
+  ]
+}

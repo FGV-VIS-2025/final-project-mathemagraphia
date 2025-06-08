@@ -1,0 +1,20 @@
+{
+  "nome": "Raphaël Salem",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Convergência quase em toda parte",
+        "Conjuntos de unicidade",
+        "Aplicações do cálculo de probabilidade"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Medidas aleatórias"
+      ]
+    }
+  ]
+}

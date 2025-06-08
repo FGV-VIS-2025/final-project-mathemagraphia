@@ -1,0 +1,13 @@
+{
+  "nome": "William Hopkins",
+  "area_principal": "Geofísica",
+  "subareas": [
+    {
+      "subarea": "Modelagem Matemática em Geologia",
+      "subareas_especificas": [
+        "Modelagem matemática de processos geológicos",
+        "Aplicações de matemática em geologia"
+      ]
+    }
+  ]
+}

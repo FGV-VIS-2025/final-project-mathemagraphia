@@ -1,0 +1,13 @@
+{
+  "nome": "Jan Jansz de Jonge Stampioen",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Algébricas",
+      "subareas_especificas": [
+        "Equações Cúbicas",
+        "Equações Quárticas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Annie Louise MacKinnon Fitch",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Formas Binárias Concomitantes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Hans Rademacher",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Funções Modulares",
+        "Funções de Partição",
+        "Somatórios de Dedekind"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Corpos de Números Algébricos",
+        "Problema de Goldbach"
+      ]
+    }
+  ]
+}

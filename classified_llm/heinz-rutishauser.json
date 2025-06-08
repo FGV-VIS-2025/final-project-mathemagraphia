@@ -1,0 +1,19 @@
+{
+  "nome": "Heinz Rutishauser",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Método de Newton",
+        "Algoritmo qd"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Meromorfas"
+      ]
+    }
+  ]
+}

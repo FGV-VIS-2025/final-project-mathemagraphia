@@ -1,0 +1,28 @@
+{
+  "nome": "Norman Levinson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Séries de Fourier",
+        "Integrais de Fourier",
+        "Transformadas de Fourier"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Analítica",
+      "subareas_especificas": [
+        "Hipótese de Riemann",
+        "Função Zeta de Riemann"
+      ]
+    }
+  ]
+}

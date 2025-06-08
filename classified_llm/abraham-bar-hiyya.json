@@ -1,0 +1,19 @@
+{
+  "nome": "Abraham bar Hiyya Ha-Nasi",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Quadrática",
+      "subareas_especificas": [
+        "Equações Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Euclidiana",
+        "Geometria Esférica"
+      ]
+    }
+  ]
+}

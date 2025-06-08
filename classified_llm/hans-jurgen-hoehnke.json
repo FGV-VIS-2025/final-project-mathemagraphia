@@ -1,0 +1,22 @@
+{
+  "nome": "Hans-Jürgen Hoehnke",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Congruências de Semigrupos",
+        "Teoria de Transformação de Semigrupos",
+        "Radicais de Semigrupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis Primários",
+        "Radicais de Anéis",
+        "Teoria de Módulos"
+      ]
+    }
+  ]
+}

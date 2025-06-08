@@ -1,0 +1,34 @@
+{
+  "nome": "Esteban Terradas i Illa",
+  "area_principal": "Mecânica Racional",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Mecânica de corpos rígidos",
+        "Mecânica de fluidos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações diferenciais ordinárias",
+        "Equações diferenciais parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Relatividade",
+      "subareas_especificas": [
+        "Relatividade Restrita",
+        "Relatividade Geral"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Termodinâmica",
+        "Física Estatística"
+      ]
+    }
+  ]
+}

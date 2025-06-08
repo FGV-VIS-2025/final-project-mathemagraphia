@@ -1,0 +1,19 @@
+{
+  "nome": "Giovanni Benedetto Ceva",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Teorema de Ceva",
+        "Teorema de Menelau"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Métodos infinitesimais"
+      ]
+    }
+  ]
+}

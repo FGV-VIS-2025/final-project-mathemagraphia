@@ -1,0 +1,21 @@
+{
+  "nome": "Enrico D'Ovidio",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria não euclidiana",
+      "subareas_especificas": [
+        "Geometria hiperbólica",
+        "Geometria elíptica"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Formas binárias",
+        "Cônicas",
+        "Quádricas"
+      ]
+    }
+  ]
+}

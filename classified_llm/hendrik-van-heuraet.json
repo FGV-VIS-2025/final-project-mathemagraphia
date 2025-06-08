@@ -1,0 +1,13 @@
+{
+  "nome": "Hendrik van Heuraet",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Retificação de Curvas",
+        "Quadratura"
+      ]
+    }
+  ]
+}

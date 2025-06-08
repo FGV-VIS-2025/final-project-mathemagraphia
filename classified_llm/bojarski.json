@@ -1,0 +1,22 @@
+{
+  "nome": "Bogdan Tadeusz Bojarski",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares",
+        "Problemas de Valor de Contorno",
+        "Teoria de Mapeamentos Quase-Conformes",
+        "Espaços de Sobolev"
+      ]
+    },
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Séries Trigonométricas",
+        "Funções de Variável Real"
+      ]
+    }
+  ]
+}

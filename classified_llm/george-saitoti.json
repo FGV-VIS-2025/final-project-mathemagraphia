@@ -1,0 +1,13 @@
+{
+  "nome": "George Musengi Saitoti",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria K",
+      "subareas_especificas": [
+        "Teoria K mod-2",
+        "Espaços de Laço"
+      ]
+    }
+  ]
+}

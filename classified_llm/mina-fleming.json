@@ -1,0 +1,20 @@
+{
+  "nome": "Williamina Paton Fleming",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrometria",
+      "subareas_especificas": [
+        "Fotometria",
+        "Espectroscopia estelar"
+      ]
+    },
+    {
+      "subarea": "Catalogação de Estrelas",
+      "subareas_especificas": [
+        "Classificação espectral",
+        "Fotografia astronômica"
+      ]
+    }
+  ]
+}

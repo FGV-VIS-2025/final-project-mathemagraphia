@@ -1,0 +1,14 @@
+{
+  "nome": "Fatma Moalla",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Finsleriana",
+      "subareas_especificas": [
+        "Espaços de Finsler completos",
+        "Curvatura de Ricci positiva",
+        "Pontos conjugados"
+      ]
+    }
+  ]
+}

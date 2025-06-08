@@ -1,0 +1,18 @@
+{
+  "nome": "Vladimir Ivanovich Smirnov",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções Conjugadas em Espaços Euclidianos Multidimensionais"
+      ]
+    }
+  ]
+}

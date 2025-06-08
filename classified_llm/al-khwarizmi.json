@@ -1,0 +1,20 @@
+{
+  "nome": "Abu Ja'far Muhammad ibn Musa Al-Khwarizmi",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Equações Lineares",
+        "Equações Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Números Naturais",
+        "Operações com Números"
+      ]
+    }
+  ]
+}

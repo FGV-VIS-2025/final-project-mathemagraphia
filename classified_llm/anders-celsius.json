@@ -1,0 +1,26 @@
+{
+  "nome": "Anders Celsius",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrometria",
+      "subareas_especificas": [
+        "Observações astronômicas",
+        "Medidas de meridianos"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Movimento da Lua",
+        "Forma da Terra"
+      ]
+    },
+    {
+      "subarea": "Termometria",
+      "subareas_especificas": [
+        "Escalas de temperatura"
+      ]
+    }
+  ]
+}

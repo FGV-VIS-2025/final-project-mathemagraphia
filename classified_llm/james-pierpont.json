@@ -1,0 +1,19 @@
+{
+  "nome": "James P Pierpont",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Teoria de Equações"
+      ]
+    },
+    {
+      "subarea": "Teoria de Funções de Variável Real",
+      "subareas_especificas": [
+        "Integração",
+        "Funções Contínuas"
+      ]
+    }
+  ]
+}

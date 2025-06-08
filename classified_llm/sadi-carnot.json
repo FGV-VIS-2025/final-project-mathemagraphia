@@ -1,0 +1,14 @@
+{
+  "nome": "Nicolas Léonard Sadi Carnot",
+  "area_principal": "Termodinâmica",
+  "subareas": [
+    {
+      "subarea": "Termodinâmica Clássica",
+      "subareas_especificas": [
+        "Máquinas Térmicas",
+        "Ciclos Termodinâmicos",
+        "Calor e Trabalho"
+      ]
+    }
+  ]
+}

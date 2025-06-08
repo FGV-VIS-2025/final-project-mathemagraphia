@@ -1,0 +1,28 @@
+{
+  "nome": "Vijay Kumar Patodi",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Teoria de Riemann-Roch-Hirzebruch",
+        "Curvatura",
+        "Formas de Laplace"
+      ]
+    },
+    {
+      "subarea": "Teoria de Operadores Elípticos",
+      "subareas_especificas": [
+        "Índice de Operadores Elípticos",
+        "Equação do Calor"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Classes de Pontryagin",
+        "Triangulações"
+      ]
+    }
+  ]
+}

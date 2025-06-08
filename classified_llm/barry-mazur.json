@@ -1,0 +1,26 @@
+{
+  "nome": "Barry Charles Mazur",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Curvas Modulares",
+        "Variedades Algébricas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Curvas Elípticas",
+      "subareas_especificas": [
+        "Torção de Pontos Racionais",
+        "Conjectura de Taniyama-Shimura"
+      ]
+    },
+    {
+      "subarea": "Teoria de Iwasawa",
+      "subareas_especificas": [
+        "Conjectura Principal"
+      ]
+    }
+  ]
+}

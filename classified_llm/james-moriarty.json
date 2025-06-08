@@ -1,0 +1,13 @@
+{
+  "nome": "James Moriarty",
+  "area_principal": "Teoria dos Jogos",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Jogos",
+      "subareas_especificas": [
+        "Jogos Cooperativos",
+        "Jogos Não-Cooperativos"
+      ]
+    }
+  ]
+}

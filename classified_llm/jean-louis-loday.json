@@ -1,0 +1,25 @@
+{
+  "nome": "Jean-Louis Loday",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "K-theory",
+      "subareas_especificas": [
+        "Álgebra K-Teórica"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Homotopia",
+        "Grupos de Whitehead"
+      ]
+    },
+    {
+      "subarea": "Homologia Cíclica",
+      "subareas_especificas": [
+        "Álgebra Homológica"
+      ]
+    }
+  ]
+}

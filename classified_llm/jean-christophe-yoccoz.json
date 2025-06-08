@@ -1,0 +1,15 @@
+{
+  "nome": "Jean-Christophe Yoccoz",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Estabilidade",
+        "Dinâmica Hiperbólica",
+        "Dinâmica Quase-Periódica",
+        "Teoria Ergódica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Simon Mayr",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Observação Astronômica",
+      "subareas_especificas": [
+        "Cometas",
+        "Planetas",
+        "Galáxias"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Órbitas de Satélites"
+      ]
+    }
+  ]
+}

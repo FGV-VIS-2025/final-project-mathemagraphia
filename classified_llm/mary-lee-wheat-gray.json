@@ -1,0 +1,14 @@
+{
+  "nome": "Mary Lee Wheat Gray",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Anéis",
+        "Teoria de Módulos",
+        "Categorias Abelianos"
+      ]
+    }
+  ]
+}

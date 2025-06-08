@@ -1,0 +1,13 @@
+{
+  "nome": "Nathan Joseph Harry Divinsky",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Teoria de Radicais",
+        "Anéis Comutativos"
+      ]
+    }
+  ]
+}

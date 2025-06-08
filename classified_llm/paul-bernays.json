@@ -1,0 +1,19 @@
+{
+  "nome": "Paul Isaac Bernays",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Formas Quadráticas Binárias"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Teoria da Prova"
+      ]
+    }
+  ]
+}

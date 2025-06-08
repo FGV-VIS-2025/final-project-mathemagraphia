@@ -1,0 +1,27 @@
+{
+  "nome": "Menahem Max Schiffer",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Univalentes",
+      "subareas_especificas": [
+        "Representação Conforme",
+        "Variações de Schiffer"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais Elípticas",
+      "subareas_especificas": [
+        "Funções Kernel",
+        "Métodos Variacionais"
+      ]
+    },
+    {
+      "subarea": "Teoria Geométrica das Funções",
+      "subareas_especificas": [
+        "Superfícies de Riemann",
+        "Problemas Extremos"
+      ]
+    }
+  ]
+}

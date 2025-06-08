@@ -1,0 +1,20 @@
+{
+  "nome": "Pierre Humbert",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Funções de Lamé",
+        "Funções de Mathieu"
+      ]
+    },
+    {
+      "subarea": "Cálculo Simbólico",
+      "subareas_especificas": [
+        "Aplicações à Física Matemática"
+      ]
+    }
+  ]
+}

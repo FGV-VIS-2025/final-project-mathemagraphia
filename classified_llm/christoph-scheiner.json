@@ -1,0 +1,21 @@
+{
+  "nome": "Christoph Scheiner",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Observação Astronômica",
+      "subareas_especificas": [
+        "Sunspots",
+        "Telescopia",
+        "Instrumentos Astronômicos"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Refração",
+        "Pantografia"
+      ]
+    }
+  ]
+}

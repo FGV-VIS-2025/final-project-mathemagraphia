@@ -1,0 +1,19 @@
+{
+  "nome": "Clarisse Doris Hellman",
+  "area_principal": "História da Ciência",
+  "subareas": [
+    {
+      "subarea": "História da Astronomia",
+      "subareas_especificas": [
+        "Cometas",
+        "Astronomia do século XVI"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Historiografia da matemática"
+      ]
+    }
+  ]
+}

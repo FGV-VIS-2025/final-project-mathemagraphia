@@ -1,0 +1,19 @@
+{
+  "nome": "Mary Frances Winston Newson",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Lamé",
+        "Séries Hipergeométricas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais"
+      ]
+    }
+  ]
+}

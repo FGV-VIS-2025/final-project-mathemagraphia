@@ -1,0 +1,47 @@
+{
+  "nome": "Emil Klaus Julius Fuchs",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Forças Coesivas em Metais",
+        "Constantes Elásticas de Metais",
+        "Calor Específico de Metais",
+        "Condutividade de Filmes Metálicos Finos"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Sistemas Condensados"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Equações de Campo Quantizadas"
+      ]
+    },
+    {
+      "subarea": "Física Nuclear",
+      "subareas_especificas": [
+        "Estabilidade Nuclear",
+        "Método Estatístico em Teoria Nuclear",
+        "Antissimetrização de Funções de Onda de Sistemas Nucleares"
+      ]
+    },
+    {
+      "subarea": "Teoria da Relatividade",
+      "subareas_especificas": [
+        "Centro de Massa na Relatividade"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Caracteres de Simetria"
+      ]
+    }
+  ]
+}

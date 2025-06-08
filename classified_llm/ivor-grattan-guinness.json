@@ -1,0 +1,28 @@
+{
+  "nome": "Ivor Owen Grattan-Guinness",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries Trigonométricas",
+        "Convergência de Séries"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida de Lebesgue",
+        "Integração de Lebesgue"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Análise",
+      "subareas_especificas": [
+        "Números Reais",
+        "Limites e Continuidade",
+        "Diferenciação e Integração"
+      ]
+    }
+  ]
+}

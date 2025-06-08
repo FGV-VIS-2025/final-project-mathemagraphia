@@ -1,0 +1,12 @@
+{
+  "nome": "Bhaskara I",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Aproximações de funções trigonométricas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Gordon Bamford Preston",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Semigrupos",
+      "subareas_especificas": [
+        "Teoria de Semigrupos Inversos"
+      ]
+    }
+  ]
+}

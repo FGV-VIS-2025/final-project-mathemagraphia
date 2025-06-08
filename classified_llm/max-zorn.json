@@ -1,0 +1,27 @@
+{
+  "nome": "Max August Zorn",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Anéis",
+        "Corpos",
+        "Álgebras"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axioma da Escolha",
+        "Zorn's Lemma"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach"
+      ]
+    }
+  ]
+}

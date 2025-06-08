@@ -1,0 +1,18 @@
+{
+  "nome": "Francesco Maria Grimaldi",
+  "area_principal": "Óptica",
+  "subareas": [
+    {
+      "subarea": "Difração",
+      "subareas_especificas": [
+        "Difração de luz"
+      ]
+    },
+    {
+      "subarea": "Interferência",
+      "subareas_especificas": [
+        "Interferência de luz"
+      ]
+    }
+  ]
+}

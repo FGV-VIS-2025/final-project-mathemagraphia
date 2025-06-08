@@ -1,0 +1,26 @@
+{
+  "nome": "Jovan Karamata",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Teoria da Somabilidade",
+        "Teoria Tauberiana"
+      ]
+    },
+    {
+      "subarea": "Integrais",
+      "subareas_especificas": [
+        "Integrais de Stieltjes"
+      ]
+    },
+    {
+      "subarea": "Funções",
+      "subareas_especificas": [
+        "Funções Regularmente Variáveis",
+        "Funções Lentamente Variáveis"
+      ]
+    }
+  ]
+}

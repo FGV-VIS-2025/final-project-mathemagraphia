@@ -1,0 +1,12 @@
+{
+  "nome": "Ida Martha Metcalf",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Dualidade Geométrica"
+      ]
+    }
+  ]
+}

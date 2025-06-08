@@ -1,0 +1,27 @@
+{
+  "nome": "William Gemmell Cochran",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Estimação"
+      ]
+    },
+    {
+      "subarea": "Delineamento Experimental",
+      "subareas_especificas": [
+        "Delineamentos em Blocos",
+        "Delineamentos Fatoriais"
+      ]
+    },
+    {
+      "subarea": "Amostragem",
+      "subareas_especificas": [
+        "Amostragem Aleatória Simples",
+        "Amostragem Estratificada"
+      ]
+    }
+  ]
+}

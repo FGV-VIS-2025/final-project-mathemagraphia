@@ -1,0 +1,15 @@
+{
+  "nome": "Roger Paman",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Fundamentos do Cálculo",
+        "Limites",
+        "Derivadas",
+        "Integrais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Henry Jack",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integrais Múltiplas",
+        "Integrais de Matrizes"
+      ]
+    },
+    {
+      "subarea": "Polinômios Simétricos",
+      "subareas_especificas": [
+        "Polinômios de Jack",
+        "Teoria de Representações do Grupo Simétrico"
+      ]
+    }
+  ]
+}

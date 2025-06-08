@@ -1,0 +1,19 @@
+{
+  "nome": "Thomas Hobbes",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Método dos Indivisíveis"
+      ]
+    }
+  ]
+}

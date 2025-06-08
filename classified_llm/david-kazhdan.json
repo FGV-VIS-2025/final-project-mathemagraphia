@@ -1,0 +1,27 @@
+{
+  "nome": "David A Kazhdan",
+  "area_principal": "Teoria de Representações",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Lie p-ádicos",
+        "Representações de Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebras de Hecke",
+        "Álgebras de Lie"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Automórficas",
+        "Correspondência de Langlands"
+      ]
+    }
+  ]
+}

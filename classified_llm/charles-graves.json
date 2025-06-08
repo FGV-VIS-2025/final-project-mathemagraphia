@@ -1,0 +1,19 @@
+{
+  "nome": "Charles Graves",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Superfícies de Segundo Grau"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria esférica"
+      ]
+    }
+  ]
+}

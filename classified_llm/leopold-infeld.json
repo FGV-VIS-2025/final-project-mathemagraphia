@@ -1,0 +1,25 @@
+{
+  "nome": "Leopold Infeld",
+  "area_principal": "Relatividade Geral",
+  "subareas": [
+    {
+      "subarea": "Teoria da Gravitação",
+      "subareas_especificas": [
+        "Equações de movimento",
+        "Problema de n-corpos"
+      ]
+    },
+    {
+      "subarea": "Eletrodinâmica",
+      "subareas_especificas": [
+        "Eletrodinâmica de Born-Infeld"
+      ]
+    },
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Quantização de equações de campo"
+      ]
+    }
+  ]
+}

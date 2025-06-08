@@ -1,0 +1,13 @@
+{
+  "nome": "Alexander Barrie Grieve",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Quádricas"
+      ]
+    }
+  ]
+}

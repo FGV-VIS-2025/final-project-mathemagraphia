@@ -1,0 +1,21 @@
+{
+  "nome": "Rudolf Skuherský",
+  "area_principal": "Geometria Descritiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Perspectiva Orthográfica",
+        "Perspectiva Isométrica",
+        "Perspectiva Oblíqua"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Coordenadas",
+        "Vetores"
+      ]
+    }
+  ]
+}

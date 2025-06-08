@@ -1,0 +1,21 @@
+{
+  "nome": "Charles Ernest Weatherburn",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Tensor Calculus",
+        "Conexões",
+        "Curvatura"
+      ]
+    },
+    {
+      "subarea": "Análise Vetorial",
+      "subareas_especificas": [
+        "Cálculo Vetorial",
+        "Aplicações em Física"
+      ]
+    }
+  ]
+}

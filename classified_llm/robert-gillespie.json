@@ -1,0 +1,24 @@
+{
+  "nome": "Robert Pollock Gillespie",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integrais Simples",
+        "Integrais Múltiplas",
+        "Integrais de Linha",
+        "Integrais de Superfície",
+        "Integral de Riemann"
+      ]
+    },
+    {
+      "subarea": "Derivação Parcial",
+      "subareas_especificas": [
+        "Derivadas Parciais de Primeira Ordem",
+        "Derivadas Parciais de Segunda Ordem",
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

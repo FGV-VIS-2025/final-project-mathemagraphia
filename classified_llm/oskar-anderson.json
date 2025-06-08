@@ -1,0 +1,18 @@
+{
+  "nome": "Oskar Johann Viktor Anderson",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise de Séries Temporais",
+      "subareas_especificas": [
+        "Métodos de Variância-Diferença"
+      ]
+    },
+    {
+      "subarea": "Estatística Não-Paramétrica",
+      "subareas_especificas": [
+        "Métodos Não-Paramétricos"
+      ]
+    }
+  ]
+}

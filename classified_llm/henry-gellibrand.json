@@ -1,0 +1,19 @@
+{
+  "nome": "Henry Gellibrand",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": [
+        "Navegação",
+        "Astronomia"
+      ]
+    },
+    {
+      "subarea": "Tabelas Trigonométricas",
+      "subareas_especificas": [
+        "Logaritmos"
+      ]
+    }
+  ]
+}

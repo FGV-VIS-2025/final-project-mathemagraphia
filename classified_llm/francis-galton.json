@@ -1,0 +1,27 @@
+{
+  "nome": "Francis Galton",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise de Regressão",
+      "subareas_especificas": [
+        "Regressão Linear",
+        "Regressão Múltipla"
+      ]
+    },
+    {
+      "subarea": "Distribuições de Probabilidade",
+      "subareas_especificas": [
+        "Distribuição Normal",
+        "Distribuição Bivariada Normal"
+      ]
+    },
+    {
+      "subarea": "Métodos Estatísticos",
+      "subareas_especificas": [
+        "Métodos de Pesquisa",
+        "Análise de Dados"
+      ]
+    }
+  ]
+}

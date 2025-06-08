@@ -1,0 +1,26 @@
+{
+  "nome": "Vincenzo Flauti",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Seções Cônicas",
+        "Lugares Geométricos"
+      ]
+    },
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Geometria de Posição no Plano e no Espaço"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Alberto Barajas Celis",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Teoria da Relatividade",
+      "subareas_especificas": [
+        "Teoria da Gravitação de Birkhoff"
+      ]
+    }
+  ]
+}

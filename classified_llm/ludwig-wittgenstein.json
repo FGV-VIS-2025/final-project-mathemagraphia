@@ -1,0 +1,20 @@
+{
+  "nome": "Ludwig Josef Johann Wittgenstein",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Teoria da Computação"
+      ]
+    },
+    {
+      "subarea": "Filosofia da Matemática",
+      "subareas_especificas": [
+        "Lógica Simbólica",
+        "Epistemologia Matemática"
+      ]
+    }
+  ]
+}

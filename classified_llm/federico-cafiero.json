@@ -1,0 +1,21 @@
+{
+  "nome": "Federico Cafiero",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Aproximação Polinomial",
+        "Dependência Contínua dos Valores Iniciais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida e Integração",
+      "subareas_especificas": [
+        "Teorema da Convergência de Vitali",
+        "Teorema da Convergência de Fichera",
+        "Integração em Espaços Abstratos"
+      ]
+    }
+  ]
+}

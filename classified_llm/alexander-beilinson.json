@@ -1,0 +1,26 @@
+{
+  "nome": "Alexander Alekseevich Beilinson",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria das Categorias Derivadas",
+      "subareas_especificas": [
+        "Categorias Derivadas de Feixes Cohrentes",
+        "Dualidade de Koszul"
+      ]
+    },
+    {
+      "subarea": "Teoria da Representação",
+      "subareas_especificas": [
+        "Conjecturas de Kazhdan-Lusztig",
+        "Conjecturas de Jantzen"
+      ]
+    },
+    {
+      "subarea": "Geometria Aritmética",
+      "subareas_especificas": [
+        "Conjecturas de Beilinson"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Ernest William Hobson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Integração",
+        "Séries de Funções Ortogonais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções de Variável Real"
+      ]
+    }
+  ]
+}

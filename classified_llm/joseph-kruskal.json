@@ -1,0 +1,18 @@
+{
+  "nome": "Joseph Bernard Kruskal, Jr.",
+  "area_principal": "Teoria dos grafos",
+  "subareas": [
+    {
+      "subarea": "Árvores Geradoras Mínimas",
+      "subareas_especificas": [
+        "Algoritmo de Kruskal"
+      ]
+    },
+    {
+      "subarea": "Teoria de Ordens",
+      "subareas_especificas": [
+        "Conjuntos Bem Ordenados"
+      ]
+    }
+  ]
+}

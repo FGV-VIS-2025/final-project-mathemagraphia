@@ -1,0 +1,13 @@
+{
+  "nome": "Stefan E Warschawski",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Representação Conforme",
+      "subareas_especificas": [
+        "Mapeamentos Conformas",
+        "Equação Integral de Lichtenstein-Gershgorin"
+      ]
+    }
+  ]
+}

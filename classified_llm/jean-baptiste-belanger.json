@@ -1,0 +1,21 @@
+{
+  "nome": "Jean-Baptiste Charles Joseph Bélanger",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidráulica",
+        "Dinâmica dos Fluidos"
+      ]
+    },
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Cinemática",
+        "Dinâmica",
+        "Estática"
+      ]
+    }
+  ]
+}

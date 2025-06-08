@@ -1,0 +1,12 @@
+{
+  "nome": "Thomas Muir",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Determinantes",
+      "subareas_especificas": [
+        "Teoria de Matrizes"
+      ]
+    }
+  ]
+}

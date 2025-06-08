@@ -1,0 +1,20 @@
+{
+  "nome": "Nikolai Grigorievich Chebotaryov",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Teoria de Galois",
+        "Teoria de Corpos de Classes"
+      ]
+    },
+    {
+      "subarea": "Distribuição de Primos",
+      "subareas_especificas": [
+        "Teorema da Densidade de Chebotaryov",
+        "Progressões Aritméticas"
+      ]
+    }
+  ]
+}

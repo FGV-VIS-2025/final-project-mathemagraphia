@@ -1,0 +1,20 @@
+{
+  "nome": "Clive William Kilmister",
+  "area_principal": "Relatividade Geral",
+  "subareas": [
+    {
+      "subarea": "Teoria de Campos",
+      "subareas_especificas": [
+        "Teoria de Eddington",
+        "Teoria Quântica de Campos"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Quaternions",
+        "E-números"
+      ]
+    }
+  ]
+}

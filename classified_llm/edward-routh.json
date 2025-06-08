@@ -1,0 +1,24 @@
+{
+  "nome": "Edward John Routh",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Dinâmica",
+      "subareas_especificas": [
+        "Estabilidade Dinâmica"
+      ]
+    },
+    {
+      "subarea": "Mecânica de Corpos Rígidos",
+      "subareas_especificas": [
+        "Dinâmica de Corpos Rígidos"
+      ]
+    },
+    {
+      "subarea": "Mecânica de Partículas",
+      "subareas_especificas": [
+        "Dinâmica de Partículas"
+      ]
+    }
+  ]
+}

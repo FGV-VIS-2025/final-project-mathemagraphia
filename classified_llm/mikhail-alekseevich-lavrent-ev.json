@@ -1,0 +1,22 @@
+{
+  "nome": "Mikhail Alekseevich Lavrentev",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Mapeamentos Conformes",
+      "subareas_especificas": [
+        "Mapeamentos Quase-Conformes"
+      ]
+    },
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": []
+    }
+  ]
+}

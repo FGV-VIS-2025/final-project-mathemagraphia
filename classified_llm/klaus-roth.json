@@ -1,0 +1,12 @@
+{
+  "nome": "Klaus Friedrich Roth",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aproximação Diofantina",
+      "subareas_especificas": [
+        "Aproximação de Números Algébricos por Racionais"
+      ]
+    }
+  ]
+}

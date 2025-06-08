@@ -1,0 +1,18 @@
+{
+  "nome": "Fredrik Carl Mulertz Størmer",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Séries Trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções de Variável Complexa"
+      ]
+    }
+  ]
+}

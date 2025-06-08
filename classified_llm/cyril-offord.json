@@ -1,0 +1,20 @@
+{
+  "nome": "Albert Cyril Offord",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries Trigonométricas",
+        "Transformadas de Fourier e Hankel"
+      ]
+    },
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções Inteiras",
+        "Distribuição de Zeros"
+      ]
+    }
+  ]
+}

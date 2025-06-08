@@ -1,0 +1,36 @@
+{
+  "nome": "Leslie Fox",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Métodos Iterativos",
+      "subareas_especificas": [
+        "Métodos de Relaxação",
+        "Métodos de Gradiente"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear Numérica",
+      "subareas_especificas": [
+        "Eliminação de Gauss",
+        "Eliminação de Jordan",
+        "Métodos de Fatoração (Doolittle, Crout, Banachiewicz, Cholesky)",
+        "Métodos de Ortogonalização"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Métodos de Diferenças Finitas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos de Diferenças Finitas",
+        "Problemas Elípticos"
+      ]
+    }
+  ]
+}

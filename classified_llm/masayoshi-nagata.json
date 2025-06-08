@@ -1,0 +1,21 @@
+{
+  "nome": "Masayoshi Nagata",
+  "area_principal": "Álgebra Comutativa",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis Locais",
+        "Anéis Noetherianos",
+        "Anéis Nagata"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Algébricas",
+        "Esquemas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nome": "Leo Zippin",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Grupos",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Grupos Topológicos"
+      ]
+    }
+  ]
+}

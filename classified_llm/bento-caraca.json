@@ -1,0 +1,21 @@
+{
+  "nome": "Bento de Jesus Caraça",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais",
+        "Transformações Lineares"
+      ]
+    }
+  ]
+}

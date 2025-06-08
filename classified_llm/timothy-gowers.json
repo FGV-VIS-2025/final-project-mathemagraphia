@@ -1,0 +1,20 @@
+{
+  "nome": "William Timothy Gowers",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria dos Espaços de Banach",
+        "Problemas de Hiperplanos de Banach",
+        "Teorema de Schröder-Bernstein para Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Combinatória Infinita",
+      "subareas_especificas": [
+        "Teoria de Ramsey para Espaços Lineares"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Maurice George Kendall",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Análise de séries temporais",
+        "Análise multivariada",
+        "Análise de cluster",
+        "Correlação de postos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Geométrica"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Teoria de k-estatísticas"
+      ]
+    }
+  ]
+}

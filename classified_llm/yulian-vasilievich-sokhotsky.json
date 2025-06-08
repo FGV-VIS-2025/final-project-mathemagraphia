@@ -1,0 +1,30 @@
+{
+  "nome": "Yulian-Karl Vasilievich Sokhotsky",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Singulares"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Polinômios de Legendre",
+        "Funções de Jacobi",
+        "Funções de Lamé",
+        "Funções Elípticas",
+        "Séries Hipergeométricas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Resíduos",
+        "Singularidades Essenciais",
+        "Problemas de Valor de Contorno"
+      ]
+    }
+  ]
+}

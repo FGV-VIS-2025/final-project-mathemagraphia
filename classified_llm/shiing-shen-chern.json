@@ -1,0 +1,21 @@
+{
+  "nome": "Shiing-shen Chern",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Global",
+      "subareas_especificas": [
+        "Classes Características",
+        "Teoria de Morse",
+        "Teorema de Gauss-Bonnet"
+      ]
+    },
+    {
+      "subarea": "Geometria de Fibrados",
+      "subareas_especificas": [
+        "Conexões",
+        "Formas Diferenciais"
+      ]
+    }
+  ]
+}

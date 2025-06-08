@@ -1,0 +1,20 @@
+{
+  "nome": "Edwin Glenn Olds",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Testes de Hipóteses",
+        "Estimação"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

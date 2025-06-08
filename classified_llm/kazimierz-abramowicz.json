@@ -1,0 +1,19 @@
+{
+  "nome": "Kazimierz Abramowicz",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Hipergeométricas",
+      "subareas_especificas": [
+        "Funções com pontos singulares removíveis"
+      ]
+    },
+    {
+      "subarea": "Funções Automórficas",
+      "subareas_especificas": [
+        "Funções de várias variáveis",
+        "Grupos discretos"
+      ]
+    }
+  ]
+}

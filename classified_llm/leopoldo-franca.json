@@ -1,0 +1,22 @@
+{
+  "nome": "Leopoldo Luis Cabo Penna Franca",
+  "area_principal": "Mecânica dos Fluidos Computacional",
+  "subareas": [
+    {
+      "subarea": "Métodos de Elementos Finitos",
+      "subareas_especificas": [
+        "Método de Petrov-Galerkin",
+        "Método dos Mínimos Quadrados de Galerkin",
+        "Métodos Estabilizados"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação de Stokes",
+        "Equações de Navier-Stokes",
+        "Equação de Poisson"
+      ]
+    }
+  ]
+}

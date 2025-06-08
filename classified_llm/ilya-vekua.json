@@ -1,0 +1,19 @@
+{
+  "nome": "Ilya Nestorovich Vekua",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais Singulares",
+      "subareas_especificas": [
+        "Teoria de Funções Analíticas Generalizadas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Elasticidade",
+      "subareas_especificas": [
+        "Teoria de Cascas",
+        "Propagação de Ondas Elásticas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Robert Murphy",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações Algébricas",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Anéis Não-Comutativos",
+        "Operadores Lineares"
+      ]
+    }
+  ]
+}

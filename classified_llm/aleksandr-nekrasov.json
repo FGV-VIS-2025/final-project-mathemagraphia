@@ -1,0 +1,12 @@
+{
+  "nome": "Aleksandr Ivanovich Nekrasov",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações Integrais Não-Lineares"
+      ]
+    }
+  ]
+}

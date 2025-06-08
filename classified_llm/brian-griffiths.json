@@ -1,0 +1,19 @@
+{
+  "nome": "Brian Griffiths",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Homotopia",
+        "Variedades"
+      ]
+    },
+    {
+      "subarea": "Topologia de Baixa Dimensão",
+      "subareas_especificas": [
+        "Superfícies"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Hermann Bondi",
+  "area_principal": "Cosmologia",
+  "subareas": [
+    {
+      "subarea": "Relatividade",
+      "subareas_especificas": [
+        "Relatividade Geral",
+        "Ondas Gravitacionais"
+      ]
+    },
+    {
+      "subarea": "Matemática Aplicada",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Teoria de Ondas"
+      ]
+    }
+  ]
+}

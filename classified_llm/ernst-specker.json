@@ -1,0 +1,20 @@
+{
+  "nome": "Ernst Paul Specker",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos de Homotopia",
+        "Cohomologia"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axiomatica",
+        "Hipótese do Contínuo"
+      ]
+    }
+  ]
+}

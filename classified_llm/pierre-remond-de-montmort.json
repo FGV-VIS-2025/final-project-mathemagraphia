@@ -1,0 +1,14 @@
+{
+  "nome": "Pierre Rémond de Montmort",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade em jogos de azar",
+        "Processos estocásticos",
+        "Cálculo de probabilidades"
+      ]
+    }
+  ]
+}

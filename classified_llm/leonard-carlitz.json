@@ -1,0 +1,24 @@
+{
+  "nome": "Leonard Carlitz",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Corpos Finitos"
+      ]
+    },
+    {
+      "subarea": "Teoria Aditiva dos Números",
+      "subareas_especificas": [
+        "Somatórios Exponenciais"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Polinômios"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "Zyoiti Suetuna",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções L",
+      "subareas_especificas": [
+        "Funções Zeta",
+        "Funções L de Dirichlet",
+        "Funções L de Hecke",
+        "Funções L de Artin"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Distribuição de Primos",
+        "Problema do Divisor"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Teoria de Corpos de Classes"
+      ]
+    }
+  ]
+}

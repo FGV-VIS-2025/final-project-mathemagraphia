@@ -1,0 +1,19 @@
+{
+  "nome": "Marian Smoluchowski",
+  "area_principal": "Física Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria Cinética",
+      "subareas_especificas": [
+        "Movimento Browniano",
+        "Opalescência Crítica"
+      ]
+    },
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Equações de Smoluchowski"
+      ]
+    }
+  ]
+}

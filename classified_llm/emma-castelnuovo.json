@@ -1,0 +1,28 @@
+{
+  "nome": "Emma Castelnuovo",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Geometria Intuitiva",
+      "subareas_especificas": [
+        "Materiais concretos",
+        "Visualização",
+        "Descoberta"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade básica",
+        "Aplicações em educação"
+      ]
+    }
+  ]
+}

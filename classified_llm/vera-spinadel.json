@@ -1,0 +1,21 @@
+{
+  "nome": "Vera Martha Winitzky de Spinadel",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Números",
+      "subareas_especificas": [
+        "Números Metálicos",
+        "Sequências de Fibonacci e Pell"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Lineares",
+        "Sistemas de Equações Diferenciais",
+        "Equações Diferenciais Não-Lineares"
+      ]
+    }
+  ]
+}

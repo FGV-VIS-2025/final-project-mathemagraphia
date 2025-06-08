@@ -1,0 +1,20 @@
+{
+  "nome": "Sylvia de Neymet",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Nós",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Grupos de Homologia"
+      ]
+    },
+    {
+      "subarea": "Topologia Diferencial",
+      "subareas_especificas": [
+        "Variedades",
+        "Fibrados"
+      ]
+    }
+  ]
+}

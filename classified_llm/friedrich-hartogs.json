@@ -1,0 +1,14 @@
+{
+  "nome": "Friedrich Moritz Hartogs",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Várias Variáveis Complexas",
+      "subareas_especificas": [
+        "Teorema de Hartogs",
+        "Domínios de Hartogs",
+        "Singularidades Removíveis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Taira Honda",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Corpos de Números Algébricos",
+      "subareas_especificas": [
+        "Corpos Cíclotomicos",
+        "Variedades Abelianas"
+      ]
+    },
+    {
+      "subarea": "Grupos Formais Comutativos",
+      "subareas_especificas": [
+        "Função Zeta"
+      ]
+    }
+  ]
+}

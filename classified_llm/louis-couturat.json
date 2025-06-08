@@ -1,0 +1,25 @@
+{
+  "nome": "Louis Couturat",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Infinito"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Aritmética",
+        "Indução Matemática"
+      ]
+    },
+    {
+      "subarea": "Álgebra da Lógica",
+      "subareas_especificas": [
+        "Cálculo de Razão"
+      ]
+    }
+  ]
+}

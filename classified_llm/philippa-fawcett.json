@@ -1,0 +1,18 @@
+{
+  "nome": "Philippa Garrett Fawcett",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços Vetoriais"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Analítica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Leonard Jimmie Savage",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Bayesiana",
+      "subareas_especificas": [
+        "Testes de Hipóteses Bayesianos",
+        "Estimação Bayesiana"
+      ]
+    },
+    {
+      "subarea": "Teoria da Decisão",
+      "subareas_especificas": [
+        "Funções de Utilidade",
+        "Probabilidade Subjetiva"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Métodos Vetoriais em Geometria Métrica"
+      ]
+    }
+  ]
+}

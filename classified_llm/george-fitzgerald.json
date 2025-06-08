@@ -1,0 +1,19 @@
+{
+  "nome": "George Francis FitzGerald",
+  "area_principal": "Eletromagnetismo",
+  "subareas": [
+    {
+      "subarea": "Eletrodinâmica",
+      "subareas_especificas": [
+        "Equações de Maxwell",
+        "Ondas Eletromagnéticas"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Reflexão e Refração da Luz"
+      ]
+    }
+  ]
+}

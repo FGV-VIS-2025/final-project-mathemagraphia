@@ -1,0 +1,21 @@
+{
+  "nome": "Georg Freiherr von Vega",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Logaritmos",
+      "subareas_especificas": [
+        "Logaritmos naturais",
+        "Logaritmos comuns",
+        "Trigonometria"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números primos",
+        "Fatoração"
+      ]
+    }
+  ]
+}

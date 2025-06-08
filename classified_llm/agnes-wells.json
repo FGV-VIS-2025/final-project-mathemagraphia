@@ -1,0 +1,20 @@
+{
+  "nome": "Agnes Ermina Wells",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrometria",
+      "subareas_especificas": [
+        "movimentos próprios",
+        "velocidades radiais"
+      ]
+    },
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "posições de estrelas",
+        "magnitude"
+      ]
+    }
+  ]
+}

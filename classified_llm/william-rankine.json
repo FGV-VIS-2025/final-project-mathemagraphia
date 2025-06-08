@@ -1,0 +1,28 @@
+{
+  "nome": "William John Macquorn Rankine",
+  "area_principal": "Termodinâmica",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica dos Fluidos",
+        "Mecânica dos Sólidos"
+      ]
+    },
+    {
+      "subarea": "Teoria da Elasticidade",
+      "subareas_especificas": [
+        "Resistência dos Materiais",
+        "Teoria das Vigas"
+      ]
+    },
+    {
+      "subarea": "Transferência de Calor",
+      "subareas_especificas": [
+        "Condução",
+        "Convecção",
+        "Radiação"
+      ]
+    }
+  ]
+}

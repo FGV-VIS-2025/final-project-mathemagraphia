@@ -1,0 +1,18 @@
+{
+  "nome": "João Baptista Lavanha",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Trigonometria"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Geodésia"
+      ]
+    }
+  ]
+}

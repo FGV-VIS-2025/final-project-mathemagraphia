@@ -1,0 +1,20 @@
+{
+  "nome": "Empedocles of Acragas",
+  "area_principal": "Filosofia",
+  "subareas": [
+    {
+      "subarea": "Epistemologia",
+      "subareas_especificas": [
+        "Teoria do conhecimento",
+        "Metodologia científica"
+      ]
+    },
+    {
+      "subarea": "Metafísica",
+      "subareas_especificas": [
+        "Ontologia",
+        "Cosmologia"
+      ]
+    }
+  ]
+}

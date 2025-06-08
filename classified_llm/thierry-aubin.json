@@ -1,0 +1,22 @@
+{
+  "nome": "Thierry Émilien Flavien Aubin",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Monge-Ampère",
+        "Equações Elípticas Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Curvatura Escalar",
+        "Métricas de Kähler-Einstein",
+        "Problema de Yamabe",
+        "Desigualdade de Sobolev"
+      ]
+    }
+  ]
+}

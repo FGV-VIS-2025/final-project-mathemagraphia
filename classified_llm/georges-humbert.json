@@ -1,0 +1,19 @@
+{
+  "nome": "Marie Georges Humbert",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Abelianas",
+      "subareas_especificas": [
+        "Geometria"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções fuchsianas",
+        "Curvas algébricas"
+      ]
+    }
+  ]
+}

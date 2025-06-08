@@ -1,0 +1,25 @@
+{
+  "nome": "Gilles Personne de Roberval",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Tangentes"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integração",
+        "Método dos Indivisíveis"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Composição de Forças"
+      ]
+    }
+  ]
+}

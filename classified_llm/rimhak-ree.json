@@ -1,0 +1,19 @@
+{
+  "nome": "Rimhak Ree",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos Simples",
+        "Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Álgebra de Lie",
+      "subareas_especificas": [
+        "Álgebras de Witt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "René-Louis Baire",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Funções descontínuas",
+        "Funções de conjuntos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Conjuntos de primeira e segunda categoria",
+        "Semicontinuidade"
+      ]
+    }
+  ]
+}

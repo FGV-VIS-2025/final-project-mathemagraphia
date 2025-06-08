@@ -1,0 +1,26 @@
+{
+  "nome": "Ludwig Otto Hesse",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Curvas algébricas",
+        "Superfícies algébricas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Formas homogêneas",
+        "Determinantes"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Segunda variação"
+      ]
+    }
+  ]
+}

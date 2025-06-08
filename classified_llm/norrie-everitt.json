@@ -1,0 +1,21 @@
+{
+  "nome": "William Norrie Everitt",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Problema de Sturm-Liouville",
+        "Teoria espectral",
+        "Funções de Green"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Operadores autoadjuntos"
+      ]
+    }
+  ]
+}

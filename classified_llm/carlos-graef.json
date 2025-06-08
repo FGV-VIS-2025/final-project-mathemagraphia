@@ -1,0 +1,21 @@
+{
+  "nome": "Carlos Federico Graef Fernández",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geodésicas",
+        "Superfícies",
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Teoria de Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Sistemas Dinâmicos"
+      ]
+    }
+  ]
+}

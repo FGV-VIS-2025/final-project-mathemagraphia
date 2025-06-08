@@ -1,0 +1,20 @@
+{
+  "nome": "Myron Mathisson",
+  "area_principal": "Relatividade Geral",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Equações de movimento",
+        "Momento angular"
+      ]
+    },
+    {
+      "subarea": "Teoria de Campos",
+      "subareas_especificas": [
+        "Equações de campo",
+        "Partículas com spin"
+      ]
+    }
+  ]
+}

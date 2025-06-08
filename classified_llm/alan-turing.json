@@ -1,0 +1,28 @@
+{
+  "nome": "Alan Mathison Turing",
+  "area_principal": "Teoria da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computabilidade",
+      "subareas_especificas": [
+        "Máquinas de Turing",
+        "Funções Recursivas",
+        "Decidibilidade"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teoria dos modelos",
+        "Teoria da prova"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria dos Grupos",
+        "Teoria dos Semigrupos"
+      ]
+    }
+  ]
+}

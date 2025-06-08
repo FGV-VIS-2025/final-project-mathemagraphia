@@ -1,0 +1,20 @@
+{
+  "nome": "Heinrich Martin Georg Friedrich Weber",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Teoria Algébrica dos Números",
+        "Corpos de Classes"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos"
+      ]
+    }
+  ]
+}

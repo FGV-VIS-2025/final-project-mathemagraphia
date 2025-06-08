@@ -1,0 +1,22 @@
+{
+  "nome": "Adolphe Rome",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Grega",
+      "subareas_especificas": [
+        "Geometria",
+        "Trigonometria",
+        "Astronomia"
+      ]
+    },
+    {
+      "subarea": "Estudos de Manuscritos",
+      "subareas_especificas": [
+        "Crítica textual",
+        "Filologia clássica",
+        "Paleografia"
+      ]
+    }
+  ]
+}

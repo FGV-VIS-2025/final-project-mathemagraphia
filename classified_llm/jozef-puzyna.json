@@ -1,0 +1,31 @@
+{
+  "nome": "Józef Puzyna",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria das Funções Analíticas",
+      "subareas_especificas": [
+        "Funções Elípticas",
+        "Funções Abelianas",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Analítica em Superfícies"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Invariantes"
+      ]
+    }
+  ]
+}

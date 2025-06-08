@@ -1,0 +1,17 @@
+{
+  "nome": "Lee Alexander Lorch",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Sommabilidades de Borel",
+        "Constantes de Lebesgue"
+      ]
+    },
+    {
+      "subarea": "Funções de Bessel",
+      "subareas_especificas": []
+    }
+  ]
+}

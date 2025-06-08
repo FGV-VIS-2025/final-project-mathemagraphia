@@ -1,0 +1,28 @@
+{
+  "nome": "John Arthur Todd",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Teoria de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos finitamente apresentados",
+        "Subgrupos",
+        "Grupos de Mathieu"
+      ]
+    },
+    {
+      "subarea": "Variedades Algébricas",
+      "subareas_especificas": [
+        "Gênero aritmético",
+        "Sistemas canônicos",
+        "Polinômios de Todd"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "James Thomson",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Elementar",
+      "subareas_especificas": [
+        "Equações",
+        "Inequações",
+        "Polinômios"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Cálculo Diferencial",
+        "Cálculo Integral"
+      ]
+    }
+  ]
+}

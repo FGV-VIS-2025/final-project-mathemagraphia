@@ -1,0 +1,30 @@
+{
+  "nome": "Emma Markovna Trotskaia Lehmer",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números de Bernoulli",
+      "subareas_especificas": [
+        "Teoria dos Números"
+      ]
+    },
+    {
+      "subarea": "Crivo",
+      "subareas_especificas": [
+        "Teoria dos Números"
+      ]
+    },
+    {
+      "subarea": "Último Teorema de Fermat",
+      "subareas_especificas": [
+        "Teoria dos Números"
+      ]
+    },
+    {
+      "subarea": "Leis de reciprocidade",
+      "subareas_especificas": [
+        "Teoria dos Números"
+      ]
+    }
+  ]
+}

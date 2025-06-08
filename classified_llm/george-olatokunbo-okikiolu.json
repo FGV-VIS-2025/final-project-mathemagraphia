@@ -1,0 +1,22 @@
+{
+  "nome": "George Olatokunbo Okikiolu",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Integração de Lebesgue",
+        "Transformadas Integrais"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Operadores Integrais",
+        "Espaços L^p",
+        "Teoria de Interpolação"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Gaspard Monge",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Projeção Ortográfica"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Geometria Infinitesimal"
+      ]
+    }
+  ]
+}

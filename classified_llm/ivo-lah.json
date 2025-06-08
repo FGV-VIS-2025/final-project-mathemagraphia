@@ -1,0 +1,12 @@
+{
+  "nome": "Ivo Lah",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Números de Lah",
+      "subareas_especificas": [
+        "Interpretação Combinatória dos Números de Lah"
+      ]
+    }
+  ]
+}

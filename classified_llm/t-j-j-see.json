@@ -1,0 +1,19 @@
+{
+  "nome": "Thomas Jefferson Jackson See",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Estrelas Binárias",
+        "Estabilidade Orbital"
+      ]
+    },
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Observação Astronômica"
+      ]
+    }
+  ]
+}

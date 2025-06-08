@@ -1,0 +1,21 @@
+{
+  "nome": "Donald Birkby Eperson",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Axiomas",
+        "Teoremas"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Teorema de Pascal",
+        "Teorema de Brianchon",
+        "Dualidade"
+      ]
+    }
+  ]
+}

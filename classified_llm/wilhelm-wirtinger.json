@@ -1,0 +1,20 @@
+{
+  "nome": "Wilhelm Wirtinger",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Funções Abelianas",
+        "Funções Theta",
+        "Teoria de Invariantes"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Elípticas"
+      ]
+    }
+  ]
+}

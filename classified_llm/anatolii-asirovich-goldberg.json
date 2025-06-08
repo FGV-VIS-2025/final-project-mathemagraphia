@@ -1,0 +1,22 @@
+{
+  "nome": "Anatolii Asirovich Goldberg",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria da Distribuição de Valores",
+      "subareas_especificas": [
+        "Funções Meromorfas",
+        "Teorema de Nevanlinna",
+        "Defeitos de Funções Meromorfas",
+        "Pontos de ramificação algébrica"
+      ]
+    },
+    {
+      "subarea": "Funções inteiras",
+      "subareas_especificas": [
+        "Funções de gênero zero",
+        "Crescimento de funções meromorfas"
+      ]
+    }
+  ]
+}

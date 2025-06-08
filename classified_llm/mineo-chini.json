@@ -1,0 +1,20 @@
+{
+  "nome": "Mineo Chini",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Superfícies",
+      "subareas_especificas": [
+        "Superfícies com Curvatura Média Constante",
+        "Superfícies Regadas",
+        "Superfícies Aplicáveis em Superfícies de Rotação"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Segunda Ordem"
+      ]
+    }
+  ]
+}

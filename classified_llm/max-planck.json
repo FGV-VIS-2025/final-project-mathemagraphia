@@ -1,0 +1,13 @@
+{
+  "nome": "Max Karl Ernst Ludwig Planck",
+  "area_principal": "Termodinâmica",
+  "subareas": [
+    {
+      "subarea": "Termodinâmica Estatística",
+      "subareas_especificas": [
+        "Entropia",
+        "Probabilidade"
+      ]
+    }
+  ]
+}

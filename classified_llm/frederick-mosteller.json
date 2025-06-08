@@ -1,0 +1,27 @@
+{
+  "nome": "Charles Frederick Mosteller",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    },
+    {
+      "subarea": "Análise de Dados",
+      "subareas_especificas": [
+        "Métodos Robustos",
+        "Análise de Regressão"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Condicional",
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

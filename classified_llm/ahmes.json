@@ -1,0 +1,40 @@
+{
+  "nome": "Ahmes",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Frações Unitárias",
+      "subareas_especificas": [
+        "Divisão de 2 por números ímpares de 3 a 101",
+        "Números de 1 a 9 por 10"
+      ]
+    },
+    {
+      "subarea": "Operações Aritméticas",
+      "subareas_especificas": [
+        "Adição",
+        "Subtração",
+        "Multiplicação",
+        "Divisão"
+      ]
+    },
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Soluções de equações"
+      ]
+    },
+    {
+      "subarea": "Progressões",
+      "subareas_especificas": [
+        "Progressões aritméticas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Volumes de celeiros"
+      ]
+    }
+  ]
+}

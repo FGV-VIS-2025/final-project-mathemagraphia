@@ -1,0 +1,19 @@
+{
+  "nome": "Lars Edvard Phragmén",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Funções inteiras",
+        "Princípio do Máximo Módulo"
+      ]
+    },
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Convergência Uniforme"
+      ]
+    }
+  ]
+}

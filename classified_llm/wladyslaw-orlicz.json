@@ -1,0 +1,27 @@
+{
+  "nome": "Władysław Orlicz",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Funções",
+      "subareas_especificas": [
+        "Espaços de Orlicz",
+        "Espaços Lp",
+        "Convergência Incondicional em Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida e Integração",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Integração"
+      ]
+    },
+    {
+      "subarea": "Séries Ortogonais",
+      "subareas_especificas": [
+        "Séries Ortogonais"
+      ]
+    }
+  ]
+}

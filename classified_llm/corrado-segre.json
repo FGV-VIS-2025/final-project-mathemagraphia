@@ -1,0 +1,27 @@
+{
+  "nome": "Corrado Segre",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Espaços Projetivos de dimensão superior",
+        "Variedades algébricas",
+        "Superfícies algébricas",
+        "Curvas algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Enumerativa",
+      "subareas_especificas": [
+        "Contagem de soluções de problemas geométricos"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Superfícies e variedades diferenciáveis"
+      ]
+    }
+  ]
+}

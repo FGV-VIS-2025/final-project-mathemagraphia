@@ -1,0 +1,29 @@
+{
+  "nome": "George Frederick Oster",
+  "area_principal": "Biologia Matemática",
+  "subareas": [
+    {
+      "subarea": "Dinâmica de Populações",
+      "subareas_especificas": [
+        "Modelos de equações a diferenças",
+        "Caos",
+        "Bifurcações"
+      ]
+    },
+    {
+      "subarea": "Morfogênese",
+      "subareas_especificas": [
+        "Formação de padrões",
+        "Inibição lateral",
+        "Motilidade celular"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Termodinâmica de redes",
+        "Sistemas biológicos"
+      ]
+    }
+  ]
+}

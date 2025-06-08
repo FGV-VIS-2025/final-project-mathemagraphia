@@ -1,0 +1,27 @@
+{
+  "nome": "Ernst Peschl",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Holomorfas",
+        "Funções Meromorfas",
+        "Séries de Laurent",
+        "Séries de Taylor"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Primeira Ordem"
+      ]
+    }
+  ]
+}

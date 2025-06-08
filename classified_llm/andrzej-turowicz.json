@@ -1,0 +1,22 @@
+{
+  "nome": "Andrzej Bernard Turowicz",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Banach",
+      "subareas_especificas": [
+        "Teorema de Stone-Weierstrass"
+      ]
+    },
+    {
+      "subarea": "Funcional contínua e multiplicativa",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Distribuição Gaussiana Normal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Paul Pierre Lévy",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Processos de Lévy",
+        "Movimento Browniano"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Leis Limite",
+        "Somatórios de Variáveis Aleatórias",
+        "Martingales"
+      ]
+    }
+  ]
+}

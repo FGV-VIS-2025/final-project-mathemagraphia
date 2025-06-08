@@ -1,0 +1,19 @@
+{
+  "nome": "François Georges René Bruhat",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Representações de Grupos de Lie",
+        "Grupos Algébricos"
+      ]
+    },
+    {
+      "subarea": "Análise Harmônica",
+      "subareas_especificas": [
+        "Fórmula de Plancherel"
+      ]
+    }
+  ]
+}

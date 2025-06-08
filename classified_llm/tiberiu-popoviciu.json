@@ -1,0 +1,17 @@
+{
+  "nome": "Tiberiu Popoviciu",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Análise Numérica",
+        "Teoria da Convexidade"
+      ]
+    },
+    {
+      "subarea": "Equações Funcionais",
+      "subareas_especificas": []
+    }
+  ]
+}

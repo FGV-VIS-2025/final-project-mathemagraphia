@@ -1,0 +1,20 @@
+{
+  "nome": "Gottfried Maria Hugo Köthe",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Anéis nilpotentes"
+      ]
+    },
+    {
+      "subarea": "Espaços vetoriais topológicos",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Espaços localmente convexos"
+      ]
+    }
+  ]
+}

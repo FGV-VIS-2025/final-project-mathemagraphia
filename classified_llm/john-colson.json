@@ -1,0 +1,13 @@
+{
+  "nome": "John Colson",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Equações Cúbicas",
+        "Equações Quárticas"
+      ]
+    }
+  ]
+}

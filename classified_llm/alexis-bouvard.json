@@ -1,0 +1,20 @@
+{
+  "nome": "Alexis Bouvard",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo Orbital",
+        "Teoria da Perturbação"
+      ]
+    },
+    {
+      "subarea": "Teoria Lunar",
+      "subareas_especificas": [
+        "Análise de Observações",
+        "Predição de Posições"
+      ]
+    }
+  ]
+}

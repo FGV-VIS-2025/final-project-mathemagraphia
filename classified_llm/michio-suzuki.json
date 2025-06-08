@@ -1,0 +1,19 @@
+{
+  "nome": "Michio Suzuki",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos Simples",
+        "Classificação de Grupos Finitos Simples"
+      ]
+    },
+    {
+      "subarea": "Grupos Simples",
+      "subareas_especificas": [
+        "Grupos de Suzuki"
+      ]
+    }
+  ]
+}

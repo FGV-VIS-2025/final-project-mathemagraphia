@@ -1,0 +1,20 @@
+{
+  "nome": "Marino Ghetaldi",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Construções Geométricas",
+        "Aplicações da Álgebra à Geometria"
+      ]
+    },
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Problemas de Apolônio"
+      ]
+    }
+  ]
+}

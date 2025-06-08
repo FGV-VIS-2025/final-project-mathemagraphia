@@ -1,0 +1,20 @@
+{
+  "nome": "Abigail A Thompson",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia de Baixa Dimensão",
+      "subareas_especificas": [
+        "Teoria dos Nós",
+        "3-variedades",
+        "Heegaard splittings"
+      ]
+    },
+    {
+      "subarea": "Topologia Combinatória",
+      "subareas_especificas": [
+        "Métodos Combinatórios em 3-variedades"
+      ]
+    }
+  ]
+}

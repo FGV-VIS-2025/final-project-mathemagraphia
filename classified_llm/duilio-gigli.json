@@ -1,0 +1,19 @@
+{
+  "nome": "Duilio Gigli",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Transcendentes"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Aritmética",
+        "Lógica Matemática"
+      ]
+    }
+  ]
+}

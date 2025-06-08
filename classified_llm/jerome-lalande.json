@@ -1,0 +1,26 @@
+{
+  "nome": "Joseph-Jérôme Lefrançais de Lalande",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Problema de três corpos",
+        "Órbitas de Cometas"
+      ]
+    },
+    {
+      "subarea": "Astronomia de Posição",
+      "subareas_especificas": [
+        "Catálogos de Estrelas",
+        "Medidas de Paralaxe"
+      ]
+    },
+    {
+      "subarea": "Cartografia Celeste",
+      "subareas_especificas": [
+        "Mapeamento Estelar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "William Spence",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integrais Definidas",
+        "Séries"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções Logarítmicas",
+        "Funções Transcendentes"
+      ]
+    }
+  ]
+}

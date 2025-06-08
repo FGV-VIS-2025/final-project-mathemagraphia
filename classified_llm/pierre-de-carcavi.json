@@ -1,0 +1,18 @@
+{
+  "nome": "Pierre de Carcavi",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Método da descida infinita"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Lugares geométricos"
+      ]
+    }
+  ]
+}

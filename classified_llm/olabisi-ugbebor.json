@@ -1,0 +1,12 @@
+{
+  "nome": "Olabisi Oreofe Ugbebor",
+  "area_principal": "Probabilidade",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Movimento Browniano"
+      ]
+    }
+  ]
+}

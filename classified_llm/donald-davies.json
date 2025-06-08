@@ -1,0 +1,19 @@
+{
+  "nome": "Donald Watts Davies",
+  "area_principal": "Ciência da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Redes de Computadores",
+        "Algoritmos"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Métodos Numéricos"
+      ]
+    }
+  ]
+}

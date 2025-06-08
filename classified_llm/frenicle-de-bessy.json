@@ -1,0 +1,14 @@
+{
+  "nome": "Bernard Frénicle de Bessy",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Números Primos",
+        "Funções Aritméticas"
+      ]
+    }
+  ]
+}

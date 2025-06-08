@@ -1,0 +1,19 @@
+{
+  "nome": "Gregorio Ricci-Curbastro",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial Absoluto",
+      "subareas_especificas": [
+        "Formas Quadráticas",
+        "Análise Tensorial"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Variedades n-dimensionais"
+      ]
+    }
+  ]
+}

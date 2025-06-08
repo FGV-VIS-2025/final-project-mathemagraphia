@@ -1,0 +1,39 @@
+{
+  "nome": "William Thomas Tutte",
+  "area_principal": "Teoria de Grafos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Matroides",
+      "subareas_especificas": [
+        "Matroides Regulares",
+        "Matroides Gráficos"
+      ]
+    },
+    {
+      "subarea": "Conectividade em Grafos",
+      "subareas_especificas": [
+        "Caminhos de Euler",
+        "Simetria de Grafos",
+        "Circunferência",
+        "Não-separabilidade",
+        "Conexão Tripla"
+      ]
+    },
+    {
+      "subarea": "Coloração de Grafos",
+      "subareas_especificas": [
+        "Conjectura das Quatro Cores"
+      ]
+    },
+    {
+      "subarea": "Circuitos Hamiltonianos",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Enumeração de Grafos",
+      "subareas_especificas": [
+        "Polinômios de Grafos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Thomas Arthur Alan Broadbent",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Séries",
+        "Convergência"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria Analítica dos Números"
+      ]
+    }
+  ]
+}

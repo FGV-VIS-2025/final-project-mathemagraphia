@@ -1,0 +1,22 @@
+{
+  "nome": "Francesco de Giovanni",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Formações Saturadas",
+        "Teoremas de Sylow",
+        "Grupos Solúveis"
+      ]
+    },
+    {
+      "subarea": "Grupos Infinitos",
+      "subareas_especificas": [
+        "Teoria de Baer",
+        "Automorfismos de Grupos",
+        "Subgrupos Subnormais"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Aleksei Vasilevich Pogorelov",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Geometria Diferencial Global",
+        "Superfícies Convexas"
+      ]
+    },
+    {
+      "subarea": "Equações de Monge-Ampère",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno",
+        "Soluções Generalizadas"
+      ]
+    },
+    {
+      "subarea": "Teoria das Superfícies",
+      "subareas_especificas": [
+        "Flexões de Superfícies",
+        "Estabilidade de Cascas"
+      ]
+    }
+  ]
+}

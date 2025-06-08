@@ -1,0 +1,20 @@
+{
+  "nome": "John Casey",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria do Triângulo",
+        "Geometria do Círculo"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Circunferências"
+      ]
+    }
+  ]
+}

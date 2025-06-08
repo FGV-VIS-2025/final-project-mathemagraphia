@@ -1,0 +1,26 @@
+{
+  "nome": "John Forbes Nash",
+  "area_principal": "Teoria dos Jogos",
+  "subareas": [
+    {
+      "subarea": "Equilíbrios de Nash",
+      "subareas_especificas": [
+        "Equilíbrio de Nash em jogos não cooperativos"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades Riemannianas",
+        "Imersões Isométricas"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais Elípticas",
+        "Equações Diferenciais Parciais Parabólicas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Maryna Sergiivna Viazovska",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Formas Modulares"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Discreta",
+        "Empacotamento de Esferas"
+      ]
+    }
+  ]
+}

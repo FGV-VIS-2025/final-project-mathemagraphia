@@ -1,0 +1,20 @@
+{
+  "nome": "Vera Pless",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Teoria de Módulos",
+        "Anéis de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Códigos",
+      "subareas_especificas": [
+        "Códigos Corretores de Erros",
+        "Códigos Lineares"
+      ]
+    }
+  ]
+}

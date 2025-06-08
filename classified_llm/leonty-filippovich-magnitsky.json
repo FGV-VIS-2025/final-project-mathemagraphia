@@ -1,0 +1,27 @@
+{
+  "nome": "Leonty Filippovich Magnitsky",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Espacial"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Trigonometria Plana",
+        "Trigonometria Esférica"
+      ]
+    },
+    {
+      "subarea": "Navegação",
+      "subareas_especificas": [
+        "Astronomia de Navegação",
+        "Geodésia"
+      ]
+    }
+  ]
+}

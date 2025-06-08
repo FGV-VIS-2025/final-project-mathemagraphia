@@ -1,0 +1,19 @@
+{
+  "nome": "Max Abraham",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Eletrodinâmica",
+      "subareas_especificas": [
+        "Teoria de Maxwell",
+        "Teoria do Elétron"
+      ]
+    },
+    {
+      "subarea": "Mecânica Racional",
+      "subareas_especificas": [
+        "Relatividade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Grigori Yakovlevich Perelman",
+  "area_principal": "Geometria Riemanniana",
+  "subareas": [
+    {
+      "subarea": "Geometria de Alexandrov",
+      "subareas_especificas": [
+        "Espaços de Alexandrov",
+        "Curvatura limitada inferiormente"
+      ]
+    },
+    {
+      "subarea": "Fluxos de Ricci",
+      "subareas_especificas": [
+        "Equação de fluxo de Ricci",
+        "Cirurgias no fluxo de Ricci"
+      ]
+    }
+  ]
+}

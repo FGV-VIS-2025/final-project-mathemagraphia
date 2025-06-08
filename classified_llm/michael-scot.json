@@ -1,0 +1,12 @@
+{
+  "nome": "Michael Scot",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Sequências",
+      "subareas_especificas": [
+        "Sequência de Fibonacci"
+      ]
+    }
+  ]
+}

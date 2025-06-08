@@ -1,0 +1,25 @@
+{
+  "nome": "Abu Kamil Shuja ibn Aslam ibn Muhammad ibn Shuja",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Quadráticas",
+      "subareas_especificas": [
+        "Soluções de equações quadráticas"
+      ]
+    },
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Soluções de equações diofantinas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Cálculo de áreas e perímetros",
+        "Cálculo de volumes e áreas de superfície"
+      ]
+    }
+  ]
+}

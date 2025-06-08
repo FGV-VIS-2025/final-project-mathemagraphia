@@ -1,0 +1,21 @@
+{
+  "nome": "Archibald James Macintyre",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções Meromorfas",
+        "Teoria da Aproximação",
+        "Funções Integrais"
+      ]
+    },
+    {
+      "subarea": "Séries",
+      "subareas_especificas": [
+        "Convergência de Séries",
+        "Séries de Abel"
+      ]
+    }
+  ]
+}

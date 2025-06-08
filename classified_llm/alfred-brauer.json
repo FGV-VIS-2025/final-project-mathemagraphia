@@ -1,0 +1,33 @@
+{
+  "nome": "Alfred Theodor Brauer",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Perfeitos",
+      "subareas_especificas": [
+        "Não existência de números perfeitos ímpares de certas formas"
+      ]
+    },
+    {
+      "subarea": "Resíduos Quadráticos",
+      "subareas_especificas": [
+        "limites para os menores resíduos quadráticos módulo um primo"
+      ]
+    },
+    {
+      "subarea": "Raiz Primitiva",
+      "subareas_especificas": [
+        "limites para a menor raiz primitiva para um primo"
+      ]
+    },
+    {
+      "subarea": "Teoria de Matrizes",
+      "subareas_especificas": [
+        "localização de raízes características usando ovais de Cassini",
+        "matrizes não negativas",
+        "matrizes estocásticas",
+        "matrizes de torneio"
+      ]
+    }
+  ]
+}

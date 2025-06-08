@@ -1,0 +1,19 @@
+{
+  "nome": "Luther Pfahler Eisenhart",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Geometria Não-Riemanniana",
+        "Tensor Analysis"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos Contínuos de Transformações"
+      ]
+    }
+  ]
+}

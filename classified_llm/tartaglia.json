@@ -1,0 +1,18 @@
+{
+  "nome": "Niccolò Tartaglia",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Cúbicas",
+      "subareas_especificas": [
+        "Método de resolução de equações cúbicas"
+      ]
+    },
+    {
+      "subarea": "Equações Quárticas",
+      "subareas_especificas": [
+        "Método de resolução de equações quárticas"
+      ]
+    }
+  ]
+}

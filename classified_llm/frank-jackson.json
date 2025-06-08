@@ -1,0 +1,21 @@
+{
+  "nome": "Frank Hilton Jackson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Hipergeométricas",
+      "subareas_especificas": [
+        "Funções Hipergeométricas Básicas",
+        "Funções q-hipergeométricas",
+        "Funções de Legendre",
+        "Funções de Bessel"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria das Partições"
+      ]
+    }
+  ]
+}

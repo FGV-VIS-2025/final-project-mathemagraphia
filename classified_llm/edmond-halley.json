@@ -1,0 +1,20 @@
+{
+  "nome": "Edmond Halley",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo de órbitas",
+        "Perturbações orbitais"
+      ]
+    },
+    {
+      "subarea": "Cartografia Celeste",
+      "subareas_especificas": [
+        "Catálogos estelares",
+        "Determinação de posições estelares"
+      ]
+    }
+  ]
+}

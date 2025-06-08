@@ -1,0 +1,12 @@
+{
+  "nome": "Philip Franklin",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Problema das Quatro Cores"
+      ]
+    }
+  ]
+}

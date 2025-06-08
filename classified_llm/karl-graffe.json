@@ -1,0 +1,12 @@
+{
+  "nome": "Karl Heinrich Gräffe",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Algébricas",
+      "subareas_especificas": [
+        "Métodos Numéricos para Resolução de Equações"
+      ]
+    }
+  ]
+}

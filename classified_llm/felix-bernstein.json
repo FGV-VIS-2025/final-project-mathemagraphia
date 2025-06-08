@@ -1,0 +1,18 @@
+{
+  "nome": "Felix Bernstein",
+  "area_principal": "Teoria dos Conjuntos",
+  "subareas": [
+    {
+      "subarea": "Números Cardinais",
+      "subareas_especificas": [
+        "Números Transfinitos"
+      ]
+    },
+    {
+      "subarea": "Números Ordinais",
+      "subareas_especificas": [
+        "Números Transfinitos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Maxwell Herman Alexander Newman",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Combinatória",
+      "subareas_especificas": [
+        "Complexos Simpliciais",
+        "Equivalência Combinatória"
+      ]
+    },
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Grupos Topológicos Abelianos",
+        "Espaços de Manifolds"
+      ]
+    }
+  ]
+}

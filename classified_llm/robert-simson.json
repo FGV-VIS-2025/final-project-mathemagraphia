@@ -1,0 +1,19 @@
+{
+  "nome": "Robert Simson",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Porismos",
+        "Elementos de Euclides"
+      ]
+    },
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Loci Plani de Apollonius"
+      ]
+    }
+  ]
+}

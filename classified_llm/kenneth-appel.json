@@ -1,0 +1,12 @@
+{
+  "nome": "Kenneth Ira Appel",
+  "area_principal": "Teoria dos Grafos",
+  "subareas": [
+    {
+      "subarea": "Colorabilidade de Grafos",
+      "subareas_especificas": [
+        "Teorema das Quatro Cores"
+      ]
+    }
+  ]
+}

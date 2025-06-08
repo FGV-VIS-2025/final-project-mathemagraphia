@@ -1,0 +1,32 @@
+{
+  "nome": "Olga Alexandrovna Ladyzhenskaya",
+  "area_principal": "Equações Diferenciais Parciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais Hiperbólicas",
+      "subareas_especificas": [
+        "Métodos de Diferenças Finitas",
+        "Problemas de Valor de Contorno e Inicial-Contorno"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais Elípticas",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais Parabólicas",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno e Inicial-Contorno"
+      ]
+    },
+    {
+      "subarea": "Equações de Navier-Stokes",
+      "subareas_especificas": [
+        "Existência e Unicidade de Soluções",
+        "Métodos Numéricos"
+      ]
+    }
+  ]
+}

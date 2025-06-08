@@ -1,0 +1,13 @@
+{
+  "nome": "Otakar Boruvka",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos",
+        "Groupoids"
+      ]
+    }
+  ]
+}

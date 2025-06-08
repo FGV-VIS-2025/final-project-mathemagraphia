@@ -1,0 +1,16 @@
+{
+  "nome": "James Cockle",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Equações",
+      "subareas_especificas": [
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": []
+    }
+  ]
+}

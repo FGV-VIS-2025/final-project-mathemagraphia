@@ -1,0 +1,31 @@
+{
+  "nome": "Shimshon Avraham Amitsur",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Teoria de Radicais",
+        "Anéis com Identidades Polinomiais",
+        "Álgebras sobre Corpos Não-enumeráveis",
+        "Anéis de Quocientes",
+        "Equivalência de Morita",
+        "Polinômios Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Álgebras",
+      "subareas_especificas": [
+        "Álgebras Centrais Simples",
+        "Álgebras de Divisão",
+        "Álgebras com Identidades Polinomiais"
+      ]
+    },
+    {
+      "subarea": "Teoria de invariantes",
+      "subareas_especificas": [
+        "Teoria de Representação"
+      ]
+    }
+  ]
+}

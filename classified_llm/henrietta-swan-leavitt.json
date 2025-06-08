@@ -1,0 +1,14 @@
+{
+  "nome": "Henrietta Swan Leavitt",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica Estelar",
+      "subareas_especificas": [
+        "Estrelas Variáveis",
+        "Fotometria",
+        "Distâncias de Estrelas"
+      ]
+    }
+  ]
+}

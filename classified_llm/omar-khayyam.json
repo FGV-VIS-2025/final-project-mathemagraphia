@@ -1,0 +1,13 @@
+{
+  "nome": "Omar Khayyam",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Cúbicas",
+      "subareas_especificas": [
+        "Soluções Geométricas",
+        "Interseção de Cônicas"
+      ]
+    }
+  ]
+}

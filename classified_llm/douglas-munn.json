@@ -1,0 +1,20 @@
+{
+  "nome": "Walter Douglas Munn",
+  "area_principal": "Álgebra Abstrata",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos Inversos",
+        "Semigrupos Regulares",
+        "Álgebras de Semigrupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos"
+      ]
+    }
+  ]
+}

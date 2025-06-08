@@ -1,0 +1,18 @@
+{
+  "nome": "Leonardo da Vinci",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Quadratura do círculo"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Perspectiva"
+      ]
+    }
+  ]
+}

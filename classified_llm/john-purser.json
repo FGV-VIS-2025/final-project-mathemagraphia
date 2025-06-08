@@ -1,0 +1,13 @@
+{
+  "nome": "John Purser",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Teoria das Marés",
+      "subareas_especificas": [
+        "Energia Cinética",
+        "Rotação da Terra"
+      ]
+    }
+  ]
+}

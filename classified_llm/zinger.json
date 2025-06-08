@@ -1,0 +1,27 @@
+{
+  "nome": "Vasily Yakovlevich Zinger",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Quádricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Transformações Projetivas",
+        "Espaços Projetivos"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica dos Fluidos",
+        "Dinâmica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Anatoly Mykhailovych Samoilenko",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos",
+        "Problemas de Valor de Contorno",
+        "Métodos Numérico-Analíticos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": []
+    }
+  ]
+}

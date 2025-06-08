@@ -1,0 +1,19 @@
+{
+  "nome": "Fan Rong K Chung Graham",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Teoria de Ramsey",
+      "subareas_especificas": [
+        "Números de Ramsey"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grafos",
+      "subareas_especificas": [
+        "Grafos aleatórios",
+        "Teoria espectral de grafos"
+      ]
+    }
+  ]
+}

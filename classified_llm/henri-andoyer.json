@@ -1,0 +1,24 @@
+{
+  "nome": "Marie Henri Andoyer",
+  "area_principal": "Mecânica Celeste",
+  "subareas": [
+    {
+      "subarea": "Teoria das Órbitas",
+      "subareas_especificas": [
+        "Problema de Três Corpos"
+      ]
+    },
+    {
+      "subarea": "Teoria Lunar",
+      "subareas_especificas": [
+        "Inequações na Longitude da Lua"
+      ]
+    },
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Equilíbrio de Três Corpos"
+      ]
+    }
+  ]
+}

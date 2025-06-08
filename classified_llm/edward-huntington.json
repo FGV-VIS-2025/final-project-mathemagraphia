@@ -1,0 +1,19 @@
+{
+  "nome": "Edward Vermilye Huntington",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Álgebra Booleana"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axiomatização da Teoria dos Conjuntos"
+      ]
+    }
+  ]
+}

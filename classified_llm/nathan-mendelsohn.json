@@ -1,0 +1,22 @@
+{
+  "nome": "Nathan Saul Mendelsohn",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Abstrata",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Anéis",
+        "Teoria de Reticulados"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teoria de Grafos",
+        "Teoria de Designs",
+        "Quasigrupos"
+      ]
+    }
+  ]
+}

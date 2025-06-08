@@ -1,0 +1,26 @@
+{
+  "nome": "Douglas Samuel Jones",
+  "area_principal": "Matemática Aplicada",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Métodos Numéricos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Ondas",
+      "subareas_especificas": [
+        "Difração",
+        "Propagação de Ondas"
+      ]
+    },
+    {
+      "subarea": "Biologia Matemática",
+      "subareas_especificas": [
+        "Modelagem Matemática em Biologia"
+      ]
+    }
+  ]
+}

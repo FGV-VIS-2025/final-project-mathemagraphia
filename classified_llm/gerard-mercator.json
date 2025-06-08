@@ -1,0 +1,19 @@
+{
+  "nome": "Gerardus Mercator",
+  "area_principal": "Cartografia",
+  "subareas": [
+    {
+      "subarea": "Projeções Cartográficas",
+      "subareas_especificas": [
+        "Projeção de Mercator"
+      ]
+    },
+    {
+      "subarea": "Geometria Esférica",
+      "subareas_especificas": [
+        "Trigonometria Esférica",
+        "Loxodromias"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nome": "Carl Benjamin Boyer",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Conceitos do Cálculo",
+        "Desenvolvimento Conceitual do Cálculo"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "História da Geometria Analítica"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números inteiros",
+        "Frações"
+      ]
+    },
+    {
+      "subarea": "História da Matemática Grega",
+      "subareas_especificas": [
+        "Matemáticos Gregos",
+        "Métodos Gregos"
+      ]
+    }
+  ]
+}

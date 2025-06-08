@@ -1,0 +1,29 @@
+{
+  "nome": "Derek Arthur Waller",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Homotopia",
+      "subareas_especificas": [
+        "Espaços de recobrimento",
+        "Propriedade de recobrimento fraco"
+      ]
+    },
+    {
+      "subarea": "Teoria de categorias",
+      "subareas_especificas": [
+        "Categorias",
+        "Functores"
+      ]
+    },
+    {
+      "subarea": "Teoria de grafos",
+      "subareas_especificas": [
+        "Álgebra linear",
+        "Autovalores de grafos",
+        "Projeções de grafos",
+        "Produtos de grafos"
+      ]
+    }
+  ]
+}

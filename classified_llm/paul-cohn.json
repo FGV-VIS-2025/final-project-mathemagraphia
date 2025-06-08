@@ -1,0 +1,26 @@
+{
+  "nome": "Paul Moritz Cohn",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Teoria de Anéis Não-Comutativos",
+        "Anéis Livres"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Livres"
+      ]
+    },
+    {
+      "subarea": "Teoria de Corpos",
+      "subareas_especificas": [
+        "Corpos Não-Comutativos",
+        "Corpos de Frações"
+      ]
+    }
+  ]
+}

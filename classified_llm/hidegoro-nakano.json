@@ -1,0 +1,34 @@
+{
+  "nome": "Hidegorô Nakano",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Sistemas de Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integral de Lebesgue",
+        "Teoria da Medida Abstrata"
+      ]
+    },
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Teoria Espectral",
+        "Operadores Normais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axiomatização da Teoria dos Conjuntos",
+        "Continuum Hypothesis"
+      ]
+    }
+  ]
+}

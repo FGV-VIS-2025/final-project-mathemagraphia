@@ -1,0 +1,22 @@
+{
+  "nome": "Dmitrii Evgenevich Menshov",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Convergência de Séries Trigonométricas",
+        "Unicidade de Séries Trigonométricas",
+        "Representação de Funções por Séries Trigonométricas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integral de Denjoy",
+        "Integral de Borel",
+        "Integração de Lebesgue"
+      ]
+    }
+  ]
+}

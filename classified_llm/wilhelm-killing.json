@@ -1,0 +1,14 @@
+{
+  "nome": "Wilhelm Karl Joseph Killing",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Lie",
+      "subareas_especificas": [
+        "Álgebras de Lie semissimples",
+        "Sistemas de raízes",
+        "Classificação de álgebras de Lie"
+      ]
+    }
+  ]
+}

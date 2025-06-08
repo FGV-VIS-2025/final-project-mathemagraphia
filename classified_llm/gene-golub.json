@@ -1,0 +1,20 @@
+{
+  "nome": "Gene Howard Golub",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Métodos Iterativos",
+      "subareas_especificas": [
+        "Método SOR",
+        "Método de Richardson"
+      ]
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Solução de Sistemas Lineares",
+        "Problemas de Mínimos Quadrados"
+      ]
+    }
+  ]
+}

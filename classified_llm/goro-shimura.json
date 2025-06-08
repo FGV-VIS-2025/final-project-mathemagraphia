@@ -1,0 +1,30 @@
+{
+  "nome": "Goro Shimura",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Abelianas",
+        "Formas Automórficas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Números Algébrica",
+      "subareas_especificas": [
+        "Corpos de Classes",
+        "Funções Zeta",
+        "Funções de Eisenstein",
+        "Formas Modulares",
+        "Correspondências Modulares"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Séries de Eisenstein",
+        "Funções Automórficas"
+      ]
+    }
+  ]
+}

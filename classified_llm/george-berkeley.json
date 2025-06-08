@@ -1,0 +1,15 @@
+{
+  "nome": "George Berkeley",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Fundamentos do Cálculo",
+      "subareas_especificas": [
+        "Limites",
+        "Continuidade",
+        "Derivadas",
+        "Integrais"
+      ]
+    }
+  ]
+}

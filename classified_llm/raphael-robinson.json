@@ -1,0 +1,34 @@
+{
+  "nome": "Raphael Mitchel Robinson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Schlicht"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números de Mersenne",
+        "Números de Fermat",
+        "Primos"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teorias Indecidíveis",
+        "Máquinas de Turing"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Tesselations",
+        "Geometria Hiperbólica"
+      ]
+    }
+  ]
+}

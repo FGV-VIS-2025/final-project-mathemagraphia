@@ -1,0 +1,21 @@
+{
+  "nome": "Louis Victor Pierre Raymond duc de Broglie",
+  "area_principal": "Física Quântica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Dualidade onda-partícula",
+        "Equação de Schrödinger",
+        "Teoria de Hamilton-Jacobi"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Eletrodinâmica Quântica",
+        "Teoria Quântica Relativística"
+      ]
+    }
+  ]
+}

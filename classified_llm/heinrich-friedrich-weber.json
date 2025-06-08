@@ -1,0 +1,20 @@
+{
+  "nome": "Heinrich Friedrich Weber",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletrotécnica",
+        "Medição"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Calor específico",
+        "Radiação de corpo negro"
+      ]
+    }
+  ]
+}

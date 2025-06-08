@@ -1,0 +1,28 @@
+{
+  "nome": "Gino Fano",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria Algébrica",
+        "Geometria Não-Euclidiana",
+        "Grupos de Transformações de Cremona"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades Algébricas",
+        "Superfícies Cúbicas",
+        "Involuções Irracionais"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria Descritiva"
+      ]
+    }
+  ]
+}

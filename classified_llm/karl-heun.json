@@ -1,0 +1,21 @@
+{
+  "nome": "Karl Heun",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Lineares",
+      "subareas_especificas": [
+        "Equações Diferenciais de Segunda Ordem",
+        "Equações Diferenciais de Fuchsian type"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções Hipergeométricas",
+        "Funções Esféricas",
+        "Funções de Lamé"
+      ]
+    }
+  ]
+}

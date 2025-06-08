@@ -1,0 +1,21 @@
+{
+  "nome": "Ilya Iosifovich Piatetski-Shapiro",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Automórficas",
+      "subareas_especificas": [
+        "Grupos de Lie",
+        "Geometria Algébrica",
+        "Teoria das Representações"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Teorema do Número Primo",
+        "Séries Trigonométricas"
+      ]
+    }
+  ]
+}

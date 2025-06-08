@@ -1,0 +1,19 @@
+{
+  "nome": "Gregorius Saint-Vincent",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Integração",
+        "Séries Infinitas"
+      ]
+    }
+  ]
+}

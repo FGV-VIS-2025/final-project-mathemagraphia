@@ -1,0 +1,20 @@
+{
+  "nome": "Leone Minna Gold Burton",
+  "area_principal": "Filosofia da Matemática",
+  "subareas": [
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos",
+        "Teoria da Prova"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Axiomatização",
+        "Teoria dos Números"
+      ]
+    }
+  ]
+}

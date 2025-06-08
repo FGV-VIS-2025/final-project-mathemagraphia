@@ -1,0 +1,26 @@
+{
+  "nome": "Nikolai Nikolaevich Bogolyubov",
+  "area_principal": "Mecânica Não-Linear",
+  "subareas": [
+    {
+      "subarea": "Métodos Assintóticos",
+      "subareas_especificas": [
+        "Integração Assintótica de Equações Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria das Oscilações",
+      "subareas_especificas": [
+        "Oscilações Quase-Periódicas",
+        "Estabilidade de Soluções Quase-Periódicas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria de Poincaré-Lyapunov",
+        "Teoria de Poincaré-Denjoy"
+      ]
+    }
+  ]
+}

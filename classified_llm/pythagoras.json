@@ -1,0 +1,26 @@
+{
+  "nome": "Pythagoras of Samos",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Triangulares",
+        "Números Perfeitos"
+      ]
+    },
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Teorema de Pitágoras",
+        "Soma dos ângulos internos de um triângulo"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Números Irracionais"
+      ]
+    }
+  ]
+}

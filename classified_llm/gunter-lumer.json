@@ -1,0 +1,20 @@
+{
+  "nome": "Günter Lumer",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria de Operadores",
+      "subareas_especificas": [
+        "Operadores em espaços de Banach",
+        "Semigrupos de operadores",
+        "Teoria espectral"
+      ]
+    },
+    {
+      "subarea": "Espaços de Hardy",
+      "subareas_especificas": [
+        "Espaços de Hardy em várias variáveis"
+      ]
+    }
+  ]
+}

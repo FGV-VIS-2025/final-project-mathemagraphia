@@ -1,0 +1,20 @@
+{
+  "nome": "Pierre Lelong",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Várias Variáveis Complexas",
+      "subareas_especificas": [
+        "Funções inteiras",
+        "Funções plurissubharmônicas",
+        "Correntes positivas fechadas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços vetoriais topológicos"
+      ]
+    }
+  ]
+}

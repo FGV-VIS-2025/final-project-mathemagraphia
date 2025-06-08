@@ -1,0 +1,19 @@
+{
+  "nome": "Guido Castelnuovo",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Curvas Algébricas",
+        "Sistemas Lineares de Curvas Planas"
+      ]
+    },
+    {
+      "subarea": "Teoria de Superfícies Algébricas",
+      "subareas_especificas": [
+        "Classificação de Superfícies Algébricas"
+      ]
+    }
+  ]
+}

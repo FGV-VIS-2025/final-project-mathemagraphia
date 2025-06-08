@@ -1,0 +1,19 @@
+{
+  "nome": "Vera Turán Sós",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação Diofantina",
+      "subareas_especificas": [
+        "Aproximações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Combinatória",
+      "subareas_especificas": [
+        "Teoria dos Grafos",
+        "Problemas do tipo Ramsey-Turán"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nome": "Jacob (II) (Jacques (II)) Bernoulli",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidrostática",
+        "Elasticidade",
+        "Balística"
+      ]
+    }
+  ]
+}

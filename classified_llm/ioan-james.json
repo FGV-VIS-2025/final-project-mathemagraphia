@@ -1,0 +1,22 @@
+{
+  "nome": "Ioan Mackenzie James",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Teoria da Homotopia",
+      "subareas_especificas": [
+        "Espaços de Fibra",
+        "Teoria de Grupos de Homotopia",
+        "Variedades de Stiefel"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Homologia",
+        "Cohomologia",
+        "Teoria K"
+      ]
+    }
+  ]
+}

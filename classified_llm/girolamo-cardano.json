@@ -1,0 +1,25 @@
+{
+  "nome": "Girolamo Cardano",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações Algébricas",
+      "subareas_especificas": [
+        "Equações Cúbicas",
+        "Equações Quárticas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Complexos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade em Jogos de Azar"
+      ]
+    }
+  ]
+}

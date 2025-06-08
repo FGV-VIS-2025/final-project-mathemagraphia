@@ -1,0 +1,28 @@
+{
+  "nome": "Alfred Pringsheim",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Taylor",
+      "subareas_especificas": [
+        "Convergência de séries",
+        "Raio de convergência"
+      ]
+    },
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Teorema Integral de Cauchy",
+        "Frações Contínuas"
+      ]
+    },
+    {
+      "subarea": "Números Reais",
+      "subareas_especificas": [
+        "Sequências de Números Reais",
+        "Séries Infinitas com Termos Reais"
+      ]
+    }
+  ]
+}

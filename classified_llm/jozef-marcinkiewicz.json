@@ -1,0 +1,19 @@
+{
+  "nome": "Józef Marcinkiewicz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Interpolação Trigonométrica",
+        "Multiplicadores de Séries de Fourier"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções de Variável Real",
+      "subareas_especificas": [
+        "Funções Conjugadas"
+      ]
+    }
+  ]
+}

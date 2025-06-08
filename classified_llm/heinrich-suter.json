@@ -1,0 +1,23 @@
+{
+  "nome": "Heinrich Suter",
+  "area_principal": "História da Matemática",
+  "subareas": [
+    {
+      "subarea": "Matemática Medieval",
+      "subareas_especificas": [
+        "Matemática Islâmica"
+      ]
+    },
+    {
+      "subarea": "Matemática Grega",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Historiografia da Matemática",
+      "subareas_especificas": [
+        "Fontes Primárias",
+        "Fontes Secundárias"
+      ]
+    }
+  ]
+}

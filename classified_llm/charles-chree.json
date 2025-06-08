@@ -1,0 +1,19 @@
+{
+  "nome": "Charles Chree",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria da Elasticidade",
+      "subareas_especificas": [
+        "Vibrações de corpos esféricos ou cilíndricos",
+        "Magnetismo terrestre"
+      ]
+    },
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Vorticidade"
+      ]
+    }
+  ]
+}

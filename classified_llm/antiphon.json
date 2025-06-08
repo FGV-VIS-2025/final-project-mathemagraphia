@@ -1,0 +1,13 @@
+{
+  "nome": "Antiphon the Sophist",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Quadratura do círculo",
+        "Método de exaustão"
+      ]
+    }
+  ]
+}

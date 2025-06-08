@@ -1,0 +1,13 @@
+{
+  "nome": "Anderson Gray McKendrick",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Modelagem Matemática em Biologia",
+      "subareas_especificas": [
+        "Epidemiologia",
+        "Dinâmica de Populações"
+      ]
+    }
+  ]
+}

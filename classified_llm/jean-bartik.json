@@ -1,0 +1,21 @@
+{
+  "nome": "Betty Jean Jennings Bartik",
+  "area_principal": "Ciência da Computação",
+  "subareas": [
+    {
+      "subarea": "Programação",
+      "subareas_especificas": [
+        "Programação de Computadores",
+        "Subrotinas",
+        "Programação de Máquinas"
+      ]
+    },
+    {
+      "subarea": "Engenharia de Software",
+      "subareas_especificas": [
+        "Projeto de Computadores",
+        "Arquitetura de Computadores"
+      ]
+    }
+  ]
+}

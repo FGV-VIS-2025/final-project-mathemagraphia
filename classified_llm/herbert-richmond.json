@@ -1,0 +1,18 @@
+{
+  "nome": "Herbert William Richmond",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Geometria de Curvas e Superfícies Algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria em Dimensões Superiores",
+      "subareas_especificas": [
+        "Espaços Projetivos de Alta Dimensão"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "nome": "John Charles Fields",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções algébricas",
+      "subareas_especificas": [
+        "Teorema de Riemann-Roch",
+        "Teorema do intervalo de Weierstrass",
+        "Teorema de Hurwitz",
+        "Teoremas de Brill-Noether"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "Alice Elizabeth Lee",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Bioestatística",
+      "subareas_especificas": [
+        "Biometria",
+        "Análise de Dados Biológicos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

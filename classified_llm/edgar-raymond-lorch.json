@@ -1,0 +1,19 @@
+{
+  "nome": "Edgar Raymond Lorch",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Operadores Autoadjuntos",
+        "Transformações Lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integração de Lebesgue-Stieltjes"
+      ]
+    }
+  ]
+}

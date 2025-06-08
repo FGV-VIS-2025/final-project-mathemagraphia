@@ -1,0 +1,13 @@
+{
+  "nome": "Edward Foyle Collingwood",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções Meromorfas",
+      "subareas_especificas": [
+        "Teoria de Conjuntos de Pontos",
+        "Teorema Fundamental de Nevanlinna"
+      ]
+    }
+  ]
+}

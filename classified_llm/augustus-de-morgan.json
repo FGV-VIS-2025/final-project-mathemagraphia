@@ -1,0 +1,19 @@
+{
+  "nome": "Augustus De Morgan",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Simbólica",
+      "subareas_especificas": [
+        "Lógica Matemática",
+        "Fundamentos da Álgebra"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Complexos"
+      ]
+    }
+  ]
+}

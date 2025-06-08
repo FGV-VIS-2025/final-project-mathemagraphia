@@ -1,0 +1,21 @@
+{
+  "nome": "Elliott Ward Cheney",
+  "area_principal": "Análise Numérica",
+  "subareas": [
+    {
+      "subarea": "Aproximação",
+      "subareas_especificas": [
+        "Aproximação polinomial",
+        "Aproximação racional",
+        "Aproximação de Chebyshev"
+      ]
+    },
+    {
+      "subarea": "Métodos Numéricos",
+      "subareas_especificas": [
+        "Método de Newton",
+        "Método de descida mais íngreme"
+      ]
+    }
+  ]
+}

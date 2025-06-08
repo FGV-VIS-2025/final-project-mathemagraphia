@@ -1,0 +1,42 @@
+{
+  "nome": "John William Strutt  (Lord Rayleigh)",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Acústica",
+      "subareas_especificas": [
+        "Teoria do Som",
+        "Resonador Acústico"
+      ]
+    },
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Teoria Eletromagnética",
+        "Determinação do Ohm"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Teoria Ondulatória da Luz",
+        "Dispersão da Luz"
+      ]
+    },
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Dinâmica",
+        "Ondas de superfície"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções Especiais",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Funções de Legendre",
+        "Funções de Laplace"
+      ]
+    }
+  ]
+}

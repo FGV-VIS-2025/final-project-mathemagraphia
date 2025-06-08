@@ -1,0 +1,12 @@
+{
+  "nome": "Geoffrey Timms",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Superfícies Algébricas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Tadeusz Ważewski",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Teoria de Retratos"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria de Controle",
+      "subareas_especificas": [
+        "Problema de Controle Ótimo"
+      ]
+    }
+  ]
+}

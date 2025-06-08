@@ -1,0 +1,26 @@
+{
+  "nome": "Winifred Lydia Caunden Sargent",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Integração",
+      "subareas_especificas": [
+        "Integral de Riemann",
+        "Integral de Lebesgue",
+        "Integral de Perron",
+        "Integral de Denjoy",
+        "Integral de Cesàro-Perron",
+        "Integral de Cesàro-Denjoy",
+        "Integral de Burkill"
+      ]
+    },
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Convergência de Séries de Fourier",
+        "Séries conjugadas",
+        "Somabilidade Cesàro de Séries de Fourier"
+      ]
+    }
+  ]
+}

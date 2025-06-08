@@ -1,0 +1,20 @@
+{
+  "nome": "Hilda Geiringer von Mises",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Processos Estocásticos"
+      ]
+    },
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Testes de Hipóteses"
+      ]
+    }
+  ]
+}

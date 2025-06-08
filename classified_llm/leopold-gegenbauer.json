@@ -1,0 +1,19 @@
+{
+  "nome": "Leopold Bernhard Gegenbauer",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Polinômios Ortogonais",
+      "subareas_especificas": [
+        "Polinômios de Gegenbauer"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números livres de quadrados",
+        "Funções hipergeométricas"
+      ]
+    }
+  ]
+}

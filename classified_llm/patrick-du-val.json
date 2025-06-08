@@ -1,0 +1,20 @@
+{
+  "nome": "Patrick Du Val",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica Clássica",
+      "subareas_especificas": [
+        "Superfícies Algébricas",
+        "Singularidades"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Transformações",
+        "Grupos de Simetria"
+      ]
+    }
+  ]
+}

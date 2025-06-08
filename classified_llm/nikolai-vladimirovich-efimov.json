@@ -1,0 +1,20 @@
+{
+  "nome": "Nikolai Vladimirovich Efimov",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial Global",
+      "subareas_especificas": [
+        "Teoria das Superfícies",
+        "Curvatura Gaussiana"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Variedades Riemannianas",
+        "Geodésicas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nome": "Alfréd Rényi",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Conjectura de Goldbach",
+        "Números quase-primos",
+        "Primos gêmeos"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Probabilidade",
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

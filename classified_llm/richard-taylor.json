@@ -1,0 +1,21 @@
+{
+  "nome": "Richard Lawrence Taylor",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Formas Automórficas",
+      "subareas_especificas": [
+        "Conjectura de Taniyama-Shimura-Weil",
+        "Conjectura de Langlands",
+        "Representações de Galois"
+      ]
+    },
+    {
+      "subarea": "Representações de Galois",
+      "subareas_especificas": [
+        "Conjectura de Artin",
+        "Conjecturas de Fontaine-Mazur e Serre"
+      ]
+    }
+  ]
+}

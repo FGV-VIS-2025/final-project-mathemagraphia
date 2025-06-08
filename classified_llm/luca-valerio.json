@@ -1,0 +1,19 @@
+{
+  "nome": "Luca Valerio",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cálculo de áreas e volumes"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Método de exaustão",
+        "Cálculo de centros de gravidade"
+      ]
+    }
+  ]
+}

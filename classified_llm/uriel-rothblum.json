@@ -1,0 +1,21 @@
+{
+  "nome": "Uriel George Rothblum",
+  "area_principal": "Álgebra Linear",
+  "subareas": [
+    {
+      "subarea": "Matrizes Não-Negativas",
+      "subareas_especificas": [
+        "Teoria de Perron-Frobenius",
+        "Autovetores",
+        "Autovalores"
+      ]
+    },
+    {
+      "subarea": "Programação Dinâmica",
+      "subareas_especificas": [
+        "Cadeias de Markov",
+        "Processos de Decisão de Markov"
+      ]
+    }
+  ]
+}

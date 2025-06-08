@@ -1,0 +1,21 @@
+{
+  "nome": "William Wallace",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Elementos de Euclides",
+        "Porisms"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Limites",
+        "Teoria de Razões Limites",
+        "Notação Diferencial"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nome": "Nicolaus (I) Bernoulli",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teoria das Probabilidades Aplicada a Questões Jurídicas",
+        "Problema de São Petersburgo"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Trajetórias Ortogonais",
+        "Equação de Riccati"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Séries Divergentes",
+        "Derivadas Parciais de Segunda Ordem"
+      ]
+    }
+  ]
+}

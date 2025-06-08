@@ -1,0 +1,31 @@
+{
+  "nome": "Evgenii Mikhailovich Lifshitz",
+  "area_principal": "Física Teórica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Quântica",
+      "subareas_especificas": [
+        "Teoria Quântica de Campos"
+      ]
+    },
+    {
+      "subarea": "Mecânica Estatística",
+      "subareas_especificas": [
+        "Física Estatística"
+      ]
+    },
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletrodinâmica"
+      ]
+    },
+    {
+      "subarea": "Teoria da Relatividade",
+      "subareas_especificas": [
+        "Relatividade Geral",
+        "Cosmologia"
+      ]
+    }
+  ]
+}

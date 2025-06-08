@@ -1,0 +1,19 @@
+{
+  "nome": "Loránd Baron von Eötvös",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Gravitação",
+        "Mecânica de Fluidos"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Teoria da Relatividade"
+      ]
+    }
+  ]
+}

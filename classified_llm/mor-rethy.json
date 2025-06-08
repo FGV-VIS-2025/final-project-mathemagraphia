@@ -1,0 +1,20 @@
+{
+  "nome": "Mór Réthy",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica",
+        "Trigonometria Hiperbólica"
+      ]
+    },
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    }
+  ]
+}

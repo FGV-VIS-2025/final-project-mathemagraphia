@@ -1,0 +1,24 @@
+{
+  "nome": "Reinher of Paderborn",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Calendários",
+      "subareas_especificas": [
+        "Cálculo da data da Páscoa",
+        "Ciclo lunar",
+        "Ciclo solar",
+        "Calendário Juliano",
+        "Calendário Hebraico",
+        "Sistema de numeração Indiana"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Sistema de numeração decimal",
+        "Algoritmos"
+      ]
+    }
+  ]
+}

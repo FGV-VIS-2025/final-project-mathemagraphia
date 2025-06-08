@@ -1,0 +1,14 @@
+{
+  "nome": "Pierre Charles François Dupin",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria de Superfícies",
+      "subareas_especificas": [
+        "Linhas Conjugadas",
+        "Linhas Assintóticas",
+        "Indicatriz de Dupin"
+      ]
+    }
+  ]
+}

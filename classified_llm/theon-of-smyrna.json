@@ -1,0 +1,26 @@
+{
+  "nome": "Theon of Smyrna",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Figuras",
+      "subareas_especificas": [
+        "Números Quadrados",
+        "Números Oblongos",
+        "Números Triangulares",
+        "Números Poligonais",
+        "Números Piramidais"
+      ]
+    },
+    {
+      "subarea": "Classificação de Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Números Compostos",
+        "Números Perfeitos",
+        "Números Deficientes",
+        "Números Abundantes"
+      ]
+    }
+  ]
+}

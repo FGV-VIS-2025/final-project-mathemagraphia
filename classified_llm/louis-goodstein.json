@@ -1,0 +1,19 @@
+{
+  "nome": "Reuben Louis Goodstein",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Ordinais",
+        "Aritmética Recursiva"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Teoria dos Conjuntos"
+      ]
+    }
+  ]
+}

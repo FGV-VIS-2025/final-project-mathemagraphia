@@ -1,0 +1,29 @@
+{
+  "nome": "Herman Heine Goldstine",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Problemas de mínimo em espaços normados",
+        "Multiplicadores de Lagrange",
+        "Condições suficientes para mínimo"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integral de Daniell",
+        "Integral de Lebesgue",
+        "Medidas de Carathéodory"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços vetoriais",
+        "Funcional linear"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Egor Ivanovich Zolotarev",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Corpos de Números Algébricos",
+      "subareas_especificas": [
+        "Anéis de Inteiros",
+        "Teoria da Divisibilidade"
+      ]
+    },
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas Quadráticas em n variáveis"
+      ]
+    },
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Integração de Diferenciais Elípticas"
+      ]
+    }
+  ]
+}

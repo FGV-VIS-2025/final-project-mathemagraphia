@@ -1,0 +1,19 @@
+{
+  "nome": "Pierre de Fermat",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Equações Diofantinas",
+      "subareas_especificas": [
+        "Teorema de Fermat"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Frações Contínuas"
+      ]
+    }
+  ]
+}

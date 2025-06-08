@@ -1,0 +1,29 @@
+{
+  "nome": "Artemas Martin",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Análise Diofantina",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Probabilidade Geométrica",
+        "Valores Esperados"
+      ]
+    },
+    {
+      "subarea": "Integrais Elípticas",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Propriedades de Triângulos"
+      ]
+    }
+  ]
+}

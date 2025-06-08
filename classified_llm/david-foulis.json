@@ -1,0 +1,19 @@
+{
+  "nome": "David James Foulis",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Semigrupos",
+      "subareas_especificas": [
+        "Semigrupos de Involúção",
+        "*-Semigrupos de Baer"
+      ]
+    },
+    {
+      "subarea": "Teoria de Reticulados",
+      "subareas_especificas": [
+        "Reticulados Ortomódulos"
+      ]
+    }
+  ]
+}

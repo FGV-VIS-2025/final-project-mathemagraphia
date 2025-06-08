@@ -1,0 +1,12 @@
+{
+  "nome": "János Bolyai",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica"
+      ]
+    }
+  ]
+}

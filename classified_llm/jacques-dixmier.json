@@ -1,0 +1,23 @@
+{
+  "nome": "Jacques Dixmier",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra de operadores",
+      "subareas_especificas": [
+        "Álgebras de von Neumann",
+        "C*-álgebras"
+      ]
+    },
+    {
+      "subarea": "Álgebras envolventes",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria das representações",
+      "subareas_especificas": [
+        "Representações unitárias"
+      ]
+    }
+  ]
+}

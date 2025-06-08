@@ -1,0 +1,31 @@
+{
+  "nome": "Aleksandr Gennadievich Kurosh",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos Infinitos",
+        "Produtos Livres de Grupos",
+        "Subgrupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Universal",
+      "subareas_especificas": [
+        "Teoria de Redes",
+        "Teoria de Anéis",
+        "Teoria de Módulos",
+        "Álgebra Linear"
+      ]
+    },
+    {
+      "subarea": "Teoria de Anéis",
+      "subareas_especificas": [
+        "Anéis comutativos",
+        "Anéis não comutativos"
+      ]
+    }
+  ]
+}

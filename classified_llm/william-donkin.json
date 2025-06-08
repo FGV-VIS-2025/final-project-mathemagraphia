@@ -1,0 +1,18 @@
+{
+  "nome": "William Fishburn Donkin",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Método dos Mínimos Quadrados"
+      ]
+    },
+    {
+      "subarea": "Acústica",
+      "subareas_especificas": [
+        "Harmonics"
+      ]
+    }
+  ]
+}

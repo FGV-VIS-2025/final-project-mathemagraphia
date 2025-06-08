@@ -1,0 +1,20 @@
+{
+  "nome": "Nikolai Nikolaevich Krasovskii",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Estabilidade de Movimento",
+        "Teoria de Controle"
+      ]
+    },
+    {
+      "subarea": "Teoria de Controle Ótimo",
+      "subareas_especificas": [
+        "Sistemas Lineares e Quase-Lineares",
+        "Jogos Diferenciais Posicionais"
+      ]
+    }
+  ]
+}

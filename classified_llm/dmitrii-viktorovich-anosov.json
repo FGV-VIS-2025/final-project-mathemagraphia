@@ -1,0 +1,26 @@
+{
+  "nome": "Dmitrii Viktorovich Anosov",
+  "area_principal": "Sistemas Dinâmicos",
+  "subareas": [
+    {
+      "subarea": "Teoria Ergódica",
+      "subareas_especificas": [
+        "Fluxos Hiperbólicos"
+      ]
+    },
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Geodésicas",
+        "Curvatura Negativa"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Sistemas de Equações Diferenciais Ordinárias",
+        "Problema de Riemann-Hilbert"
+      ]
+    }
+  ]
+}

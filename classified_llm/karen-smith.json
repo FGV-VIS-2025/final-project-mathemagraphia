@@ -1,0 +1,20 @@
+{
+  "nome": "Karen Ellen Smith",
+  "area_principal": "Álgebra Comutativa",
+  "subareas": [
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Fechamento Apertado",
+        "F-singularidades"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Variedades racionais",
+        "Variedades quase racionais"
+      ]
+    }
+  ]
+}

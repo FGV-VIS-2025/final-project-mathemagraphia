@@ -1,0 +1,40 @@
+{
+  "nome": "Griffith Conrad Evans",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equação Integral de Volterra"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": [
+        "Funções Harmônicas",
+        "Funções Superharmônicas",
+        "Integral de Poisson-Stieltjes",
+        "Teoria da Capacidade",
+        "Funções Harmônicas Multivaloradas"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Sobolev"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integração"
+      ]
+    },
+    {
+      "subarea": "Superfícies Mínimas",
+      "subareas_especificas": [
+        "Problema de Plateau"
+      ]
+    }
+  ]
+}

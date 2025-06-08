@@ -1,0 +1,22 @@
+{
+  "nome": "Alexandre Aleksandrovich Kirillov",
+  "area_principal": "Teoria das Representações",
+  "subareas": [
+    {
+      "subarea": "Grupos de Lie",
+      "subareas_especificas": [
+        "Grupos de Lie Nilpotentes",
+        "Grupos de Lie Solúveis",
+        "Grupos de Lie Semissimples"
+      ]
+    },
+    {
+      "subarea": "Álgebras de Lie",
+      "subareas_especificas": [
+        "Álgebras de Lie Nilpotentes",
+        "Álgebras de Lie Solúveis",
+        "Álgebras de Lie Semissimples"
+      ]
+    }
+  ]
+}

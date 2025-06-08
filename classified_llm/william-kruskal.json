@@ -1,0 +1,20 @@
+{
+  "nome": "William Henry Kruskal",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Não-Paramétrica",
+      "subareas_especificas": [
+        "Testes de Hipóteses Não-Paramétricos",
+        "Medidas de Associação"
+      ]
+    },
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Estimação",
+        "Testes de Hipóteses"
+      ]
+    }
+  ]
+}

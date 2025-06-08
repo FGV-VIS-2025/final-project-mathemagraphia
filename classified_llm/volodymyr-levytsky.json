@@ -1,0 +1,12 @@
+{
+  "nome": "Volodymyr Levytsky",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Teoria das Funções de Variável Complexa"
+      ]
+    }
+  ]
+}

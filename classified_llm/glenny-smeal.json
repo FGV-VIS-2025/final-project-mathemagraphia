@@ -1,0 +1,19 @@
+{
+  "nome": "Glenny Smeal",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Métodos Estatísticos",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Métodos Computacionais em Estatística"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Equações Algébricas"
+      ]
+    }
+  ]
+}

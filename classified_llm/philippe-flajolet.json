@@ -1,0 +1,22 @@
+{
+  "nome": "Philippe Flajolet",
+  "area_principal": "Análise de Algoritmos",
+  "subareas": [
+    {
+      "subarea": "Combinatória Analítica",
+      "subareas_especificas": [
+        "Funções Geradoras",
+        "Assintóticos Complexos",
+        "Estruturas Aleatórias"
+      ]
+    },
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Autômatos",
+        "Teoria de Linguagens",
+        "Complexidade de Algoritmos"
+      ]
+    }
+  ]
+}

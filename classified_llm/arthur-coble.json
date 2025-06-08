@@ -1,0 +1,34 @@
+{
+  "nome": "Arthur Byron Coble",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Galois",
+      "subareas_especificas": [
+        "Extensões de Corpos",
+        "Grupos de Galois"
+      ]
+    },
+    {
+      "subarea": "Funções Theta",
+      "subareas_especificas": [
+        "Variedades Abelianas",
+        "Superfícies de Kummer"
+      ]
+    },
+    {
+      "subarea": "Transformações de Cremona",
+      "subareas_especificas": [
+        "Geometria Birracional",
+        "Sistemas Lineares"
+      ]
+    }
+  ]
+}

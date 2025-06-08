@@ -1,0 +1,27 @@
+{
+  "nome": "Wilhelm Ernst Martin Georg Ahrens",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos de permutação",
+        "Grupos de Lie"
+      ]
+    },
+    {
+      "subarea": "Teoria de Representações",
+      "subareas_especificas": [
+        "Representações de grupos finitos",
+        "Caracteres de grupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Espaços vetoriais",
+        "Transformações lineares"
+      ]
+    }
+  ]
+}

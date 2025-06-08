@@ -1,0 +1,20 @@
+{
+  "nome": "Félix Recillas Juarez",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Anéis Locais",
+        "Teoria de Ideais"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica",
+      "subareas_especificas": [
+        "Esquemas",
+        "Variedades Algébricas"
+      ]
+    }
+  ]
+}

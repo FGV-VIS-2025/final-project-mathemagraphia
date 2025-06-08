@@ -1,0 +1,21 @@
+{
+  "nome": "Åke Vilhelm Carl Pleijel",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Equações Diferenciais Ordinárias"
+      ]
+    },
+    {
+      "subarea": "Teoria do Potencial",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Cálculo Operacional",
+      "subareas_especificas": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nome": "Nina Karlovna Bari",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Trigonométricas",
+      "subareas_especificas": [
+        "Unicidade de desenvolvimento trigonométrico",
+        "Convergência e divergência de séries de Fourier",
+        "Séries de Fourier de funções contínuas",
+        "Séries Lacunares",
+        "Séries ortogonais e bases"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Integral de Lebesgue-Stieltjes",
+        "Funções absolutamente contínuas"
+      ]
+    }
+  ]
+}

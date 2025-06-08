@@ -1,0 +1,21 @@
+{
+  "nome": "Nikolai Dmetrievich Brashman",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Clássica",
+      "subareas_especificas": [
+        "Mecânica Newtoniana",
+        "Estática",
+        "Dinâmica",
+        "Hidrostática"
+      ]
+    },
+    {
+      "subarea": "Princípio da Mínima Ação",
+      "subareas_especificas": [
+        "Mecânica Analítica"
+      ]
+    }
+  ]
+}

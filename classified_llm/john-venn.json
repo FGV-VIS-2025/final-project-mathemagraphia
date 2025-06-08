@@ -1,0 +1,19 @@
+{
+  "nome": "John Venn",
+  "area_principal": "Lógica",
+  "subareas": [
+    {
+      "subarea": "Lógica Simbólica",
+      "subareas_especificas": [
+        "Diagramas de Venn",
+        "Álgebra Booleana"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Estatística"
+      ]
+    }
+  ]
+}

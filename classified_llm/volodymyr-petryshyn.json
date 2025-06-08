@@ -1,0 +1,25 @@
+{
+  "nome": "Volodymyr Petryshyn",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos Iterativos",
+        "Métodos Projetivos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Pontos Fixos",
+      "subareas_especificas": [
+        "Mapas A-próprios"
+      ]
+    },
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria do Grau Topológico"
+      ]
+    }
+  ]
+}

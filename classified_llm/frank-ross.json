@@ -1,0 +1,20 @@
+{
+  "nome": "Frank Elmore Ross",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrometria",
+      "subareas_especificas": [
+        "Fotografia Astronômica",
+        "Medidas de Posição"
+      ]
+    },
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Design de Lentes",
+        "Sistemas Corretores de Coma"
+      ]
+    }
+  ]
+}

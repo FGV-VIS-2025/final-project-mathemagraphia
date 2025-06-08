@@ -1,0 +1,20 @@
+{
+  "nome": "Ernst Leonard Lindelöf",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Analíticas",
+      "subareas_especificas": [
+        "Séries de Taylor",
+        "Séries de Fourier",
+        "Funções Gama",
+        "Mapeamentos Conformes",
+        "Continuação Analítica"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": []
+    }
+  ]
+}

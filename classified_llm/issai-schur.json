@@ -1,0 +1,34 @@
+{
+  "nome": "Issai Schur",
+  "area_principal": "Teoria de Representações de Grupos",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos Solúveis",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Caracteres de Grupos",
+        "Equações Diofantinas"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Equações Integrais",
+        "Séries Divergentes"
+      ]
+    }
+  ]
+}

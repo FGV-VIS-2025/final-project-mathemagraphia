@@ -1,0 +1,21 @@
+{
+  "nome": "Edward Arthur Milne",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Equilíbrio Radiativo",
+        "Espectroscopia Estelar",
+        "Estrutura Estelar"
+      ]
+    },
+    {
+      "subarea": "Relatividade",
+      "subareas_especificas": [
+        "Relatividade Geral",
+        "Cosmologia"
+      ]
+    }
+  ]
+}

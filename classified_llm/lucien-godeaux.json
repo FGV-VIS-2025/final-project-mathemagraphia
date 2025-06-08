@@ -1,0 +1,20 @@
+{
+  "nome": "Lucien Auguste Godeaux",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Involuções",
+        "Superfícies algébricas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial Projetiva",
+      "subareas_especificas": [
+        "Superfícies",
+        "Espaços Regrados"
+      ]
+    }
+  ]
+}

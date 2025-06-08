@@ -1,0 +1,20 @@
+{
+  "nome": "Margaret Dusa Waddington McDuff",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia simplética",
+      "subareas_especificas": [
+        "Formas simpléticas",
+        "Curvas pseudoholomórficas",
+        "Grupos de simplectomorfismos"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Álgebras de von Neumann"
+      ]
+    }
+  ]
+}

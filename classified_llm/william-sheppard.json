@@ -1,0 +1,20 @@
+{
+  "nome": "William Fleetwood Sheppard",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Interpolação",
+        "Aproximação"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Distribuições de Probabilidade",
+        "Teoria da Probabilidade"
+      ]
+    }
+  ]
+}

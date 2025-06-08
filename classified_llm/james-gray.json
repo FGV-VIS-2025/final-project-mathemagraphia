@@ -1,0 +1,27 @@
+{
+  "nome": "James Gordon Gray",
+  "area_principal": "Física Aplicada",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica",
+        "Mecânica de Fluidos"
+      ]
+    },
+    {
+      "subarea": "Eletromagnetismo",
+      "subareas_especificas": [
+        "Eletricidade",
+        "Magnetismo"
+      ]
+    },
+    {
+      "subarea": "Instrumentação Científica",
+      "subareas_especificas": [
+        "Giroscópios",
+        "Instrumentação de Navegação"
+      ]
+    }
+  ]
+}

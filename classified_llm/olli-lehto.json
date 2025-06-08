@@ -1,0 +1,21 @@
+{
+  "nome": "Olli Erkki Lehto",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Teoria da Função",
+      "subareas_especificas": [
+        "Funções Meromorfas",
+        "Representação Conforme",
+        "Espaços de Hilbert com Função Kernel",
+        "Mapeamentos Quase Conformes"
+      ]
+    },
+    {
+      "subarea": "Teoria de Teichmüller",
+      "subareas_especificas": [
+        "Espaços de Teichmüller"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Jean-Nicolas Nicollet",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Geodésia"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Aplicações em Finanças"
+      ]
+    }
+  ]
+}

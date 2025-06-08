@@ -1,0 +1,27 @@
+{
+  "nome": "Joseph Valentin Boussinesq",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Ondas",
+      "subareas_especificas": [
+        "Ondas Solitárias",
+        "Ondas Periódicas"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Teoria da Elasticidade Linear",
+        "Estática dos Solos"
+      ]
+    },
+    {
+      "subarea": "Teoria do Calor",
+      "subareas_especificas": [
+        "Propagação do Calor",
+        "Condutividade Térmica"
+      ]
+    }
+  ]
+}

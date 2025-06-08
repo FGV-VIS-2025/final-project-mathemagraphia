@@ -1,0 +1,33 @@
+{
+  "nome": "Carl Ludwig Siegel",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Equações Diofantinas",
+        "Funções Zeta",
+        "Corpos de Números Algébricos"
+      ]
+    },
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Teoria Analítica de Formas Quadráticas",
+        "Formas Modulares"
+      ]
+    },
+    {
+      "subarea": "Aproximações Diofantinas",
+      "subareas_especificas": [
+        "Teorema de Thue-Siegel"
+      ]
+    },
+    {
+      "subarea": "Teoria da Transcendência",
+      "subareas_especificas": [
+        "Independência Algébrica de Valores de Funções"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "nome": "Viktor Yakovlevich Bunyakovsky",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Não-Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": []
+    }
+  ]
+}

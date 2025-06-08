@@ -1,0 +1,20 @@
+{
+  "nome": "V Ramaswami Aiyar",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Primos",
+        "Funções Aritméticas"
+      ]
+    }
+  ]
+}

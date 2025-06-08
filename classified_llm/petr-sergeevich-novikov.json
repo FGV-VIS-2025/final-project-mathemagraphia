@@ -1,0 +1,19 @@
+{
+  "nome": "Petr Sergeevich Novikov",
+  "area_principal": "Teoria dos Grupos",
+  "subareas": [
+    {
+      "subarea": "Problema da Palavra",
+      "subareas_especificas": [
+        "Grupos com apresentação finita"
+      ]
+    },
+    {
+      "subarea": "Problema de Burnside",
+      "subareas_especificas": [
+        "Grupos periódicos",
+        "Grupos finitamente gerados"
+      ]
+    }
+  ]
+}

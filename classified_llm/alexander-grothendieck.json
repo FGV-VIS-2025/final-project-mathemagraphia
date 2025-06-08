@@ -1,0 +1,33 @@
+{
+  "nome": "Alexander Grothendieck",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Teoria de Feixes",
+      "subareas_especificas": [
+        "Cohomologia de Feixes"
+      ]
+    },
+    {
+      "subarea": "Teoria de Esquemas",
+      "subareas_especificas": [
+        "Esquemas",
+        "Espaços de Módulos"
+      ]
+    },
+    {
+      "subarea": "K-teoria",
+      "subareas_especificas": [
+        "Grupos de Grothendieck",
+        "Anéis de Grothendieck"
+      ]
+    },
+    {
+      "subarea": "Álgebra Homológica",
+      "subareas_especificas": [
+        "Categorias abelianas",
+        "Functores Derivados"
+      ]
+    }
+  ]
+}

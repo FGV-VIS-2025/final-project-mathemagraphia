@@ -1,0 +1,19 @@
+{
+  "nome": "Abraham Markham Gelbart",
+  "area_principal": "Análise Complexa",
+  "subareas": [
+    {
+      "subarea": "Funções de Várias Variáveis Complexas",
+      "subareas_especificas": [
+        "Teoria de Bergman",
+        "Funções Pseudoanalíticas"
+      ]
+    },
+    {
+      "subarea": "Transformadas Integrais",
+      "subareas_especificas": [
+        "Transformada de Laplace Generalizada"
+      ]
+    }
+  ]
+}

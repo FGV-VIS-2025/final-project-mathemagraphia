@@ -1,0 +1,25 @@
+{
+  "nome": "Wen-Tsun Wu",
+  "area_principal": "Topologia Algébrica",
+  "subareas": [
+    {
+      "subarea": "Classes Características",
+      "subareas_especificas": [
+        "Classes de Stiefel-Whitney",
+        "Classes de Wu"
+      ]
+    },
+    {
+      "subarea": "Teoria da Imersão",
+      "subareas_especificas": [
+        "Imersão de poliedros em espaços euclidianos"
+      ]
+    },
+    {
+      "subarea": "Geometria Algébrica Computacional",
+      "subareas_especificas": [
+        "Demonstração Automatizada de Teoremas Geométricos"
+      ]
+    }
+  ]
+}

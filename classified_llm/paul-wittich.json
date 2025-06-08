@@ -1,0 +1,12 @@
+{
+  "nome": "Paul Wittich",
+  "area_principal": "Trigonometria",
+  "subareas": [
+    {
+      "subarea": "Prosthaphaeresis",
+      "subareas_especificas": [
+        "Métodos de cálculo trigonométrico"
+      ]
+    }
+  ]
+}

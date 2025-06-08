@@ -1,0 +1,12 @@
+{
+  "nome": "William Werner Boone",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Problema da palavra",
+      "subareas_especificas": [
+        "Grupos finitamente apresentados"
+      ]
+    }
+  ]
+}

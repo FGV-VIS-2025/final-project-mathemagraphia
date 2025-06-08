@@ -1,0 +1,22 @@
+{
+  "nome": "Johann Friedrich Pfaff",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Formas Pfaffianas"
+      ]
+    },
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Teoria das Séries",
+      "subareas_especificas": [
+        "Teorema de Taylor"
+      ]
+    }
+  ]
+}

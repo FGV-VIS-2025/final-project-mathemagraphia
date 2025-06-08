@@ -1,0 +1,20 @@
+{
+  "nome": "William Parry",
+  "area_principal": "Teoria Ergódica",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Transformações que preservam medidas",
+        "Entropia"
+      ]
+    },
+    {
+      "subarea": "Cadeias de Markov",
+      "subareas_especificas": [
+        "Cadeias de Markov intrínsecas",
+        "Processos estocásticos estacionários"
+      ]
+    }
+  ]
+}

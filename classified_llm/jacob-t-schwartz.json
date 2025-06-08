@@ -1,0 +1,21 @@
+{
+  "nome": "Jacob T Schwartz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Teoria Espectral",
+        "Operadores Lineares",
+        "Espaços de Hilbert"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Elípticas"
+      ]
+    }
+  ]
+}

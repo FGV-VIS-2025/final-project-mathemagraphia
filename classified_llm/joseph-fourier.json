@@ -1,0 +1,12 @@
+{
+  "nome": "Jean Baptiste Joseph Fourier",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equação do Calor"
+      ]
+    }
+  ]
+}

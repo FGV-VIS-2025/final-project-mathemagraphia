@@ -1,0 +1,22 @@
+{
+  "nome": "Arnaud Denjoy",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Real",
+      "subareas_especificas": [
+        "Integração de Derivadas",
+        "Séries Trigonométricas",
+        "Funções Quase-Analíticas"
+      ]
+    },
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções Analíticas",
+        "Conjuntos Perfeitos Descontínuos",
+        "Representações Conformes"
+      ]
+    }
+  ]
+}

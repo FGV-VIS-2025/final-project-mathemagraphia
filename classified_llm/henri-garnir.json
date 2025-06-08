@@ -1,0 +1,27 @@
+{
+  "nome": "Henri Georges Garnir",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Teoria espectral",
+        "Operadores lineares"
+      ]
+    },
+    {
+      "subarea": "Teoria das Distribuições",
+      "subareas_especificas": [
+        "Transformada de Laplace",
+        "Equações diferenciais parciais"
+      ]
+    },
+    {
+      "subarea": "Espaços de Banach",
+      "subareas_especificas": [
+        "Teoria da medida",
+        "Integração"
+      ]
+    }
+  ]
+}

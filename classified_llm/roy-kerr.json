@@ -1,0 +1,19 @@
+{
+  "nome": "Roy Patrick Kerr",
+  "area_principal": "Relatividade Geral",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana",
+        "Espaços-tempo"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações de Einstein"
+      ]
+    }
+  ]
+}

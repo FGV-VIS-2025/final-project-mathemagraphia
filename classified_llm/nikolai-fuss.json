@@ -1,0 +1,23 @@
+{
+  "nome": "Nicolaus Fuss",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Equações Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Trigonometria Esférica",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Geometria Clássica",
+      "subareas_especificas": [
+        "Problemas de Apollonius",
+        "Problemas de Pappus"
+      ]
+    }
+  ]
+}

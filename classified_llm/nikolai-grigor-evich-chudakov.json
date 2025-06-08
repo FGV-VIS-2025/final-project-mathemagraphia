@@ -1,0 +1,19 @@
+{
+  "nome": "Nikolai Grigor'evich Chudakov",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções L de Dirichlet",
+      "subareas_especificas": [
+        "Zeros de Funções L",
+        "Primos em Progressões Aritméticas"
+      ]
+    },
+    {
+      "subarea": "Conjectura de Goldbach",
+      "subareas_especificas": [
+        "Representação de inteiros como soma de primos"
+      ]
+    }
+  ]
+}

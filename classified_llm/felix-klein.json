@@ -1,0 +1,26 @@
+{
+  "nome": "Felix Christian Klein",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Espaços Projetivos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Transformações",
+        "Representações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Funções Elípticas Modulares",
+        "Funções Automórficas"
+      ]
+    }
+  ]
+}

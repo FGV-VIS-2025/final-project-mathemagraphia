@@ -1,0 +1,18 @@
+{
+  "nome": "Thymaridas of Paros",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Números Primos",
+      "subareas_especificas": [
+        "Representação de Números"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Equações Lineares Simultâneas"
+      ]
+    }
+  ]
+}

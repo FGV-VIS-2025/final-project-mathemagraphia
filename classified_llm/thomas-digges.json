@@ -1,0 +1,19 @@
+{
+  "nome": "Thomas Digges",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Sólidos Platônicos",
+        "Sólidos Arquimedianos"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Parallax"
+      ]
+    }
+  ]
+}

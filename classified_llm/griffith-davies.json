@@ -1,0 +1,22 @@
+{
+  "nome": "Griffith Davies",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria Atarial",
+      "subareas_especificas": [
+        "Cálculo de Probabilidades",
+        "Análise de Riscos",
+        "Modelos Atuariais"
+      ]
+    },
+    {
+      "subarea": "Matemática Financeira",
+      "subareas_especificas": [
+        "Juros Compostos",
+        "Valor do Dinheiro no Tempo",
+        "Análise de Investimentos"
+      ]
+    }
+  ]
+}

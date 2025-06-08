@@ -1,0 +1,21 @@
+{
+  "nome": "Basil Cameron Rennie",
+  "area_principal": "Teoria da Ordem",
+  "subareas": [
+    {
+      "subarea": "Teoria de Reticulados",
+      "subareas_especificas": [
+        "Topologia em reticulados",
+        "Convergência em reticulados",
+        "Reticulados métricos"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Convergência em espaços de Banach"
+      ]
+    }
+  ]
+}

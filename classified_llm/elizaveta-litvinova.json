@@ -1,0 +1,19 @@
+{
+  "nome": "Elizaveta Fedorovna Litvinova",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções de Variável Complexa",
+        "Mapeamento Conforme"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Geometria Riemanniana"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nome": "Mikhael Leonidovich Gromov",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Curvatura",
+        "Variedades Riemannianas"
+      ]
+    },
+    {
+      "subarea": "Geometria Simplética",
+      "subareas_especificas": [
+        "Curvas Pseudo-holomórficas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grupos",
+      "subareas_especificas": [
+        "Grupos Hiperbólicos"
+      ]
+    }
+  ]
+}

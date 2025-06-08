@@ -1,0 +1,32 @@
+{
+  "nome": "Herbert Ellis Robbins",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Teoria da Medida em Espaços Métricos"
+      ]
+    },
+    {
+      "subarea": "Análise Sequencial",
+      "subareas_especificas": [
+        "Testes Sequenciais",
+        "Estimação Sequencial"
+      ]
+    },
+    {
+      "subarea": "Métodos Bayesianos",
+      "subareas_especificas": [
+        "Métodos Bayesianos Empíricos",
+        "Teoria da Decisão Composta"
+      ]
+    },
+    {
+      "subarea": "Aproximação Estocástica",
+      "subareas_especificas": [
+        "Algoritmos Iterativos"
+      ]
+    }
+  ]
+}

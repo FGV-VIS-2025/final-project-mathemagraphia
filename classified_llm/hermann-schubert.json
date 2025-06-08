@@ -1,0 +1,14 @@
+{
+  "nome": "Hermann Cäsar Hannibal Schubert",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Enumerativa",
+      "subareas_especificas": [
+        "Teoria das Características",
+        "Correspondência de Chasles",
+        "Princípio da Conservação do Número"
+      ]
+    }
+  ]
+}

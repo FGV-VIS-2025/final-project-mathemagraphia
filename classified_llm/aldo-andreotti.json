@@ -1,0 +1,20 @@
+{
+  "nome": "Aldo Andreotti",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Algébrica Clássica",
+      "subareas_especificas": [
+        "Correspondências entre curvas",
+        "Superfícies algébricas"
+      ]
+    },
+    {
+      "subarea": "Variáveis Complexas",
+      "subareas_especificas": [
+        "Teoria de várias variáveis complexas",
+        "Equações diferenciais parciais complexas"
+      ]
+    }
+  ]
+}

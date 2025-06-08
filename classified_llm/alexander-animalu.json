@@ -1,0 +1,39 @@
+{
+  "nome": "Alexander Obiefoka Enukora Animalu",
+  "area_principal": "Física da Matéria Condensada",
+  "subareas": [
+    {
+      "subarea": "Teoria do Potencial de Modelo",
+      "subareas_especificas": [
+        "Blindagem dielétrica não local em metais",
+        "Potencial de modelo blindado para 25 elementos",
+        "Estrutura de banda eletrônica total para 29 elementos"
+      ]
+    },
+    {
+      "subarea": "Física de Estado Sólido",
+      "subareas_especificas": [
+        "Interação spin-órbita em metais e semicondutores",
+        "Contribuição elétron-fóton para o calor específico de metais alcalinos",
+        "Espectros de fônons de metais alcalinos e alumínio",
+        "Condutividade óptica de metais simples",
+        "Teoria autoconsistente de transições ópticas em metais simples",
+        "Dependência da pressão da resistividade elétrica, termoeletricidade e dispersão de fônons em mercúrio líquido",
+        "Estrutura eletrônica de Ca, Sr e Ba sob pressão",
+        "Efeitos de muitos elétrons na condutividade óptica de metais simples pela fórmula de Kubo",
+        "Teoria geral de estados de superfície induzidos por campo magnético",
+        "Razão de massa de quarks",
+        "Espectro de carga de campos de quatro componentes com simetria O(4,2)",
+        "Estados ligados e espectros de massa de hádrons no modelo de quark",
+        "Simetria de escala",
+        "Correntes de lépton e hádron em álgebra de corrente O(4,2)",
+        "Magneto-resistência de alto campo de metais pela fórmula de Kubo-Mott",
+        "Abordagem de pseudopotencial para estrutura de banda de energia magnética e ruptura magnética em metais",
+        "Corrente de Josephson no tunelamento entre supercondutores acoplados",
+        "Um modelo relativístico de interações fortes quark-quark",
+        "Estrutura eletrônica de metais de transição",
+        "Dinâmica de rede de metais de transição no modelo de ressonância"
+      ]
+    }
+  ]
+}

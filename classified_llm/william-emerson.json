@@ -1,0 +1,19 @@
+{
+  "nome": "William Emerson",
+  "area_principal": "Cálculo",
+  "subareas": [
+    {
+      "subarea": "Cálculo Diferencial e Integral",
+      "subareas_especificas": [
+        "Fluxos",
+        "Séries Infinitas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Projeção da Esfera"
+      ]
+    }
+  ]
+}

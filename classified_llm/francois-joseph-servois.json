@@ -1,0 +1,27 @@
+{
+  "nome": "François Joseph Servois",
+  "area_principal": "Geometria Projetiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Espaços Projetivos",
+        "Transformações Projetivas"
+      ]
+    },
+    {
+      "subarea": "Equações Funcionais",
+      "subareas_especificas": [
+        "Equações Diferenciais",
+        "Equações Integrais"
+      ]
+    },
+    {
+      "subarea": "Números Complexos",
+      "subareas_especificas": [
+        "Interpretação Geométrica",
+        "Álgebra dos Quatérnios"
+      ]
+    }
+  ]
+}

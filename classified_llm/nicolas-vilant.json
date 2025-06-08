@@ -1,0 +1,18 @@
+{
+  "nome": "Nicolas Vilant",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Equações"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Equações Diofantinas"
+      ]
+    }
+  ]
+}

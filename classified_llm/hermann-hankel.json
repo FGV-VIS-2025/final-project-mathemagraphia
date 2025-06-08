@@ -1,0 +1,19 @@
+{
+  "nome": "Hermann Hankel",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números Complexos"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Teoria da Integração",
+        "Funções de Bessel"
+      ]
+    }
+  ]
+}

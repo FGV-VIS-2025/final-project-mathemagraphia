@@ -1,0 +1,19 @@
+{
+  "nome": "Laurent Moise Schwartz",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Teoria das Distribuições",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais",
+        "Transformada de Fourier"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Processos Estocásticos"
+      ]
+    }
+  ]
+}

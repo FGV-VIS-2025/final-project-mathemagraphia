@@ -1,0 +1,25 @@
+{
+  "nome": "Adolf Lindenbaum",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Axioma da Escolha",
+        "Teoria de Zermelo-Fraenkel"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra de Lindenbaum"
+      ]
+    },
+    {
+      "subarea": "Cálculo Proposicional",
+      "subareas_especificas": [
+        "Matrizes Lógicas"
+      ]
+    }
+  ]
+}

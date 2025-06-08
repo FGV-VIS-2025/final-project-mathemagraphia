@@ -1,0 +1,19 @@
+{
+  "nome": "Lajos Martin",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Hidráulica",
+        "Aerodinâmica"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Método dos Mínimos Quadrados"
+      ]
+    }
+  ]
+}

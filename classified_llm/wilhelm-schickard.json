@@ -1,0 +1,27 @@
+{
+  "nome": "Wilhelm Schickard",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Mecânica Celeste",
+      "subareas_especificas": [
+        "Cálculo de efemérides",
+        "Movimentos planetários"
+      ]
+    },
+    {
+      "subarea": "Cartografia",
+      "subareas_especificas": [
+        "Projeções cartográficas",
+        "Triangulação geodésica"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Máquinas de calcular",
+        "Métodos abreviados de multiplicação"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Luigi Bianchi",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometrias Não-Euclidianas",
+      "subareas_especificas": [
+        "Geometria Riemanniana"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Contínuos de Transformações"
+      ]
+    }
+  ]
+}

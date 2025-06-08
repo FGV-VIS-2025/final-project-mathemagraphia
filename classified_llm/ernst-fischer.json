@@ -1,0 +1,19 @@
+{
+  "nome": "Ernst Sigismund Fischer",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Invariantes",
+      "subareas_especificas": [
+        "Teoria da Eliminação"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Teoria da Integração de Lebesgue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nome": "James Whitbread Lee Glaisher",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Integrais"
+      ]
+    },
+    {
+      "subarea": "História da Matemática",
+      "subareas_especificas": [
+        "Sistemas de Numeração",
+        "Logaritmos",
+        "Notação Matemática"
+      ]
+    }
+  ]
+}

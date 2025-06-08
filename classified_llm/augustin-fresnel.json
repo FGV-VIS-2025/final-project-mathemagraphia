@@ -1,0 +1,14 @@
+{
+  "nome": "Augustin Jean Fresnel",
+  "area_principal": "Física",
+  "subareas": [
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Difração",
+        "Interferência",
+        "Polarização"
+      ]
+    }
+  ]
+}

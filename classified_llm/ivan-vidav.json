@@ -1,0 +1,18 @@
+{
+  "nome": "Ivan Vidav",
+  "area_principal": "Análise Funcional",
+  "subareas": [
+    {
+      "subarea": "Álgebras de Banach",
+      "subareas_especificas": [
+        "C*-álgebras"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais de Fuchsian"
+      ]
+    }
+  ]
+}

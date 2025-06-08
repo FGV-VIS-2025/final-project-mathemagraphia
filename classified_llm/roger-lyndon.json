@@ -1,0 +1,20 @@
+{
+  "nome": "Roger Conant Lyndon",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Combinatória",
+      "subareas_especificas": [
+        "Teoria de Grupos",
+        "Teoria de Grupos Combinatória",
+        "Apresentações de Grupos"
+      ]
+    },
+    {
+      "subarea": "Teoria de Modelos",
+      "subareas_especificas": [
+        "Lógica Matemática"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Nikolay Yakovlevich Sonin",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Funções de Bessel",
+        "Funções Gama",
+        "Polinômios de Sonin"
+      ]
+    },
+    {
+      "subarea": "Cálculo Numérico",
+      "subareas_especificas": [
+        "Fórmula de Soma de Euler-Maclaurin",
+        "Quadratura Mecânica",
+        "Integração Numérica",
+        "Polinômios de Bernoulli"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Segunda Ordem"
+      ]
+    }
+  ]
+}

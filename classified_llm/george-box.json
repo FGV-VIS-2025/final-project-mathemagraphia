@@ -1,0 +1,27 @@
+{
+  "nome": "George Edward Pelham Box",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Inferência Estatística",
+      "subareas_especificas": [
+        "Inferência Bayesiana",
+        "Robustez"
+      ]
+    },
+    {
+      "subarea": "Modelagem Estatística",
+      "subareas_especificas": [
+        "Modelagem de Superfícies de Resposta",
+        "Modelagem de Séries Temporais"
+      ]
+    },
+    {
+      "subarea": "Delineamento Experimental",
+      "subareas_especificas": [
+        "Planos Fatoriais",
+        "Planos Box-Behnken"
+      ]
+    }
+  ]
+}

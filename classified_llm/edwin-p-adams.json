@@ -1,0 +1,18 @@
+{
+  "nome": "Edwin Plimpton Adams",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Relatividade",
+      "subareas_especificas": [
+        "Teoria da Relatividade"
+      ]
+    },
+    {
+      "subarea": "Eletrostática",
+      "subareas_especificas": [
+        "Problemas Eletrostáticos em Duas Dimensões"
+      ]
+    }
+  ]
+}

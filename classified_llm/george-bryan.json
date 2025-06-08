@@ -1,0 +1,26 @@
+{
+  "nome": "George Hartley Bryan",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Estabilidade de Fluidos Rotativos",
+        "Ondas em Fluidos Rotativos"
+      ]
+    },
+    {
+      "subarea": "Elasticidade",
+      "subareas_especificas": [
+        "Estabilidade de Sistemas Elásticos"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Teoria Cinética dos Gases",
+        "Segunda Lei da Termodinâmica"
+      ]
+    }
+  ]
+}

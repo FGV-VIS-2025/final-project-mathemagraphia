@@ -1,0 +1,16 @@
+{
+  "nome": "Dunham Jackson",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Aproximação de Funções",
+      "subareas_especificas": [
+        "Polinômios",
+        "Séries de Fourier",
+        "Polinômios Ortogonais",
+        "Séries de Legendre",
+        "Polinômios de Chebyshev-Hermite"
+      ]
+    }
+  ]
+}

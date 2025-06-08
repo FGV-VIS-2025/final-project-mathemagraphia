@@ -1,0 +1,21 @@
+{
+  "nome": "Vyacheslaw Vassilievich Stepanov",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Sistemas Dinâmicos",
+      "subareas_especificas": [
+        "Teoria Qualitativa das Equações Diferenciais",
+        "Teorema Ergódico de Birkhoff",
+        "Funções Quase Periódicas"
+      ]
+    },
+    {
+      "subarea": "Análise Real",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Diferenciabilidade"
+      ]
+    }
+  ]
+}

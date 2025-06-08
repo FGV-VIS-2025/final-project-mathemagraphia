@@ -1,0 +1,18 @@
+{
+  "nome": "Frances Evelyn Cave-Browne-Cave",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Análise de Séries Temporais",
+      "subareas_especificas": [
+        "correlação entre estações barométricas"
+      ]
+    },
+    {
+      "subarea": "Bioestatística",
+      "subareas_especificas": [
+        "estudo de desenvolvimento infantil"
+      ]
+    }
+  ]
+}

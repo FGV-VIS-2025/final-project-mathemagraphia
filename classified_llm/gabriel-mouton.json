@@ -1,0 +1,25 @@
+{
+  "nome": "Gabriel Mouton",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Interpolação",
+      "subareas_especificas": [
+        "Diferenças Numéricas"
+      ]
+    },
+    {
+      "subarea": "Metrologia",
+      "subareas_especificas": [
+        "Sistema Decimal de Medição",
+        "Padronização de Medidas"
+      ]
+    },
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Logaritmos de Senos e Cossenos"
+      ]
+    }
+  ]
+}

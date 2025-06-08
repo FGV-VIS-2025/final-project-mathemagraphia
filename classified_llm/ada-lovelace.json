@@ -1,0 +1,13 @@
+{
+  "nome": "Augusta Ada Byron King, countess of Lovelace",
+  "area_principal": "Ciência da Computação",
+  "subareas": [
+    {
+      "subarea": "Teoria da Computação",
+      "subareas_especificas": [
+        "Algoritmos",
+        "Programação"
+      ]
+    }
+  ]
+}

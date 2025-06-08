@@ -1,0 +1,20 @@
+{
+  "nome": "Virgil Snyder",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria de Superfícies",
+      "subareas_especificas": [
+        "Superfícies Regradas",
+        "Transformações Birracionais"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": [
+        "Complexos Lineares",
+        "Coordenadas Homogêneas"
+      ]
+    }
+  ]
+}

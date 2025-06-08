@@ -1,0 +1,21 @@
+{
+  "nome": "Fischer Black",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Processos Estocásticos",
+      "subareas_especificas": [
+        "Movimento Browniano",
+        "Martingales",
+        "Equações Diferenciais Estocásticas"
+      ]
+    },
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Medidas de Probabilidade",
+        "Variáveis Aleatórias"
+      ]
+    }
+  ]
+}

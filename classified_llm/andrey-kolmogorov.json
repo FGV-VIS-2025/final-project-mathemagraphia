@@ -1,0 +1,28 @@
+{
+  "nome": "Andrey Nikolaevich Kolmogorov",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Teoria da Probabilidade",
+      "subareas_especificas": [
+        "Teoria da Medida",
+        "Processos Estocásticos",
+        "Teoria de Martingales"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medida de Lebesgue",
+        "Integração de Lebesgue"
+      ]
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Espaços Métricos",
+        "Espaços Topológicos"
+      ]
+    }
+  ]
+}

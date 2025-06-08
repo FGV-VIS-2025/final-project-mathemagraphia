@@ -1,0 +1,21 @@
+{
+  "nome": "Bertrand Arthur William Russell",
+  "area_principal": "Lógica Matemática",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Conjuntos",
+      "subareas_especificas": [
+        "Paradoxo de Russell",
+        "Axioma de Compreensão Irrestrita",
+        "Teoria dos Tipos"
+      ]
+    },
+    {
+      "subarea": "Fundamentos da Matemática",
+      "subareas_especificas": [
+        "Logicismo",
+        "Cálculo de Predicados de Primeira Ordem"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Calogero Vinti",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Teoria da Medida"
+      ]
+    },
+    {
+      "subarea": "Cálculo de Variações",
+      "subareas_especificas": [
+        "Integrais de Weierstrass"
+      ]
+    },
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": []
+    }
+  ]
+}

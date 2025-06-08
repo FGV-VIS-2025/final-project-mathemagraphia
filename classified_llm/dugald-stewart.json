@@ -1,0 +1,20 @@
+{
+  "nome": "Dugald Stewart",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Axiomas",
+        "Teoremas"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas",
+        "Curvas"
+      ]
+    }
+  ]
+}

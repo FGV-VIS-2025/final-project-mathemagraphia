@@ -1,0 +1,22 @@
+{
+  "nome": "Hermann of Reichenau",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Cálculo com Numerais Romanos",
+        "Frações Duodecimais"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria dos Números Pitagóricos",
+        "Progressões Aritméticas",
+        "Progressões Geométricas",
+        "Progressões Harmônicas"
+      ]
+    }
+  ]
+}

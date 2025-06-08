@@ -1,0 +1,28 @@
+{
+  "nome": "Louis Benjamin Francoeur",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica Elementar",
+      "subareas_especificas": [
+        "Estática",
+        "Cinemática",
+        "Dinâmica"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Descritiva",
+        "Desenho Linear"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Astronomia Prática",
+        "Cartografia"
+      ]
+    }
+  ]
+}

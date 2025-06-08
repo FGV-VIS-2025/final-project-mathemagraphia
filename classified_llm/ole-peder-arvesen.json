@@ -1,0 +1,13 @@
+{
+  "nome": "Ole Peder Arvesen",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Descritiva",
+      "subareas_especificas": [
+        "Curvas",
+        "Teoremas de Chasles e Duhamel"
+      ]
+    }
+  ]
+}

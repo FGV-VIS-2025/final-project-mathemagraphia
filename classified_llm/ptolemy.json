@@ -1,0 +1,20 @@
+{
+  "nome": "Claudius Ptolemy",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Funções Trigonométricas",
+        "Geometria Esférica"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Plana",
+        "Geometria Sólida"
+      ]
+    }
+  ]
+}

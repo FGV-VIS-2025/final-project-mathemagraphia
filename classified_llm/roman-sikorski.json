@@ -1,0 +1,33 @@
+{
+  "nome": "Roman Sikorski",
+  "area_principal": "Álgebra Booleana",
+  "subareas": [
+    {
+      "subarea": "Álgebra Booleana",
+      "subareas_especificas": [
+        "Teoria de reticulados",
+        "Álgebras de Boole topológicas",
+        "Homomorfismos em álgebras de Boole"
+      ]
+    },
+    {
+      "subarea": "Teoria da Medida",
+      "subareas_especificas": [
+        "Medidas em espaços métricos não separáveis"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Lógica Matemática",
+      "subareas_especificas": [
+        "Lógica de primeira ordem",
+        "Sistemas dedutivos"
+      ]
+    }
+  ]
+}

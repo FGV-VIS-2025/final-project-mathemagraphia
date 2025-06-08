@@ -1,0 +1,21 @@
+{
+  "nome": "Magnus Joseph Wenninger",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Sólida",
+      "subareas_especificas": [
+        "Poliedros",
+        "Poliedros Uniformes",
+        "Estrelações",
+        "Modelos Geométricos"
+      ]
+    },
+    {
+      "subarea": "Geometria Euclidiana",
+      "subareas_especificas": [
+        "Construções Geométricas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Aristaeus the Elder",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Cônicas"
+      ]
+    }
+  ]
+}

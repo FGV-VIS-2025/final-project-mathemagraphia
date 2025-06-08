@@ -1,0 +1,21 @@
+{
+  "nome": "George Keith Batchelor",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Turbulência",
+      "subareas_especificas": [
+        "Teoria de Kolmogorov",
+        "Homogeneidade",
+        "Difusão Turbulenta"
+      ]
+    },
+    {
+      "subarea": "Dinâmica dos Fluidos",
+      "subareas_especificas": [
+        "Fluxo de Fluidos em Motores de Aeronaves",
+        "Resistência Hidrodinâmica"
+      ]
+    }
+  ]
+}

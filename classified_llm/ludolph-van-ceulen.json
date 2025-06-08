@@ -1,0 +1,19 @@
+{
+  "nome": "Ludolph Van Ceulen",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Trigonometria",
+      "subareas_especificas": [
+        "Cálculo de π",
+        "Polígonos Regulares"
+      ]
+    },
+    {
+      "subarea": "Geometria Plana",
+      "subareas_especificas": [
+        "Quadratura do Círculo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Ernst Gabor Straus",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Teoria de Partições",
+        "Teoria de Grafos Extremos",
+        "Teoria de Ramsey Euclidiana"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Álgebra Linear",
+        "Teoria de Grupos"
+      ]
+    },
+    {
+      "subarea": "Análise",
+      "subareas_especificas": [
+        "Funções Analíticas"
+      ]
+    }
+  ]
+}

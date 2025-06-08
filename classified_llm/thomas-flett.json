@@ -1,0 +1,28 @@
+{
+  "nome": "Thomas Muirhead Flett",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Séries de potências"
+      ]
+    },
+    {
+      "subarea": "Teoria das Funções",
+      "subareas_especificas": [
+        "Identidades e desigualdades de funções",
+        "Análise Complexa",
+        "Funções Harmônicas"
+      ]
+    },
+    {
+      "subarea": "Análise Geométrica",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Somatória",
+      "subareas_especificas": []
+    }
+  ]
+}

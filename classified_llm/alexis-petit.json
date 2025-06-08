@@ -1,0 +1,20 @@
+{
+  "nome": "Alexis Thérèse Petit",
+  "area_principal": "Mecânica",
+  "subareas": [
+    {
+      "subarea": "Mecânica dos Fluidos",
+      "subareas_especificas": [
+        "Ação Capilar"
+      ]
+    },
+    {
+      "subarea": "Termodinâmica",
+      "subareas_especificas": [
+        "Teoria do Calor",
+        "Lei de Resfriamento de Newton",
+        "Calor Específico"
+      ]
+    }
+  ]
+}

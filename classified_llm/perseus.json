@@ -1,0 +1,18 @@
+{
+  "nome": "Perseus",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Curvas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Curvas"
+      ]
+    }
+  ]
+}

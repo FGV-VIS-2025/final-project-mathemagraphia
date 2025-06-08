@@ -1,0 +1,20 @@
+{
+  "nome": "Yurii Alekseevich Mitropolskii",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Sistemas Não-Lineares",
+        "Métodos Assintóticos",
+        "Oscilações Não-Lineares"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Métodos Assintóticos"
+      ]
+    }
+  ]
+}

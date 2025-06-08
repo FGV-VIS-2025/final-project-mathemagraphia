@@ -1,0 +1,13 @@
+{
+  "nome": "Giovanni Francesco Fagnano dei Toschi",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Cálculo Integral",
+      "subareas_especificas": [
+        "Integração por partes",
+        "Integrais de funções trigonométricas"
+      ]
+    }
+  ]
+}

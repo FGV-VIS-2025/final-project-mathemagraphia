@@ -1,0 +1,20 @@
+{
+  "nome": "Johannes de Groot",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Geral",
+      "subareas_especificas": [
+        "Compactificação",
+        "Extensão de funções contínuas",
+        "Conectividade"
+      ]
+    },
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos de automorfismos"
+      ]
+    }
+  ]
+}

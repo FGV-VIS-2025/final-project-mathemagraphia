@@ -1,0 +1,22 @@
+{
+  "nome": "Prasanta Chandra Mahalanobis",
+  "area_principal": "Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Inferência Estatística",
+        "Teoria da Probabilidade",
+        "Análise Multivariada"
+      ]
+    },
+    {
+      "subarea": "Métodos Estatísticos",
+      "subareas_especificas": [
+        "Análise de Dados",
+        "Planejamento de Experimentos",
+        "Amostragem"
+      ]
+    }
+  ]
+}

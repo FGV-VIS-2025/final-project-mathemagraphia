@@ -1,0 +1,19 @@
+{
+  "nome": "Kazimierz Zarankiewicz",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia do Plano",
+      "subareas_especificas": [
+        "Pontos de Corte em Conjuntos Conectados",
+        "Mapeamentos Conformes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Grafos",
+      "subareas_especificas": [
+        "Número Triangular"
+      ]
+    }
+  ]
+}

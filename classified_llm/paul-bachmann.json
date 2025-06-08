@@ -1,0 +1,27 @@
+{
+  "nome": "Paul Gustav Heinrich Bachmann",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números Algébricos",
+      "subareas_especificas": [
+        "Unidades Complexas",
+        "Corpos de Números"
+      ]
+    },
+    {
+      "subarea": "Teoria Analítica dos Números",
+      "subareas_especificas": [
+        "Funções Zeta",
+        "Distribuição de Números Primos"
+      ]
+    },
+    {
+      "subarea": "Formas Quadráticas",
+      "subareas_especificas": [
+        "Formas Binárias",
+        "Representação de Números por Formas Quadráticas"
+      ]
+    }
+  ]
+}

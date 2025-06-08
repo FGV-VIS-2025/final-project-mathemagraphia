@@ -1,0 +1,20 @@
+{
+  "nome": "Fritz Alexander Ernst Noether",
+  "area_principal": "Mecânica dos Fluidos",
+  "subareas": [
+    {
+      "subarea": "Turbulência",
+      "subareas_especificas": [
+        "Equações de Navier-Stokes",
+        "Teoria de Heisenberg"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    }
+  ]
+}

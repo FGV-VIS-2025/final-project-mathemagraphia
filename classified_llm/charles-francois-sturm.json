@@ -1,0 +1,19 @@
+{
+  "nome": "Jacques Charles François Sturm",
+  "area_principal": "Equações Diferenciais",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Ordinárias",
+      "subareas_especificas": [
+        "Problema de Sturm-Liouville"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Geometria Projetiva",
+        "Geometria Diferencial"
+      ]
+    }
+  ]
+}

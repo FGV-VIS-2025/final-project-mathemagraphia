@@ -1,0 +1,19 @@
+{
+  "nome": "Ernest Julius Wilczynski",
+  "area_principal": "Geometria Diferencial Projetiva",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Sistemas de Equações Diferenciais Lineares Homogêneas"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Curvas",
+        "Superfícies"
+      ]
+    }
+  ]
+}

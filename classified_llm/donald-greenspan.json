@@ -1,0 +1,24 @@
+{
+  "nome": "Donald Greenspan",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Hiperbólica",
+      "subareas_especificas": [
+        "Geometria Analítica Hiperbólica"
+      ]
+    },
+    {
+      "subarea": "Geometria Projetiva",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Análise Numérica",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais",
+        "Métodos de Inversão de Matrizes"
+      ]
+    }
+  ]
+}

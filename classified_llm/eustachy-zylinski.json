@@ -1,0 +1,19 @@
+{
+  "nome": "Eustachy Karol Żyliński",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Corpos",
+      "subareas_especificas": [
+        "Corpos p-ádicos",
+        "Teoria Algébrica dos Números"
+      ]
+    },
+    {
+      "subarea": "Álgebra",
+      "subareas_especificas": [
+        "Teoria de Ideais"
+      ]
+    }
+  ]
+}

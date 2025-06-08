@@ -1,0 +1,25 @@
+{
+  "nome": "Rufus Philip Isaacs",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Ordinárias",
+        "Equações Diferenciais Parciais"
+      ]
+    },
+    {
+      "subarea": "Teoria das Diferenças Finitas",
+      "subareas_especificas": [
+        "Funções Monodifrícas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Jogos",
+      "subareas_especificas": [
+        "Jogos Diferenciais"
+      ]
+    }
+  ]
+}

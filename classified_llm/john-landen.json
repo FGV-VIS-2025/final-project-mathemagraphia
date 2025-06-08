@@ -1,0 +1,18 @@
+{
+  "nome": "John Landen",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Transformações de Landen"
+      ]
+    },
+    {
+      "subarea": "Cálculo",
+      "subareas_especificas": [
+        "Análise Residual"
+      ]
+    }
+  ]
+}

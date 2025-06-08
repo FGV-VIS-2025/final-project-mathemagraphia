@@ -1,0 +1,20 @@
+{
+  "nome": "Gaspar Lax",
+  "area_principal": "Aritmética",
+  "subareas": [
+    {
+      "subarea": "Teoria das Proporções",
+      "subareas_especificas": [
+        "Razões",
+        "Proporções"
+      ]
+    },
+    {
+      "subarea": "Aritmética Teórica",
+      "subareas_especificas": [
+        "Números",
+        "Operações Aritméticas"
+      ]
+    }
+  ]
+}

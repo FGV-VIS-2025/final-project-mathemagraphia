@@ -1,0 +1,12 @@
+{
+  "nome": "Annie Hutton Numbers",
+  "area_principal": "Química",
+  "subareas": [
+    {
+      "subarea": "Química Orgânica",
+      "subareas_especificas": [
+        "Química Orgânica Físico-Química"
+      ]
+    }
+  ]
+}

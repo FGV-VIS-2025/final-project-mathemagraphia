@@ -1,0 +1,27 @@
+{
+  "nome": "George G Lorentz",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries de Fourier",
+      "subareas_especificas": [
+        "Teoria da Somabilidade"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Banach",
+        "Teoria da Aproximação"
+      ]
+    },
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Polinômios de Bernstein",
+        "Inequações de Markov",
+        "Entropia de Kolmogorov"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Ernst Witt",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Corpos",
+        "Formas Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Anéis",
+        "Álgebras"
+      ]
+    },
+    {
+      "subarea": "Álgebras de Lie",
+      "subareas_especificas": [
+        "Representações de Álgebras de Lie"
+      ]
+    }
+  ]
+}

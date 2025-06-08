@@ -1,0 +1,33 @@
+{
+  "nome": "Richard Rado",
+  "area_principal": "Combinatória",
+  "subareas": [
+    {
+      "subarea": "Teoria de grafos",
+      "subareas_especificas": [
+        "grafos infinitos",
+        "hipergrafos"
+      ]
+    },
+    {
+      "subarea": "Teoria dos números",
+      "subareas_especificas": [
+        "partições"
+      ]
+    },
+    {
+      "subarea": "Teoria de conjuntos",
+      "subareas_especificas": [
+        "Teorema de Ramsey",
+        "Princípio de Seleção de Rado",
+        "cálculo de partições"
+      ]
+    },
+    {
+      "subarea": "Teoria da medida",
+      "subareas_especificas": [
+        "desigualdades"
+      ]
+    }
+  ]
+}

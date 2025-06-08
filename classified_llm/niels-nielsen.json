@@ -1,0 +1,21 @@
+{
+  "nome": "Niels Nielsen",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Especiais",
+      "subareas_especificas": [
+        "Função Gama",
+        "Funções de Bessel",
+        "Funções Hipergeométricas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Números de Bernoulli",
+        "Quocientes de Fermat"
+      ]
+    }
+  ]
+}

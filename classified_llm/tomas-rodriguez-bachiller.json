@@ -1,0 +1,18 @@
+{
+  "nome": "Tomás Rodríguez Bachiller",
+  "area_principal": "Topologia",
+  "subareas": [
+    {
+      "subarea": "Topologia Algébrica",
+      "subareas_especificas": [
+        "Grupos de Homotopia"
+      ]
+    },
+    {
+      "subarea": "Teoria da Dimensão",
+      "subareas_especificas": [
+        "Dimensão topológica"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": "Dorothy Mary Elizabeth Foster",
+  "area_principal": "Teoria dos Números",
+  "subareas": [
+    {
+      "subarea": "Geometria dos Números",
+      "subareas_especificas": [
+        "Polinômios Quadráticos"
+      ]
+    }
+  ]
+}

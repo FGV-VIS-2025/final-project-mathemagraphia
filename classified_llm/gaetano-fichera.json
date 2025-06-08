@@ -1,0 +1,29 @@
+{
+  "nome": "Gaetano Fichera",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Problemas de Valor de Contorno Mistos",
+        "Equações Elípticas",
+        "Equações Elíptico-Parabólicas",
+        "Teoria do Potencial"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Teoria Espectral de Operadores"
+      ]
+    },
+    {
+      "subarea": "Cálculo Variacional",
+      "subareas_especificas": [
+        "Integrais Quase-regulares",
+        "Semicontinuidade"
+      ]
+    }
+  ]
+}

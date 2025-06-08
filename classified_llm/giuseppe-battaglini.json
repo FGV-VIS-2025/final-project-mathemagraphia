@@ -1,0 +1,18 @@
+{
+  "nome": "Giuseppe Battaglini",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Geometria Não-Euclidiana",
+      "subareas_especificas": [
+        "Geometria Hiperbólica"
+      ]
+    },
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Geometria de Curvas e Superfícies de Segundo Grau"
+      ]
+    }
+  ]
+}

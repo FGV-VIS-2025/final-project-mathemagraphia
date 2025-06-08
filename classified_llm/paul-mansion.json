@@ -1,0 +1,28 @@
+{
+  "nome": "Paul Mansion",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções Elípticas",
+      "subareas_especificas": [
+        "Multiplicação de Funções Elípticas",
+        "Transformação de Funções Elípticas"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Teorema de Bernoulli",
+        "Integral de Poisson",
+        "Escopo objetivo da probabilidade",
+        "Teorema de Jacques Bernoulli"
+      ]
+    },
+    {
+      "subarea": "Equações Diferenciais Parciais",
+      "subareas_especificas": [
+        "Equações Diferenciais Parciais de Primeira Ordem"
+      ]
+    }
+  ]
+}

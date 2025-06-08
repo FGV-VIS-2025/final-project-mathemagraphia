@@ -1,0 +1,21 @@
+{
+  "nome": "Enzo Martinelli",
+  "area_principal": "Geometria Algébrica",
+  "subareas": [
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Variedades Kähler",
+        "Formas Diferenciais"
+      ]
+    },
+    {
+      "subarea": "Análise Complexa",
+      "subareas_especificas": [
+        "Funções Holomorfas de Várias Variáveis Complexas",
+        "Fórmula de Bochner-Martinelli",
+        "Teoria de Resíduos"
+      ]
+    }
+  ]
+}

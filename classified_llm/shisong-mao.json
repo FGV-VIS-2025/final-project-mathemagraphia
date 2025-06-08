@@ -1,0 +1,22 @@
+{
+  "nome": "Shisong Mao",
+  "area_principal": "Probabilidade e Estatística",
+  "subareas": [
+    {
+      "subarea": "Estatística Matemática",
+      "subareas_especificas": [
+        "Processos estocásticos",
+        "Análise multivariada",
+        "Estatística de confiabilidade",
+        "Estatística aplicada"
+      ]
+    },
+    {
+      "subarea": "Teoria da Informação",
+      "subareas_especificas": [
+        "Aplicações em telecomunicações",
+        "Criptografia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Anania Širakuni",
+  "area_principal": "Astronomia",
+  "subareas": [
+    {
+      "subarea": "Calendários",
+      "subareas_especificas": [
+        "Calendário perpétuo"
+      ]
+    },
+    {
+      "subarea": "Cosmografia",
+      "subareas_especificas": [
+        "Modelo geocêntrico",
+        "Quatro elementos"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Tabelas aritméticas",
+        "Operações básicas"
+      ]
+    }
+  ]
+}

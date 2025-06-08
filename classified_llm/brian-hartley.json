@@ -1,0 +1,19 @@
+{
+  "nome": "Brian Hartley",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos Finitos",
+      "subareas_especificas": [
+        "Grupos Simples",
+        "Teoria de Representações"
+      ]
+    },
+    {
+      "subarea": "Grupos Infinitos",
+      "subareas_especificas": [
+        "Grupos Localmente Finitos"
+      ]
+    }
+  ]
+}

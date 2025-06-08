@@ -1,0 +1,26 @@
+{
+  "nome": "Zhang Qiujian",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Equações",
+      "subareas_especificas": [
+        "Equações Lineares",
+        "Equações Quadráticas"
+      ]
+    },
+    {
+      "subarea": "Aritmética",
+      "subareas_especificas": [
+        "Frações",
+        "Progressões Aritméticas"
+      ]
+    },
+    {
+      "subarea": "Geometria",
+      "subareas_especificas": [
+        "Cálculo de áreas e volumes"
+      ]
+    }
+  ]
+}

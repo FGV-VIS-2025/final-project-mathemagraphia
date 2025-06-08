@@ -1,0 +1,25 @@
+{
+  "nome": "Edward Hubert Linfoot",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Funções de Variável Complexa",
+      "subareas_especificas": [
+        "Funções quase periódicas"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": [
+        "Problema de Waring",
+        "Corpos quadráticos imaginários"
+      ]
+    },
+    {
+      "subarea": "Probabilidade",
+      "subareas_especificas": [
+        "Lei dos grandes números"
+      ]
+    }
+  ]
+}

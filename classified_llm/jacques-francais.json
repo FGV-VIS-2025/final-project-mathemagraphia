@@ -1,0 +1,19 @@
+{
+  "nome": "Jacques Frédéric Français",
+  "area_principal": "Geometria Analítica",
+  "subareas": [
+    {
+      "subarea": "Geometria de Coordenadas",
+      "subareas_especificas": [
+        "Retas e Planos em Coordenadas Oblíquas",
+        "Transformações de Coordenadas"
+      ]
+    },
+    {
+      "subarea": "Números Complexos",
+      "subareas_especificas": [
+        "Representação Geométrica de Números Complexos"
+      ]
+    }
+  ]
+}

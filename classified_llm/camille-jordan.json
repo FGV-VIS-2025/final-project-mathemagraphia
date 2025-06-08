@@ -1,0 +1,30 @@
+{
+  "nome": "Marie Ennemond Camille Jordan",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Finitos",
+        "Grupos de Permutação",
+        "Teoria de Galois"
+      ]
+    },
+    {
+      "subarea": "Álgebra Linear",
+      "subareas_especificas": [
+        "Matrizes"
+      ]
+    },
+    {
+      "subarea": "Teoria dos Números",
+      "subareas_especificas": []
+    },
+    {
+      "subarea": "Topologia",
+      "subareas_especificas": [
+        "Homotopia"
+      ]
+    }
+  ]
+}

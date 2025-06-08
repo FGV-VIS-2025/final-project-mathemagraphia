@@ -1,0 +1,21 @@
+{
+  "nome": "Robert Grosseteste",
+  "area_principal": "Geometria",
+  "subareas": [
+    {
+      "subarea": "Óptica",
+      "subareas_especificas": [
+        "Refração",
+        "lentes",
+        "espelhos"
+      ]
+    },
+    {
+      "subarea": "Astronomia",
+      "subareas_especificas": [
+        "Teoria dos Planetas",
+        "Via Láctea"
+      ]
+    }
+  ]
+}

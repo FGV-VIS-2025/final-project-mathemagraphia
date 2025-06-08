@@ -1,0 +1,20 @@
+{
+  "nome": "Théodore Olivier",
+  "area_principal": "Geometria Descritiva",
+  "subareas": [
+    {
+      "subarea": "Geometria Analítica",
+      "subareas_especificas": [
+        "Superfícies Regradas",
+        "Curvas de Interseção de Superfícies"
+      ]
+    },
+    {
+      "subarea": "Geometria Diferencial",
+      "subareas_especificas": [
+        "Superfícies",
+        "Curvas"
+      ]
+    }
+  ]
+}

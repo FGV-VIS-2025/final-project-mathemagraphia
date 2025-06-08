@@ -1,0 +1,26 @@
+{
+  "nome": "Paul Charles William Davies",
+  "area_principal": "Cosmologia",
+  "subareas": [
+    {
+      "subarea": "Astrofísica",
+      "subareas_especificas": [
+        "Recombinação di-eletrônica",
+        "Teoria de Buracos Negros"
+      ]
+    },
+    {
+      "subarea": "Teoria Quântica de Campos",
+      "subareas_especificas": [
+        "Efeito Casimir",
+        "Regularização"
+      ]
+    },
+    {
+      "subarea": "Relatividade Geral",
+      "subareas_especificas": [
+        "Universo de Robertson-Walker"
+      ]
+    }
+  ]
+}

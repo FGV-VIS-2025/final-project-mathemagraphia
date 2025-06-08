@@ -1,0 +1,19 @@
+{
+  "nome": "John Lighton Synge",
+  "area_principal": "Geometria Diferencial",
+  "subareas": [
+    {
+      "subarea": "Geometria Riemanniana",
+      "subareas_especificas": [
+        "Geometria de Espaço-Tempo"
+      ]
+    },
+    {
+      "subarea": "Relatividade Geral",
+      "subareas_especificas": [
+        "Teoria de Espaço-Tempo Curvo",
+        "Singularidades"
+      ]
+    }
+  ]
+}

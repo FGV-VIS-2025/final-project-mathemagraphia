@@ -1,0 +1,29 @@
+{
+  "nome": "Marek Kuczma",
+  "area_principal": "Equações Funcionais",
+  "subareas": [
+    {
+      "subarea": "Equações Funcionais em uma Variável",
+      "subareas_especificas": [
+        "Equações de Schröder",
+        "Equações de Abel"
+      ]
+    },
+    {
+      "subarea": "Equações e Inequações Funcionais",
+      "subareas_especificas": [
+        "Equação de Cauchy",
+        "Inequação de Jensen"
+      ]
+    },
+    {
+      "subarea": "Equações Funcionais Iterativas",
+      "subareas_especificas": [
+        "Sistemas Dinâmicos",
+        "Teoria Ergódica",
+        "Análise Funcional",
+        "Geometria"
+      ]
+    }
+  ]
+}

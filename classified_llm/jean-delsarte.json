@@ -1,0 +1,34 @@
+{
+  "nome": "Jean Frédéric Auguste Delsarte",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Equações Integrais",
+      "subareas_especificas": [
+        "Equações de Fredholm",
+        "Equações de Fredholm-Nörlund"
+      ]
+    },
+    {
+      "subarea": "Funções Média-Periódicas",
+      "subareas_especificas": [
+        "Funções Média-Periódicas em Grupos Abstratos",
+        "Funções Média-Periódicas de Duas Variáveis"
+      ]
+    },
+    {
+      "subarea": "Espaços de Hilbert",
+      "subareas_especificas": [
+        "Transformações Conformes em Espaços de Hilbert",
+        "Grupos Lineares de Transformações em Espaços de Hilbert"
+      ]
+    },
+    {
+      "subarea": "Operadores de Transmutação",
+      "subareas_especificas": [
+        "Operadores de Permutação e Transmutação",
+        "Transformações de Operadores Diferenciais no Domínio Complexo"
+      ]
+    }
+  ]
+}

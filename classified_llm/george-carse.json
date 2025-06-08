@@ -1,0 +1,18 @@
+{
+  "nome": "George Alexander Carse",
+  "area_principal": "Física Matemática",
+  "subareas": [
+    {
+      "subarea": "Mecânica",
+      "subareas_especificas": [
+        "Mecânica Clássica"
+      ]
+    },
+    {
+      "subarea": "Análise Matemática",
+      "subareas_especificas": [
+        "Equações Diferenciais"
+      ]
+    }
+  ]
+}

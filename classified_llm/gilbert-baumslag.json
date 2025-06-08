@@ -1,0 +1,23 @@
+{
+  "nome": "Gilbert Baumslag",
+  "area_principal": "Teoria de Grupos",
+  "subareas": [
+    {
+      "subarea": "Grupos infinitos",
+      "subareas_especificas": [
+        "Grupos com raízes únicas",
+        "Produtos nilpotentes de grupos com amalgamações",
+        "Grupos com uma única relação definidora"
+      ]
+    },
+    {
+      "subarea": "Grupos finitamente apresentados",
+      "subareas_especificas": [
+        "Problemas algorítmicos (palavra, conjugação, isomorfismo)",
+        "Propriedades residuais",
+        "Grupos automáticos",
+        "Grupos hiperbólicos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nome": "Igor Rostislavovich Shafarevich",
+  "area_principal": "Álgebra",
+  "subareas": [
+    {
+      "subarea": "Álgebra Comutativa",
+      "subareas_especificas": [
+        "Teoria de Corpos",
+        "Teoria de Anéis",
+        "Geometria Algébrica"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos de Galois",
+        "Cohomologia de Grupos",
+        "Álgebras de Lie"
+      ]
+    }
+  ]
+}

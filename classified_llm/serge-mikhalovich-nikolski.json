@@ -1,0 +1,20 @@
+{
+  "nome": "Serge Mikhalovich Nikolski",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Teoria da Aproximação",
+      "subareas_especificas": [
+        "Aproximação de funções por polinômios",
+        "Espaços de funções",
+        "Teoria de interpolação"
+      ]
+    },
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Equações lineares em espaços de Banach"
+      ]
+    }
+  ]
+}

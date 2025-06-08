@@ -1,0 +1,20 @@
+{
+  "nome": "Roger Godement",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Análise Funcional",
+      "subareas_especificas": [
+        "Espaços de Hilbert",
+        "Espaços de Banach"
+      ]
+    },
+    {
+      "subarea": "Teoria de Grupos",
+      "subareas_especificas": [
+        "Grupos Localmente Compactos",
+        "Representações de Grupos"
+      ]
+    }
+  ]
+}

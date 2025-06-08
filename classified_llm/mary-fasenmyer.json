@@ -1,0 +1,14 @@
+{
+  "nome": "Mary Celine Fasenmyer",
+  "area_principal": "Análise",
+  "subareas": [
+    {
+      "subarea": "Séries Hipergeométricas",
+      "subareas_especificas": [
+        "Polinômios de Legendre",
+        "Polinômios de Jacobi",
+        "Polinômios de Bateman"
+      ]
+    }
+  ]
+}
