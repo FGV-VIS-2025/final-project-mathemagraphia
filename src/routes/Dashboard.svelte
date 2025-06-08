@@ -7,10 +7,11 @@
   import VizContainer from '../components/VizContainer.svelte';
   import FixedBar from '../components/FixedBar.svelte';
 
+  let areaByName = {};
   let mapContainer;
   let allPoints = [], filteredPoints = [];
   let landFeatures = { type: 'FeatureCollection', features: [] };
-  let selectedPoint = null;       // ponto atualmente clicado
+  let selectedPoint = null;
   let detailData = null;
 
   let searchTerm = '';
@@ -25,7 +26,6 @@
   const expand = id => expanded = id;
   const closeModal = () => expanded = null;
 
-  // extrai ano para filtro
   function parseYear(str) {
     if (!str) return null;
     const s = str.trim();
@@ -45,11 +45,11 @@
   }
 
   async function loadData() {
-    // usa BASE_URL para funcionar em dev/build
     const base = import.meta.env.BASE_URL;
-    const [world, raw] = await Promise.all([
+    const [world, raw, csvRaw] = await Promise.all([
       d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'),
-      d3.json(`${base}data/mac_tutor_com_coords.json`)
+      d3.json(`${base}data/mac_tutor_com_coords.json`),
+      d3.csv(`${base}data/areas_matematicos.csv`)
     ]);
 
     const worldFeatures = topojson.feature(world, world.objects.countries);
@@ -57,6 +57,14 @@
       type: 'FeatureCollection',
       features: worldFeatures.features || [worldFeatures]
     };
+
+    csvRaw.forEach(row => {
+      areaByName[row.nome] = {
+        area_principal: row.area_principal,
+        subarea: row.subarea,
+        subareas_especificas: row.subareas_especificas
+      };
+    });
 
     allPoints = raw
       .map(d => {
@@ -82,7 +90,7 @@
 
     projection = d3.geoNaturalEarth1()
       .scale(width / 6.5)
-      .translate([width/2, height/2]);
+      .translate([width / 2, height / 2]);
     path = d3.geoPath(projection);
 
     const zoom = d3.zoom()
@@ -92,7 +100,7 @@
         scaleFactor = e.transform.k;
         zoomGroup.attr('transform', currentTransform);
         zoomGroup.selectAll('circle')
-          .attr('r',            3 / scaleFactor)
+          .attr('r', 3 / scaleFactor)
           .attr('stroke-width', 0.5 / scaleFactor);
       });
 
@@ -103,26 +111,23 @@
     svg.selectAll('*').remove();
     zoomGroup = svg.append('g').attr('transform', currentTransform);
 
-    // background clicável para limpar seleção
     svg.append('rect')
-      .attr('width','100%').attr('height','100%')
-      .attr('fill','#eef').lower()
+      .attr('width', '100%').attr('height', '100%')
+      .attr('fill', '#eef').lower()
       .on('click', () => {
         selectedPoint = null;
-        detailData    = null;
+        detailData = null;
         drawMap();
       });
 
-    // desenha países
     zoomGroup.append('g')
       .selectAll('path')
       .data(landFeatures.features)
       .join('path')
       .attr('d', path)
-      .attr('fill','#ddd')
-      .attr('stroke','#999');
+      .attr('fill', '#ddd')
+      .attr('stroke', '#999');
 
-    // desenha pontos
     zoomGroup.append('g')
       .selectAll('circle')
       .data(filteredPoints.length ? filteredPoints : allPoints)
@@ -130,28 +135,37 @@
       .attr('cx', d => projection(d.coords)[0])
       .attr('cy', d => projection(d.coords)[1])
       .attr('r', 3 / scaleFactor)
-      .style('cursor','pointer')
+      .style('cursor', 'pointer')
       .attr('fill', d => d === selectedPoint ? 'orange' : 'crimson')
-      .attr('stroke','#000')
+      .attr('stroke', '#000')
       .attr('stroke-width', 0.5 / scaleFactor)
       .on('click', (event, d) => {
-        event.stopPropagation();    // não deixa o background limpar depois
+        event.stopPropagation();
         choosePoint(d);
       });
   }
 
   async function choosePoint(d) {
     selectedPoint = d;
-    detailData    = null;
-    const base    = import.meta.env.BASE_URL;
-    const slug    = slugify(d.nome_curto);
+    detailData = null;
+    const base = import.meta.env.BASE_URL;
+    const slug = slugify(d.nome_curto);
 
     try {
       const res = await fetch(`${base}MacTutorData/${slug}.json`);
-      if (res.ok) detailData = await res.json();
+      if (res.ok) {
+        detailData = await res.json();
+        const areas = areaByName[d.nome_curto];
+        if (areas) {
+          detailData.area_principal = areas.area_principal;
+          detailData.subarea = areas.subarea;
+          detailData.subareas_especificas = areas.subareas_especificas;
+        }
+      }
     } catch {
       detailData = null;
     }
+
     drawMap();
   }
 
@@ -162,10 +176,10 @@
         p.nome_curto.toLowerCase().includes(term) ||
         p.nome_completo.toLowerCase().includes(term)
       )
-      .slice(0,8);
+      .slice(0, 8);
   }
 
-  function filterByEra([start,end]) {
+  function filterByEra([start, end]) {
     filteredPoints = allPoints.filter(p => p.birthYear >= start && p.birthYear < end);
     drawMap();
   }
@@ -180,6 +194,10 @@
       drawMap();
     });
   });
+
+
+
+
 </script>
 
 <div class="dashboard-layout">
@@ -213,6 +231,10 @@
           <div class="info-container">
             {#if detailData}
               <h3>{detailData.nome_curto}</h3>
+              <p><strong>Área Principal:</strong> {detailData.area_principal}</p>
+              <p><strong>Subárea:</strong>        {detailData.subarea}</p>
+              <p><strong>Específica:</strong>    {detailData.subareas_especificas}</p>
+
               <p><strong>Nasceu:</strong> {detailData.data_nascimento}</p>
               <p><strong>Local:</strong> {detailData.local_nascimento}</p>
               <p><strong>Morreu:</strong> {detailData.data_morte}</p>
