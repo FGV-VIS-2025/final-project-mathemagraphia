@@ -3,6 +3,8 @@
   import * as d3 from 'd3';
   import * as topojson from 'topojson-client';
 
+  import EuclidesChart from '../routes/Euclides.svelte';
+
   import Timeline from '../components/Timeline.svelte';
   import VizContainer from '../components/VizContainer.svelte';
   import FixedBar from '../components/FixedBar.svelte';
@@ -179,10 +181,14 @@
       .slice(0, 8);
   }
 
-  function filterByEra([start, end]) {
-    filteredPoints = allPoints.filter(p => p.birthYear >= start && p.birthYear < end);
-    drawMap();
-  }
+  let showEuclidesPlot = false;
+
+function filterByEra([start, end]) {
+  filteredPoints = allPoints.filter(p => p.birthYear >= start && p.birthYear < end);
+  showEuclidesPlot = (start <= -1000 && end <= 500); // ajuste conforme o seu critério
+  drawMap();
+}
+
 
   onMount(async () => {
     await loadData();
@@ -253,10 +259,10 @@
 
     <section class="viz-section">
       {#each [1,2] as id}
-        <div class="viz-wrapper">
-          <VizContainer {id} on:expand={() => expand(id)} />
-        </div>
-      {/each}
+      <div class="viz-wrapper">
+        <VizContainer {id} showEuclidesPlot={id === 1 && showEuclidesPlot} on:expand={() => expand(id)} />
+      </div>
+    {/each}    
     </section>
   </main>
 </div>
@@ -360,6 +366,14 @@
     border-color: #667eea;
     box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
   }
+  .euclides-chart-wrapper {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
 
   .suggestions-list {
     list-style: none;
