@@ -6,6 +6,7 @@
   import Timeline from '../components/Timeline.svelte';
   import VizContainer from '../components/VizContainer.svelte';
   import AncientEra from '../components/AncientEra.svelte';
+  import ModernEra from '../components/ModernEra.svelte';
   import FixedBar from '../components/FixedBar.svelte';
 
   let mapContainer;
@@ -178,7 +179,12 @@
       {#if currentEra && currentEra[0] < 0}
         <div class="viz-wrapper">
           <button class="expand-btn" on:click={()=>expand(2)}>⤢</button>
-          <AncientEra />
+          <AncientEra points={filteredPoints} />
+        </div>
+      {:else if currentEra}
+        <div class="viz-wrapper">
+          <button class="expand-btn" on:click={()=>expand(3)}>⤢</button>
+          <ModernEra points={filteredPoints} />
         </div>
       {:else}
         <div class="viz-wrapper">
@@ -198,11 +204,14 @@
       {#if expanded === 1}
         <VizContainer id={1} {currentEra} points={filteredPoints} />
       {:else if expanded === 2}
-        <AncientEra />
+        <AncientEra points={filteredPoints} />
+      {:else if expanded === 3}
+        <ModernEra points={filteredPoints} />
       {/if}
     </div>
   </div>
 {/if}
+
 
 <style>
   /* ... seu CSS existente ... */
