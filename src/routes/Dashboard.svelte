@@ -29,6 +29,10 @@
   const expand = id => expanded = id;
   const closeModal = () => expanded = null;
 
+  // novos para a rede de citações
+  let citationLinks = [];   // { source, target }
+  let citedPoints   = [];   // lista de nós citados
+
   function parseYear(str) {
     if (!str) return null;
     const s = str.trim();
@@ -67,47 +71,119 @@
 
   function initMap() {
     const { width, height } = mapContainer.getBoundingClientRect();
-    svg = d3.select(mapContainer).append('svg').attr('width', width).attr('height', height);
-    projection = d3.geoNaturalEarth1().scale(width/6.5).translate([width/2, height/2]);
+    svg = d3.select(mapContainer)
+      .append('svg')
+      .attr('width', width)
+      .attr('height', height);
+
+    projection = d3.geoNaturalEarth1()
+      .scale(width / 6.5)
+      .translate([width/2, height/2]);
+
     path = d3.geoPath(projection);
-    const zoom = d3.zoom().scaleExtent([0.5,8]).on('zoom', e => {
-      currentTransform = e.transform;
-      scaleFactor = e.transform.k;
-      zoomGroup.attr('transform', currentTransform);
-      zoomGroup.selectAll('circle')
-        .attr('r', 3/scaleFactor)
-        .attr('stroke-width', 0.5/scaleFactor);
-    });
+
+    const zoom = d3.zoom()
+      .scaleExtent([0.5,8])
+      .on('zoom', e => {
+        currentTransform = e.transform;
+        scaleFactor = e.transform.k;
+        zoomGroup.attr('transform', currentTransform);
+        zoomGroup.selectAll('circle')
+          .attr('r', 3/scaleFactor)
+          .attr('stroke-width', 0.5/scaleFactor);
+        zoomGroup.selectAll('line')
+          .attr('stroke-width', 1/scaleFactor);
+      });
+
     svg.call(zoom);
   }
 
   function drawMap() {
     svg.selectAll('*').remove();
-    zoomGroup = svg.append('g').attr('transform', currentTransform);
-    svg.append('rect').attr('width','100%').attr('height','100%')
-      .attr('fill','#eef').lower().on('click', () => {
-        selectedPoint = null; detailData = null; drawMap();
+    zoomGroup = svg.append('g')
+      .attr('transform', currentTransform);
+
+    // fundo clicável para limpar seleção
+    svg.append('rect')
+      .attr('width','100%').attr('height','100%')
+      .attr('fill','#eef').lower()
+      .on('click', () => {
+        selectedPoint = null;
+        detailData = null;
+        citationLinks = [];
+        citedPoints = [];
+        drawMap();
       });
-    zoomGroup.append('g').selectAll('path')
-      .data(landFeatures.features).join('path')
-      .attr('d', path).attr('fill','#ddd').attr('stroke','#999');
-    zoomGroup.append('g').selectAll('circle')
+
+    // países
+    zoomGroup.append('g')
+      .selectAll('path')
+      .data(landFeatures.features)
+      .join('path')
+        .attr('d', path)
+        .attr('fill','#ddd')
+        .attr('stroke','#999');
+
+    // arestas de citação
+    zoomGroup.append('g')
+      .selectAll('line')
+      .data(citationLinks)
+      .join('line')
+        .attr('x1', d => projection(d.source.coords)[0])
+        .attr('y1', d => projection(d.source.coords)[1])
+        .attr('x2', d => projection(d.target.coords)[0])
+        .attr('y2', d => projection(d.target.coords)[1])
+        .attr('stroke', '#555')
+        .attr('stroke-width', 1/scaleFactor)
+        .attr('stroke-dasharray', '3,2');
+
+    // nós
+    zoomGroup.append('g')
+      .selectAll('circle')
       .data(filteredPoints.length ? filteredPoints : allPoints)
       .join('circle')
-      .attr('cx', d => projection(d.coords)[0])
-      .attr('cy', d => projection(d.coords)[1])
-      .attr('r', 3/scaleFactor).attr('fill', d => d===selectedPoint?'orange':'crimson')
-      .attr('stroke','#000').attr('stroke-width',0.5/scaleFactor)
-      .style('cursor','pointer')
-      .on('click', (e,d)=>{ e.stopPropagation(); choosePoint(d); });
+        .attr('cx', d => projection(d.coords)[0])
+        .attr('cy', d => projection(d.coords)[1])
+        .attr('r', 3/scaleFactor)
+        .attr('fill', d => 
+          d === selectedPoint ? 'orange'
+          : citedPoints.includes(d) ? '#00bcd4'
+          : 'crimson'
+        )
+        .attr('stroke', '#000')
+        .attr('stroke-width', 0.5/scaleFactor)
+        .style('cursor','pointer')
+        .on('click', (e,d) => {
+          e.stopPropagation();
+          choosePoint(d);
+        });
   }
 
   async function choosePoint(d) {
-    selectedPoint = d; detailData = null;
+    selectedPoint = d;
+    detailData = null;
+    citationLinks = [];
+    citedPoints = [];
+
     const slug = slugify(d.nome_curto);
-    try { const res = await fetch(`${import.meta.env.BASE_URL}MacTutorData/${slug}.json`);
+    try {
+      const res = await fetch(`${import.meta.env.BASE_URL}MacTutorData/${slug}.json`);
       if (res.ok) detailData = await res.json();
-    } catch {};
+    } catch {}
+
+    if (detailData && Array.isArray(detailData.matematicos_citados_na_biografia)) {
+      for (const name of detailData.matematicos_citados_na_biografia) {
+        const target = allPoints.find(p =>
+          p.nome_curto.toLowerCase() === name.toLowerCase() ||
+          p.nome_completo.toLowerCase() === name.toLowerCase()
+        );
+        if (target) {
+          citationLinks.push({ source: d, target });
+          citedPoints.push(target);
+        }
+      }
+    }
+
     drawMap();
   }
 
@@ -119,15 +195,23 @@
     ).slice(0,8);
   }
 
-  function filterByEra([start,end]) {
-    currentEra = [start,end];
-    filteredPoints = allPoints.filter(p => p.birthYear >= start && p.birthYear < end);
+  function filterByEra([start, end]) {
+    currentEra = [start, end];
+    filteredPoints = allPoints.filter(p =>
+      p.birthYear >= start && p.birthYear < end
+    );
     drawMap();
   }
 
   onMount(async () => {
-    await loadData(); initMap(); drawMap();
-    window.addEventListener('resize', () => { d3.select(mapContainer).select('svg').remove(); initMap(); drawMap(); });
+    await loadData();
+    initMap();
+    drawMap();
+    window.addEventListener('resize', () => {
+      d3.select(mapContainer).select('svg').remove();
+      initMap();
+      drawMap();
+    });
   });
 </script>
 
@@ -140,13 +224,20 @@
       <div class="map-and-search">
         <div class="map-wrapper" bind:this={mapContainer}></div>
         <div class="search-box">
-          <input type="text" placeholder="Buscar matemático…"
+          <input
+            type="text"
+            placeholder="Buscar matemático…"
             bind:value={searchTerm}
             on:input={() => { onSearch(); showSuggestions = true }}
-            on:blur={() => setTimeout(()=>showSuggestions=false,100)} />
+            on:blur={() => setTimeout(()=>showSuggestions=false,100)}
+          />
           {#if showSuggestions && suggestions.length}
             <ul class="suggestions-list">
-              {#each suggestions as s}<li on:click={()=>choosePoint(s)}>{s.nome_curto}</li>{/each}
+              {#each suggestions as s}
+                <li on:click={()=>choosePoint(s)}>
+                  {s.nome_curto}
+                </li>
+              {/each}
             </ul>
           {/if}
           <div class="info-container">
@@ -159,7 +250,9 @@
               <p>{detailData.summary}</p>
               <p><a href={detailData.link} target="_blank">Biografia completa</a></p>
             {:else}
-              <p class="info-placeholder">Clique em um ponto no mapa para ver detalhes aqui.</p>
+              <p class="info-placeholder">
+                Clique em um ponto no mapa para ver detalhes aqui.
+              </p>
             {/if}
           </div>
         </div>
@@ -172,7 +265,8 @@
           id={1}
           {currentEra}
           points={filteredPoints}
-          on:expand={()=>expand(1)} />
+          on:expand={()=>expand(1)}
+        />
       </div>
 
       {#if currentEra && currentEra[0] < 0}
@@ -205,6 +299,33 @@
 {/if}
 
 <style>
+  /* ... seu CSS existente (copiado de antes) ... */
+
+  /* Destaque opcional para nós citados */
+  circle[fill="#00bcd4"] {
+    filter: drop-shadow(0 0 2px rgba(0,0,0,0.4));
+  }
+
+  .viz-wrapper {
+    position: relative;
+    height: 100%;
+    padding: 0;
+    overflow: visible;
+  }
+
+  .graph {
+    flex: 1;
+    position: relative;
+    background: #fff;
+    overflow: visible;
+  }
+
+  svg {
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+  }
+
   /* ... seu CSS existente ... */
   .viz-wrapper { position: relative; height: 100%; padding: 0; }
   .expand-btn {
