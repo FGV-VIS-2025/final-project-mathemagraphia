@@ -48,32 +48,43 @@
       .replace(/\s+/g, '-').replace(/[^\w-]/g, '');
   }
 
-  // Função para encontrar matemáticos citados baseado nos nomes
+  // Cache para matemáticos citados
+  let citedCache = new Map();
+
+  // Função otimizada para encontrar matemáticos citados
   function findCitedMathematicians(citedNames) {
     if (!citedNames || !Array.isArray(citedNames)) return [];
     
-    const currentPoints = filteredPoints.length ? filteredPoints : allPoints;
-    const cited = [];
+    const cacheKey = citedNames.join('|');
+    if (citedCache.has(cacheKey)) {
+      return citedCache.get(cacheKey);
+    }
     
-    citedNames.forEach(citedName => {
-      // Procura por correspondências exatas ou parciais
-      const matches = currentPoints.filter(point => {
-        const pointName = point.nome_curto.toLowerCase();
-        const pointFullName = point.nome_completo.toLowerCase();
-        const searchName = citedName.toLowerCase();
-        
-        // Verifica se o nome citado está contido no nome do matemático
-        return pointName.includes(searchName) || 
-               searchName.includes(pointName) ||
-               pointFullName.includes(searchName) ||
-               searchName.includes(pointFullName.split(' ').pop()); // último sobrenome
-      });
+    const currentPoints = filteredPoints.length ? filteredPoints : allPoints;
+    const cited = new Set(); // Usa Set para evitar duplicatas automaticamente
+    
+    // Pré-processa nomes para busca mais eficiente
+    const normalizedCitedNames = citedNames.map(name => name.toLowerCase().trim());
+    
+    currentPoints.forEach(point => {
+      const pointName = point.nome_curto.toLowerCase();
+      const pointFullName = point.nome_completo.toLowerCase();
+      const lastName = pointFullName.split(' ').pop();
       
-      cited.push(...matches);
+      for (const searchName of normalizedCitedNames) {
+        if (pointName.includes(searchName) || 
+            searchName.includes(pointName) ||
+            pointFullName.includes(searchName) ||
+            searchName.includes(lastName)) {
+          cited.add(point);
+          break; // Para na primeira correspondência
+        }
+      }
     });
     
-    // Remove duplicatas
-    return [...new Set(cited)];
+    const result = Array.from(cited);
+    citedCache.set(cacheKey, result);
+    return result;
   }
 
   async function loadData() {
@@ -132,53 +143,36 @@
   }
 
   function drawMap() {
+    // Evita redesenhar se não há mudanças significativas
+    const currentPoints = filteredPoints.length ? filteredPoints : allPoints;
+    
     svg.selectAll('*').remove();
     zoomGroup = svg.append('g').attr('transform', currentTransform);
     
     // Fundo clicável para deselecionar
     svg.append('rect').attr('width','100%').attr('height','100%')
-      .attr('fill','#eef').lower().on('click', () => {
-        selectedPoint = null; 
-        detailData = null; 
-        citedMathematicians = [];
-        drawMap();
-      });
+      .attr('fill','#eef').lower().on('click', clearSelection);
     
-    // Desenha os países
+    // Desenha os países (só uma vez)
     zoomGroup.append('g').selectAll('path')
       .data(landFeatures.features).join('path')
       .attr('d', path).attr('fill','#ddd').attr('stroke','#999');
     
-    // Desenha os pontos dos matemáticos
-    const currentPoints = filteredPoints.length ? filteredPoints : allPoints;
+    // Desenha linhas de conexão primeiro (atrás dos círculos)
+    drawConnections();
     
-    zoomGroup.append('g').selectAll('circle')
-      .data(currentPoints)
-      .join('circle')
-      .attr('cx', d => projection(d.coords)[0])
-      .attr('cy', d => projection(d.coords)[1])
-      .attr('r', d => getCircleRadius(d))
-      .attr('fill', d => getCircleColor(d))
-      .attr('opacity', d => getCircleOpacity(d))
-      .attr('stroke', d => d === selectedPoint ? '#000' : 
-                         citedMathematicians.includes(d) ? '#16a34a' : '#000')
-      .attr('stroke-width', d => d === selectedPoint ? 2/scaleFactor : 0.5/scaleFactor)
-      .style('cursor','pointer')
-      .on('click', (e,d) => { 
-        e.stopPropagation(); 
-        choosePoint(d); 
-      })
-      .on('mouseover', function(e, d) {
-        // Tooltip simples
-        d3.select(this).attr('stroke-width', 2/scaleFactor);
-      })
-      .on('mouseout', function(e, d) {
-        d3.select(this).attr('stroke-width', d => 
-          d === selectedPoint ? 2/scaleFactor : 0.5/scaleFactor
-        );
-      });
+    // Desenha os pontos dos matemáticos
+    drawPoints(currentPoints);
+  }
 
-    // Adiciona linhas conectando o ponto selecionado aos citados
+  function clearSelection() {
+    selectedPoint = null; 
+    detailData = null; 
+    citedMathematicians = [];
+    drawMap();
+  }
+
+  function drawConnections() {
     if (selectedPoint && citedMathematicians.length > 0) {
       const selectedCoords = projection(selectedPoint.coords);
       
@@ -192,9 +186,48 @@
         .attr('stroke', '#4ade80')
         .attr('stroke-width', 1.5/scaleFactor)
         .attr('stroke-dasharray', '5,5')
-        .attr('opacity', 0.7)
-        .lower(); // Coloca as linhas atrás dos círculos
+        .attr('opacity', 0.7);
     }
+  }
+
+  function drawPoints(currentPoints) {
+    const circles = zoomGroup.append('g').selectAll('circle')
+      .data(currentPoints)
+      .join('circle')
+      .attr('cx', d => projection(d.coords)[0])
+      .attr('cy', d => projection(d.coords)[1])
+      .attr('r', d => getCircleRadius(d))
+      .attr('fill', d => getCircleColor(d))
+      .attr('opacity', d => getCircleOpacity(d))
+      .attr('stroke', d => getCircleStroke(d))
+      .attr('stroke-width', d => getCircleStrokeWidth(d))
+      .style('cursor','pointer')
+      .on('click', handlePointClick)
+      .on('mouseover', handleMouseOver)
+      .on('mouseout', handleMouseOut);
+  }
+
+  function getCircleStroke(d) {
+    if (d === selectedPoint) return '#000';
+    if (citedMathematicians.includes(d)) return '#16a34a';
+    return '#000';
+  }
+
+  function getCircleStrokeWidth(d) {
+    return d === selectedPoint ? 2/scaleFactor : 0.5/scaleFactor;
+  }
+
+  function handlePointClick(e, d) {
+    e.stopPropagation(); 
+    choosePoint(d);
+  }
+
+  function handleMouseOver(e, d) {
+    d3.select(this).attr('stroke-width', 2/scaleFactor);
+  }
+
+  function handleMouseOut(e, d) {
+    d3.select(this).attr('stroke-width', getCircleStrokeWidth(d));
   }
 
   async function choosePoint(d) {
