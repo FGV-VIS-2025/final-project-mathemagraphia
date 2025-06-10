@@ -107,17 +107,43 @@
 
   function initMap() {
     const { width, height } = mapContainer.getBoundingClientRect();
-    svg = d3.select(mapContainer).append('svg').attr('width', width).attr('height', height);
-    projection = d3.geoNaturalEarth1().scale(width/6.5).translate([width/2, height/2]);
+    svg = d3.select(mapContainer)
+      .append('svg')
+        .attr('width', width)
+        .attr('height', height);
+
+    // 1) Definição do marker de seta
+    svg.append('defs')
+      .append('marker')
+        .attr('id', 'arrowhead')
+        .attr('viewBox', '-0 -5 10 10')
+        .attr('refX', 8)           // desloca a seta para fora do arco
+        .attr('refY', 0)
+        .attr('orient', 'auto')
+        .attr('markerWidth', 6)
+        .attr('markerHeight', 6)
+        .attr('xoverflow', 'visible')
+      .append('path')
+        .attr('d', 'M0,-5 L10,0 L0,5')  // triângulo
+        .attr('fill', '#4ade80')
+        .style('stroke','none');
+
+    projection = d3.geoNaturalEarth1()
+      .scale(width / 6.5)
+      .translate([width / 2, height / 2]);
     path = d3.geoPath(projection);
-    const zoom = d3.zoom().scaleExtent([0.5,8]).on('zoom', e => {
-      currentTransform = e.transform;
-      scaleFactor = e.transform.k;
-      zoomGroup.attr('transform', currentTransform);
-      zoomGroup.selectAll('circle')
-        .attr('r', d => getCircleRadius(d))
-        .attr('stroke-width', 0.5/scaleFactor);
-    });
+
+    const zoom = d3.zoom()
+      .scaleExtent([0.5, 8])
+      .on('zoom', e => {
+        currentTransform = e.transform;
+        scaleFactor = e.transform.k;
+        zoomGroup.attr('transform', currentTransform);
+        zoomGroup.selectAll('circle')
+          .attr('r', d => getCircleRadius(d))
+          .attr('stroke-width', 0.5 / scaleFactor);
+      });
+
     svg.call(zoom);
   }
 
@@ -139,7 +165,7 @@
   function getCircleOpacity(d) {
     if (!selectedPoint) return 1; // Se nenhum ponto selecionado, todos visíveis
     if (d === selectedPoint || citedMathematicians.includes(d)) return 1; // Selecionado e citados visíveis
-    return 0.3; // Outros pontos mais transparentes
+    return 0.1; // Outros pontos mais transparentes
   }
 
   function drawMap() {
@@ -174,21 +200,34 @@
 
   function drawConnections() {
     if (selectedPoint && citedMathematicians.length > 0) {
-      const selectedCoords = projection(selectedPoint.coords);
-      
-      zoomGroup.append('g').selectAll('line')
+      const source = projection(selectedPoint.coords);
+
+      // Remove conexões anteriores
+      zoomGroup.selectAll('path.link').remove();
+
+      // Desenha um arco para cada matemático citado
+      zoomGroup.append('g')
+        .selectAll('path.link')
         .data(citedMathematicians)
-        .join('line')
-        .attr('x1', selectedCoords[0])
-        .attr('y1', selectedCoords[1])
-        .attr('x2', d => projection(d.coords)[0])
-        .attr('y2', d => projection(d.coords)[1])
-        .attr('stroke', '#4ade80')
-        .attr('stroke-width', 1.5/scaleFactor)
-        .attr('stroke-dasharray', '5,5')
-        .attr('opacity', 0.7);
+        .join('path')
+          .attr('class', 'link')
+          .attr('d', d => {
+            const target = projection(d.coords);
+            const dx = target[0] - source[0];
+            const dy = target[1] - source[1];
+            const dr = Math.sqrt(dx * dx + dy * dy) * 0.5;  // quanto maior, mais suave a curva
+            // M = move, A = arc(rx, ry, x-rotation, large-arc-flag, sweep-flag, x, y)
+            return `M${source[0]},${source[1]} A${dr},${dr} 0 0,1 ${target[0]},${target[1]}`;
+          })
+          .attr('fill', 'none')
+          .attr('stroke', '#4ade80')
+          .attr('stroke-width', 1.5 / scaleFactor)
+          .attr('stroke-dasharray', '5,5')
+          .attr('opacity', 0.7)
+          .attr('marker-end', 'url(#arrowhead)');  // seta no final
     }
   }
+
 
   function drawPoints(currentPoints) {
     const circles = zoomGroup.append('g').selectAll('circle')
