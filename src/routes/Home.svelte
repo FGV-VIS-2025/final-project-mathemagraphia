@@ -466,6 +466,9 @@
       <button on:click={() => dispatch('navigate', 'dashboard')}>
         Explorar visualizações
       </button>
+      <button on:click={() => dispatch('navigate', 'curves')}>
+        curvas
+      </button>
     </div>
   </div>
 </div>

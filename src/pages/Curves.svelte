@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import { fade } from 'svelte/transition';
   import { elasticOut } from 'svelte/easing';
+  import * as d3 from 'd3';
 
 
   // Dados das curvas e curiosidades
@@ -58,12 +59,12 @@
   // Estado da aplicação
   let selectedCurve = curves[0];
   let params = {};
-  let canvas;
-  let ctx;
+  let svg;
   let currentFact = 0;
-  let needsUpdate = false;
   let isAnimating = false;
-  let animationFrameId = null;
+  let width = 600;
+  let height = 400;
+  let margin = { top: 20, right: 20, bottom: 40, left: 50 };
 
   // Inicializa os parâmetros
   $: {
@@ -72,168 +73,180 @@
       selectedCurve.params.forEach(p => {
         params[p.name] = p.value;
       });
-      needsUpdate = true;
+      updateChart();
     }
   }
 
-
-  function updateCanvas() {
-    if (isAnimating) return;
-    drawCurve(true); // Força animação
-      }
-
-    $: if (canvas && ctx && selectedCurve && !isAnimating) {
-      drawCurve(); // Atualização automática sem animação
-    }
-
+  // Atualiza quando os parâmetros mudam
+  $: if (selectedCurve) {
+    updateChart();
+  }
 
   onMount(() => {
-    // Correção para o problema do getContext
-    canvas = document.getElementById('graphCanvas');
-    if (canvas) {
-      ctx = canvas.getContext('2d');
-      resizeCanvas();
-      window.addEventListener('resize', resizeCanvas);
-    }
-    return () => window.removeEventListener('resize', resizeCanvas);
+    // Configura o SVG inicial
+    svg = d3.select('#graph-container')
+      .append('svg')
+      .attr('width', '100%')
+      .attr('height', '100%')
+      .attr('viewBox', `0 0 ${width} ${height}`)
+      .attr('preserveAspectRatio', 'xMidYMid meet');
+    
+    updateChart();
+    
+    // Atualiza dimensões quando a janela é redimensionada
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
   });
 
-  function resizeCanvas() {
-    if (!canvas) return;
-    canvas.width = canvas.offsetWidth;
-    canvas.height = canvas.offsetHeight;
-    needsUpdate = true;
-    drawCurve();
-  }
-
-  function drawCurve(animate = false) {
-  if (!ctx || !canvas) return;
-  
-  // Cancela qualquer animação pendente
-  if (animationFrameId) {
-    cancelAnimationFrame(animationFrameId);
-  }
-  
-  const width = canvas.width;
-  const height = canvas.height;
-  
-  if (animate) {
-    // Animação de fade out
-    let opacity = 1;
-    const fadeOut = () => {
-      ctx.clearRect(0, 0, width, height);
-      ctx.fillStyle = `rgba(255, 255, 255, ${opacity})`;
-      ctx.fillRect(0, 0, width, height);
-      drawCompleteCurve(opacity);
-      
-      opacity -= 0.05;
-      if (opacity > 0) {
-        animationFrameId = requestAnimationFrame(fadeOut);
-      } else {
-        // Quando fade out completa, faz fade in
-        drawCompleteCurve(0);
-        fadeIn();
-      }
-    };
-    
-    // Animação de fade in
-    let fadeInOpacity = 0;
-    const fadeIn = () => {
-      ctx.clearRect(0, 0, width, height);
-      drawCompleteCurve(1);
-      ctx.fillStyle = `rgba(255, 255, 255, ${1 - fadeInOpacity})`;
-      ctx.fillRect(0, 0, width, height);
-      
-      fadeInOpacity += 0.05;
-      if (fadeInOpacity < 1) {
-        animationFrameId = requestAnimationFrame(fadeIn);
-      } else {
-        // Animação completa
-        animationFrameId = null;
-        isAnimating = false;
-      }
-    };
-    
-    isAnimating = true;
-    fadeOut();
-  } else {
-    // Redesenho normal sem animação
-    ctx.clearRect(0, 0, width, height);
-    drawCompleteCurve(1);
-  }
-}
-
-function drawCompleteCurve(opacity = 1) {
-  const width = canvas.width;
-  const height = canvas.height;
-  const centerX = width / 2;
-  const centerY = height / 2;
-  const scale = 50;
-  
-  // Desenha eixos
-  ctx.strokeStyle = '#ccc';
-  ctx.lineWidth = 1;
-  
-  // Eixo X
-  ctx.beginPath();
-  ctx.moveTo(0, centerY);
-  ctx.lineTo(width, centerY);
-  ctx.stroke();
-  
-  // Eixo Y
-  ctx.beginPath();
-  ctx.moveTo(centerX, 0);
-  ctx.lineTo(centerX, height);
-  ctx.stroke();
-  
-  // Marcadores e valores dos eixos (mesmo código anterior)
-  // ... (manter o código de marcação dos eixos)
-  
-  // Desenha curva com opacidade
-  ctx.strokeStyle = `rgba(58, 134, 255, ${opacity})`;
-  ctx.lineWidth = 3;
-  ctx.beginPath();
-  
-  if (selectedCurve.id === 3) {
-    // Espiral (código mantido)
-    for (let theta = 0; theta < 10 * Math.PI; theta += 0.1) {
-      const r = params.a + params.b * theta;
-      const x = centerX + r * scale * Math.cos(theta);
-      const y = centerY - r * scale * Math.sin(theta);
-      
-      if (theta === 0) {
-        ctx.moveTo(x, y);
-      } else {
-        ctx.lineTo(x, y);
-      }
-    }
-  } else {
-    // Outras curvas (código mantido)
-    for (let x = -10; x <= 10; x += 0.1) {
-      let y;
-      
-      if (selectedCurve.id === 1) {
-        y = params.a * Math.sin(params.b * x + params.c);
-      } else if (selectedCurve.id === 2) {
-        y = params.a * x * x + params.b * x + params.c;
-      }
-      
-      const plotX = centerX + x * scale;
-      const plotY = centerY - y * scale;
-      
-      if (x === -10) {
-        ctx.moveTo(plotX, plotY);
-      } else {
-        ctx.lineTo(plotX, plotY);
-      }
+  function handleResize() {
+    const container = document.getElementById('graph-container');
+    if (container) {
+      width = container.clientWidth;
+      height = container.clientHeight;
+      updateChart();
     }
   }
-  
-  ctx.stroke();
-}
+
+  function updateChart(animate = false) {
+    if (!svg || !selectedCurve) return;
+    
+    // Limpa o SVG
+    svg.selectAll('*').remove();
+    
+    // Área útil do gráfico
+    const innerWidth = width - margin.left - margin.right;
+    const innerHeight = height - margin.top - margin.bottom;
+    
+    // Cria grupo principal para o gráfico
+    const g = svg.append('g')
+      .attr('transform', `translate(${margin.left},${margin.top})`);
+    
+    // Escalas
+    const xScale = d3.scaleLinear()
+      .domain([-10, 10])
+      .range([0, innerWidth]);
+      
+    const yScale = d3.scaleLinear()
+      .domain([-5, 5])
+      .range([innerHeight, 0]);
+    
+    // Eixos
+    const xAxis = d3.axisBottom(xScale)
+      .ticks(10)
+      .tickSize(-innerHeight)
+      .tickPadding(10);
+      
+    const yAxis = d3.axisLeft(yScale)
+      .ticks(10)
+      .tickSize(-innerWidth)
+      .tickPadding(10);
+    
+    // Adiciona eixos
+    g.append('g')
+      .attr('class', 'x axis')
+      .attr('transform', `translate(0,${innerHeight / 2})`)
+      .call(xAxis)
+      .selectAll('line')
+      .attr('stroke', '#eee');
+      
+    g.append('g')
+      .attr('class', 'y axis')
+      .attr('transform', `translate(${innerWidth / 2},0)`)
+      .call(yAxis)
+      .selectAll('line')
+      .attr('stroke', '#eee');
+    
+    // Linha central dos eixos
+    g.append('line')
+      .attr('x1', 0)
+      .attr('y1', innerHeight / 2)
+      .attr('x2', innerWidth)
+      .attr('y2', innerHeight / 2)
+      .attr('stroke', '#ccc')
+      .attr('stroke-width', 1);
+      
+    g.append('line')
+      .attr('x1', innerWidth / 2)
+      .attr('y1', 0)
+      .attr('x2', innerWidth / 2)
+      .attr('y2', innerHeight)
+      .attr('stroke', '#ccc')
+      .attr('stroke-width', 1);
+    
+    // Linha do gráfico
+    if (selectedCurve.id === 3) {
+      // Espiral de Arquimedes (coordenadas polares)
+      const points = [];
+      for (let theta = 0; theta < 10 * Math.PI; theta += 0.1) {
+        const r = params.a + params.b * theta;
+        const x = r * Math.cos(theta);
+        const y = r * Math.sin(theta);
+        points.push([x, y]);
+      }
+      
+      const line = d3.line()
+        .x(d => xScale(d[0]) - innerWidth / 2)
+        .y(d => yScale(d[1]) - innerHeight / 2);
+        
+      g.append('path')
+        .datum(points)
+        .attr('class', 'line')
+        .attr('d', line)
+        .attr('stroke', '#3a86ff')
+        .attr('stroke-width', 2)
+        .attr('fill', 'none')
+        .attr('transform', `translate(${innerWidth / 2},${innerHeight / 2})`);
+    } else {
+      // Funções cartesianas
+      const points = [];
+      for (let x = -10; x <= 10; x += 0.1) {
+        let y;
+        if (selectedCurve.id === 1) {
+          y = params.a * Math.sin(params.b * x + params.c);
+        } else if (selectedCurve.id === 2) {
+          y = params.a * x * x + params.b * x + params.c;
+        }
+        points.push([x, y]);
+      }
+      
+      const line = d3.line()
+        .x(d => xScale(d[0]) - innerWidth / 2)
+        .y(d => yScale(d[1]) - innerHeight / 2);
+        
+      g.append('path')
+        .datum(points)
+        .attr('class', 'line')
+        .attr('d', line)
+        .attr('stroke', '#3a86ff')
+        .attr('stroke-width', 2)
+        .attr('fill', 'none')
+        .attr('transform', `translate(${innerWidth / 2},${innerHeight / 2})`);
+    }
+    
+    // Animação de entrada
+    if (animate) {
+      svg.selectAll('.line')
+        .attr('stroke-dasharray', function() {
+          return this.getTotalLength();
+        })
+        .attr('stroke-dashoffset', function() {
+          return this.getTotalLength();
+        })
+        .transition()
+        .duration(1000)
+        .ease(d3.easeCubicOut)
+        .attr('stroke-dashoffset', 0);
+    }
+  }
 
   function nextFact() {
     currentFact = (currentFact + 1) % selectedCurve.facts.length;
+  }
+
+  function animateChart() {
+    isAnimating = true;
+    updateChart(true);
+    setTimeout(() => isAnimating = false, 1000);
   }
 </script>
 
@@ -269,7 +282,7 @@ function drawCompleteCurve(opacity = 1) {
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
-    transition: background-color 0.3s;
+    transition: all 0.3s;
   }
 
   button:hover {
@@ -294,12 +307,13 @@ function drawCompleteCurve(opacity = 1) {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
 
-  canvas {
+  #graph-container {
     width: 100%;
     height: 400px;
     background: white;
     border: 1px solid #ddd;
     border-radius: 5px;
+    margin-bottom: 20px;
   }
 
   .params {
@@ -321,9 +335,6 @@ function drawCompleteCurve(opacity = 1) {
 
   input[type="range"] {
     width: 100%;
-  }
-
-  input[type="range"] {
     transition: box-shadow 0.3s ease;
   }
   
@@ -370,58 +381,26 @@ function drawCompleteCurve(opacity = 1) {
     margin-top: 10px;
   }
 
-  .graph-container {
-    position: relative;
-    transition: opacity 0.5s ease;
-  }
-  
-  .graph-container.animating {
-    opacity: 0.5;
-  }
-  
   .update-btn {
-    transition: transform 0.3s ease;
-  }
-  
-  .update-btn:active {
-    transform: scale(0.95);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
   }
 
-  .canvas-container {
-  position: relative;
-  width: 100%;
-  height: 400px;
-}
+  .update-btn:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,0.2);
+    transition: all 0.3s ease;
+  }
 
-#graphCanvas {
-  width: 100%;
-  height: 100%;
-  display: block;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-}
-
-.update-btn {
-  transition: all 0.3s ease;
-  position: relative;
-  overflow: hidden;
-}
-
-.update-btn:after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: rgba(255,255,255,0.2);
-  transition: all 0.3s ease;
-}
-
-.update-btn:hover:after {
-  left: 100%;
-}
+  .update-btn:hover:after {
+    left: 100%;
+  }
 
   @media (max-width: 768px) {
     .content-wrapper {
@@ -436,6 +415,19 @@ function drawCompleteCurve(opacity = 1) {
       grid-template-columns: 1fr;
     }
   }
+
+  /* Estilos para os eixos do D3 */
+  .axis text {
+    font-size: 12px;
+    fill: #666;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #ccc;
+    shape-rendering: crispEdges;
+  }
 </style>
 
 <div class="container">
@@ -448,6 +440,7 @@ function drawCompleteCurve(opacity = 1) {
         on:click={() => {
           selectedCurve = curve;
           currentFact = 0;
+          animateChart();
         }}
       >
         {curve.name}
@@ -461,15 +454,13 @@ function drawCompleteCurve(opacity = 1) {
       <h2>{selectedCurve.name}</h2>
       <p>Fórmula: {selectedCurve.formula}</p>
       
-      <div class="graph-container" class:animating={isAnimating}>
-        <canvas id="graphCanvas"></canvas>
-      </div>
+      <div id="graph-container"></div>
       
       <div class="params">
         {#each selectedCurve.params as param}
           <div class="param">
             <label for={param.name}>
-              {param.desc} ({param.name} = {params[param.name].toFixed(1)})
+              {param.desc} ({param.name} = {params[param.name].toFixed(param.name === 'b' && selectedCurve.id === 3 ? 2 : 1)})
             </label>
             <input
               type="range"
@@ -486,8 +477,8 @@ function drawCompleteCurve(opacity = 1) {
         {/each}
       </div>
 
-      <button class="update-btn" on:click={updateCanvas}>
-        {isAnimating ? 'Atualizando...' : 'Atualizar Gráfico'}
+      <button class="update-btn" on:click={animateChart} disabled={isAnimating}>
+        {isAnimating ? 'Animando...' : 'Animar Gráfico'}
       </button>
     </div>
     
@@ -501,7 +492,7 @@ function drawCompleteCurve(opacity = 1) {
       
       <div class="facts-title">Curiosidades:</div>
       
-      <div class="fact">
+      <div class="fact" transition:fade>
         {selectedCurve.facts[currentFact]}
       </div>
       
