@@ -13,6 +13,7 @@
   let landFeatures = { type: 'FeatureCollection', features: [] };
   let selectedPoint = null;
   let detailData = null;
+  let citedMathematicians = []; // Array para armazenar matemáticos citados
 
   let searchTerm = '';
   let suggestions = [];
@@ -47,6 +48,45 @@
       .replace(/\s+/g, '-').replace(/[^\w-]/g, '');
   }
 
+  // Cache para matemáticos citados
+  let citedCache = new Map();
+
+  // Função otimizada para encontrar matemáticos citados
+  function findCitedMathematicians(citedNames) {
+    if (!citedNames || !Array.isArray(citedNames)) return [];
+    
+    const cacheKey = citedNames.join('|');
+    if (citedCache.has(cacheKey)) {
+      return citedCache.get(cacheKey);
+    }
+    
+    const currentPoints = filteredPoints.length ? filteredPoints : allPoints;
+    const cited = new Set(); // Usa Set para evitar duplicatas automaticamente
+    
+    // Pré-processa nomes para busca mais eficiente
+    const normalizedCitedNames = citedNames.map(name => name.toLowerCase().trim());
+    
+    currentPoints.forEach(point => {
+      const pointName = point.nome_curto.toLowerCase();
+      const pointFullName = point.nome_completo.toLowerCase();
+      const lastName = pointFullName.split(' ').pop();
+      
+      for (const searchName of normalizedCitedNames) {
+        if (pointName.includes(searchName) || 
+            searchName.includes(pointName) ||
+            pointFullName.includes(searchName) ||
+            searchName.includes(lastName)) {
+          cited.add(point);
+          break; // Para na primeira correspondência
+        }
+      }
+    });
+    
+    const result = Array.from(cited);
+    citedCache.set(cacheKey, result);
+    return result;
+  }
+
   async function loadData() {
     const base = import.meta.env.BASE_URL;
     const [world, raw] = await Promise.all([
@@ -67,47 +107,189 @@
 
   function initMap() {
     const { width, height } = mapContainer.getBoundingClientRect();
-    svg = d3.select(mapContainer).append('svg').attr('width', width).attr('height', height);
-    projection = d3.geoNaturalEarth1().scale(width/6.5).translate([width/2, height/2]);
+    svg = d3.select(mapContainer)
+      .append('svg')
+        .attr('width', width)
+        .attr('height', height);
+
+    // 1) Definição do marker de seta
+    svg.append('defs')
+      .append('marker')
+        .attr('id', 'arrowhead')
+        .attr('viewBox', '-0 -5 10 10')
+        .attr('refX', 8)           // desloca a seta para fora do arco
+        .attr('refY', 0)
+        .attr('orient', 'auto')
+        .attr('markerWidth', 6)
+        .attr('markerHeight', 6)
+        .attr('xoverflow', 'visible')
+      .append('path')
+        .attr('d', 'M0,-5 L10,0 L0,5')  // triângulo
+        .attr('fill', '#4ade80')
+        .style('stroke','none');
+
+    projection = d3.geoNaturalEarth1()
+      .scale(width / 6.5)
+      .translate([width / 2, height / 2]);
     path = d3.geoPath(projection);
-    const zoom = d3.zoom().scaleExtent([0.5,8]).on('zoom', e => {
-      currentTransform = e.transform;
-      scaleFactor = e.transform.k;
-      zoomGroup.attr('transform', currentTransform);
-      zoomGroup.selectAll('circle')
-        .attr('r', 3/scaleFactor)
-        .attr('stroke-width', 0.5/scaleFactor);
-    });
+
+    const zoom = d3.zoom()
+      .scaleExtent([0.5, 8])
+      .on('zoom', e => {
+        currentTransform = e.transform;
+        scaleFactor = e.transform.k;
+        zoomGroup.attr('transform', currentTransform);
+        zoomGroup.selectAll('circle')
+          .attr('r', d => getCircleRadius(d))
+          .attr('stroke-width', 0.5 / scaleFactor);
+      });
+
     svg.call(zoom);
   }
 
+  // Função para determinar o raio do círculo baseado no status
+  function getCircleRadius(d) {
+    if (d === selectedPoint) return 5/scaleFactor; // Ponto selecionado maior
+    if (citedMathematicians.includes(d)) return 4/scaleFactor; // Citados médios
+    return 3/scaleFactor; // Outros pontos normais
+  }
+
+  // Função para determinar a cor do círculo
+  function getCircleColor(d) {
+    if (d === selectedPoint) return 'orange'; // Ponto selecionado
+    if (citedMathematicians.includes(d)) return '#4ade80'; // Citados em verde
+    return 'crimson'; // Outros pontos
+  }
+
+  // Função para determinar a opacidade
+  function getCircleOpacity(d) {
+    if (!selectedPoint) return 1; // Se nenhum ponto selecionado, todos visíveis
+    if (d === selectedPoint || citedMathematicians.includes(d)) return 1; // Selecionado e citados visíveis
+    return 0.1; // Outros pontos mais transparentes
+  }
+
   function drawMap() {
+    // Evita redesenhar se não há mudanças significativas
+    const currentPoints = filteredPoints.length ? filteredPoints : allPoints;
+    
     svg.selectAll('*').remove();
     zoomGroup = svg.append('g').attr('transform', currentTransform);
+    
+    // Fundo clicável para deselecionar
     svg.append('rect').attr('width','100%').attr('height','100%')
-      .attr('fill','#eef').lower().on('click', () => {
-        selectedPoint = null; detailData = null; drawMap();
-      });
+      .attr('fill','#eef').lower().on('click', clearSelection);
+    
+    // Desenha os países (só uma vez)
     zoomGroup.append('g').selectAll('path')
       .data(landFeatures.features).join('path')
       .attr('d', path).attr('fill','#ddd').attr('stroke','#999');
-    zoomGroup.append('g').selectAll('circle')
-      .data(filteredPoints.length ? filteredPoints : allPoints)
+    
+    // Desenha linhas de conexão primeiro (atrás dos círculos)
+    drawConnections();
+    
+    // Desenha os pontos dos matemáticos
+    drawPoints(currentPoints);
+  }
+
+  function clearSelection() {
+    selectedPoint = null; 
+    detailData = null; 
+    citedMathematicians = [];
+    drawMap();
+  }
+
+  function drawConnections() {
+    if (selectedPoint && citedMathematicians.length > 0) {
+      const source = projection(selectedPoint.coords);
+
+      // Remove conexões anteriores
+      zoomGroup.selectAll('path.link').remove();
+
+      // Desenha um arco para cada matemático citado
+      zoomGroup.append('g')
+        .selectAll('path.link')
+        .data(citedMathematicians)
+        .join('path')
+          .attr('class', 'link')
+          .attr('d', d => {
+            const target = projection(d.coords);
+            const dx = target[0] - source[0];
+            const dy = target[1] - source[1];
+            const dr = Math.sqrt(dx * dx + dy * dy) * 0.5;  // quanto maior, mais suave a curva
+            // M = move, A = arc(rx, ry, x-rotation, large-arc-flag, sweep-flag, x, y)
+            return `M${source[0]},${source[1]} A${dr},${dr} 0 0,1 ${target[0]},${target[1]}`;
+          })
+          .attr('fill', 'none')
+          .attr('stroke', '#4ade80')
+          .attr('stroke-width', 1.5 / scaleFactor)
+          .attr('stroke-dasharray', '5,5')
+          .attr('opacity', 0.7)
+          .attr('marker-end', 'url(#arrowhead)');  // seta no final
+    }
+  }
+
+
+  function drawPoints(currentPoints) {
+    const circles = zoomGroup.append('g').selectAll('circle')
+      .data(currentPoints)
       .join('circle')
       .attr('cx', d => projection(d.coords)[0])
       .attr('cy', d => projection(d.coords)[1])
-      .attr('r', 3/scaleFactor).attr('fill', d => d===selectedPoint?'orange':'crimson')
-      .attr('stroke','#000').attr('stroke-width',0.5/scaleFactor)
+      .attr('r', d => getCircleRadius(d))
+      .attr('fill', d => getCircleColor(d))
+      .attr('opacity', d => getCircleOpacity(d))
+      .attr('stroke', d => getCircleStroke(d))
+      .attr('stroke-width', d => getCircleStrokeWidth(d))
       .style('cursor','pointer')
-      .on('click', (e,d)=>{ e.stopPropagation(); choosePoint(d); });
+      .on('click', handlePointClick)
+      .on('mouseover', handleMouseOver)
+      .on('mouseout', handleMouseOut);
+  }
+
+  function getCircleStroke(d) {
+    if (d === selectedPoint) return '#000';
+    if (citedMathematicians.includes(d)) return '#16a34a';
+    return '#000';
+  }
+
+  function getCircleStrokeWidth(d) {
+    return d === selectedPoint ? 2/scaleFactor : 0.5/scaleFactor;
+  }
+
+  function handlePointClick(e, d) {
+    e.stopPropagation(); 
+    choosePoint(d);
+  }
+
+  function handleMouseOver(e, d) {
+    d3.select(this).attr('stroke-width', 2/scaleFactor);
+  }
+
+  function handleMouseOut(e, d) {
+    d3.select(this).attr('stroke-width', getCircleStrokeWidth(d));
   }
 
   async function choosePoint(d) {
-    selectedPoint = d; detailData = null;
+    selectedPoint = d; 
+    detailData = null;
+    citedMathematicians = []; // Reset das citações
+    
     const slug = slugify(d.nome_curto);
-    try { const res = await fetch(`${import.meta.env.BASE_URL}MacTutorData/${slug}.json`);
-      if (res.ok) detailData = await res.json();
-    } catch {};
+    try { 
+      const res = await fetch(`${import.meta.env.BASE_URL}MacTutorData/${slug}.json`);
+      if (res.ok) {
+        detailData = await res.json();
+        
+        // Encontra matemáticos citados na biografia
+        if (detailData.matematicos_citados_na_biografia) {
+          citedMathematicians = findCitedMathematicians(detailData.matematicos_citados_na_biografia);
+          console.log(`Matemáticos citados para ${d.nome_curto}:`, citedMathematicians.map(m => m.nome_curto));
+        }
+      }
+    } catch (error) {
+      console.error('Erro ao carregar dados do matemático:', error);
+    }
+    
     drawMap();
   }
 
@@ -122,12 +304,26 @@
   function filterByEra([start,end]) {
     currentEra = [start,end];
     filteredPoints = allPoints.filter(p => p.birthYear >= start && p.birthYear < end);
+    
+    // Limpa seleção se o ponto selecionado não está na nova era
+    if (selectedPoint && !filteredPoints.includes(selectedPoint)) {
+      selectedPoint = null;
+      detailData = null;
+      citedMathematicians = [];
+    }
+    
     drawMap();
   }
 
   onMount(async () => {
-    await loadData(); initMap(); drawMap();
-    window.addEventListener('resize', () => { d3.select(mapContainer).select('svg').remove(); initMap(); drawMap(); });
+    await loadData(); 
+    initMap(); 
+    drawMap();
+    window.addEventListener('resize', () => { 
+      d3.select(mapContainer).select('svg').remove(); 
+      initMap(); 
+      drawMap(); 
+    });
   });
 </script>
 
@@ -157,6 +353,20 @@
               <p><strong>Morreu:</strong> {detailData.data_morte}</p>
               <p><strong>Local:</strong> {detailData.local_morte}</p>
               <p>{detailData.summary}</p>
+              
+              {#if citedMathematicians.length > 0}
+                <div class="cited-mathematicians">
+                  <h4>Matemáticos citados na biografia:</h4>
+                  <div class="cited-list">
+                    {#each citedMathematicians as cited}
+                      <span class="cited-tag" on:click={() => choosePoint(cited)}>
+                        {cited.nome_curto}
+                      </span>
+                    {/each}
+                  </div>
+                </div>
+              {/if}
+              
               <p><a href={detailData.link} target="_blank">Biografia completa</a></p>
             {:else}
               <p class="info-placeholder">Clique em um ponto no mapa para ver detalhes aqui.</p>
@@ -205,7 +415,7 @@
 {/if}
 
 <style>
-  /* ... seu CSS existente ... */
+  /* Estilos existentes mantidos */
   .viz-wrapper { position: relative; height: 100%; padding: 0; }
   .expand-btn {
     position: absolute; top: 8px; right: 8px;
@@ -214,7 +424,7 @@
   }
   .modal-window { display: flex; flex-direction: column; height: 85vh; width: 90vw; max-width: 1200px; }
   .modal-window :global(.container) { flex: 1; height: auto; }
-  /* Reset global para ocupar toda a página */
+
   :global(html, body) {
     margin: 0;
     padding: 0;
@@ -327,7 +537,6 @@
     border-bottom: none;
   }
 
-  /* Novo: container de detalhes logo abaixo da busca */
   .info-container {
     margin-top: 1rem;
     padding: 1rem;
@@ -366,6 +575,43 @@
     font-style: italic;
   }
 
+  /* Novos estilos para matemáticos citados */
+  .cited-mathematicians {
+    margin: 1rem 0;
+    padding: 0.75rem;
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    border-radius: 6px;
+  }
+
+  .cited-mathematicians h4 {
+    margin: 0 0 0.5rem;
+    font-size: 0.9rem;
+    color: #166534;
+    font-weight: 600;
+  }
+
+  .cited-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .cited-tag {
+    background: #4ade80;
+    color: #fff;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+
+  .cited-tag:hover {
+    background: #16a34a;
+    transform: translateY(-1px);
+  }
+
   .viz-section {
     flex: 1;
     display: flex;
@@ -381,6 +627,8 @@
     padding: 1.2rem;
     border: 1px solid rgba(255, 255, 255, 0.2);
     overflow: hidden;
+    position: relative;
+    overflow: visible;
   }
 
   .modal-overlay {
@@ -449,24 +697,17 @@
       flex-direction: column;
     }
   }
-  .viz-wrapper {
-  position: relative;
-  height: 100%;
-  padding: 0;
-  overflow: visible;    /* permite que as arestas apareçam */
-}
 
-.graph {
-  flex: 1;
-  position: relative;
-  background: #fff;
-  overflow: visible;    /* idem aqui */
-}
+  .graph {
+    flex: 1;
+    position: relative;
+    background: #fff;
+    overflow: visible;
+  }
 
-svg {
-  width: 100%;
-  height: 100%;
-  overflow: visible;    /* e no próprio SVG */
-}
-
+  svg {
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+  }
 </style>
