@@ -229,12 +229,24 @@
     
     const g = svg.append('g').attr('transform', `translate(${margin.left},${margin.top})`);
     
-    const xScale = d3.scaleLinear().domain([-20, 20]).range([0, innerWidth]);
-    const yScale = d3.scaleLinear().domain([-10, 10]).range([innerHeight, 0]);
-    
-    // Eixos
-    const xAxis = d3.axisBottom(xScale).ticks(10).tickSize(-innerHeight).tickPadding(10);
-    const yAxis = d3.axisLeft(yScale).ticks(10).tickSize(-innerWidth).tickPadding(10);
+    // Escalas
+    const xScale = d3.scaleLinear()
+      .domain([-20, 20])
+      .range([0, innerWidth]);
+
+    const yScale = d3.scaleLinear()
+      .domain([-10, 10])
+      .range([innerHeight, 0]);
+
+    const xAxis = d3.axisBottom(xScale)
+      .ticks(10)
+      .tickSize(-innerHeight)  // cobre toda a altura
+      .tickPadding(10);
+
+    const yAxis = d3.axisLeft(yScale)
+      .ticks(10)
+      .tickSize(-innerWidth)   // cobre toda a largura
+      .tickPadding(10);
     
     // Adiciona eixos no local exato de x=0 e y=0
     g.append('g')
@@ -304,18 +316,27 @@
 
         case 5: // Lemniscata de Bernoulli
             {
-                const lobe1 = [], lobe2 = [];
-                for (let theta = -Math.PI / 4; theta <= Math.PI / 4; theta += 0.01) {
-                    const r = params.a * Math.sqrt(Math.cos(2 * theta));
-                    lobe1.push([r * Math.cos(theta), r * Math.sin(theta)]);
-                }
-                 for (let theta = 3 * Math.PI / 4; theta <= 5 * Math.PI / 4; theta += 0.01) {
-                    const r = params.a * Math.sqrt(Math.cos(2 * theta));
-                    lobe2.push([r * Math.cos(theta), r * Math.sin(theta)]);
-                }
-                pathsData.push(lobe1, lobe2);
-                break;
-            }
+              // Precisamos de dois arrays, um para cada laço da curva
+              const lobe1 = [];
+              const lobe2 = [];
+
+              // 1. Calcula os pontos para o laço direito (ângulos entre -45° e 45°)
+              for (let theta = -Math.PI / 4; theta <= Math.PI / 4; theta += 0.01) {
+                  // A fórmula r = a * sqrt(cos(2θ)) só funciona quando cos(2θ) é positivo
+                  const r = params.a * Math.sqrt(Math.cos(2 * theta));
+                  lobe1.push([r * Math.cos(theta), r * Math.sin(theta)]);
+              }
+
+              // 2. Calcula os pontos para o laço esquerdo (ângulos entre 135° e 225°)
+              for (let theta = 3 * Math.PI / 4; theta <= 5 * Math.PI / 4; theta += 0.01) {
+                  const r = params.a * Math.sqrt(Math.cos(2 * theta));
+                  lobe2.push([r * Math.cos(theta), r * Math.sin(theta)]);
+              }
+
+              // 3. Adiciona AMBOS os laços para serem desenhados como caminhos separados
+              pathsData.push(lobe1, lobe2);
+              break;
+          }
 
         case 7: // Curva de Bézier
             {
@@ -386,8 +407,6 @@
       }
       return 0;
   }
-  
-  // --- NENHUMA MUDANÇA NAS FUNÇÕES ABAIXO ---
 
   function nextFact() {
     currentFact = (currentFact + 1) % selectedCurve.facts.length;
@@ -401,6 +420,10 @@
 </script>
 
 <style>
+  :global(html) {
+  scroll-behavior: smooth;
+  }
+
   :global(body) {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -609,6 +632,7 @@
       <button 
         class={selectedCurve.id === curve.id ? 'active' : ''}
         on:click={() => {
+          window.scrollTo(0, 0);
           selectedCurve = curve;
           currentFact = 0;
           animateChart();
