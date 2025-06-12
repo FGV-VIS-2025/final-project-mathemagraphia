@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import Home from './routes/Home.svelte';
   import Dashboard from './routes/Dashboard.svelte';
+  import Curves from './pages/Curves.svelte';
 
   let currentPage = 'home';
 
@@ -24,6 +25,8 @@
   <Home on:navigate={(e) => goTo(e.detail)} />
 {:else if currentPage === 'dashboard'}
   <Dashboard />
+{:else if currentPage === 'curves'}
+  <Curves />
 {:else}
   <h2>Página não encontrada</h2>
 {/if}
