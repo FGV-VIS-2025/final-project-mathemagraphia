@@ -64,13 +64,6 @@
   }
 
   onMount(async () => {
-    projection = d3.geoMercator()
-      .scale(120)
-      .center([20, 30])
-      .translate([width / 2, height / 2]);
-
-    path = d3.geoPath(projection);
-
     const world = await d3.json(MAP_URL);
     const countries = topojson.feature(world, world.objects.countries);
     landFeatures = {
@@ -86,12 +79,31 @@
       if (y == null || isNaN(lat) || isNaN(lon) || y >= 0) return null;
       return {
         nome_completo: d.nome_completo,
+        nome_curto: d.nome_curto,
+        data_nascimento: d.data_nascimento,
+        local_nascimento: d.local_nascimento,
+        data_morte: d.data_morte,
+        local_morte: d.local_morte,
+        summary: d.summary,
+        biografia: d.biografia,
         birthYear: y,
         coords: [lon, lat],
         link: d.link,
         cites: d.citations || []
       };
     }).filter(Boolean);
+
+    const lons = allPoints.map(d => d.coords[0]);
+    const lats = allPoints.map(d => d.coords[1]);
+    const lonCenter = (Math.min(...lons) + Math.max(...lons)) / 2;
+    const latCenter = (Math.min(...lats) + Math.max(...lats)) / 2;
+
+    projection = d3.geoMercator()
+      .scale(300)
+      .center([lonCenter, latCenter])
+      .translate([width / 2, height / 2]);
+
+    path = d3.geoPath(projection);
 
     drawMap();
   });
@@ -135,7 +147,11 @@
     <div class="sidebar">
       {#if selected}
         <h3>{selected.nome_completo}</h3>
-        <p><em>{formatYear(selected.birthYear)}</em></p>
+        <p><strong>Nascimento:</strong> {selected.data_nascimento} — {selected.local_nascimento}</p>
+        {#if selected.data_morte}<p><strong>Morte:</strong> {selected.data_morte} — {selected.local_morte}</p>{/if}
+        <p><strong>Resumo:</strong> {selected.summary}</p>
+        <p><strong>Biografia:</strong><br>{selected.biografia}</p>
+        <p><a href={selected.link} target="_blank">Mais sobre {selected.nome_curto}</a></p>
         <h4>Citações ({cited.length}):</h4>
         <ul>
           {#each cited as c}
