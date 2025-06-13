@@ -21,7 +21,7 @@
   let showSuggestions = false;
 
   let citationDepth = 1;
-  let maxDepth = 3;
+  let maxDepth = 6;
 
   function extrairAno(dataStr) {
     const bc = dataStr?.match(/(\d+)\s*BC/i);

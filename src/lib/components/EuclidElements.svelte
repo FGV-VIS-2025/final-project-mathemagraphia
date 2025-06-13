@@ -319,7 +319,7 @@
       .text(d => d.id)
       .attr("x", d => d.x + 8)
       .attr("y", d => d.y + 3)
-      .style("font-size", "9px")
+      .style("font-size", "11px")
       .style("fill", "#333")
       .style("pointer-events", "none");
 
