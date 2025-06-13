@@ -72,11 +72,46 @@
 
     svg.attr('viewBox', [0, 0, 800, 450]);
 
+    svg.append("defs").append("marker")
+      .attr("id", "arrowhead")
+      .attr("viewBox", "-0 -5 10 10")
+      .attr("refX", 10)
+      .attr("refY", 0)
+      .attr("orient", "auto")
+      .attr("markerWidth", 6)
+      .attr("markerHeight", 6)
+      .attr("xoverflow", "visible")
+      .append("path")
+      .attr("d", "M0,-5L10,0L0,5")
+      .attr("fill", "#0ea5e9");
+
     svg.append("path")
       .datum(landFeatures)
       .attr("fill", "#e0f2fe")
       .attr("stroke", "#94a3b8")
       .attr("d", path);
+
+    // Draw arrows for citations
+    if (selectedPoint && citedMathematicians.length > 0) {
+      const source = projection(selectedPoint.coords);
+      svg.append("g")
+        .selectAll("path.link")
+        .data(citedMathematicians)
+        .join("path")
+        .attr("class", "link")
+        .attr("d", d => {
+          const target = projection(d.coords);
+          const dx = target[0] - source[0];
+          const dy = target[1] - source[1];
+          const dr = Math.sqrt(dx * dx + dy * dy) * 0.7;
+          return `M${source[0]},${source[1]} A${dr},${dr} 0 0,1 ${target[0]},${target[1]}`;
+        })
+        .attr("fill", "none")
+        .attr("stroke", "#0ea5e9")
+        .attr("stroke-width", 1.5)
+        .attr("marker-end", "url(#arrowhead)")
+        .attr("opacity", 0.7);
+    }
 
     svg.append("g")
       .selectAll("circle")
@@ -112,7 +147,7 @@
     const latCenter = (Math.min(...lats) + Math.max(...lats)) / 2;
 
     projection = d3.geoMercator()
-      .scale(300)
+      .scale(375)
       .center([lonCenter, latCenter])
       .translate([800 / 2, 450 / 2]);
 
@@ -120,8 +155,6 @@
     drawMap();
   });
 </script>
-
-<!-- (restante do código inalterado) -->
 
 <style>
   .map-section {
