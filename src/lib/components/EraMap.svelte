@@ -8,11 +8,10 @@
 
   let mapSvg;
   let projection, path;
+  let allPoints = [], citedMathematicians = [], selectedPoint = null;
   let landFeatures = { type: "FeatureCollection", features: [] };
-  let allPoints = [], selected = null, cited = [];
 
-  const width = 800, height = 450;
-  let currentDepth = 1;
+  let searchTerm = '', suggestions = [], showSuggestions = false;
 
   function extrairAno(dataStr) {
     const bc = dataStr?.match(/(\d+)\s*BC/i);
@@ -25,11 +24,50 @@
     return y < 0 ? `${-y} a.C.` : `${y}`;
   }
 
+  function slugify(name) {
+    return name.toLowerCase()
+      .normalize('NFD').replace(/\p{Diacritic}/gu, '')
+      .replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+  }
+
+  async function choosePoint(d) {
+    selectedPoint = d;
+    citedMathematicians = [];
+    try {
+      const res = await fetch(`MacTutorData/${slugify(d.nome_curto)}.json`);
+      if (res.ok) {
+        const detail = await res.json();
+        selectedPoint = { ...selectedPoint, ...detail };
+        if (detail.matematicos_citados_na_biografia) {
+          citedMathematicians = findCitedMathematicians(detail.matematicos_citados_na_biografia);
+        }
+      }
+    } catch (e) { console.error(e); }
+    drawMap();
+  }
+
+  function findCitedMathematicians(names) {
+    if (!Array.isArray(names)) return [];
+    const norm = names.map(n => n.toLowerCase());
+    return allPoints.filter(p => norm.some(n =>
+      p.nome_curto.toLowerCase().includes(n) ||
+      p.nome_completo.toLowerCase().includes(n)
+    ));
+  }
+
+  function onSearch() {
+    const term = searchTerm.trim().toLowerCase();
+    suggestions = allPoints.filter(p =>
+      p.nome_curto.toLowerCase().includes(term) ||
+      p.nome_completo.toLowerCase().includes(term)
+    ).slice(0, 8);
+  }
+
   function drawMap() {
     const svg = d3.select(mapSvg);
     svg.selectAll('*').remove();
 
-    svg.attr('viewBox', [0, 0, width, height]);
+    svg.attr('viewBox', [0, 0, 800, 450]);
 
     svg.append("path")
       .datum(landFeatures)
@@ -41,124 +79,132 @@
       .selectAll("circle")
       .data(allPoints)
       .join("circle")
-        .attr("r", 3)
-        .attr("fill", d => d === selected ? "crimson" : cited.includes(d) ? "gold" : "steelblue")
+        .attr("r", d => d === selectedPoint ? 5 : citedMathematicians.includes(d) ? 4 : 3)
+        .attr("fill", d => d === selectedPoint ? "orange" : citedMathematicians.includes(d) ? "#4ade80" : "crimson")
         .attr("stroke", "#000")
         .attr("stroke-width", 0.5)
         .attr("cx", d => projection(d.coords)[0])
         .attr("cy", d => projection(d.coords)[1])
         .style("cursor", "pointer")
-        .on("click", (e, d) => {
-          selected = d;
-          cited = getCitations(d, currentDepth);
-        });
-  }
-
-  function getCitations(base, depth) {
-    if (!base?.cites || depth <= 0) return [];
-    let direct = allPoints.filter(p => base.cites.includes(p.link));
-    return [
-      ...direct,
-      ...direct.flatMap(p => getCitations(p, depth - 1))
-    ];
+        .on("click", (e, d) => choosePoint(d));
   }
 
   onMount(async () => {
     const world = await d3.json(MAP_URL);
     const countries = topojson.feature(world, world.objects.countries);
-    landFeatures = {
-      type: "FeatureCollection",
-      features: Array.isArray(countries.features) ? countries.features : []
-    };
+    landFeatures = countries;
 
     const raw = await d3.json(DATA_URL);
     allPoints = raw.map(d => {
       const y = extrairAno(d.data_nascimento);
       const lat = parseFloat(d.lat_nasc);
       const lon = parseFloat(d.lon_nasc);
-      if (y == null || isNaN(lat) || isNaN(lon) || y >= 0) return null;
-      return {
-        nome_completo: d.nome_completo,
-        nome_curto: d.nome_curto,
-        data_nascimento: d.data_nascimento,
-        local_nascimento: d.local_nascimento,
-        data_morte: d.data_morte,
-        local_morte: d.local_morte,
-        summary: d.summary,
-        biografia: d.biografia,
-        birthYear: y,
-        coords: [lon, lat],
-        link: d.link,
-        cites: d.citations || []
-      };
+      if (y == null || isNaN(lat) || isNaN(lon)) return null;
+      return { ...d, coords: [lon, lat], birthYear: y };
     }).filter(Boolean);
-
-    const lons = allPoints.map(d => d.coords[0]);
-    const lats = allPoints.map(d => d.coords[1]);
-    const lonCenter = (Math.min(...lons) + Math.max(...lons)) / 2;
-    const latCenter = (Math.min(...lats) + Math.max(...lats)) / 2;
 
     projection = d3.geoMercator()
       .scale(300)
-      .center([lonCenter, latCenter])
-      .translate([width / 2, height / 2]);
+      .center([0, 20])
+      .translate([800 / 2, 450 / 2]);
 
     path = d3.geoPath(projection);
-
     drawMap();
   });
-  $: if (selected) drawMap();
 </script>
 
 <style>
   .map-section {
-    padding: 4rem 1rem;
+    padding: 2rem;
     background: #f9fafb;
   }
-
-  .map-and-sidebar {
+  .map-and-search {
     display: flex;
-    flex-direction: row;
-    gap: 2rem;
-    justify-content: center;
-    flex-wrap: wrap;
+    gap: 1rem;
   }
-
-  svg {
+  .map-wrapper {
+    flex: 4;
     background: white;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
   }
-
-  .sidebar {
-    max-width: 300px;
-    background: #fff;
-    padding: 1rem;
+  .search-box {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 250px;
+  }
+  .search-box input {
+    padding: 12px;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    font-size: 14px;
+    margin-bottom: 0.5rem;
+  }
+  .suggestions-list li {
+    cursor: pointer;
+    padding: 0.4rem;
+    border-bottom: 1px solid #eee;
+  }
+  .info-container {
+    background: white;
     border: 1px solid #ccc;
-    border-radius: 6px;
-    font-size: 0.95rem;
-    line-height: 1.4;
+    border-radius: 8px;
+    padding: 1rem;
+    font-size: 0.9rem;
+  }
+  .cited-tag {
+    background: #4ade80;
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    margin-right: 0.3rem;
+    cursor: pointer;
+    font-size: 0.8rem;
   }
 </style>
 
 <section class="map-section">
-  <h2>Influência e Citações entre Matemáticos</h2>
-  <div class="map-and-sidebar">
-    <svg bind:this={mapSvg} width={width} height={height}></svg>
-    <div class="sidebar">
-      {#if selected}
-        <h3>{selected.nome_completo}</h3>
-        <p><strong>Nascimento:</strong> {selected.data_nascimento} — {selected.local_nascimento}</p>
-        {#if selected.data_morte}<p><strong>Morte:</strong> {selected.data_morte} — {selected.local_morte}</p>{/if}
-        <p><strong>Resumo:</strong> {selected.summary}</p>
-        <p><strong>Biografia:</strong><br>{selected.biografia}</p>
-        <p><a href={selected.link} target="_blank">Mais sobre {selected.nome_curto}</a></p>
-        <h4>Citações ({cited.length}):</h4>
-        <ul>
-          {#each cited as c}
-            <li>{c.nome_completo} ({formatYear(c.birthYear)})</li>
+  <div class="map-and-search">
+    <div class="map-wrapper">
+      <svg bind:this={mapSvg} width="800" height="450"></svg>
+    </div>
+    <div class="search-box">
+      <input type="text" placeholder="Buscar matemático…"
+             bind:value={searchTerm}
+             on:input={() => { onSearch(); showSuggestions = true }}
+             on:blur={() => setTimeout(() => showSuggestions = false, 100)} />
+      {#if showSuggestions && suggestions.length}
+        <ul class="suggestions-list">
+          {#each suggestions as s}
+            <li on:click={() => choosePoint(s)}>{s.nome_curto}</li>
           {/each}
         </ul>
       {/if}
+
+      <div class="info-container">
+        {#if selectedPoint}
+          <h3>{selectedPoint.nome_completo}</h3>
+          <p><strong>Nascimento:</strong> {selectedPoint.data_nascimento} — {selectedPoint.local_nascimento}</p>
+          {#if selectedPoint.data_morte}
+            <p><strong>Morte:</strong> {selectedPoint.data_morte} — {selectedPoint.local_morte}</p>
+          {/if}
+          <p><strong>Resumo:</strong> {selectedPoint.summary}</p>
+          <p><strong>Biografia:</strong><br>{selectedPoint.biografia}</p>
+          <p><a href={selectedPoint.link} target="_blank">Mais sobre {selectedPoint.nome_curto}</a></p>
+          {#if citedMathematicians.length > 0}
+            <h4>Citados na biografia:</h4>
+            <div>
+              {#each citedMathematicians as c}
+                <span class="cited-tag" on:click={() => choosePoint(c)}>{c.nome_curto}</span>
+              {/each}
+            </div>
+          {/if}
+        {:else}
+          <p class="info-placeholder">Clique em um ponto no mapa para ver detalhes.</p>
+        {/if}
+      </div>
     </div>
   </div>
 </section>
