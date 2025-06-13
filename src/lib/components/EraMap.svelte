@@ -12,6 +12,7 @@
   let landFeatures = { type: "FeatureCollection", features: [] };
 
   let searchTerm = '', suggestions = [], showSuggestions = false;
+  const citationDepth = 1;
 
   function extrairAno(dataStr) {
     const bc = dataStr?.match(/(\d+)\s*BC/i);
@@ -39,20 +40,22 @@
         const detail = await res.json();
         selectedPoint = { ...selectedPoint, ...detail };
         if (detail.matematicos_citados_na_biografia) {
-          citedMathematicians = findCitedMathematicians(detail.matematicos_citados_na_biografia);
+          citedMathematicians = getCitations(detail.matematicos_citados_na_biografia, citationDepth);
         }
       }
     } catch (e) { console.error(e); }
     drawMap();
   }
 
-  function findCitedMathematicians(names) {
-    if (!Array.isArray(names)) return [];
-    const norm = names.map(n => n.toLowerCase());
-    return allPoints.filter(p => norm.some(n =>
+  function getCitations(citedNames, depth) {
+    if (!Array.isArray(citedNames) || depth <= 0) return [];
+    const norm = citedNames.map(n => n.toLowerCase());
+    let direct = allPoints.filter(p => norm.some(n =>
       p.nome_curto.toLowerCase().includes(n) ||
       p.nome_completo.toLowerCase().includes(n)
     ));
+    let indirect = direct.flatMap(p => getCitations(p.matematicos_citados_na_biografia || [], depth - 1));
+    return [...new Set([...direct, ...indirect])];
   }
 
   function onSearch() {
@@ -71,18 +74,18 @@
 
     svg.append("path")
       .datum(landFeatures)
-      .attr("fill", "#e2e8f0")
-      .attr("stroke", "#888")
+      .attr("fill", "#e0f2fe")
+      .attr("stroke", "#94a3b8")
       .attr("d", path);
 
     svg.append("g")
       .selectAll("circle")
       .data(allPoints)
       .join("circle")
-        .attr("r", d => d === selectedPoint ? 5 : citedMathematicians.includes(d) ? 4 : 3)
-        .attr("fill", d => d === selectedPoint ? "orange" : citedMathematicians.includes(d) ? "#4ade80" : "crimson")
-        .attr("stroke", "#000")
-        .attr("stroke-width", 0.5)
+        .attr("r", d => d === selectedPoint ? 6 : citedMathematicians.includes(d) ? 4.5 : 3)
+        .attr("fill", d => d === selectedPoint ? "#0ea5e9" : citedMathematicians.includes(d) ? "#38bdf8" : "#0284c7")
+        .attr("stroke", "#0c4a6e")
+        .attr("stroke-width", 0.7)
         .attr("cx", d => projection(d.coords)[0])
         .attr("cy", d => projection(d.coords)[1])
         .style("cursor", "pointer")
@@ -99,19 +102,26 @@
       const y = extrairAno(d.data_nascimento);
       const lat = parseFloat(d.lat_nasc);
       const lon = parseFloat(d.lon_nasc);
-      if (y == null || isNaN(lat) || isNaN(lon)) return null;
+      if (y == null || isNaN(lat) || isNaN(lon) || y >= 0) return null;
       return { ...d, coords: [lon, lat], birthYear: y };
     }).filter(Boolean);
 
+    const lons = allPoints.map(d => d.coords[0]);
+    const lats = allPoints.map(d => d.coords[1]);
+    const lonCenter = (Math.min(...lons) + Math.max(...lons)) / 2;
+    const latCenter = (Math.min(...lats) + Math.max(...lats)) / 2;
+
     projection = d3.geoMercator()
       .scale(300)
-      .center([0, 20])
+      .center([lonCenter, latCenter])
       .translate([800 / 2, 450 / 2]);
 
     path = d3.geoPath(projection);
     drawMap();
   });
 </script>
+
+<!-- (restante do código inalterado) -->
 
 <style>
   .map-section {
@@ -191,7 +201,6 @@
             <p><strong>Morte:</strong> {selectedPoint.data_morte} — {selectedPoint.local_morte}</p>
           {/if}
           <p><strong>Resumo:</strong> {selectedPoint.summary}</p>
-          <p><strong>Biografia:</strong><br>{selectedPoint.biografia}</p>
           <p><a href={selectedPoint.link} target="_blank">Mais sobre {selectedPoint.nome_curto}</a></p>
           {#if citedMathematicians.length > 0}
             <h4>Citados na biografia:</h4>
