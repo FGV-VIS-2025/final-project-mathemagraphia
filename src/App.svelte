@@ -5,7 +5,7 @@
   import EuclidElements from './lib/components/EuclidElements.svelte';
   import Curves from './pages/Curves.svelte';
   import CoinSimulation from './lib/components/CoinSimulation.svelte';
-  import WeierstrassPlot from './lib/components/WeierstrassPlot.svelte';
+  import WeierstrassPlot from './lib/components/Weierstrass.svelte';
 
 
   // Variável para referenciar o elemento <main>
