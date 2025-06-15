@@ -4,6 +4,8 @@
   import EraMap from './lib/components/EraMap.svelte';
   import EuclidElements from './lib/components/EuclidElements.svelte';
   import Curves from './pages/Curves.svelte';
+  import CoinSimulation from './lib/components/CoinSimulation.svelte';
+
 
   // Variável para referenciar o elemento <main>
   let mainElement;
@@ -52,6 +54,18 @@
         }
       });
     }, options);
+    const probObserver = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        document.body.classList.add('prob-bg-active');
+      } else {
+        document.body.classList.remove('prob-bg-active');
+      }
+    });
+  }, { root: null, threshold: 0.1 });
+
+  probObserver.observe(document.getElementById('probability-section'));
+
 
     euclidObserver.observe(euclidSection);
     curvesObserver.observe(curvesSection);
@@ -59,6 +73,8 @@
     return () => {
       euclidObserver.disconnect();
       curvesObserver.disconnect();
+      probObserver.disconnect();
+
     };
 
 
@@ -95,6 +111,25 @@
   <div id="curves-section">
     <Curves />
   </div>
+<!-- Seção intersticial para contextualizar a Era da Probabilidade -->
+<div class="interstitial-section" id="probability-section">
+  <h2>A Era da Probabilidade</h2>
+  <p>
+    Tudo começou nos salões de jogos de azar da Europa renascentista, onde a
+    curiosidade sobre “dados e moedas” abriu caminho para cálculos rigorosos
+    de chance. Esse interesse discreto se espalhou pelos séculos XVII e XVIII,
+    alimentando o nascimento de métodos matemáticos que hoje fundamentam
+    estatística, seguros e análise de risco.
+  </p>
+</div>
+
+<div id="probability-simulation">
+  <CoinSimulation />
+</div>
+
+
+
+
 </main>
 
 <style>
