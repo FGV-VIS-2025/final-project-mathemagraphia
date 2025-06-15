@@ -5,6 +5,7 @@
   import EuclidElements from './lib/components/EuclidElements.svelte';
   import Curves from './pages/Curves.svelte';
   import CoinSimulation from './lib/components/CoinSimulation.svelte';
+  import WeierstrassPlot from './lib/components/WeierstrassPlot.svelte';
 
 
   // Variável para referenciar o elemento <main>
@@ -127,6 +128,17 @@
   <CoinSimulation />
 </div>
 
+<div class="interstitial-section" id="weierstrass-section">
+  <h2>Função de Weierstrass</h2>
+  <p>
+    Exemplo clássico de função contínua em todo lugar e não-diferenciável em
+    nenhum ponto. Sua forma infinitamente enrugada antecipa a geometria fractal.
+  </p>
+</div>
+
+<div id="weierstrass-plot">
+  <WeierstrassPlot width={800} height={300} />
+</div>
 
 
 
