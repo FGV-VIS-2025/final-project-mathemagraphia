@@ -64,17 +64,28 @@
       }
     });
   }, { root: null, threshold: 0.1 });
+  const weierstrassObserver = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      document.body.classList.add('weierstrass-bg-active');
+    } else {
+      document.body.classList.remove('weierstrass-bg-active');
+    }
+  });
+}, { threshold: 0.1 });
 
-  probObserver.observe(document.getElementById('probability-section'));
 
 
     euclidObserver.observe(euclidSection);
     curvesObserver.observe(curvesSection);
-    
+    weierstrassObserver.observe(document.getElementById('weierstrass-section'));
+    probObserver.observe(document.getElementById('probability-section'));
+
     return () => {
       euclidObserver.disconnect();
       curvesObserver.disconnect();
       probObserver.disconnect();
+      weierstrassObserver.disconnect()
 
     };
 
