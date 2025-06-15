@@ -7,161 +7,177 @@
     const height = 600;
   
     // Default parameters
-    const default = {
+    const defaultParams = {
       length1: 200,
       length2: 200,
-      mass1: 20,
-      mass2: 20,
+      mass1: 10,
+      mass2: 10,
       gravity: 1,
       dt: 0.02,
       a1: Math.PI / 4,
-      a2: Math.PI / 3
+      a2: Math.PI / 3,
+      stepsPerFrame: 3,
+      maxTraj: 2000,
+      delta: 0.01,
+      maxPendulums: 5
     };
   
-    // State variables
-    let length1 = default.length1;
-    let length2 = default.length2;
-    let mass1 = default.mass1;
-    let mass2 = default.mass2;
-    let gravity = default.gravity;
-    let dt = default.dt;
-    let a1 = default.a1;
-    let a2 = default.a2;
-    let a1_v = 0;
-    let a2_v = 0;
-    let traj = [];
+    // Controls
+    let numPendulums = 1;
+    let length1 = defaultParams.length1;
+    let length2 = defaultParams.length2;
+    let gravity = defaultParams.gravity;
+    let dt = defaultParams.dt;
+    let stepsPerFrame = defaultParams.stepsPerFrame;
+    let maxTraj = defaultParams.maxTraj;
+    let delta = defaultParams.delta;
   
-    // For selecting initial angles
-    let initA1 = default.a1;
-    let initA2 = default.a2;
+    // State
+    let pendulums = [];
+    let svg;
+    let rodsGroup;
+    let trajLines = [];
+    let bob1Circles = [];
+    let bob2Circles = [];
   
-    let svg, rods, bob1, bob2, trajLine;
+    function initPendulums() {
+      // Clear existing arrays
+      pendulums = [];
+      trajLines.forEach(d => d.remove());
+      bob1Circles.forEach(d => d.remove());
+      bob2Circles.forEach(d => d.remove());
+      trajLines = [];
+      bob1Circles = [];
+      bob2Circles = [];
   
-    function stepPendulum() {
-      const m1 = mass1;
-      const m2 = mass2;
+      for (let i = 0; i < numPendulums; i++) {
+        const angleOffset = (i - (numPendulums - 1) / 2) * delta;
+        pendulums.push({
+          a1: defaultParams.a1 + angleOffset,
+          a2: defaultParams.a2 + angleOffset,
+          a1_v: 0,
+          a2_v: 0,
+          traj: [],
+          color: d3.schemeCategory10[i % 10]
+        });
+        // create elements
+        trajLines[i] = svg.append('path')
+          .attr('fill', 'none')
+          .attr('stroke', d3.schemeCategory10[i % 10])
+          .attr('stroke-width', 1)
+          .attr('opacity', 0.7);
+        bob1Circles[i] = svg.append('circle')
+          .attr('r', defaultParams.mass1)
+          .attr('fill', d3.schemeCategory10[i % 10])
+          .attr('opacity', 0.9);
+        bob2Circles[i] = svg.append('circle')
+          .attr('r', defaultParams.mass2)
+          .attr('fill', d3.schemeCategory10[i % 10])
+          .attr('opacity', 0.9);
+      }
+    }
+  
+    function step(p) {
+      const m1 = defaultParams.mass1;
+      const m2 = defaultParams.mass2;
       const l1 = length1;
       const l2 = length2;
       const g = gravity;
   
-      const num1 = -g * (2 * m1 + m2) * Math.sin(a1);
-      const num2 = -m2 * g * Math.sin(a1 - 2 * a2);
-      const num3 = -2 * Math.sin(a1 - a2) * m2;
-      const num4 = a2_v * a2_v * l2 + a1_v * a1_v * l1 * Math.cos(a1 - a2);
-      const den1 = l1 * (2 * m1 + m2 - m2 * Math.cos(2 * a1 - 2 * a2));
+      // Equations
+      const num1 = -g * (2 * m1 + m2) * Math.sin(p.a1);
+      const num2 = -m2 * g * Math.sin(p.a1 - 2 * p.a2);
+      const num3 = -2 * Math.sin(p.a1 - p.a2) * m2;
+      const num4 = p.a2_v * p.a2_v * l2 + p.a1_v * p.a1_v * l1 * Math.cos(p.a1 - p.a2);
+      const den1 = l1 * (2 * m1 + m2 - m2 * Math.cos(2 * p.a1 - 2 * p.a2));
       const a1_a = (num1 + num2 + num3 * num4) / den1;
   
-      const num5 = 2 * Math.sin(a1 - a2);
-      const num6 = a1_v * a1_v * l1 * (m1 + m2);
-      const num7 = g * (m1 + m2) * Math.cos(a1);
-      const num8 = a2_v * a2_v * l2 * m2 * Math.cos(a1 - a2);
-      const den2 = l2 * (2 * m1 + m2 - m2 * Math.cos(2 * a1 - 2 * a2));
+      const num5 = 2 * Math.sin(p.a1 - p.a2);
+      const num6 = p.a1_v * p.a1_v * l1 * (m1 + m2);
+      const num7 = g * (m1 + m2) * Math.cos(p.a1);
+      const num8 = p.a2_v * p.a2_v * l2 * m2 * Math.cos(p.a1 - p.a2);
+      const den2 = l2 * (2 * m1 + m2 - m2 * Math.cos(2 * p.a1 - 2 * p.a2));
       const a2_a = (num5 * (num6 + num7 + num8)) / den2;
   
-      a1_v += a1_a * dt;
-      a2_v += a2_a * dt;
-      a1 += a1_v * dt;
-      a2 += a2_v * dt;
+      p.a1_v += a1_a * dt;
+      p.a2_v += a2_a * dt;
+      p.a1 += p.a1_v * dt;
+      p.a2 += p.a2_v * dt;
   
-      const x1 = width/2 + l1 * Math.sin(a1);
-      const y1 = 100 + l1 * Math.cos(a1);
-      const x2 = x1 + l2 * Math.sin(a2);
-      const y2 = y1 + l2 * Math.cos(a2);
+      const x1 = width/2 + l1 * Math.sin(p.a1);
+      const y1 = 100 + l1 * Math.cos(p.a1);
+      const x2 = x1 + l2 * Math.sin(p.a2);
+      const y2 = y1 + l2 * Math.cos(p.a2);
   
-      traj.push([x2, y2]);
-      if (traj.length > 1000) traj.shift();
+      p.traj.push([x2, y2]);
+      if (p.traj.length > maxTraj) p.traj.shift();
+      return { x1, y1, x2, y2 };
     }
   
-    function resetSimulation() {
-      a1 = default.a1;
-      a2 = default.a2;
-      a1_v = 0;
-      a2_v = 0;
-      traj = [];
-    }
-  
-    function setInitial() {
-      a1 = +initA1;
-      a2 = +initA2;
-      a1_v = 0;
-      a2_v = 0;
-      traj = [];
-    }
+    // re-init on change
+    $: if (svg && numPendulums) initPendulums();
   
     onMount(() => {
       svg = d3.select('#pendulum-svg')
         .attr('width', width)
         .attr('height', height)
-        .style('background', '#f0f0f0');
+        .style('background', '#fff');
   
-      rods = svg.append('g');
-      bob1 = svg.append('circle').attr('r', mass1).attr('fill', '#ff4136');
-      bob2 = svg.append('circle').attr('r', mass2).attr('fill', '#0074d9');
-      trajLine = svg.append('path')
-        .attr('fill', 'none')
-        .attr('stroke', '#002f4b')
-        .attr('stroke-width', 1)
-        .attr('opacity', 0.7);
+      rodsGroup = svg.append('g');
+      initPendulums();
   
       d3.timer(() => {
-        stepPendulum();
-  
-        const x1 = width/2 + length1 * Math.sin(a1);
-        const y1 = 100 + length1 * Math.cos(a1);
-        const x2 = x1 + length2 * Math.sin(a2);
-        const y2 = y1 + length2 * Math.cos(a2);
-  
-        rods.selectAll('line').remove();
-        rods.append('line')
-          .attr('x1', width/2).attr('y1', 100)
-          .attr('x2', x1).attr('y2', y1)
-          .attr('stroke', '#333').attr('stroke-width', 2);
-        rods.append('line')
-          .attr('x1', x1).attr('y1', y1)
-          .attr('x2', x2).attr('y2', y2)
-          .attr('stroke', '#333').attr('stroke-width', 2);
-  
-        bob1.attr('cx', x1).attr('cy', y1);
-        bob2.attr('cx', x2).attr('cy', y2);
-  
-        trajLine.attr('d', d3.line()(traj));
+        rodsGroup.selectAll('*').remove();
+        pendulums.forEach((p, i) => {
+          let coords;
+          for (let k = 0; k < stepsPerFrame; k++) coords = step(p);
+          if (!coords) return;
+          const { x1, y1, x2, y2 } = coords;
+          // rods
+          rodsGroup.append('line')
+            .attr('x1', width/2).attr('y1', 100)
+            .attr('x2', x1).attr('y2', y1)
+            .attr('stroke', '#333').attr('stroke-width', 1);
+          rodsGroup.append('line')
+            .attr('x1', x1).attr('y1', y1)
+            .attr('x2', x2).attr('y2', y2)
+            .attr('stroke', '#333').attr('stroke-width', 1);
+          // bobs
+          bob1Circles[i].attr('cx', x1).attr('cy', y1);
+          bob2Circles[i].attr('cx', x2).attr('cy', y2);
+          // traj
+          trajLines[i].attr('d', d3.line()(p.traj));
+        });
       });
     });
   </script>
   
-  <div style="width: 800px; margin: auto; text-align: center;">
-    <h2>Simulação Interativa do Pêndulo Duplo</h2>
+  <div style="width:800px;margin:auto;color:#222;font-family:sans-serif;">
+    <h2>Experimento de Pêndulos Duplos Caóticos</h2>
+    <p>
+      Este experimento foi originalmente desenvolvido por físicos clássicos para estudar sistemas dinâmicos não-lineares.<br>
+      Usado em laboratórios de mecânica, demonstra como pequenas diferenças nas condições iniciais levam a trajetórias divergentes.<br>
+      Ajuste o número de pêndulos, parâmetros e observe cada par de discos coloridos começando equidistantes!
+    </p>
     <svg id="pendulum-svg"></svg>
-    <div style="margin-top: 20px; display: flex; justify-content: space-around; flex-wrap: wrap;">
-      <div>
-        <label>Comprimento 1: <input type="range" min="50" max="300" bind:value={length1} /></label>
-      </div>
-      <div>
-        <label>Comprimento 2: <input type="range" min="50" max="300" bind:value={length2} /></label>
-      </div>
-      <div>
-        <label>Gravidade: <input type="range" min="0.1" max="5" step="0.1" bind:value={gravity} /></label>
-      </div>
-      <div>
-        <label>Velocidade (dt): <input type="range" min="0.005" max="0.1" step="0.005" bind:value={dt} /></label>
-      </div>
-      <div>
-        <label>Ângulo Inicial 1: <input type="range" min="0" max="6.283" step="0.01" bind:value={initA1} /></label>
-      </div>
-      <div>
-        <label>Ângulo Inicial 2: <input type="range" min="0" max="6.283" step="0.01" bind:value={initA2} /></label>
-      </div>
+    <div style="margin:20px 0;display:flex;flex-wrap:wrap;justify-content:space-around;color:#222;">
+      <div><label>Número de pêndulos: <input type="number" min="1" max={defaultParams.maxPendulums} bind:value={numPendulums} /></label></div>
+      <div><label>Comprimento 1: <input type="range" min="50" max="300" bind:value={length1} /></label></div>
+      <div><label>Comprimento 2: <input type="range" min="50" max="300" bind:value={length2} /></label></div>
+      <div><label>Gravidade: <input type="range" min="0.1" max="10" step="0.1" bind:value={gravity} /></label></div>
+      <div><label>Δt: <input type="range" min="0.001" max="0.05" step="0.001" bind:value={dt} /></label></div>
+      <div><label>Passos/quadro: <input type="range" min="1" max="10" bind:value={stepsPerFrame} /></label></div>
+      <div><label>Trajetória máx.: <input type="range" min="100" max="5000" step="100" bind:value={maxTraj} /></label></div>
+      <div><label>Offset inicial: <input type="range" min="0.001" max="0.1" step="0.001" bind:value={delta} /></label></div>
     </div>
-    <div style="margin-top: 20px;">
-      <button on:click={setInitial}>Definir Posição Inicial</button>
-      <button on:click={resetSimulation} style="margin-left:10px;">Reiniciar</button>
+    <div style="text-align:center;">
+      <button on:click={() => initPendulums()}>Definir Iniciais</button>
+      <button on:click={() => initPendulums()} style="margin-left:10px;">Reiniciar</button>
     </div>
   </div>
   
   <style>
-    input[type="range"] { width: 150px; }
-    h2 { font-family: sans-serif; margin-bottom: 10px; }
-    button { padding: 6px 12px; font-size: 14px; border-radius: 4px; border: none; background: #0074d9; color: #fff; cursor: pointer; }
-    button:hover { background: #005fa3; }
+    input[type="range"], input[type="number"] { width:120px; margin:0 5px; }
+    button { padding:6px 12px; font-size:14px; border-radius:4px; border:none; background:#0074d9; color:#fff; cursor:pointer; }
+    button:hover { background:#005fa3; }
   </style>
-  
