@@ -8,6 +8,11 @@ Contribuição dos Membros:
 
 *Gerardo Mikael*: Colaborou em: Scraping, Front-End, acabamento do projeto, confeccção do Poster, revisão do relatório (LaTeX), Página de Curvas (Renascimento), edição de vídeos para apresentação.
 
+### Favor ler nosso paper em 'viz.pdf'
+
+
+
+
 **Objetivo**: Facilitar e aumentar a acessibilidade da matemática através de visualizações 
 
 Dados de referencia: https://mathshistory.st-andrews.ac.uk/
