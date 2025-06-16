@@ -632,7 +632,6 @@
       <button 
         class={selectedCurve.id === curve.id ? 'active' : ''}
         on:click={() => {
-          window.scrollTo(0, 0);
           selectedCurve = curve;
           currentFact = 0;
           animateChart();

@@ -8,7 +8,7 @@
 
   const width = 300;
   const height = 300;
-  const START_YEAR = -1700;
+  const START_YEAR = -500;
   const END_YEAR = 2025;
   const ANGULAR_SPEED = 360 / 7500;
 

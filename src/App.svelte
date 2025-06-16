@@ -8,6 +8,9 @@
   import WeierstrassPlot from './lib/components/Weierstrass.svelte';
   import DynamicSystem from './lib/components/DynamicSystem.svelte';
 
+  import ScrollableTimer from './components/Scrollable_timer.svelte';
+  import LateralSineWaves from './components/Lateral_waves.svelte';
+
   let mainElement;
 
   onMount(() => {
@@ -88,7 +91,9 @@
 
   <div id="euclid-section">
     <EuclidElements />
+    <ScrollableTimer startYear={-300} endYear={1637} scrollDuration={150} />
   </div>
+  
 
   <div class="interstitial-section">
     <h2>A Revolução das Curvas (Séc. XVII - XIX)</h2>
@@ -100,7 +105,9 @@
 
   <div id="curves-section">
     <Curves />
+    <ScrollableTimer startYear={1637} endYear={1812} scrollDuration={150} />
   </div>
+
 
   <div class="interstitial-section" id="probability-section">
     <h2>A Era da Probabilidade</h2>
@@ -112,6 +119,7 @@
 
   <div id="probability-simulation">
     <CoinSimulation />
+    <ScrollableTimer startYear={1812} endYear={1872} scrollDuration={100} />
   </div>
 
   <div class="interstitial-section" id="weierstrass-section">
@@ -125,6 +133,7 @@
 
   <div id="weierstrass-plot">
     <WeierstrassPlot width={800} height={300} />
+    <ScrollableTimer startYear={1872} endYear={1963} scrollDuration={200} />
   </div>
 
   <!-- Nova seção: Sistemas Dinâmicos -->
@@ -142,7 +151,7 @@
 </main>
 
 <style>
-  main { display: flex; flex-direction: column; scroll-behavior: smooth; position: relative; z-index: 1; overflow-x: hidden; }
+  main { display: flex; flex-direction: column; scroll-behavior: smooth; position: relative; z-index: 1;}
   main::before, main::after { content: ''; position: fixed; top: 0; bottom: 0; width: 120px; z-index: 0; background-repeat: repeat-y; background-size: 100% auto; opacity: 0; transition: transform 0.7s ease-out, opacity 0.5s ease-out; }
   main::before { left: 0; background-image: url('/src/assets/coluna-1.png'); transform: translateX(-100%); }
   main::after { right: 0; background-image: url('/src/assets/coluna-4.png'); transform: translateX(100%); }
