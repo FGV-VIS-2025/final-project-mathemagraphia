@@ -4,7 +4,7 @@ Contribuição dos Membros:
 
 *Henrique Borges*, Colaborou em: Mapa Principal, Grafo de Postulados de Euclides, Scraping, Grafo de relacionamento entre matemáticos.
 
-*Antonio Brych*, Colaborou em:  Função de Weierstrass, Mandelbrot Set, Pêndulo Duplo, sistema de lançamentos de moedas, relatório (LaTeX) e confecção de poster.
+*Antonio Brych*, Colaborou em:  Função de Weierstrass, Mandelbrot Set, Pêndulo Duplo, sistema de lançamentos de moedas, escrita do relatório (LaTeX) e confecção de poster.
 
 *Gerardo Mikael*: Colaborou em: Scraping, Front-End, acabamento do projeto, confeccção do Poster, revisão do relatório (LaTeX), Página de Curvas (Renascimento), edição de vídeos para apresentação.
 
