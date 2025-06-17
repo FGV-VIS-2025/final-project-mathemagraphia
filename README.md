@@ -24,6 +24,9 @@ Material de estudo recomendado:
 * [Quem inventou o cálculo diferencial e integral](https://www.youtube.com/watch?v=2lYTt5vjMfg&t=108s)
 * [A guerra do cálculo - Jason Socrates Bardi](https://g.co/kgs/RVVVQb8)
 
+### Veja o vídeo com os features da visualização
+* [Apresentação da visualização](https://youtu.be/ZyIX5cwXGBs)
+
 ## Informações gerais
 
 #### 1.2 Extração dos dados
