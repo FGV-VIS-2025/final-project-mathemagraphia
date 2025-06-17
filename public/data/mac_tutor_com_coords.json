@@ -552,8 +552,8 @@
     "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Ahmed/",
     "data_nascimento": "835",
     "data_morte": "912",
-    "lat_nasc": 39.6541763,
-    "lon_nasc": -86.1999496,
+    "lat_nasc": 33.20,
+    "lon_nasc": 44.25,
     "lat_morte": 30.0443879,
     "lon_morte": 31.2357257
   },
@@ -669,8 +669,8 @@
     "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Karaji/",
     "data_nascimento": "13 April 0953",
     "data_morte": "about 1029",
-    "lat_nasc": 39.6541763,
-    "lon_nasc": -86.1999496
+    "lat_nasc": 33.20,
+    "lon_nasc": 44.25
   },
   {
     "nome_completo": "Ghiyath al-Din Jamshid Mas'ud al-Kashi",
@@ -731,8 +731,8 @@
     "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/",
     "data_nascimento": "about 780",
     "data_morte": "about 850",
-    "lat_nasc": 39.6541763,
-    "lon_nasc": -86.1999496
+    "lat_nasc": 33.20,
+    "lon_nasc": 44.25
   },
   {
     "nome_completo": "Abu Abd Allah Muhammad ibn Isa Al-Mahani",
