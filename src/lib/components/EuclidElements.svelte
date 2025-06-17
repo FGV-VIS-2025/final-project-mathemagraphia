@@ -351,6 +351,7 @@
     border-right: 1px solid #ddd;
     display: flex;
     flex-direction: column;
+    margin-left: 50px;
   }
   .sidebar-header {
     padding: 16px;
