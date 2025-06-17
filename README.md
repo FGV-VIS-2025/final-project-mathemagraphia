@@ -26,6 +26,7 @@ Material de estudo recomendado:
 
 ### Veja o vídeo com os features da visualização
 * [Apresentação da visualização](https://youtu.be/ZyIX5cwXGBs)
+* [Teaser da visualização](https://youtu.be/SAWYmIhrNfY)
 
 ## Informações gerais
 
